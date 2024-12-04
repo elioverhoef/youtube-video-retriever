@@ -5,6 +5,8 @@ import requests
 from youtube_transcript_api import YouTubeTranscriptApi
 from tqdm import tqdm
 import re
+import concurrent.futures
+from pathlib import Path
 
 # Constants
 CHANNEL_ID = "UCT1UMLpZ_CrQ_8I431K0b-g"  # Michael Lustgarden's channel ID
@@ -108,60 +110,85 @@ By {video_info['author_name']}
 ## Transcript
 
 {transcript_text}
-
----
-*This transcript was automatically generated and formatted from the YouTube video "{video_info['title']}".*
 """
     return markdown
 
-def save_transcript(video_id, transcript_data):
+def save_transcript(video_id, transcript_data, video_info):
     """Save transcript data as a formatted markdown file"""
-    if transcript_data:
-        # Get video info
+    # Create filename from video title
+    filename = f"{sanitize_filename(video_info['title'])}.md"
+    filepath = os.path.join(TRANSCRIPTS_DIR, filename)
+    
+    # Save the file
+    with open(filepath, 'w', encoding='utf-8') as f:
+        f.write(transcript_data)
+    
+    return filepath
+
+def transcript_exists(video_id, video_info):
+    """Check if transcript already exists for the video"""
+    title = video_info.get('title', video_id)
+    filename = sanitize_filename(title)
+    transcript_path = os.path.join(TRANSCRIPTS_DIR, f"{filename}.md")
+    return os.path.exists(transcript_path)
+
+def process_video(video_id):
+    """Process a single video - get info, transcript, and save"""
+    try:
         video_info = get_video_info(video_id)
         
-        # Format the transcript text
-        formatted_text = format_transcript_text(transcript_data)
+        # Skip if transcript already exists
+        if transcript_exists(video_id, video_info):
+            return {'status': 'skipped', 'video_id': video_id, 'title': video_info['title']}
         
-        # Create markdown content
-        markdown_content = create_markdown_content(video_info, formatted_text)
-        
-        # Create filename from video title
-        filename = f"{sanitize_filename(video_info['title'])}.md"
-        filepath = os.path.join(TRANSCRIPTS_DIR, filename)
-        
-        # Save the file
-        with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(markdown_content)
-        
-        return filepath
-    return None
+        transcript_data = get_transcript(video_id)
+        if transcript_data:
+            transcript_text = format_transcript_text(transcript_data)
+            markdown_content = create_markdown_content(video_info, transcript_text)
+            save_transcript(video_id, markdown_content, video_info)
+            return {'status': 'success', 'video_id': video_id, 'title': video_info['title']}
+        return {'status': 'failed', 'video_id': video_id, 'title': video_info['title']}
+    except Exception as e:
+        return {'status': 'error', 'video_id': video_id, 'error': str(e)}
 
 def main():
-    # Ensure transcripts directory exists
+    """Main function to process all videos from the channel"""
     ensure_directory_exists(TRANSCRIPTS_DIR)
     
     # Get all video IDs
     video_ids = get_video_ids()
     print(f"Found {len(video_ids)} videos")
     
-    # Process each video
-    for video_id in tqdm(video_ids, desc="Processing videos"):
-        # Get video info
-        video_info = get_video_info(video_id)
-        filename = f"{sanitize_filename(video_info['title'])}.md"
-        transcript_path = os.path.join(TRANSCRIPTS_DIR, filename)
+    # Process videos in parallel
+    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+        # Create a dictionary to store future objects
+        future_to_video = {executor.submit(process_video, video_id): video_id 
+                          for video_id in video_ids}
         
-        # Skip if transcript already exists
-        if os.path.exists(transcript_path):
-            continue
-            
-        # Get and save transcript
-        transcript = get_transcript(video_id)
-        if transcript:
-            saved_path = save_transcript(video_id, transcript)
-            if saved_path:
-                print(f"Saved transcript: {saved_path}")
+        # Initialize counters
+        processed = 0
+        skipped = 0
+        failed = 0
+        
+        # Process results as they complete
+        with tqdm(total=len(video_ids), desc="Processing videos") as pbar:
+            for future in concurrent.futures.as_completed(future_to_video):
+                result = future.result()
+                if result['status'] == 'success':
+                    processed += 1
+                    pbar.set_postfix({'processed': processed, 'skipped': skipped, 'failed': failed})
+                elif result['status'] == 'skipped':
+                    skipped += 1
+                    pbar.set_postfix({'processed': processed, 'skipped': skipped, 'failed': failed})
+                else:
+                    failed += 1
+                    pbar.set_postfix({'processed': processed, 'skipped': skipped, 'failed': failed})
+                pbar.update(1)
+    
+    print(f"\nCompleted processing videos:")
+    print(f"- Successfully processed: {processed}")
+    print(f"- Skipped (already exist): {skipped}")
+    print(f"- Failed: {failed}")
 
 if __name__ == "__main__":
     main()
