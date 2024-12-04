@@ -1,19 +1,19 @@
-# YouTube Video Transcript Retriever
+# 🚀 YouTube Video Transcript Retriever
 
-This tool retrieves transcripts from all videos on Michael Lustgarden's YouTube channel using `scrapetube` and `youtube-transcript-api`, formatting them into readable Markdown documents.
+A blazing fast, parallel YouTube transcript retriever that downloads and formats transcripts from any YouTube channel.
 
-## Features
+## ✨ Features
 
-- Automatically fetches all video IDs from the specified YouTube channel
-- Retrieves available transcripts for each video
-- Gets video metadata (title, author, upload date)
-- Formats transcripts into clean, readable text
-- Saves transcripts as formatted Markdown files
-- Handles multiple languages (prioritizes English)
-- Includes progress bar for tracking
-- Skips already downloaded transcripts
+- 🔄 Parallel processing for super fast transcript retrieval
+- 🎯 Works with any YouTube channel (just provide the URL)
+- 📂 Organizes transcripts by channel name
+- 🌍 Handles multiple languages (prioritizes English)
+- 📊 Shows progress with detailed logging
+- ⚡ Skips already downloaded transcripts
+- 🎨 Formats transcripts into clean, readable Markdown
+- 🛡️ Robust error handling and recovery
 
-## Installation
+## 🛠️ Installation
 
 1. Clone this repository:
    ```bash
@@ -21,30 +21,73 @@ This tool retrieves transcripts from all videos on Michael Lustgarden's YouTube 
    cd youtube-video-retriever
    ```
 
-2. Install required packages:
+2. Install using pip:
    ```bash
-   pip install -r requirements.txt
+   pip install -e .
    ```
 
-## Usage
+## 📖 Usage
 
-Simply run the main script:
+### Command Line Interface
+
+The simplest way to use the tool is through its command-line interface:
 
 ```bash
-python main.py
+youtube-transcripts "https://www.youtube.com/channel/YOUR_CHANNEL_ID"
 ```
 
-The script will:
-1. Create a `transcripts` directory if it doesn't exist
-2. Fetch all video IDs from the channel
-3. Download available transcripts and video metadata
-4. Format the transcripts into readable text
-5. Save transcripts as Markdown files in the `transcripts` directory
+Or using the channel ID directly:
 
-## Output
+```bash
+youtube-transcripts YOUR_CHANNEL_ID
+```
 
-Transcripts are saved in the `transcripts` directory with the video title as filename:
-- `transcripts/[video_title].md`
+### Command Line Options
+
+```
+usage: youtube-transcripts [-h] [-o OUTPUT_DIR] [-w WORKERS] [-v] channel_url
+
+Retrieve and process YouTube video transcripts
+
+positional arguments:
+  channel_url           YouTube channel URL or ID
+
+optional arguments:
+  -h, --help           show this help message and exit
+  -o OUTPUT_DIR        Output directory for transcripts (default: transcripts)
+  -w WORKERS           Number of worker processes (default: 4)
+  -v, --verbose        Enable verbose logging
+```
+
+### Python API
+
+You can also use the tool programmatically:
+
+```python
+from youtube_transcript_retriever.core.channel import ChannelProcessor
+
+# Create a processor instance
+processor = ChannelProcessor(
+    channel_url="https://www.youtube.com/channel/YOUR_CHANNEL_ID",
+    output_dir="transcripts",
+    workers=4  # Number of parallel workers
+)
+
+# Process all videos in the channel
+processor.process_channel()
+```
+
+## 📁 Output Structure
+
+Transcripts are organized by channel name:
+
+```
+transcripts/
+└── Channel_Name/
+    ├── Video_Title_1.md
+    ├── Video_Title_2.md
+    └── ...
+```
 
 Each Markdown file contains:
 - Video title
@@ -53,24 +96,47 @@ Each Markdown file contains:
 - Formatted transcript text
 - Footer with source attribution
 
-## Text Formatting
+## 🎯 Text Processing Features
 
-The transcript text is automatically formatted to:
-- Combine sequential text entries into proper sentences
-- Add appropriate line breaks
-- Capitalize sentences
-- Remove redundant spaces and newlines
-- Create a clean, readable document
+The transcript formatter:
+- Combines sequential text entries into proper sentences
+- Adds appropriate line breaks
+- Capitalizes sentences
+- Removes redundant spaces and newlines
+- Creates clean, readable documents
 
-## Error Handling
+## ⚙️ Technical Details
 
-- If a video has no available transcripts, it will be skipped
-- If a transcript file already exists, it will be skipped
-- Errors are logged to the console
+- Uses `scrapetube` for channel video discovery
+- `youtube-transcript-api` for transcript retrieval
+- Process pool for parallel processing
+- Type hints throughout the codebase
+- Modular design for easy extension
+- Comprehensive error handling
 
-## Dependencies
+## 🐛 Error Handling
 
+The tool handles various error cases:
+- Invalid channel URLs/IDs
+- Missing transcripts
+- Network issues
+- Rate limiting
+- File system errors
+
+Failed video processing won't stop the entire operation - the tool will continue with remaining videos.
+
+## 📋 Requirements
+
+- Python 3.9+
 - scrapetube
-- youtube_transcript_api
+- youtube-transcript-api
 - requests
-- tqdm (for progress bar)
+- tqdm
+
+## 💡 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
