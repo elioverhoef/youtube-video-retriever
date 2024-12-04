@@ -11,6 +11,7 @@ import requests
 from .video import VideoProcessor
 from ..utils.logger import get_logger
 from ..utils.file_handler import ensure_directory
+from ..utils.progress import ProgressTracker
 from ..exceptions import ChannelNotFoundError, InvalidChannelURLError
 
 @dataclass
@@ -96,7 +97,7 @@ class ChannelProcessor:
                 f'Error fetching videos from channel {self.channel_id}: {str(e)}'
             )
     
-    def _process_video(self, video_id: str) -> Optional[Path]:
+    def _process_video(self, video_id: str, output: Dict[str, Any]) -> Optional[Path]:
         """Process a single video with error handling."""
         try:
             processor = VideoProcessor(video_id, self.channel_dir)
@@ -108,11 +109,15 @@ class ChannelProcessor:
     def process_channel(self) -> None:
         """Process all videos in the channel using parallel workers."""
         try:
+            # Get video IDs
             video_ids = self._get_video_ids()
             self.logger.info(f'Found {len(video_ids)} videos')
             
-            processed_count = 0
-            error_count = 0
+            # Initialize progress tracker
+            progress = ProgressTracker(
+                total=len(video_ids),
+                desc=f'Processing {self.channel_id}'
+            )
             
             with ProcessPoolExecutor(max_workers=self.workers) as executor:
                 # Submit all video processing tasks
@@ -127,23 +132,23 @@ class ChannelProcessor:
                     try:
                         result = future.result()
                         if result:
-                            processed_count += 1
-                            self.logger.info(
-                                f'Processed video ({processed_count}/{len(video_ids)}): '
-                                f'{result.name}'
+                            progress.update(
+                                'success',
+                                f'Processed: {result.name}'
                             )
                         else:
-                            error_count += 1
+                            progress.update(
+                                'error',
+                                f'Failed to process: {video_id}'
+                            )
                     except Exception as e:
-                        error_count += 1
-                        self.logger.error(f'Error processing video {video_id}: {e}')
+                        progress.update(
+                            'error',
+                            f'Error processing {video_id}: {e}'
+                        )
             
-            # Log final statistics
-            self.logger.info('='*50)
-            self.logger.info('Processing completed!')
-            self.logger.info(f'Successfully processed: {processed_count} videos')
-            self.logger.info(f'Failed to process: {error_count} videos')
-            self.logger.info('='*50)
+            # Finish and show summary
+            progress.finish()
             
         except ChannelNotFoundError as e:
             self.logger.error(f'Channel error: {e}')
