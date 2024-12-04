@@ -160,7 +160,7 @@ def main():
     print(f"Found {len(video_ids)} videos")
     
     # Process videos in parallel
-    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
         # Create a dictionary to store future objects
         future_to_video = {executor.submit(process_video, video_id): video_id 
                           for video_id in video_ids}

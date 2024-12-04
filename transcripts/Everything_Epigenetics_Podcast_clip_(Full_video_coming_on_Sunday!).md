@@ -1,0 +1,8 @@
+# Everything Epigenetics Podcast clip (Full video coming on Sunday!)
+
+By Conquer Aging Or Die Trying! 
+
+
+## Transcript
+
+The foundation foundational roots of aging to actually study and optimize yeah for sure but there is another central premise of my channel besides track and optimize and it's basically self-empowerment like we don't have to wait for rcts and other people we don't have to wait for animal studies that may or may not translate into human longevity we can test ourselves and often you know um i think most most people take that for granted like so many people are taking supplements and they never actually see like is this a net benefit neutral or detrimental to my actual health so that that's probably you know the third rung of the uh premise essential premise like track test and track you know don't take something based on hope what is the data what is your own data say so exactly and and i i talk about that day in and day out i feel like now there was a key word there that i really liked you said which was you kind of corrected yourself you said track your data track your own data right and i think that's really important and get into exactly what you've been doing which is is great and a amazing proof of concept but even with the epigenetic dna methylation testing a lot of people see oh well there's this clinical trial and there's still very few clinical trials as we know right it's it's very new technology and they'll go to something based on that clinical trial and i'll say well wait a second sure you can use that as a guide but we still don't even know if that works for you
