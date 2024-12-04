@@ -1,12 +1,14 @@
 # YouTube Video Transcript Retriever
 
-This tool retrieves transcripts from all videos on Michael Lustgarden's YouTube channel using `scrapetube` and `youtube-transcript-api`.
+This tool retrieves transcripts from all videos on Michael Lustgarden's YouTube channel using `scrapetube` and `youtube-transcript-api`, formatting them into readable Markdown documents.
 
 ## Features
 
 - Automatically fetches all video IDs from the specified YouTube channel
 - Retrieves available transcripts for each video
-- Saves transcripts in JSON format
+- Gets video metadata (title, author, upload date)
+- Formats transcripts into clean, readable text
+- Saves transcripts as formatted Markdown files
 - Handles multiple languages (prioritizes English)
 - Includes progress bar for tracking
 - Skips already downloaded transcripts
@@ -35,18 +37,30 @@ python main.py
 The script will:
 1. Create a `transcripts` directory if it doesn't exist
 2. Fetch all video IDs from the channel
-3. Download available transcripts for each video
-4. Save transcripts as JSON files in the `transcripts` directory
+3. Download available transcripts and video metadata
+4. Format the transcripts into readable text
+5. Save transcripts as Markdown files in the `transcripts` directory
 
 ## Output
 
-Transcripts are saved in the `transcripts` directory with the video ID as filename:
-- `transcripts/[video_id].json`
+Transcripts are saved in the `transcripts` directory with the video title as filename:
+- `transcripts/[video_title].md`
 
-Each transcript file contains an array of objects with:
-- `text`: The transcript text
-- `start`: Start time in seconds
-- `duration`: Duration in seconds
+Each Markdown file contains:
+- Video title
+- Author name
+- Upload date (if available)
+- Formatted transcript text
+- Footer with source attribution
+
+## Text Formatting
+
+The transcript text is automatically formatted to:
+- Combine sequential text entries into proper sentences
+- Add appropriate line breaks
+- Capitalize sentences
+- Remove redundant spaces and newlines
+- Create a clean, readable document
 
 ## Error Handling
 
