@@ -1,3 +1,6 @@
 transcripts/
 transcripts1/
 .venv/
+.gitignore
+.cursorignore
+requirements.txt
