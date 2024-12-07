@@ -31,7 +31,7 @@ def get_video_info(video_id):
             'upload_date': data.get('upload_date', '')
         }
     except Exception as e:
-        print(f"Error getting video info for {video_id}: {str(e)}")
+        print(f"� Error getting video info for {video_id}: {str(e)}")
         return {'title': video_id}
 
 def sanitize_filename(title):
@@ -157,7 +157,7 @@ def main():
     
     # Get all video IDs
     video_ids = get_video_ids()
-    print(f"Found {len(video_ids)} videos")
+    print(f"�� Found {len(video_ids)} videos")
     
     # Process videos in parallel
     with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
@@ -171,24 +171,24 @@ def main():
         failed = 0
         
         # Process results as they complete
-        with tqdm(total=len(video_ids), desc="Processing videos") as pbar:
+        with tqdm(total=len(video_ids), desc="📥 Processing videos") as pbar:
             for future in concurrent.futures.as_completed(future_to_video):
                 result = future.result()
                 if result['status'] == 'success':
                     processed += 1
-                    pbar.set_postfix({'processed': processed, 'skipped': skipped, 'failed': failed})
+                    pbar.set_postfix({'✅ processed': processed, '⏭️ skipped': skipped, '❌ failed': failed})
                 elif result['status'] == 'skipped':
                     skipped += 1
-                    pbar.set_postfix({'processed': processed, 'skipped': skipped, 'failed': failed})
+                    pbar.set_postfix({'✅ processed': processed, '⏭️ skipped': skipped, '❌ failed': failed})
                 else:
                     failed += 1
-                    pbar.set_postfix({'processed': processed, 'skipped': skipped, 'failed': failed})
+                    pbar.set_postfix({'✅ processed': processed, '⏭️ skipped': skipped, '❌ failed': failed})
                 pbar.update(1)
     
-    print(f"\nCompleted processing videos:")
-    print(f"- Successfully processed: {processed}")
-    print(f"- Skipped (already exist): {skipped}")
-    print(f"- Failed: {failed}")
+    print(f"\n📊 Completed processing videos:")
+    print(f"✅ Successfully processed: {processed}")
+    print(f"⏭️ Skipped (already exist): {skipped}")
+    print(f"❌ Failed: {failed}")
 
 if __name__ == "__main__":
     main()

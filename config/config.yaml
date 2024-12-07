@@ -1,0 +1,34 @@
+models:
+  primary:
+    name: "gemini-exp-1206"
+    token_limit: 2000000
+    max_retries: 3
+  fallbacks:
+    - name: "gemini-exp-1121"
+      token_limit: 32000
+      max_retries: 3
+    - name: "gemini-exp-1114"
+      token_limit: 32000
+      max_retries: 3
+
+processing:
+  num_threads: 4
+  chunk_size: 30000  # For fallback models
+
+output:
+  report_sections:
+    - "Executive Summary"
+    - "Quick Reference"
+    - "Diet Insights"
+    - "Supplements"
+    - "Scientific Methods"
+    - "Health Markers"
+  confidence_display:
+    1: "⭐"
+    2: "⭐⭐"
+    3: "⭐⭐⭐"
+    4: "⭐⭐⭐⭐"
+    5: "⭐⭐⭐⭐⭐"
+    
+logging:
+  level: "INFO" 
