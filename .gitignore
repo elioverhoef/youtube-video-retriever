@@ -37,3 +37,7 @@ env/
 *.log
 .coverage
 htmlcov/
+
+transcripts/
+transcripts1/
+.venv/

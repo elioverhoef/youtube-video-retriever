@@ -16,6 +16,15 @@ class DietaryEvidence:
     context: str  # The surrounding context
     impact: Optional[str]  # Observed impact/correlation
     source_video: str
+    
+    def to_dict(self):
+        """Convert the evidence to a dictionary for JSON serialization."""
+        return {
+            'measurement': self.measurement,
+            'context': self.context,
+            'impact': self.impact,
+            'source_video': self.source_video
+        }
 
 @dataclass
 class DietaryInsight:
@@ -26,6 +35,17 @@ class DietaryInsight:
     biomarkers: List[str]  # Affected biomarkers
     confidence: float
     intervention_type: str  # e.g. "supplementation", "diet_modification", "experiment"
+    
+    def to_dict(self):
+        """Convert the insight to a dictionary for JSON serialization."""
+        return {
+            'food_or_nutrient': self.food_or_nutrient,
+            'key_finding': self.key_finding,
+            'evidence': [e.to_dict() for e in self.evidence],
+            'biomarkers': self.biomarkers,
+            'confidence': self.confidence,
+            'intervention_type': self.intervention_type
+        }
 
 class OllamaInsightExtractor:
     """Extracts research-grade dietary insights using Ollama."""
@@ -345,7 +365,7 @@ class ParallelTranscriptProcessor:
         output_path.parent.mkdir(parents=True, exist_ok=True)
         
         with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump([vars(i) for i in insights], f, indent=2)
+            json.dump([i.to_dict() for i in insights], f, indent=2)
 
     def _generate_report(self, insights: List[DietaryInsight], output_file: str):
         """Generate a detailed research report of the insights."""
