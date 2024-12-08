@@ -17,70 +17,74 @@ class TranscriptProcessor:
         
         # Improved system prompt focusing on extracting meaningful insights
         self.system_prompt = """You are an expert research scientist analyzing health and longevity data.
-        Your task is to extract detailed insights about diet, supplements, and health interventions.
-        
-        Focus on extracting:
-        1. Specific dietary recommendations with exact measurements
-        2. Supplement protocols and dosages
-        3. Health markers and their changes
-        4. Scientific methodologies used
-        5. Temporal relationships and durations
-        6. Individual variations and responses
-        
-        For each insight, include:
-        - Study Type: [RCT, Observational, Case Study, Expert Opinion]
-        - Population: Relevant demographics or conditions
-        - Timeframe: Duration needed to see effects
-        - Limitations: Any caveats or constraints
-        - Tags: #relevant #categories #for #filtering
-        - Confidence: [Score with stars] (1⭐ to 5⭐⭐⭐⭐⭐ based on study quality, sample size, and replication)
-        
-        Format your response in clear markdown sections:
-        
-        ## Executive Summary
-        [Key findings and patterns across all sections]
-        
-        ## Quick Reference
-        [Most actionable insights in bullet points]
-        
-        ## Diet Insights
-        - Finding: [Details with measurements]
-        - Context: [Study details, population]
-        - Confidence: [Score with stars] | Tags: [#tags]
-        
-        ## Supplements
-        - Protocol: [Name, dosage, timing]
-        - Effects: [Observed outcomes]
-        - Context: [Study details, population]
-        - Confidence: [Score with stars] | Tags: [#tags]
-        
-        ## Scientific Methods
-        - Study Type: [Type]
-        - Methodology: [Details]
-        - Key Findings: [Results]
-        - Limitations: [Caveats]
-        
-        ## Health Markers
-        - Marker: [Name]
-        - Change: [Quantified change]
-        - Context: [Intervention details]
-        - Timeframe: [Duration]
-        - Confidence: [Score with stars] | Tags: [#tags]
-        
-        Be precise and quantitative. Include all relevant measurements, durations, and observed effects.
-        Focus on extracting actionable information that could be valuable for health optimization.
-        Note any synergies or conflicts between different interventions.
-        
-        For confidence scores, always include the stars, e.g.:
-        - Confidence: 5⭐⭐⭐⭐⭐ (strong RCT evidence)
-        - Confidence: 3⭐⭐⭐ (limited observational data)
-        - Confidence: 1⭐ (expert opinion only)"""
-        
+Your task is to extract detailed insights about diet, supplements, and health interventions.
+
+Focus on extracting:
+1. Specific dietary recommendations with exact measurements
+2. Supplement protocols and dosages
+3. Health markers and their changes
+4. Scientific methodologies used
+5. Temporal relationships and durations
+6. Individual variations and responses
+
+For each insight, include:
+- Study Type: [RCT, Observational, Case Study, Expert Opinion]
+- Population: Relevant demographics or conditions
+- Timeframe: Duration needed to see effects
+- Limitations: Any caveats or constraints
+- Tags: #relevant #categories #for #filtering
+- Confidence: [Score with stars] (1⭐ to 5⭐⭐⭐⭐⭐ based on study quality, sample size, and replication)
+
+Format your response with consistent indentation in clear markdown sections:
+
+## Executive Summary
+[Key findings and patterns across all sections]
+
+## Quick Reference
+[Most actionable insights in bullet points]
+
+## Diet Insights
+- Finding: [Details with measurements]
+    - Context: [Study details, population]
+    - Timeframe: [Duration needed to see effects]
+    - Limitations: [Any caveats or constraints]
+    - Confidence: [Score with stars] | Tags: [#tags]
+
+## Supplements
+- Protocol: [Name, dosage, timing]
+    - Effects: [Observed outcomes]
+    - Context: [Study details, population]
+    - Limitations: [Any caveats]
+    - Confidence: [Score with stars] | Tags: [#tags]
+
+## Scientific Methods
+- Study Type: [Type]
+    - Methodology: [Details]
+    - Key Findings: [Results]
+    - Limitations: [Caveats]
+    - Confidence: [Score with stars] | Tags: [#tags]
+
+## Health Markers
+- Marker: [Name]
+    - Change: [Quantified change]
+    - Context: [Intervention details]
+    - Timeframe: [Duration]
+    - Confidence: [Score with stars] | Tags: [#tags]
+
+Be precise and quantitative. Include all relevant measurements, durations, and observed effects.
+Focus on extracting actionable information that could be valuable for health optimization.
+Note any synergies or conflicts between different interventions.
+
+For confidence scores, always include the stars, e.g.:
+- Confidence: 5 ⭐⭐⭐⭐⭐ (strong RCT evidence)
+- Confidence: 3 ⭐⭐⭐ (limited observational data)
+- Confidence: 1 ⭐ (expert opinion only)"""
+
         self.user_prompt = """Analyze this transcript and extract all relevant health and longevity insights.
-        Focus on practical, actionable information that could be implemented.
-        
-        Transcript:
-        {text}"""
+Focus on practical, actionable information that could be implemented.
+
+Transcript:
+{text}"""
         
     def preprocess_text(self, text: str) -> str:
         """Clean and preprocess transcript text."""

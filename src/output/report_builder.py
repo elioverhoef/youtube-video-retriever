@@ -152,19 +152,26 @@ class ReportBuilder:
         current_item = []
         
         for line in text.split("\n"):
+            # Main bullet points
             if line.startswith("- Finding:") or line.startswith("- Protocol:") or line.startswith("- Marker:"):
-                # If we have a previous item, add it
                 if current_item:
                     lines.append("\n".join(current_item))
                     current_item = []
                 current_item.append(line)
+            # Sub-points should be indented
+            elif line.startswith("- Context:") or line.startswith("- Effects:") or \
+                 line.startswith("- Limitations:") or line.startswith("- Timeframe:"):
+                current_item.append("    " + line)
+            # Confidence line should be indented and include source
+            elif line.startswith("- Confidence:"):
+                current_item.append(f"    {line} _(Source: {source})_")
             else:
-                current_item.append(line)
+                # Other lines maintain their current indentation level
+                if current_item and (line.startswith("    ") or not line.strip()):
+                    current_item.append(line)
+                else:
+                    current_item.append("    " + line.lstrip())
                 
-                # Add source reference at the end of each insight
-                if line.startswith("- Confidence:"):
-                    current_item[-1] = f"{line} _(Source: {source})_"
-                    
         # Add the last item
         if current_item:
             lines.append("\n".join(current_item))
