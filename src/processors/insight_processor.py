@@ -109,7 +109,7 @@ class SimilarityDetector:
         ]
         embeddings = self.model.encode(texts)
 
-        clustering = DBSCAN(eps=0.5, min_samples=2, metric="cosine")
+        clustering = DBSCAN(eps=0.35, min_samples=2, metric="cosine")
         labels = clustering.fit_predict(embeddings)
 
         # Group insights by cluster
@@ -119,7 +119,8 @@ class SimilarityDetector:
                 if label not in clusters:
                     clusters[label] = []
                 clusters[label].append(insight)
-
+        # Print number of clusters found
+        print(f"Found {len(clusters)} clusters containing {sum(len(cluster) for cluster in clusters.values())} insights")
         return list(clusters.values())
 
 
