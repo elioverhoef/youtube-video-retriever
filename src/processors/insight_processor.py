@@ -7,6 +7,7 @@ import json
 import logging
 from ..models.gemini_client import GeminiClient
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from tqdm import tqdm
 
 
 @dataclass
@@ -262,13 +263,13 @@ class ReportProcessor:
             non_clustered = [i for i in section_insights if id(i) not in clustered_ids]
             processed_insights.extend(non_clustered)
 
-        # Collect results from futures
-        for future in as_completed(futures):
-            try:
-                merged_insight = future.result()
-                processed_insights.append(merged_insight)
-            except Exception as e:
-                logging.error(f"Error in merge task: {str(e)}")
+            # Collect results from futures with progress bar
+            for future in tqdm(as_completed(futures), total=len(futures), desc="Merging insights"):
+                try:
+                    merged_insight = future.result()
+                    processed_insights.append(merged_insight)
+                except Exception as e:
+                    logging.error(f"Error in merge task: {str(e)}")
 
         # Generate new report
         self._generate_report(processed_insights, output_path, input_path)
