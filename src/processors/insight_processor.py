@@ -108,8 +108,7 @@ class SimilarityDetector:
         ]
         embeddings = self.model.encode(texts)
 
-        # Reduced eps threshold from 0.3 to 0.2 for stricter similarity matching
-        clustering = DBSCAN(eps=0.2, min_samples=2, metric="cosine")
+        clustering = DBSCAN(eps=0.5, min_samples=2, metric="cosine")
         labels = clustering.fit_predict(embeddings)
 
         # Group insights by cluster
@@ -297,7 +296,6 @@ class ReportProcessor:
         main_sections = [
             "Diet Insights",
             "Supplements",
-            "Scientific Methods",
             "Health Markers",
         ]
         for section in main_sections:
