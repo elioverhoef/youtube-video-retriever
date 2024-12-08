@@ -19,10 +19,8 @@ class Insight:
 
 class InsightParser:
     def __init__(self):
-        # More flexible patterns that handle variable spacing and formats
-        self.insight_pattern = r"(?:^|\n)\s*-\s*\*\*([^*]+)\*\*:\s*(.*?)(?=(?:\n\s*-\s*\*\*[^*]+\*\*:|\Z))"
-        self.metadata_pattern = r"(?:^|\n)\s*-\s*([\w\s]+):\s*(.*?)(?=(?:\n\s*-|$))"
-        self.tag_pattern = r"#(\w+(?:-\w+)*)"
+        # Capture both type and content
+        self.insight_pattern = r"(?:^|\n)\s*-\s*\*\*(Finding|Protocol|Marker|Study|Study Type)\*\*:\s*(.*?)(?=\n\s*-\s*\*\*(?:Finding|Protocol|Marker|Study|Study Type)\*\*:|\Z)"
         
     def parse_report(self, report_path: str) -> List[Insight]:
         with open(report_path, 'r', encoding='utf-8') as f:
@@ -30,65 +28,66 @@ class InsightParser:
             
         insights = []
         
-        # Process all insights
-        for match in re.finditer(self.insight_pattern, content, re.DOTALL | re.MULTILINE):
-            try:
-                insight_type = match.group(1).strip()
-                insight_text = match.group(2).strip()
-                
-                # Extract metadata from the insight text
-                metadata = {}
-                confidence = 0
-                tags = []
-                
-                # Process metadata sections
-                for meta_match in re.finditer(self.metadata_pattern, insight_text, re.MULTILINE):
-                    key = meta_match.group(1).strip()
-                    value = meta_match.group(2).strip()
-                    
-                    if key == 'Confidence':
-                        confidence = value.count('⭐')
-                    elif key == 'Tags':
-                        tags = [tag.strip() for tag in re.findall(self.tag_pattern, value)]
-                    else:
-                        metadata[key] = value
-                
-                # Create insight object
-                insight = Insight(
-                    type='Marker' if insight_type == 'Marker' else 'Finding',
-                    content=insight_text.split('\n')[0].strip(),  # First line is the main content
-                    metadata=metadata,
-                    confidence=confidence,
-                    sources=[],
-                    section=self._determine_section(insight_type, tags, metadata),
-                    tags=tags
-                )
-                
+        # Process insights with modified pattern that captures type
+        for match in re.finditer(self.insight_pattern, content, re.DOTALL):
+            insight_type, insight_text = match.groups()
+            insight = self._parse_insight(insight_type, insight_text)
+            if insight:
                 insights.append(insight)
-                
-            except Exception as e:
-                print(f"Error parsing insight: {e}")
-                continue
-                
+                    
         return insights
         
-    def _determine_section(self, insight_type: str, tags: List[str], metadata: Dict[str, str]) -> str:
-        """Determine the section based on insight type, tags, and metadata"""
-        if insight_type == 'Marker':
-            return 'Health Markers'
-        
-        # Check tags and metadata for section hints
-        all_text = ' '.join([insight_type] + tags + list(metadata.values())).lower()
-        
-        if any(word in all_text for word in ['diet', 'food', 'nutrition', 'eating']):
-            return 'Diet Insights'
-        elif any(word in all_text for word in ['supplement', 'vitamin', 'mineral']):
-            return 'Supplements'
-        elif any(word in all_text for word in ['study', 'research', 'trial']):
-            return 'Scientific Methods'
+    def _parse_insight(self, insight_type: str, text: str) -> Optional[Insight]:
+        # Clean up the text and split into lines
+        lines = [line.strip() for line in text.split('\n') if line.strip()]
+        if not lines:
+            return None
             
-        # Default to Health Markers if no other match
-        return 'Health Markers'
+        # First line is the main content
+        main_content = lines[0].strip()
+        
+        # Process metadata lines (they start with '-' or have ':')
+        metadata = {}
+        for line in lines[1:]:
+            line = line.strip('- ').strip()
+            if ':' in line:
+                key, value = [x.strip() for x in line.split(':', 1)]
+                metadata[key] = value
+                
+        # Extract confidence
+        confidence = 0
+        confidence_text = metadata.get('Confidence', '')
+        if confidence_text:
+            confidence = confidence_text.count('⭐')
+            
+        # Extract tags
+        tags = []
+        tags_text = metadata.get('Tags', '')
+        if tags_text:
+            tags = [tag.strip() for tag in tags_text.split('#') if tag.strip()]
+            
+        # Map type to section directly
+        section_mapping = {
+            'Finding': 'Diet Insights',
+            'Protocol': 'Supplements',
+            'Study': 'Scientific Methods',
+            'Study Type': 'Scientific Methods',
+            'Marker': 'Health Markers'
+        }
+        
+        # Clean up insight type
+        if insight_type == 'Study Type':
+            insight_type = 'Study'
+            
+        return Insight(
+            type=insight_type,
+            content=main_content,
+            metadata=metadata,
+            confidence=confidence,
+            sources=[],
+            section=section_mapping.get(insight_type, 'Other'),
+            tags=tags
+        )
 
 class SimilarityDetector:
     def __init__(self):

@@ -888,29 +888,17 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
 
 ## Diet Insights
 
-- **Finding**: Resting Heart Rate (RHR)
-    - Change: Increases until age 50, then decreases. Increases with higher physical activity, body weight, and calorie intake. Decreases with higher monounsaturated and omega-6 fatty acid intake.; Decreased by 1.1 bpm (from 46.7 to 45.6 bpm)
-    - Context: Measured in beats per minute (bpm).; Middle-of-the-night melatonin supplementation, adjusted for sleep, physical activity, and calorie intake.
-    - Timeframe: Daily fluctuations, long-term age-related changes.; 162 days
-    - Confidence: 2 ⭐⭐ | Tags: #RHR #melatonin #cardiovascular; 4 ⭐⭐⭐⭐ (large-scale studies), 3 ⭐⭐⭐ (personal data) | Tags: #RHR #cardiovascular #aging
-
 - **Finding**: 40% calorie restriction (CR) extends lifespan and improves physical activity.
-    - Context: RCT in mice, comparing low AGE vs. regular AGE diet.; Study comparing low, normal, and high methionine diets in mice.; 60-day study in 8-week-old male mice, comparing 0.17% (low), 0.86% (normal), and 2.58% (high) methionine diets.; Male mice on NIA diet (lower sugar, higher protein) and Wisc diet (higher sugar, lower protein). Single-meal feeding groups consumed their daily food in one meal, with no intended calorie restriction. Ad lib group ate 14 kcal/day (NIA) and 13.1 kcal/day (Wisc), while single-meal feeding groups ate 13.2 kcal/day (NIA) and 12.9 kcal/day (Wisc).; Single-meal feeding group (13.2 kcal/day, 9-hour fast) compared to ad libitum (14 kcal/day).; Single-meal feeding group (12.9 kcal/day, 12-hour fast) compared to ad libitum (13.1 kcal/day).; Different fasting intervals were observed in the single-meal feeding and calorie-restricted groups across both diets.; 24-month-old mice fed a low or high AGE diet for their lifespan.; Single-meal feeding group compared to ad libitum.; Male JC1-ICR mice fed a high polyamine diet (initiated at 24 weeks of age) showed significant lifespan extension compared to normal polyamine diet.; Controlled diet study; control group received 0.43% methionine, while the restricted group received 0.15% methionine (65% reduction) starting at 12 months of age.; Studies on mice fed low-methionine diets compared to higher methionine intake groups.; Mice fasted for one day per week (midday Wednesday to midday Thursday) and consumed 2.5% more food overall than the ad libitum group but still showed an increased median lifespan.; Studies on mice fed low-methionine diets.; Observational study in mice on a methionine-restricted diet.; Expert opinion, supported by observations in calorie-restricted mice.; Mice fasted for two days per week (midday Wednesday to midday Friday) consumed 11.5% less food than the ad libitum group, leading to an increased median lifespan comparable to one day of fasting.; Mouse studies, discussion in transcript.; Calorie-restricted group (9.2 kcal/day, 23-hour fast) compared to ad libitum (13.1 kcal/day).; Mice on a 20% CR diet (actually consuming 27.1% less food) showed a further increase in median lifespan compared to one or two days of fasting. Their weekend food was given all at once, leading to one day of fasting per week.; RCT in mice, comparing regular diet, CR, and CR + high AGE diet.; C57 black 6J male mice, compared to ad libitum feeding.; Mouse studies mentioned in the transcript.; RCT in C57 black 6j mice; Mice on a 40% CR diet, with food intake reduced by 44% compared to ad libitum, showed a 36% increase in median lifespan. They also exhibited resistance to age-related decline in wheel running, indicating maintained physical activity.; Study comparing restricted and control methionine diets in mice.; C57 black 6J male mice.; Expert opinion based on mouse data and general circadian biology.; Expert opinion based on human studies; Observational study showing age-related decline in taurine levels in humans and mice; interventional study showing taurine supplementation extends lifespan in mice.; Study on male and female mice fed a diet with 0.15% methionine (restricted) vs. 0.43% methionine (control).; Controlled diet study; control group received 0.86% methionine, while the restricted group received 0.17% methionine (80% reduction) starting at 42 days old.; Male mice on NIA and Wisc diets. The calorie-restricted group was fed once daily with a 30% reduction in calories (10 kcal/day on NIA, 9.2 kcal/day on Wisc).
-    - Timeframe: Median survival increased by 7% in the restricted group. Maximal survival also increased significantly.; Effects observed throughout the lifespan, statistical significance in body weight at 96 weeks.; Daily fasting interval.; 75% survival was significantly extended in the single-meal feeding group.; Not specified in the transcript, but the mouse study suggests effects over the lifespan.; Median survival was significantly increased in the calorie-restricted group.; Chronic effect over the lifespan.; Median survival increased by 29%, and maximal survival increased by 12% in the restricted group.; Effects on body weight observed throughout the study, statistically significant from 96 weeks.; The study tracked lifespan in weeks, with significant differences observed in median and 75% survival rates.; Lifetime.; The study tracked lifespan in weeks, showing the most significant increase in median and 75% survival in this group.; Not specified, likely throughout the diet.; Not specified; Not specified.; Median survival increased from 108 weeks (ad libitum) to approximately 116 weeks (single-meal feeding).; Lifespan study; Effects observed in median lifespan (50% survival).; Median survival increased from 104 weeks (ad libitum) to approximately 123 weeks (single-meal feeding).; Lifespan effects observed from 6 months of age.; Lifetime study.; Not specified, but likely throughout the duration of the diet.; Effects observed on lifespan.; Lifespan; 60 days.; Lifespan study, observed until 10% survival for maximum lifespan.; Effects observed over the lifespan of mice, with the intervention starting at 6 months of age.; Effects observed over the lifespan of mice, starting at 6 months of age.
-    - Limitations: Mouse study; further research needed for human application.; Human data is observational; no specific dietary recommendations are given. Optimal taurine intake for humans is not defined.; Only male mice studied.; Only male mice studied, no data on females.; Short-term study, limited age range.; Conducted on mice; applicability to humans needs further investigation.; Short-term study in young mice; long-term effects on body weight may differ.; High-fat diets can be obesogenic, requiring controlled food intake. Exact quantities not discussed.; Mouse study, may not directly translate to humans; Only male mice were studied.; Needs further investigation in the context of autodigestion in humans.; Animal models may not perfectly translate to humans.; Long-term effects on other health parameters not fully explored.; Fewer studies on methionine restriction than CR; overall impact of protein restriction is debated. Exact quantities not discussed.; Data is from male mice only. The single-meal feeding group on the NIA diet may have had a mild calorie restriction of about 6%.; Mouse studies, specific SCFA changes may vary in humans.; Mouse study, direct translation to humans unknown.; Mice were eating during the daytime (circadian misalignment).; Data is from male mice only.; Specific dietary methionine levels and duration not provided; Study conducted on male mice only; long-term effects on other health parameters not fully explored.; No significant difference between low and normal polyamine diets.; Study conducted on mice; direct translation to humans requires further research.; Mouse study; direct human implications require further research.; Highly speculative, no direct human data on lifespan.
-    - Confidence: 1 ⭐ | Tags: #eating-window #circadian-rhythm #humans #speculation; 4 ⭐⭐⭐⭐ | Tags: #diet #calorie-restriction #fasting #lifespan #mice #NIA-diet #Wisc-diet; 2 ⭐⭐ | Tags: #ketogenic #diet #high-fat #lifespan #mouse; 4 ⭐⭐⭐⭐ | Tags: #diet #AGEs #lifespan #mice #calorie-restriction #longevity; 5 ⭐⭐⭐⭐⭐ | Tags: #calorie-restriction #lifespan #physical-activity #mice #aging; 4 ⭐⭐⭐⭐ | Tags: #methionine #restriction #lifespan #rats #diet; 4 ⭐⭐⭐⭐ | Tags: #fasting #duration #mice; 3 ⭐⭐⭐ | Tags: #diet #calorie-restriction #autodigestion #lifespan; 4 ⭐⭐⭐⭐ | Tags: #fasting #lifespan #mice #no-calorie-restriction; 4 ⭐⭐⭐⭐ | Tags: #methionine #SCFAs #acetate #propionate #butyrate #diet; 4 ⭐⭐⭐⭐ | Tags: #survival #lifespan #methionine; 4 ⭐⭐⭐⭐ | Tags: #methionine #restriction #lifespan #mice #diet; 4 ⭐⭐⭐⭐ | Tags: #diet #calorie-restriction #lifespan #mice; 4 ⭐⭐⭐⭐ | Tags: #diet #fasting #lifespan #mice #NIA-diet #Wisc-diet; 2 ⭐⭐ | Tags: #protein #restriction #methionine #BCAA #lifespan #mouse; 4 ⭐⭐⭐⭐ | Tags: #FGF21 #methionine #plasma; 4 ⭐⭐⭐⭐ | Tags: #insulin #AGEs #mice #insulin-resistance; 4 ⭐⭐⭐⭐ | Tags: #survival #lifespan #fasting; 4 ⭐⭐⭐⭐ | Tags: #survival #lifespan #calorie-restriction #fasting; 4 ⭐⭐⭐⭐ | Tags: #fasting #lifespan #calorie-restriction #mice; 4 ⭐⭐⭐⭐ | Tags: #calorie-restriction #fasting #eating-window #lifespan #mice #circadian-alignment; 4 ⭐⭐⭐⭐ | Tags: #calorie-restriction #lifespan #mice #fasting; 3 ⭐⭐⭐ | Tags: #methionine #body #weight #food #intake #mice #diet; 4 ⭐⭐⭐⭐ | Tags: #SCFAs #acetate #propionate #butyrate #methionine #fecal; 3 ⭐⭐⭐ | Tags: #cholic #acid #liver #methionine #restriction #mice; 3 ⭐⭐⭐ | Tags: #diet #methionine #FGF21 #longevity; 3 ⭐⭐⭐ | Tags: #diet #taurine #longevity #aging #lifespan; 4 ⭐⭐⭐⭐ | Tags: #calorie-restriction #fasting #lifespan #mice #circadian-misalignment; 4 ⭐⭐⭐⭐ | Tags: #diet #AGEs #metabolism #mice #body-weight; 4 ⭐⭐⭐⭐ | Tags: #diet #AGEs #lifespan #mice #longevity #insulin-resistance; 4 ⭐⭐⭐⭐ | Tags: #diet #polyamines #lifespan #mice #spermidine; 4 ⭐⭐⭐⭐ | Tags: #controlled #diet #study #mice #rats; 3 ⭐⭐⭐ | Tags: #experimental #diet #methionine #body #weight #food #intake; 4 ⭐⭐⭐⭐ | Tags: #calorie-restriction #no-fasting #lifespan #mice
+    - Context: Male mice on NIA and Wisc diets. The calorie-restricted group was fed once daily with a 30% reduction in calories (10 kcal/day on NIA, 9.2 kcal/day on Wisc).; Studies on mice fed low-methionine diets compared to higher methionine intake groups.; Expert opinion, supported by observations in calorie-restricted mice.; Observational study showing age-related decline in taurine levels in humans and mice; interventional study showing taurine supplementation extends lifespan in mice.; RCT in mice, comparing low AGE vs. regular AGE diet.; Controlled diet study; control group received 0.43% methionine, while the restricted group received 0.15% methionine (65% reduction) starting at 12 months of age.; Expert opinion based on mouse data and general circadian biology.; Recent mouse studies, disaggregating benefits of CR.; Study on male and female mice fed a diet with 0.15% methionine (restricted) vs. 0.43% methionine (control).; Male JC1-ICR mice fed a high polyamine diet (initiated at 24 weeks of age) showed significant lifespan extension compared to normal polyamine diet.; Mice fasted for two days per week (midday Wednesday to midday Friday) consumed 11.5% less food than the ad libitum group, leading to an increased median lifespan comparable to one day of fasting.; Older mouse studies.; C57 black 6J male mice, compared to ad libitum feeding.; RCT in C57 black 6j mice; Mice on a 40% CR diet, with food intake reduced by 44% compared to ad libitum, showed a 36% increase in median lifespan. They also exhibited resistance to age-related decline in wheel running, indicating maintained physical activity.; Mice fasted for one day per week (midday Wednesday to midday Thursday) and consumed 2.5% more food overall than the ad libitum group but still showed an increased median lifespan.; Observational study in progeria mice (G609G model). Methionine restriction also increased cholic acid levels.; 60-day study in 8-week-old male mice, comparing 0.17% (low), 0.86% (normal), and 2.58% (high) methionine diets.; Observational study on inbred lab strains (ILS) cross mice, with consistent CR protocol across all mice. Also observed in multiple strains of flies and worms.; Controlled diet study; control group received 0.86% methionine, while the restricted group received 0.17% methionine (80% reduction) starting at 42 days old.; Mice on a 20% CR diet (actually consuming 27.1% less food) showed a further increase in median lifespan compared to one or two days of fasting. Their weekend food was given all at once, leading to one day of fasting per week.; Observational study in mice; control mice had a median lifespan of 30 months. Methionine restriction also increased cholic acid levels in the liver.; Male mice on NIA diet (lower sugar, higher protein) and Wisc diet (higher sugar, lower protein). Single-meal feeding groups consumed their daily food in one meal, with no intended calorie restriction. Ad lib group ate 14 kcal/day (NIA) and 13.1 kcal/day (Wisc), while single-meal feeding groups ate 13.2 kcal/day (NIA) and 12.9 kcal/day (Wisc).; Mouse studies mentioned in the transcript.; RCT in mice, comparing regular diet, CR, and CR + high AGE diet.; Mouse studies, discussion in transcript.; C57 black 6J male mice.
+    - Timeframe: 60 days.; Lifespan study, observed until 10% survival for maximum lifespan.; Effects observed over the lifespan of mice, starting at 6 months of age.; Chronic effect over the lifespan.; The study tracked lifespan in weeks, with significant differences observed in median and 75% survival rates.; Not specified, but effects were observed over the lifespan of the mice.; Median survival increased by 29%, and maximal survival increased by 12% in the restricted group.; Not specified in the transcript, but the mouse study suggests effects over the lifespan.; Effects observed on lifespan.; Not specified, but likely throughout the duration of the diet.; Effects observed in median lifespan (50% survival).; The study tracked lifespan in weeks, showing the most significant increase in median and 75% survival in this group.; Lifetime study.; Lifespan effects observed from 6 months of age.; Median survival increased by 7% in the restricted group. Maximal survival also increased significantly.; Effects observed over the lifespan of mice, with the intervention starting at 6 months of age.; Effects observed throughout the lifespan, statistical significance in body weight at 96 weeks.; Studies lasting over 900 days.; Not specified, but lifespan studies typically observe effects over the entire lifespan of the animals.; Lifespan study; Studies exceeding 900 days.; Effects on body weight observed throughout the study, statistically significant from 96 weeks.; Not specified.
+    - Limitations: The p-value for maximum lifespan increase was 0.08, which is not statistically significant.; Data is from male mice only. The single-meal feeding group on the NIA diet may have had a mild calorie restriction of about 6%.; Study only looked at liver levels of cholic acid.; Short-term study in young mice; long-term effects on body weight may differ.; High-fat diets can be obesogenic, requiring controlled food intake. Exact quantities not discussed.; Difficult to replicate, potential ethical concerns with severe restriction.; Mouse study, direct translation to humans unknown.; Only male mice studied, no data on females.; Not explicitly included in the 900-day rule analysis.; Conducted on mice; applicability to humans needs further investigation.; Only male mice studied.; Fewer studies on methionine restriction than CR; overall impact of protein restriction is debated. Exact quantities not discussed.; Mice were eating during the daytime (circadian misalignment).; Long-term effects on other health parameters not fully explored.; Data is from male mice only.; Only male mice were studied.; Magnitude of CR effect doesn't fully replicate across studies, potentially due to strain differences, variations in restriction protocols (20% vs 40% restriction), and purified vs standard chow. Regression to the mean must be accounted for.; Mouse study, may not directly translate to humans; Mouse studies, specific SCFA changes may vary in humans.; Highly speculative, no direct human data on lifespan.; No significant difference between low and normal polyamine diets.; Study conducted on male mice only; long-term effects on other health parameters not fully explored.; Needs further investigation in the context of autodigestion in humans.; Study conducted on mice; direct translation to humans requires further research.; Mouse study; further research needed for human application.; Mouse study; direct human implications require further research.; Human data is observational; no specific dietary recommendations are given. Optimal taurine intake for humans is not defined.
+    - Confidence: 2 ⭐⭐ | Tags: #protein #restriction #methionine #BCAA #lifespan #mouse; 4 ⭐⭐⭐⭐ | Tags: #circadian #rhythm #fasting #lifespan #extension #mouse #cr; 4 ⭐⭐⭐⭐ | Tags: #diet #calorie-restriction #fasting #lifespan #mice #NIA-diet #Wisc-diet; 3 ⭐⭐⭐ | Tags: #caloric #restriction #severe #lifespan #mouse; 4 ⭐⭐⭐⭐ | Tags: #caloric #restriction #lifespan #extension #mouse #ILS #strain #regression #purified #chow; 3 ⭐⭐⭐ | Tags: #diet #calorie-restriction #autodigestion #lifespan; 4 ⭐⭐⭐⭐ | Tags: #fasting #lifespan #mice #no-calorie-restriction; 4 ⭐⭐⭐⭐ | Tags: #calorie-restriction #fasting #lifespan #mice #circadian-misalignment; 2 ⭐⭐ | Tags: #ketogenic #diet #high-fat #lifespan #mouse; 4 ⭐⭐⭐⭐ | Tags: #methionine #restriction #lifespan #mice #cholic #acid; 4 ⭐⭐⭐⭐ | Tags: #diet #fasting #lifespan #mice #NIA-diet #Wisc-diet; 4 ⭐⭐⭐⭐ | Tags: #calorie-restriction #fasting #eating-window #lifespan #mice #circadian-alignment; 4 ⭐⭐⭐⭐ | Tags: #diet #AGEs #lifespan #mice #longevity #insulin-resistance; 4 ⭐⭐⭐⭐ | Tags: #diet #polyamines #lifespan #mice #spermidine; 4 ⭐⭐⭐⭐ | Tags: #diet #calorie-restriction #lifespan #mice; 4 ⭐⭐⭐⭐ | Tags: #calorie-restriction #no-fasting #lifespan #mice; 4 ⭐⭐⭐⭐ | Tags: #diet #AGEs #metabolism #mice #body-weight; 4 ⭐⭐⭐⭐ | Tags: #diet #AGEs #lifespan #mice #calorie-restriction #longevity; 4 ⭐⭐⭐⭐ | Tags: #methionine #restriction #lifespan #rats #diet; 3 ⭐⭐⭐ | Tags: #diet #taurine #longevity #aging #lifespan; 1 ⭐ | Tags: #eating-window #circadian-rhythm #humans #speculation; 5 ⭐⭐⭐⭐⭐ | Tags: #calorie-restriction #lifespan #physical-activity #mice #aging; 4 ⭐⭐⭐⭐ | Tags: #calorie-restriction #lifespan #mice #fasting; 4 ⭐⭐⭐⭐ | Tags: #methionine #restriction #lifespan #mice #diet; 4 ⭐⭐⭐⭐ | Tags: #calorie-restriction #fasting #lifespan #mice #circadian-alignment; 3 ⭐⭐⭐ | Tags: #methionine #restriction #progeria #lifespan #cholic #acid; 4 ⭐⭐⭐⭐ | Tags: #fasting #lifespan #calorie-restriction #mice; 4 ⭐⭐⭐⭐ | Tags: #methionine #SCFAs #acetate #propionate #butyrate #diet; 3 ⭐⭐⭐ | Tags: #methionine #body #weight #food #intake #mice #diet
 
 - **Finding**: Consuming 100 grams of collard greens provides 141 mg of calcium and 9 mg of oxalate.
     - Context: Expert opinion, extrapolation from nutritional information on collard greens.; Expert opinion based on nutritional data of collard greens.
-    - Timeframe: N/A - This is a nutritional content statement.; Daily.
+    - Timeframe: Daily.; N/A - This is a nutritional content statement.
     - Limitations: Individual variations in digestion and absorption may apply.
     - Confidence: 3 ⭐⭐⭐ | Tags: #diet #calcium #oxalate #collardgreens #nutrition; 5 ⭐⭐⭐⭐⭐ | Tags: #diet #calcium #oxalate #collardgreens #nutrition
-
-- **Finding**: Lifespan in fruit flies
-    - Change: Doubling of lifespan.
-    - Context: Research by Grant Rutledge, building on mathematical models by Larry Muller, demonstrated that even after extensive adaptation to a novel diet, reverting to an ancestral diet improved health in older fruit flies.; Based on the concept that humans, after their 50s, are no longer adapted to agricultural foods due to the detuning of natural selection with age, particularly those with ancestry from the northwestern periphery of Eurasia. Grant Rutledge's research supports this, showing improved health outcomes in fruit flies fed diets closer to their ancestral diets, even after 1000 generations on a lab-based diet.; Experimental evolution studies in Dr. Rose's lab, where lifespan was manipulated through diet.; Achieved through experimental evolution by selecting for late reproduction.
-    - Timeframe: Ongoing, with benefits potentially realized quickly upon dietary adjustment.; Approximately 80 generations.; Not specified, but likely over multiple generations.; Benefits observed in later stages of life.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #diet #ancestral #aging #agriculture #health; 5 ⭐⭐⭐⭐⭐ | Tags: #lifespan #fruitflies #experimentalevoultion; 3 ⭐⭐⭐ | Tags: #diet #lifespan #fruitflies #experimental #evolution; 3 ⭐⭐⭐ | Tags: #diet #fruitflies #ancestral #adaptation #lifespan
 
 - **Finding**: Caloric restriction of 12% over 2 years resulted in a slower epigenetic pace of aging, as measured by DunedinPACE.
     - Context: RCT comparing ad libitum (AL) diet to caloric restriction (CR) in humans.
@@ -918,71 +906,47 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Specific dietary composition not detailed beyond caloric restriction percentage.
     - Confidence: 5 ⭐⭐⭐⭐⭐ | Tags: #caloricrestriction #epigeneticage #diet #aging #paceofaging
 
-- **Finding**: Indoxyl Sulfate (IS)
-    - Change: Increased from 1.22 to 1.55 micromolar in individuals older than 65 years compared to those younger. Also, personal data shows an increasing trend over 15 months.
-    - Context: Age-related increase, associated with kidney, heart, and endothelial damage. Personal data tracked using at-home metabolomics.
-    - Timeframe: Cross-sectional study for age-related increase; 15 months for personal data.
-    - Confidence: 3 ⭐⭐⭐ (age-related increase) | 2 ⭐⭐ (personal data) | Tags: #health\_markers #indoxyl\_sulfate #aging #kidney\_health #heart\_health #endothelial\_health #mortality
-
 - **Finding**: Average daily calorie intake was 2122 kcal/day, the lowest since tracking began.
-    - Context: Observational, single individual. Total fat had a negative correlation score (-7) with blood biomarkers.; Close to the lowest fructose intake since 2015 (lowest was 57.5g/day). Total fructose intake is tracked and limited due to its correlation with blood biomarkers going in the wrong direction. The subject consumes a lot of fruits and vegetables.; Observational study of personal data, with saturated fat primarily sourced from coconut butter and cocoa beans.; Observational studies suggest that dietary fiber, especially soluble fiber, is fermented by gut microbiota into SCFAs (acetate, propionate, and butyrate).; Observational study based on the speaker's personal data. Full-fat yogurt was one of the top 5 sources of saturated fat.; Personal data correlated with dietary factors. Published research shows an association between higher glucose and increased all-cause mortality risk.; Observational, single individual. Calorie intake had a negative correlation score (-5) with blood biomarkers.; Observational study of personal data from the speaker.; Observational, single individual. Carbohydrate intake had a positive correlation score (+1) with blood biomarkers.; Positive correlation with favorable biomarkers (net score of +5).; Observational, single individual. Aim to reduce fructose intake due to increased consumption of blueberries and blackberries.; To support gut health and short-chain fatty acid production. Study: Observational, Population: Single individual, Timeframe: 29 days.; Observational study of personal data.; Higher fat intake correlated with higher glucose, higher neutrophils and other markers going in the wrong direction based on aging and mortality data.; Comparison of 47-day dietary period for test #5 vs. 72-day period for test #4 (Observational). Population: Single individual, male, diagnosed with hypothyroidism.; Based on negative correlations with biomarkers in this individual's data.; Observational study based on personal dietary data and blood test results over several years.; Observational, self-reported dietary data. Population: Single individual, male.; Higher glucose correlated with higher fat intake. Glucose increases with age and is associated with increased all-cause mortality.; Based on data from 23 blood tests since 2018. Higher strawberry intake is significantly associated with lower AST, LDL, platelets, and hsCRP. Average intake since 2018 was 350g/day.; Lipoprotein, lower levels generally favorable.; Detailed breakdown of fat intake is provided, including monounsaturated, polyunsaturated, omega-3, omega-6, saturated, trans fats, and cholesterol. Carbohydrate intake adjusted for fiber to calculate net carbs. The subject tracks total fructose intake due to its correlation with adverse blood biomarker changes.; Observational, self-experiment with n=32 blood tests and corresponding dietary data from 2015-2021. Population: Single individual, male, focused on longevity.; Comprehensive dietary tracking using a food scale and Cronometer app.; Based on observed correlation between higher fat intake and elevated glucose, as well as negative correlations with other "big picture" biomarkers.; Lowest since 2015, aiming to balance satiety with potential negative correlations with biomarkers. Study: Observational, Population: Single individual, Timeframe: 29 days.; Observational, single individual tracking dietary intake since 2015. Population: Single individual, male, diagnosed with hypothyroidism.; Observational study based on 23 data points over 5 years, tracking personal dietary data and blood test results.; Reverted to higher intake after a reduction in the previous test cycle did not yield positive results. Correlated with better biomarker data. Study Type: Case Study. Population: Single individual tracking personal health data.; Observational, single individual. Protein had a negative correlation score (-8) with blood biomarkers, although it correlated with lower homocysteine.; First increase in 3 years after sequentially reducing calorie intake over 21 tests. Increased by 40 calories from the previous test. Study: Observational, Population: Single individual, Timeframe: 29 days.; The individual is testing dietary changes to optimize biomarkers, focusing on foods with positive correlative scores. Strawberries have a lower fructose content than blueberries and blackberries, per 100 kcal, and are associated with lower AST, hs-CRP, LDL, and platelets. Average intake since starting tracking is 356g/day.; Based on the observed correlations between protein intake and biomarkers, and the presenter's efforts to optimize his biomarkers while maintaining muscle mass.; Self-experiment; part of a diet associated with younger biological age.; Observational study based on the speaker's personal data of 17 blood tests over 3+ years, tracking daily food intake since July 2018.; Self-experiment; individual with biological age 17 years younger than chronological age.; Observational study comparing 6 blood tests with yogurt intake to multiple tests without yogurt over 4 years.; Self-experiment (n=1) tracking protein intake and 36 blood biomarkers over 7 years. Protein intake ranged from 78-148g/day.; Lowest average daily calorie intake since starting diet tracking in April 2015. The subject aims to maintain this intake until body weight plateaus before considering further reductions. This intake was maintained over a 49-day period.; Based on in vitro studies and extrapolated data, as RCTs proving this specific mechanism are lacking. The typical Western diet is deficient in soluble fiber.; Data from 42-day period between blood tests. Correlated with lower blood glucose in this individual.; Macronutrient composition corresponding to the 15.2-year biological age reduction. Study Type: Case Study. Population: Single individual.; Observational, single individual. Fiber intake positively correlated with some favorable biomarkers.; Dietary intervention (yogurt consumption); long-term self-tracking.; Observational, self-experiment with n=32 blood tests and corresponding dietary data. Population: Single individual, male.
-    - Timeframe: Not specified, but likely requires consistent, long-term intake.; 63 days (from August 22nd to October 23rd, 2022).; Long-term observation with distinct periods of yogurt consumption and non-consumption.; Reduction observed over 42-day period. Long-term trend of increasing glucose since 2015.; Gradual reduction in protein intake over the past 3 years, from 114g/day to 99g/day.; Implemented for the most recent blood test period.; Changes in fat intake reflected in blood tests taken approximately every 3 months.; Data collected since last year (approximately 8 data points).; Based on long-term data analysis.; 49-day period corresponding to test number 7.; 42 days.; 47 days; Ongoing dietary tracking with periodic blood tests.; Since April 2015, with a specific focus on a 49-day period.; 49-day period.; Ongoing since 2015.; Effects observed over 63 days.; 42-day period between blood tests.; 49 days.; 3+ years; Implemented over 42 days, with plans to further reduce to 80-85g/day in the next phase.; Data collected from 2005 to the present.; Long-term tracking over 6 years.; Ongoing dietary practice.; 49-day period leading up to blood test.; Effects observed over 63 days correlating with the last blood test.; Observed over 63 days.; 6 years of data, ongoing monitoring.; Ongoing investigation.; Not specified in the transcript, but likely weeks to months for significant changes in gut microbiota composition.; Several years of data, with 6 measurements during yogurt consumption.
-    - Limitations: Single individual; long-term effects need further observation.; Self-reported data may have inaccuracies.; Minor change (less than 5%).; Single-subject study, extrapolation from correlational data, individual variability.; Individual observation, issues with accurately tracking fat breakdown in chronometer.; May not be optimal for everyone; individual responses to high fiber vary.; Individual observation.; Single-subject data, correlation does not imply causation.; Gradual reduction over time.; Correlative data, not necessarily causative. Individual's response may not be generalizable.; No RCTs in older adults (60+) have tested the direct impact of a high soluble fiber diet on SCFA levels or Enterobacteria. The specific amount of soluble fiber needed is not mentioned.; Self-reported data, individual needs may vary.; Single-subject study, correlational data, potential confounding factors not accounted for.; Self-reported data, individual tolerance may vary.; Individual tolerance to high fiber may vary.; Single-subject study; results may not be generalizable. Correlation does not equal causation.; Correlational.; Individualized diet plan.; Single-subject study; optimal intake may vary for others. Requires balancing muscle mass maintenance with biomarker optimization.; Single-subject data, limited data points, correlation does not imply causation.; Individual-specific response to fructose.; Individual observation, difficult to achieve very high fiber intake without impacting other biomarker correlations.; Small change, unlikely to have a significant impact.; Correlation does not equal causation; individual response based on personal data.; Single-person study, correlational data, not causal.; Lack of RCTs proving the direct link between high soluble fiber intake, SCFA production, and reduced pathogenic bacteria in humans. Individual responses may vary.; Self-reported data, accuracy depends on meticulous tracking.; No significant difference between the two periods.; Correlational, may not be generalizable, long-term effects unknown.; Self-experiment on one individual.; Individual observation, self-reported data.; Single-subject data, limited data points, correlation does not imply causation. Specific sources of saturated fats can react differently in the body.; Correlation does not equal causation; individual response.; Observational, single individual.; Correlational, not causal. Individual responses may vary.; Individual response; may not apply to others. Long-term effects need further monitoring.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #fat #glucose #inflammation; 3 ⭐⭐⭐ | Tags: #fructose #sugar #diet #limitation; 4 ⭐⭐⭐⭐ | Tags: #diet #protein #consistency; 4 ⭐⭐⭐⭐ | Tags: #diet #calories #long-term-tracking; 3 ⭐⭐⭐ | Tags: #fiber #gut #health #diet; 2 ⭐⭐ | Tags: #diet #fat #crp #correlation; 3 ⭐⭐⭐ | Tags: #diet #fiber #guthealth #SCFA; 3 ⭐⭐⭐ | Tags: #diet #strawberry #fructose #biomarkers #liver\_enzymes #inflammation #lipids #platelets; 2 ⭐⭐ | Tags: #diet #carbohydrates; 2 ⭐⭐ | Tags: #diet #protein; 3 ⭐⭐⭐ (based on observational studies and mechanistic understanding) | Tags: #diet #fiber #soluble-fiber #SCFA #gut-microbiome; 2 ⭐⭐ | Tags: #diet #dates #fructose #fruit; 3 ⭐⭐⭐ | Tags: #diet #calories #caloricrestriction; 2 ⭐⭐ | Tags: #diet #carbohydrate #fructose #HDL #cholesterol; 4 ⭐⭐⭐⭐ | Tags: #glucose #biomarker #all-cause-mortality #aging; 2 ⭐⭐ | Tags: #protein #intake #biomarkers #self-experiment #diet; 2 ⭐⭐ | Tags: #diet #saturated-fat #crp #correlation #coconut #cocoa; 2 ⭐⭐ | Tags: #diet #fiber; 3 ⭐⭐⭐ | Tags: #diet #fiber #guthealth #SCFA #prebiotic; 3 ⭐⭐⭐ | Tags: #glucose #insulin-resistance #mortality #aging; 2 ⭐⭐ | Tags: #diet #fat; 3 ⭐⭐⭐ | Tags: #diet #strawberries #ast #ldl #platelets #hscrp #inflammation; 2 ⭐⭐ | Tags: #diet #fructose #HDL #target; 2 ⭐⭐ | Tags: #diet #fruit #fructose #biomarker #optimization; 3 ⭐⭐⭐ | Tags: #diet #yogurt #saturated-fat #glucose #correlation #observational; 3 ⭐⭐⭐ | Tags: #healthmarker #ldl #cholesterol; 2 ⭐⭐ | Tags: #diet #calories #energy; 3 ⭐⭐⭐ | Tags: #diet #fiber #glucose #observational; 3 ⭐⭐⭐ | Tags: #diet #macronutrients #micronutrients #caloricintake; 3 ⭐⭐⭐ | Tags: #fructose #diet #healthmarkers; 2 ⭐⭐ | Tags: #diet #macronutrients #calories #fiber #fructose; 3 ⭐⭐⭐ | Tags: #diet #yogurt #glucose #creatinine #observational; 2 ⭐⭐ | Tags: #protein #intake #optimal #self-experiment #diet; 3 ⭐⭐⭐ | Tags: #diet #watermelon #minor-change; 3 ⭐⭐⭐ | Tags: #diet #fat #glucose #saturated-fat #observational; 3 ⭐⭐⭐ | Tags: #diet #fructose #source; 3 ⭐⭐⭐ | Tags: #diet #saturated-fat #glucose #correlation #observational; 3 ⭐⭐⭐ | Tags: #calorie #intake #diet #weight #management; 3 ⭐⭐⭐ | Tags: #diet #carbohydrates #minor-change; 3 ⭐⭐⭐ | Tags: #macronutrients #protein #fat #carbs #fiber #fructose; 3 ⭐⭐⭐ | Tags: #diet #fiber #glucose #gut-health; 3 ⭐⭐⭐ | Tags: #diet #fructose #satiety #biomarkers; 3 ⭐⭐⭐ | Tags: #glucose #yogurt #diet #biomarker; 3 ⭐⭐⭐ | Tags: #calorieintake #diet #weightmanagement; 3 ⭐⭐⭐ | Tags: #diet #fat #glucose #biomarkers #insulin sensitivity; 2 ⭐⭐ | Tags: #diet #fat #glucose #correlation; 3 ⭐⭐⭐ | Tags: #diet #watermelon #biomarkers
+    - Context: Observational study of personal data, with saturated fat primarily sourced from coconut butter and cocoa beans.; Observational study of personal data from the speaker.; Observational, single individual. Fiber intake positively correlated with some favorable biomarkers.; Self-experiment; part of a diet associated with younger biological age.; The individual is testing dietary changes to optimize biomarkers, focusing on foods with positive correlative scores. Strawberries have a lower fructose content than blueberries and blackberries, per 100 kcal, and are associated with lower AST, hs-CRP, LDL, and platelets. Average intake since starting tracking is 356g/day.; Observational, single individual. Calorie intake had a negative correlation score (-5) with blood biomarkers.; Reverted to higher intake after a reduction in the previous test cycle did not yield positive results. Correlated with better biomarker data. Study Type: Case Study. Population: Single individual tracking personal health data.; Self-experiment (n=1) tracking protein intake and 36 blood biomarkers over 7 years. Protein intake ranged from 78-148g/day.; Based on the observed correlations between protein intake and biomarkers, and the presenter's efforts to optimize his biomarkers while maintaining muscle mass.; Lowest average daily calorie intake since starting diet tracking in April 2015. The subject aims to maintain this intake until body weight plateaus before considering further reductions. This intake was maintained over a 49-day period.; First increase in 3 years after sequentially reducing calorie intake over 21 tests. Increased by 40 calories from the previous test. Study: Observational, Population: Single individual, Timeframe: 29 days.; Observational study comparing 6 blood tests with yogurt intake to multiple tests without yogurt over 4 years.; Based on data from 23 blood tests since 2018. Higher strawberry intake is significantly associated with lower AST, LDL, platelets, and hsCRP. Average intake since 2018 was 350g/day.; Observational, single individual. Aim to reduce fructose intake due to increased consumption of blueberries and blackberries.; To support gut health and short-chain fatty acid production. Study: Observational, Population: Single individual, Timeframe: 29 days.; Observational, self-experiment with n=32 blood tests and corresponding dietary data from 2015-2021. Population: Single individual, male, focused on longevity.; Macronutrient composition corresponding to the 15.2-year biological age reduction. Study Type: Case Study. Population: Single individual.; Self-experiment; individual with biological age 17 years younger than chronological age.; Close to the lowest fructose intake since 2015 (lowest was 57.5g/day). Total fructose intake is tracked and limited due to its correlation with blood biomarkers going in the wrong direction. The subject consumes a lot of fruits and vegetables.; Observational study of personal data.; Based on in vitro studies and extrapolated data, as RCTs proving this specific mechanism are lacking. The typical Western diet is deficient in soluble fiber.; Observational studies suggest that dietary fiber, especially soluble fiber, is fermented by gut microbiota into SCFAs (acetate, propionate, and butyrate).; Positive correlation with favorable biomarkers (net score of +5).; Detailed breakdown of fat intake is provided, including monounsaturated, polyunsaturated, omega-3, omega-6, saturated, trans fats, and cholesterol. Carbohydrate intake adjusted for fiber to calculate net carbs. The subject tracks total fructose intake due to its correlation with adverse blood biomarker changes.; Based on negative correlations with biomarkers in this individual's data.; Observational, single individual. Carbohydrate intake had a positive correlation score (+1) with blood biomarkers.; Observational, single individual tracking dietary intake since 2015. Population: Single individual, male, diagnosed with hypothyroidism.; Lowest since 2015, aiming to balance satiety with potential negative correlations with biomarkers. Study: Observational, Population: Single individual, Timeframe: 29 days.; Based on observed correlation between higher fat intake and elevated glucose, as well as negative correlations with other "big picture" biomarkers.; Observational, single individual. Protein had a negative correlation score (-8) with blood biomarkers, although it correlated with lower homocysteine.; Observational study based on the speaker's personal data. Full-fat yogurt was one of the top 5 sources of saturated fat.; Data from 42-day period between blood tests. Correlated with lower blood glucose in this individual.; Comprehensive dietary tracking using a food scale and Cronometer app.; Observational, self-reported dietary data. Population: Single individual, male.; Observational, self-experiment with n=32 blood tests and corresponding dietary data. Population: Single individual, male.; Observational, single individual. Total fat had a negative correlation score (-7) with blood biomarkers.; Observational study based on personal dietary data and blood test results over several years.; Observational study based on the speaker's personal data of 17 blood tests over 3+ years, tracking daily food intake since July 2018.; Observational study based on 23 data points over 5 years, tracking personal dietary data and blood test results.; Comparison of 47-day dietary period for test #5 vs. 72-day period for test #4 (Observational). Population: Single individual, male, diagnosed with hypothyroidism.; Higher fat intake correlated with higher glucose, higher neutrophils and other markers going in the wrong direction based on aging and mortality data.
+    - Timeframe: 49-day period leading up to blood test.; 49 days.; Based on long-term data analysis.; Effects observed over 63 days correlating with the last blood test.; Long-term tracking over 6 years.; Implemented for the most recent blood test period.; Ongoing dietary tracking with periodic blood tests.; Data collected since last year (approximately 8 data points).; Not specified, but likely requires consistent, long-term intake.; 42 days.; Since April 2015, with a specific focus on a 49-day period.; Ongoing dietary practice.; Ongoing investigation.; 42-day period between blood tests.; Data collected from 2005 to the present.; Gradual reduction in protein intake over the past 3 years, from 114g/day to 99g/day.; Long-term observation with distinct periods of yogurt consumption and non-consumption.; Implemented over 42 days, with plans to further reduce to 80-85g/day in the next phase.; 49-day period.; Changes in fat intake reflected in blood tests taken approximately every 3 months.; 3+ years; Effects observed over 63 days.; Ongoing since 2015.; 49-day period corresponding to test number 7.; 47 days; 63 days (from August 22nd to October 23rd, 2022).; Not specified in the transcript, but likely weeks to months for significant changes in gut microbiota composition.
+    - Limitations: Individualized diet plan.; Correlational, may not be generalizable, long-term effects unknown.; Single-subject data, limited data points, correlation does not imply causation. Specific sources of saturated fats can react differently in the body.; Individual tolerance to high fiber may vary.; Individual observation, issues with accurately tracking fat breakdown in chronometer.; Single-subject data, correlation does not imply causation.; Correlation does not equal causation; individual response.; Individual response; may not apply to others. Long-term effects need further monitoring.; Single-subject data, limited data points, correlation does not imply causation.; Lack of RCTs proving the direct link between high soluble fiber intake, SCFA production, and reduced pathogenic bacteria in humans. Individual responses may vary.; Individual-specific response to fructose.; Correlative data, not necessarily causative. Individual's response may not be generalizable.; Individual observation.; Small change, unlikely to have a significant impact.; Observational, single individual.; No significant difference between the two periods.; Single-subject study; optimal intake may vary for others. Requires balancing muscle mass maintenance with biomarker optimization.; Correlational, not causal. Individual responses may vary.; Gradual reduction over time.; Correlational.; Minor change (less than 5%).; Single-subject study; results may not be generalizable. Correlation does not equal causation.; Single individual; long-term effects need further observation.; Correlation does not equal causation; individual response based on personal data.; No RCTs in older adults (60+) have tested the direct impact of a high soluble fiber diet on SCFA levels or Enterobacteria. The specific amount of soluble fiber needed is not mentioned.; Self-experiment on one individual.; Self-reported data, accuracy depends on meticulous tracking.; Single-subject study, correlational data, potential confounding factors not accounted for.; Single-subject study, extrapolation from correlational data, individual variability.; Single-person study, correlational data, not causal.; Individual observation, self-reported data.; Individual observation, difficult to achieve very high fiber intake without impacting other biomarker correlations.; Self-reported data, individual needs may vary.; Self-reported data, individual tolerance may vary.; May not be optimal for everyone; individual responses to high fiber vary.; Self-reported data may have inaccuracies.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #fructose #sugar #diet #limitation; 2 ⭐⭐ | Tags: #diet #calories #energy; 3 ⭐⭐⭐ (based on observational studies and mechanistic understanding) | Tags: #diet #fiber #soluble-fiber #SCFA #gut-microbiome; 3 ⭐⭐⭐ | Tags: #diet #watermelon #minor-change; 3 ⭐⭐⭐ | Tags: #diet #yogurt #saturated-fat #glucose #correlation #observational; 3 ⭐⭐⭐ | Tags: #diet #watermelon #biomarkers; 2 ⭐⭐ | Tags: #protein #intake #biomarkers #self-experiment #diet; 2 ⭐⭐ | Tags: #diet #carbohydrate #fructose #HDL #cholesterol; 3 ⭐⭐⭐ | Tags: #fiber #gut #health #diet; 3 ⭐⭐⭐ | Tags: #calorieintake #diet #weightmanagement; 3 ⭐⭐⭐ | Tags: #diet #fiber #glucose #observational; 2 ⭐⭐ | Tags: #diet #fat #glucose #correlation; 3 ⭐⭐⭐ | Tags: #diet #fiber #guthealth #SCFA #prebiotic; 2 ⭐⭐ | Tags: #diet #fruit #fructose #biomarker #optimization; 3 ⭐⭐⭐ | Tags: #calorie #intake #diet #weight #management; 4 ⭐⭐⭐⭐ | Tags: #diet #calories #long-term-tracking; 3 ⭐⭐⭐ | Tags: #macronutrients #protein #fat #carbs #fiber #fructose; 4 ⭐⭐⭐⭐ | Tags: #diet #protein #consistency; 2 ⭐⭐ | Tags: #diet #macronutrients #calories #fiber #fructose; 3 ⭐⭐⭐ | Tags: #diet #yogurt #glucose #creatinine #observational; 2 ⭐⭐ | Tags: #diet #dates #fructose #fruit; 2 ⭐⭐ | Tags: #diet #carbohydrates; 3 ⭐⭐⭐ | Tags: #diet #carbohydrates #minor-change; 3 ⭐⭐⭐ | Tags: #diet #fat #glucose #biomarkers #insulin sensitivity; 3 ⭐⭐⭐ | Tags: #diet #fiber #guthealth #SCFA; 2 ⭐⭐ | Tags: #diet #fat; 3 ⭐⭐⭐ | Tags: #diet #calories #caloricrestriction; 3 ⭐⭐⭐ | Tags: #fructose #diet #healthmarkers; 2 ⭐⭐ | Tags: #diet #fructose #HDL #target; 3 ⭐⭐⭐ | Tags: #diet #saturated-fat #glucose #correlation #observational; 2 ⭐⭐ | Tags: #diet #saturated-fat #crp #correlation #coconut #cocoa; 2 ⭐⭐ | Tags: #protein #intake #optimal #self-experiment #diet; 3 ⭐⭐⭐ | Tags: #diet #fat #glucose #inflammation; 2 ⭐⭐ | Tags: #diet #fiber; 3 ⭐⭐⭐ | Tags: #diet #strawberry #fructose #biomarkers #liver\_enzymes #inflammation #lipids #platelets; 3 ⭐⭐⭐ | Tags: #diet #fat #glucose #saturated-fat #observational; 3 ⭐⭐⭐ | Tags: #diet #fructose #source; 3 ⭐⭐⭐ | Tags: #diet #macronutrients #micronutrients #caloricintake; 3 ⭐⭐⭐ | Tags: #diet #strawberries #ast #ldl #platelets #hscrp #inflammation; 2 ⭐⭐ | Tags: #diet #protein; 2 ⭐⭐ | Tags: #diet #fat #crp #correlation; 3 ⭐⭐⭐ | Tags: #diet #fructose #satiety #biomarkers; 3 ⭐⭐⭐ | Tags: #diet #fiber #glucose #gut-health
 
 - **Finding**: Wheat germ is the most concentrated dietary source of spermidine (24.3 mg/100g).
-    - Context: Analysis of spermidine content in various foods.
-    - Timeframe: Not applicable.
-    - Limitations: List of foods analyzed is not comprehensive.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #diet #spermidine #wheatgerm #foodsources; 4 ⭐⭐⭐⭐ | Tags: #diet #spermidine #foodsources
+    - Context: Based on wheat germ containing 24.3 mg spermidine per 100g.; Analysis of spermidine content in various foods.
+    - Timeframe: Not applicable.; Daily intake.
+    - Limitations: List of foods analyzed is not comprehensive.; Individual absorption may vary.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #diet #spermidine #foodsources; 4 ⭐⭐⭐⭐ | Tags: #diet #spermidine #wheatgerm #foodsources; 4 ⭐⭐⭐⭐ | Tags: #diet #spermidine #wheatgerm #dosage
 
 - **Finding**: Average dietary cholesterol intake of 126.4 mg/day since 2015.
-    - Context: Correlation analysis of personal dietary and blood test data (n=39 blood tests).; Personal dietary data analysis correlating dietary cholesterol with blood cholesterol and other biomarkers. Population: Single individual (male, 44-55 years old).; Historical dietary data tracked daily with a food scale. Population: Single individual.
-    - Timeframe: 2015-present.; Unknown; to be determined through ongoing monitoring.; Most recent blood test in 2022.
+    - Context: Historical dietary data tracked daily with a food scale. Population: Single individual.; Correlation analysis of personal dietary and blood test data (n=39 blood tests).; Personal dietary data analysis correlating dietary cholesterol with blood cholesterol and other biomarkers. Population: Single individual (male, 44-55 years old).
+    - Timeframe: Unknown; to be determined through ongoing monitoring.; 2015-present.; Most recent blood test in 2022.
     - Limitations: Represents a single individual's dietary habits.; Correlational, not necessarily causal. Limited to a single individual.; Based on correlational data from a single individual. Dietary cholesterol may not have the same effect in all individuals. Other biomarkers may be negatively impacted.
-    - Confidence: 2 ⭐⭐ | Tags: #diet #cholesterol #DHEA #intervention #personal-data; 4 ⭐⭐⭐⭐ | Tags: #diet #cholesterol #historical-data #personal-data; 3 ⭐⭐⭐ | Tags: #diet #cholesterol #correlation #personal-data
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #diet #cholesterol #historical-data #personal-data; 3 ⭐⭐⭐ | Tags: #diet #cholesterol #correlation #personal-data; 2 ⭐⭐ | Tags: #diet #cholesterol #DHEA #intervention #personal-data
+
+- **Finding**: Consumed 166.5g/day of mushrooms, yielding 11.8mg/day of spermidine.
+    - Context: Rich source of spermidine and ergothioneine, both associated with potential longevity benefits.; Observational, based on the correlation between lower intake of these foods and lower *Serratia* or higher levels of beneficial bacteria. Individual aimed for the lower end of their usual intake range.; Observational study correlating self-reported mushroom intake with blood ergothioneine levels.; Based on research showing spermidine's potential to increase lifespan in mice and reduce all-cause mortality risk in humans.; Ergothioneine is a metabolite found in mushrooms. Observational study in humans suggests higher plasma ergothioneine levels are associated with reduced all-cause mortality.; Personal metabolomic data analysis. Increasing from one 700g box per week to two. Population: Single individual (speaker).; Observational study of 829 individuals (average age 67) over 20 years.; Observational, based on the correlation between higher mushroom intake and lower *Serratia* levels or higher levels of bacteria inversely correlated with *Serratia*. Individual aimed to eat at the lower end of their usual intake range due to the correlation patterns.
+    - Timeframe: Ongoing dietary practice.; Not specified, but data suggests ongoing monitoring and adjustments.; Ongoing since 2015.; 20-year follow-up.; Not specified, likely a cross-sectional analysis.; 30-day average prior to the test.; Not specified, likely long-term dietary habits influence plasma levels.
+    - Limitations: Self-reported dietary data can be unreliable; correlation does not equal causation.; Human data on ergothioneine is limited.; Observational, not causal.; Correlational data from a single individual. Dosage adjustments may be necessary.; Human studies on spermidine are observational, optimal dosage not yet established.; Correlation, not causation. The exact amount of mushrooms needed is not quantified. Gut bacteria can degrade ergothioneine, impacting bioavailability.; Correlational, not causal. Specific quantities not provided.; Correlational, not causal. Individual's response may differ.
+    - Confidence: 2 ⭐⭐ | Tags: #diet #oralmicrobiome #serratia #onions #protein #observational; 3 ⭐⭐⭐ | Tags: #diet #spermidine #mortality #humans #observational; 2 ⭐⭐ | Tags: #diet #oralmicrobiome #serratia #mushrooms #observational; 2 ⭐⭐ | Tags: #diet #mushrooms #ergothioneine #longevity; 3 ⭐⭐⭐ | Tags: #diet #mushrooms #spermidine #ergothioneine #longevity; 2 ⭐⭐ | Tags: #diet #mushrooms #PCS #IS #metabolites #gut\_health #vitamin\_B5; 2 ⭐⭐ | Tags: #ergothioneine #mushrooms #diet #blood-levels #correlation; 4 ⭐⭐⭐⭐ | Tags: #diet #mushrooms #spermidine #longevity #allcausemortality
+
+- **Finding**: Individuals over 50 should reduce or eliminate consumption of grains, rice, corn, dairy, and legumes.
+    - Context: Research by Grant Rutledge, building on mathematical models by Larry Muller, demonstrated that even after extensive adaptation to a novel diet, reverting to an ancestral diet improved health in older fruit flies.; Based on the concept that humans, after their 50s, are no longer adapted to agricultural foods due to the detuning of natural selection with age, particularly those with ancestry from the northwestern periphery of Eurasia. Grant Rutledge's research supports this, showing improved health outcomes in fruit flies fed diets closer to their ancestral diets, even after 1000 generations on a lab-based diet.; Experimental evolution studies in Dr. Rose's lab, where lifespan was manipulated through diet.
+    - Timeframe: Ongoing, with benefits potentially realized quickly upon dietary adjustment.; Not specified, but likely over multiple generations.; Benefits observed in later stages of life.
+    - Limitations: Direct applicability to humans is still under investigation, but the underlying principles are considered generalizable due to the mathematical models' generality.; Individual responses may vary based on specific genetic background and health status. Further research is needed to quantify the exact benefits and optimal dietary composition for different ancestries.; Specific dietary changes and their quantitative impact on lifespan are not detailed in this transcript.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #fruitflies #ancestral #adaptation #lifespan; 3 ⭐⭐⭐ | Tags: #diet #lifespan #fruitflies #experimental #evolution; 4 ⭐⭐⭐⭐ | Tags: #diet #ancestral #aging #agriculture #health
 
 - **Finding**: Broiling, grilling, or pan-frying beef increases CML content by 10-14 fold compared to raw beef.
-    - Context: Observational, comparison of different beef cooking methods.; Observational, comparison of raw vs. cooked beef using different methods.
+    - Context: Observational, comparison of raw vs. cooked beef using different methods.; Observational, comparison of different beef cooking methods.
     - Timeframe: Not applicable (immediate effect of cooking method).
-    - Limitations: Specific to beef.; Specific to beef; other meats may differ.
+    - Limitations: Specific to beef; other meats may differ.; Specific to beef.
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #diet #AGEs #CML #cooking #beef #meat #stewing; 4 ⭐⭐⭐⭐ | Tags: #diet #AGEs #CML #cooking #beef #meat
 
-- **Finding**: Calorie Intake
-    - Change: Average intake around 2100 calories per day. Aiming to reduce to around 2050 to assess impact on telomere length.
-    - Context: Observational data from 15 telomere length tests paired with detailed dietary records. Correlation coefficient (r) = 0.7.; Case study, single individual, tracking calorie intake and telomere length over seven tests.; Observational data; specific correlation coefficient not provided, but P < 0.05.; Tracked using food scale and chronometer.; Observational study, dietary intake tracked, dosage increased to test the correlation.; Case study, single individual.; Observational study; same methodology as above.; Case study, single individual, analyzing dietary data against telomere length.; Observational study, dietary intake tracked, dosage not specified but maintained at the higher end of the individual's usual range.; Observational study based on personal data from 10 telomere length tests and corresponding dietary records. Average dietary intake calculated for the period between each test (e.g., 60 days).
-    - Timeframe: Effects observed over a year (2022-2023), with ongoing monitoring.; Data collected over multiple tests.; Ongoing; the next test scheduled in approximately two weeks from the video's creation, with an update expected in September.; Ongoing.; Data collected over multiple tests, with correlations analyzed.; Data collected over a period of at least a year, comparing 2022 and 2023 data.
-    - Confidence: 2 ⭐⭐ | Tags: #diet #calories #telomere-length #aging; 3 ⭐⭐⭐ | Tags: #diet #calories #telomere-length #aging #observational; 2 ⭐⭐ | Tags: #diet #parmesan #cheese #telomere-length #aging; 3 ⭐⭐⭐ | Tags: #diet #parmesan-cheese #telomere-length #aging #observational; 2 ⭐⭐ | Tags: #supplement #black-pepper #telomere-length #aging; 3 ⭐⭐⭐ | Tags: #diet #telomere #broccoli #correlation #observation; 2 ⭐⭐ | Tags: #diet #flaxseed #telomere-length #aging; 3 ⭐⭐⭐ | Tags: #diet #telomere #cloves #correlation #observation; 2 ⭐⭐ | Tags: #diet #brazil-nuts #selenium #vitamin-b1 #cacao #black-pepper #telomere-length #aging #observational; 2 ⭐⭐ | Tags: #supplement #selenium #brazil-nuts #telomere-length #aging; 4 ⭐⭐⭐⭐ | Tags: #calories #diet #biomarker
-
-- **Finding**: Lymphocytes
-    - Change: Increase from <1600 to 1877 (closer to the youthful average of 2000); Higher lymphocyte counts at 16 months were significantly correlated with a longer lifespan.
-    - Context: Correlation analysis between lymphocyte levels and average daily calorie intake from the speaker's personal data.; Observed in mice across all dietary groups, regardless of calorie restriction or fasting.; Associated with a slight increase in calorie intake from 2080 to 2150 kcal/day in the speaker's personal data.; Personal data analysis of the speaker, tracking diet and biomarkers over 9 years.
-    - Timeframe: Not specified, based on long-term data.; Observed over several months.; Observed improvement in lymphocyte levels within a few months after increasing calorie intake.; Measured at 16 months of age in mice.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #lymphocytes #lifespan #mice #biomarker; 2 ⭐⭐ | Tags: #lymphocytes #immune-system #aging #diet; 1 ⭐ | Tags: #diet #calories #lymphocytes #extrapolation; 2 ⭐⭐ | Tags: #diet #calories #lymphocytes #longevity
-
-- **Finding**: Albumin
-    - Change: Decreased with age from 4.2 in younger groups to 3.2 in supercentenarians.; Hypothesized decrease in blood during aging due to protease activity.; Average of 7.07 g/dL; Maintained at high youthful levels, targeting 4.8-4.9 g/dL.
-    - Context: Observational study on centenarians and older adults; albumin levels decrease with age and lower levels are associated with higher mortality risk.; Important protein declining with age, associated with mortality and physical function.; Appears relatively youthful but masks unhealthy albumin and globulin levels.; Observational study; lower levels associated with higher all-cause mortality risk; levels are malleable with diet.; Based on albumin being the most abundant circulating protein and a potential target for proteases.
-    - Timeframe: Ongoing monitoring and adjustment.; Not specified.; Not specified in the transcript.; Potentially chronic in relation to autodigestion and aging.; Measured at ages 111.5, 113.3, and 115.7.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #albumin #mortality #aging #diet; 2 ⭐⭐ | Tags: #biomarker #albumin #aging #proteases #hypothesis; 4 ⭐⭐⭐⭐ | Tags: #healthmarker #albumin; 3 ⭐⭐⭐ | Tags: #totalprotein #albumin #globulin #aging; 2 ⭐⭐ | Tags: #diet #albumin #mortality #aging
-
-- **Finding**: Increased spermidine intake (approximately 1 mg/day) via wheat germ-enriched bread.
-    - Effects: Improved cognitive performance in older adults with dementia, increased blood spermidine levels by about 40%.
-    - Context: RCT with wheat germ-enriched bread intervention.; RCT with 92 participants (average age 83) over 3 months.; Older adults with dementia consuming wheat germ-enriched bread.; Mice fed a high polyamine diet.
-    - Limitations: Small increase in spermidine intake.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #supplement #spermidine #cognition #dementia #RCT #wheatgerm; 4 ⭐⭐⭐⭐ | Tags: #biomarker #spermidine #bloodlevels #mice; 4 ⭐⭐⭐⭐ | Tags: #biomarker #spermidine #bloodlevels #humans #dementia; 4 ⭐⭐⭐⭐ | Tags: #cognition #dementia #spermidine #RCT
-
-- **Finding**: High-sensitivity C-reactive protein (hs-CRP)
-    - Change: 1.13 mg/L (good, but closer to zero is optimal); Consistently maintained at <0.3 mg/dL.; Elevated levels indicate inflammation, potentially in response to infection or microbial burden.; <0.3 mg/L (latest measurement). Note that this is the limit of detection for the test used.; Not specified in the presentation.; Increased to 1.01 mg/L in the most recent test, 2.5-fold higher than previous measurements. Average of 0.67 and 0.53 in June and July in previous years.; Increased with age across all groups.; Consistently less than 0.3 mg/L for 11 consecutive tests.; Lower levels are associated with lower all-cause mortality. Optimal: < 0.33 mg/L. Paul Saladino's level: 1.7 mg/L.; Increases with age (more than fivefold in men, threefold in women). The speaker's CRP decreased with higher saturated fat intake.; The speaker aims to decrease hs-CRP levels. His current level is 1.01 mg/L, up from 0.27 mg/L in the previous test.; Consistently less than 0.3 mg/L for 10 consecutive tests.; <0.2 mg/L (at-home test), <0.3 mg/L (lab test)
-    - Context: Seasonal allergies (late May to early August).; Observational study; higher levels associated with increased mortality risk.; Multiple studies with varying sample sizes.; Measured by Quest Diagnostics.; Measured as part of a blood test.; Indicator of inflammation. Lower levels suggest reduced inflammation.; Multiple observational studies and personal data.; hs-CRP is a marker of systemic inflammation.; hs-CRP is an inflammatory marker. Lower levels are generally associated with better health outcomes. The speaker is trying to lower it by increasing his HDL levels.; Centenarian woman; marker of inflammation; values close to zero associated with reduced risk of death from all causes.; Comparison of at-home finger-prick test with lab-based venipuncture; both tests fasted.; Marker of inflammation.; 20 consecutive tests showing hs-CRP below the lab's limit of detection.
-    - Timeframe: Over a period of at least 11 tests; Measurements taken in June and July show consistently higher CRP.; Not specified.; Lifetime; personal data over approximately 1 year.; Single measurement on July 11, 2022.; Not specified, but the speaker aims to assess changes in his next blood test.; Recent measurement.; At least the duration of 20 tests, timeframe not precisely specified.; Measured over 12 blood tests since 2018.; Over multiple tests in 2023.; Not applicable (single measurement).
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #CRP #inflammation #mortality #aging; 3 ⭐⭐⭐ | Tags: #healthmarker #hsCRP #inflammation #infection; 4 ⭐⭐⭐⭐ | Tags: #CRP #inflammation #biomarker; 3 ⭐⭐⭐ | Tags: #inflammation #crp #mortality #aging; 4 ⭐⭐⭐⭐ | Tags: #CRP #inflammation #healthmarker; 4 ⭐⭐⭐⭐ | Tags: #hs-crp #inflammation #biomarker; 4 ⭐⭐⭐⭐ | Tags: #hs-CRP #inflammation #biomarker #at-home-testing; 4 ⭐⭐⭐⭐ | Tags: #CRP #inflammation #mortality #longevity; 3 ⭐⭐⭐ | Tags: #hsCRP #inflammation; 3 ⭐⭐⭐ | Tags: #CRP #inflammation; 3 ⭐⭐⭐ | Tags: #biomarker #inflammation #crp; 3 ⭐⭐⭐ | Tags: #crp #aging #mortality; 4 ⭐⭐⭐⭐ | Tags: #CRP #allergies #inflammation #seasonal
-
-- **Finding**: DHEA Sulfate
-    - Change: Not quantified, but stated to be low.; Stable at 126 µg/dL, similar to the 17-test average over 26 months.; 129 µg/dL (venipuncture), 119.8 µg/dL (average of 12 finger prick tests over 7 weeks). 300 µg/dL (average of two test in 2005).
-    - Context: Low for chronological age, associated with increased all-cause mortality risk, declining since 2005.; The speaker hypothesizes that low NAD levels may be limiting DHEA production.; Androgen that declines with age. Past levels were 300 µg/dL, potentially due to DHEA supplementation.
-    - Timeframe: 26 months.; Multiple measurements, including historical data.; Single blood test.
-    - Confidence: 2 ⭐⭐ | Tags: #dhea #androgens #hormones; 4 ⭐⭐⭐⭐ | Tags: #DHEA #aging #mortality #biomarker; 2 ⭐⭐ | Tags: #dhea #hormones #nad #aging
+- **Finding**: Increasing dietary calcium intake from 200 mg/day to 1200 mg/day reduces oxalate absorption from 17% to 2.6%.
+    - Context: Same RCT as above.; RCT where participants were fed varying amounts of calcium alongside oxalate, and oxalate absorption was measured.
+    - Timeframe: Not specified, likely short-term.; Not specified, but likely short-term based on the study design.
+    - Limitations: The study focused on absorption, not long-term health outcomes. The exact timeframe is not given.; Same as above.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #diet #calcium #oxalate #absorption #kidney
 
 - **Finding**: Higher dietary intake or supplementation leading to increased circulating levels of EPA and DHA is associated with reduced all-cause mortality.
     - Context: Meta-analysis of 17 studies involving over 42,000 participants, examining the correlation between circulating EPA and DHA levels and all-cause mortality risk.
@@ -990,11 +954,29 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Observational nature of the studies limits establishing causality. Also, the specific dietary sources of EPA and DHA are not detailed.
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #diet #omega-3 #EPA #DHA #mortality #cardiovascular
 
+- **Finding**: No alcohol consumption
+    - Context: Based on negative impact on heart rate variability, resting heart rate, and sleep quality.
+    - Timeframe: Ongoing.
+    - Limitations: Personal choice, may not apply to everyone.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #diet #alcohol #cardiovascular #sleep
+
 - **Finding**: No direct dietary interventions were studied. However, body weight was not different between the albumin-treated and saline-treated groups, suggesting that calorie restriction was not a factor in the observed health and longevity benefits.
     - Context: C57BL/6 mice, starting at 12 months of age, received injections of either rMSA or saline every three weeks until death. Body weight was measured throughout the study.
     - Timeframe: 8 months (from 12 to 20 months of age)
     - Limitations: Food intake was not directly measured, so the possibility of mild calorie restriction cannot be completely ruled out.
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #bodyweight #caloricrestriction #indirectevidence
+
+- **Finding**: Consumption of 100g of dark chocolate daily for 15 days improved insulin sensitivity and lowered blood pressure in comparison to 90g of white chocolate daily.
+    - Context: RCT comparing the effects of dark vs. white chocolate consumption in 15 subjects.
+    - Timeframe: 15 days
+    - Limitations: Small sample size (n=15), short duration.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #dark-chocolate #insulin-sensitivity #blood-pressure #rct #diet
+
+- **Finding**: 75g glucose bolus led to a smaller increase in blood glucose levels in subjects exposed to 670nm red light.
+    - Context: Study by Glen Jeffery, University College London, on human subjects. Red light exposure enhanced mitochondrial function, leading to increased glucose utilization.
+    - Timeframe: Acute effect observed during the study.
+    - Limitations: Study focused on red light, not specifically NIR.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #glucose #metabolism #redlight #mitochondria #diabetes
 
 - **Finding**: Calorie restriction over a two-year period resulted in a younger biological age.
     - Context: CALERIE randomized controlled trial, measured biological age using the Klemera/Dubal method.
@@ -1032,6 +1014,12 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: This is an observation, not a strict calorie-counting approach.
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #diet #bmi #calorie-restriction #weight-management
 
+- **Finding**: Consuming a very large glucose load results in a significant spike in blood glucose levels.
+    - Context: Study involved participants who fasted overnight and were then given a large glucose load orally in a control group.
+    - Timeframe: Blood glucose peaked and then slowly decreased over approximately one hour.
+    - Limitations: The exact quantity of the glucose load is not specified. The glucose tolerance test is described as unpleasant, potentially affecting participant behavior and response.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #glucose #metabolism #diet #fasting
+
 - **Finding**: Industrial food products novel to the human diet since 1850 (e.g., high fructose corn syrup, processed seed oils, trans fats, nitrites) are not adapted to by any human population and range from toxin to poison.
     - Context: Dr. Rose highlights that no human population has adapted to these novel food components introduced relatively recently in human evolutionary history.
     - Timeframe: Ongoing avoidance recommended.
@@ -1062,101 +1050,47 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Limited number of studies.
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #diet #AGEs #inflammation #TNF-alpha #humans
 
-- **Finding**: Increasing dietary calcium intake from 200 mg/day to 1200 mg/day reduces oxalate absorption from 17% to 2.6%.
-    - Context: RCT where participants were fed varying amounts of calcium alongside oxalate, and oxalate absorption was measured.
-    - Timeframe: Not specified, but likely short-term based on the study design.
-    - Limitations: The study focused on absorption, not long-term health outcomes. The exact timeframe is not given.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #diet #calcium #oxalate #absorption #kidney
-
 - **Finding**: No significant difference in dietary intake (grams of food consumed per mouse per day) between the groups.
     - Context: RCT; young (6-week-old) male ICR mice were given either vehicle or three different concentrations of *L. plantarum* (1x, 2x, 5x) once per day for four weeks.
     - Timeframe: 4 weeks
     - Limitations: Study only measured the quantity of food intake, not the macronutrient composition. Only conducted in mice.
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #diet #food #intake #mice #experimental
 
-- **Finding**: Acarbose + Rapamycin (combination therapy, dosages not specified)
-    - Effects: Extends lifespan more than rapamycin alone in mice.
-    - Context: ITP studies mentioned in the transcript.
-    - Limitations: Human data lacking; mechanisms need further investigation.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #acarbose #rapamycin #combination #therapy #lifespan #mouse #ITP
-
-- **Finding**: Acarbose supplementation.
-    - Effects: Increased median and maximum lifespan in male and female mice. Increased fecal levels of acetate, butyrate, and propionate.
-    - Context: Pooled data from genetically heterogeneous mice at three study sites.
-    - Limitations: Mouse study; optimal dosage and effects in humans need further investigation.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #acarbose #lifespan #SCFAs #supplementation
-
-- **Finding**: Plasma protein degradation.
-    - Change: Increased low molecular weight peptides in plasma after shock and in aged animals.
-    - Context: Assessed using mass spectrometry.
-    - Timeframe: Observed after shock and in aged animals.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #biomarker #plasma-proteins #degradation #aging
-
-- **Finding**: Red Blood Cell Distribution Width (RDW)
-    - Change: Higher RDW at 10 months was significantly correlated with a shorter lifespan.
-    - Context: Observed in mice across all dietary groups. RDW measures variability in red blood cell size.
-    - Timeframe: Measured at 10 months of age in mice.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #RDW #lifespan #mice #biomarker
-
-- **Finding**: *Serratia marcescens* in oral microbiome
-    - Change: Varied significantly across tests, ranging from 0% to 96%. Average of 45% in the first five tests (with mouthwash) and 95.5% in the last four tests (without mouthwash or with modifications).
-    - Context: Measured via oral microbiome testing (Bristle). Changes associated with dietary interventions and mouthwash use.
-    - Timeframe: Changes observed over 10 tests conducted over several months.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #healthmarker #oralmicrobiome #serratia #bristle
-
-- **Finding**: Resistance to Muscle Fatigue
-    - Change: Improved with chronic trigonelline supplementation in aged mice.
-    - Context: *In vivo* study in aged mice.
-    - Timeframe: 3 months.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #muscle #fatigue #trigonelline #mice #improvement
-
-- **Finding**: Red Blood Cell Count (RBC)
-    - Change: Increased from a range of 4.45-4.8 (without yogurt) to consistently above 5 (with yogurt).
-    - Context: Dietary intervention (yogurt consumption, approximately 440g/day).
-    - Timeframe: Several years of data, with 6 measurements during yogurt consumption.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #RBC #yogurt #diet #biomarker
-
-- **Finding**: Body Weight
-    - Change: Used as a primary indicator of overall health and eating habits. Mangan mentions weighing 1-2 pounds more the day after a workout due to increased food intake.
-    - Context: Mangan weighs himself daily and adjusts his diet based on weight fluctuations.
-    - Timeframe: Daily monitoring.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #health-marker #body-weight #self-monitoring
-
-- **Finding**: Albumin, Creatinine, Glucose, C-reactive protein, Lymphocytes (%), Mean Red Blood Cell Volume, Red Blood Cell Distribution Width, Alkaline Phosphatase, White Blood Cells
-    - Change: Used in the calculation of Levine's Phenotypic Age
-    - Context: Inputted into the Levine's Phenotypic Age calculator.
-    - Timeframe: Measured at each blood test.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #biomarkers #levinesphenotypicage #biologicalage
-
 - **Finding**: Consuming 5 servings of vegetables per day.
-    - Context: Included in the AHEI for defining a healthy diet.; This is part of the Alternative Healthy Eating Index (AHEI) used to define a healthy diet in the study. A maximum score of 10 is given for this component.; Part of the AHEI for defining a healthy diet. A maximum score of 10 is given for this component.
+    - Context: This is part of the Alternative Healthy Eating Index (AHEI) used to define a healthy diet in the study. A maximum score of 10 is given for this component.; Included in the AHEI for defining a healthy diet.; Part of the AHEI for defining a healthy diet. A maximum score of 10 is given for this component.
     - Timeframe: Likely a long-term dietary pattern for sustained benefits.
-    - Limitations: The specific impact of nuts or soy protein alone is not isolated in this study. The study is observational.; Similar to vegetables, the specific impact of fruit intake alone is not isolated in this study. The study is observational.; The AHEI is a composite score, and the specific impact of individual components like vegetable intake is not isolated. The study is observational.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #AHEI #vegetables #nutrition; 3 ⭐⭐⭐ | Tags: #diet #AHEI #nuts #soy #protein #nutrition; 3 ⭐⭐⭐ | Tags: #diet #AHEI #fruits #nutrition
+    - Limitations: Similar to vegetables, the specific impact of fruit intake alone is not isolated in this study. The study is observational.; The specific impact of nuts or soy protein alone is not isolated in this study. The study is observational.; The AHEI is a composite score, and the specific impact of individual components like vegetable intake is not isolated. The study is observational.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #AHEI #nuts #soy #protein #nutrition; 3 ⭐⭐⭐ | Tags: #diet #AHEI #vegetables #nutrition; 3 ⭐⭐⭐ | Tags: #diet #AHEI #fruits #nutrition
 
 - **Finding**: Lower levels of specific diglycerides and triglycerides (those with <56 carbons and <3 double bonds) are associated with a higher healthy lifestyle score.
-    - Context: Self-experimentation using metabolomic testing.; Observational study on plasma metabolites, linking specific lipid profiles to a healthy lifestyle and longevity.; Identified as part of a metabolite signature associated with a healthy lifestyle and longevity.
-    - Timeframe: After 5-6 tests are conducted.; The study's follow-up was 28 years, suggesting long-term associations.
+    - Context: Self-experimentation using metabolomic testing.; Observational study on plasma metabolites, linking specific lipid profiles to a healthy lifestyle and longevity.
+    - Timeframe: The study's follow-up was 28 years, suggesting long-term associations.; After 5-6 tests are conducted.
     - Limitations: No dietary data analysis yet. Only intentions to analyze.; Correlation does not imply causation. Specific dietary interventions to lower these lipids are not detailed in the transcript.
-    - Confidence: 1 ⭐ | Tags: #diet #triglycerides #longevity #future\_research; 3 ⭐⭐⭐ | Tags: #diet #lipids #triglycerides #diglycerides #longevity; 3 ⭐⭐⭐ | Tags: #triglycerides #lipids #metabolites #biomarkers #longevity
+    - Confidence: 1 ⭐ | Tags: #diet #triglycerides #longevity #future\_research; 3 ⭐⭐⭐ | Tags: #diet #lipids #triglycerides #diglycerides #longevity
 
 - **Finding**: Consistent whole-food diet associated with younger biological age.
-    - Context: Higher carbohydrate intake correlated with lower glucose in this individual. Fiber intake is also important.; 40+ blood tests since 2015, maintaining a younger biological age, as measured by PhenoAge and Aging.ai. Diet was analyzed for a 49-day period corresponding to blood test #3 in 2023. Diet included 50 different foods. Top 10 foods by calorie intake are sardines and others consistent with previous tests. The subject reports having followed this diet, with minor variations, since 2015.; Observational study of personal dietary data over 6.5 years, with detailed tracking of food intake and blood biomarkers.
-    - Timeframe: Implemented for the most recent blood test period.; Ongoing since 2015, with specific analysis for a 49-day period.; Change implemented over 42 days preceding the most recent blood test.
-    - Limitations: Single individual, correlational data, potential confounding factors not fully accounted for.; Self-reported data, individual results may vary.; Individual response; may not apply to those with different metabolic profiles.
+    - Context: 40+ blood tests since 2015, maintaining a younger biological age, as measured by PhenoAge and Aging.ai. Diet was analyzed for a 49-day period corresponding to blood test #3 in 2023. Diet included 50 different foods. Top 10 foods by calorie intake are sardines and others consistent with previous tests. The subject reports having followed this diet, with minor variations, since 2015.; Higher carbohydrate intake correlated with lower glucose in this individual. Fiber intake is also important.; Observational study of personal dietary data over 6.5 years, with detailed tracking of food intake and blood biomarkers.
+    - Timeframe: Change implemented over 42 days preceding the most recent blood test.; Implemented for the most recent blood test period.; Ongoing since 2015, with specific analysis for a 49-day period.
+    - Limitations: Individual response; may not apply to those with different metabolic profiles.; Single individual, correlational data, potential confounding factors not fully accounted for.; Self-reported data, individual results may vary.
     - Confidence: 3 ⭐⭐⭐ | Tags: #diet #carbohydrates #glucose #fiber; 3 ⭐⭐⭐ | Tags: #diet #wholefoods #biologicalage #consistency; 3 ⭐⭐⭐ | Tags: #diet #wholegrains #carbohydrates #glucose #biomarkers
 
 - **Finding**: Cheat meals limited to 1.1% of total calories.
-    - Context: Includes ice cream (840 calories), popcorn (220 calories), and sugar (155 calories) consumed over 2-3 days post-blood test. Study Type: Case Study. Population: Single individual.; Includes chocolate, jelly, and cheesecake. Peanut butter (ingredients: peanuts and salt) is considered a whole food.; Strategy to maintain dietary adherence and biomarker stability.
+    - Context: Includes chocolate, jelly, and cheesecake. Peanut butter (ingredients: peanuts and salt) is considered a whole food.; Strategy to maintain dietary adherence and biomarker stability.; Includes ice cream (840 calories), popcorn (220 calories), and sugar (155 calories) consumed over 2-3 days post-blood test. Study Type: Case Study. Population: Single individual.
     - Timeframe: 49 days.; Ongoing.; 49-day period.
-    - Limitations: Self-reported, limited to a small portion of the diet.; Self-reported data, individual adherence may vary.; Individual-specific approach to cheat meals.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #cheat #meals #diet #adherence #biomarkers; 2 ⭐⭐ | Tags: #diet #cheatmeals #calories; 3 ⭐⭐⭐ | Tags: #cheatmeals #diet #moderation
+    - Limitations: Individual-specific approach to cheat meals.; Self-reported, limited to a small portion of the diet.; Self-reported data, individual adherence may vary.
+    - Confidence: 2 ⭐⭐ | Tags: #diet #cheatmeals #calories; 3 ⭐⭐⭐ | Tags: #cheat #meals #diet #adherence #biomarkers; 3 ⭐⭐⭐ | Tags: #cheatmeals #diet #moderation
 
-- **Finding**: Increased garlic intake to 2.6g/day.
-    - Context: Analysis of personal dietary data alongside epigenetic testing. Population: Single individual (speaker).; Observational, self-experiment, n=1, aiming to test the correlation between garlic intake and Horvath epigenetic age.; Garlic intake was increased to test its correlation with epigenetic age. The strength of the correlation will depend on the results.
-    - Timeframe: Not specified, based on data from six tests over two years.; 49-day period.; 49 days.
-    - Limitations: Single individual, correlation does not imply causation.; Limited sample size (n=1), potential for false positives due to not accounting for the false discovery rate.
-    - Confidence: N/A | Tags: #epigenetic-age #garlic #correlation #observation; 2 ⭐⭐ | Tags: #diet #epigenetics #horvath #parsley #anti-aging; 3 ⭐⭐⭐ | Tags: #diet #garlic #epigenetic-age #methylation #observation
+- **Finding**: Consuming 15g or more of pickled dill can contribute to increased NAD+ levels.
+    - Context: Dill is a good source of quercetin (55.5mg/100g), which inhibits CD38. Pickling dill in leftover pickle juice is suggested as a consumption method.; Red/purple onions are a good source of quercetin, which inhibits CD38, leading to increased NAD+ levels.; Contain dietary CD38 inhibitors (cyanidin and apigenin), which may help maintain NAD+ levels.
+    - Timeframe: Not explicitly stated, but the effect of inhibiting CD38 on NAD+ levels is expected to be relatively rapid.; Ongoing since 2015.
+    - Limitations: Indirect mechanism; impact on human NAD+ levels not directly measured.; The specific amount of red/purple onions needed and the corresponding NAD+ increase are not quantified.; The exact timeframe and magnitude of NAD+ increase from this specific dill intake are not detailed. The quercetin content might vary depending on the pickling process.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #NAD+ #quercetin #onions #CD38; 2 ⭐⭐ | Tags: #diet #CD38 #NAD #aging; 3 ⭐⭐⭐ | Tags: #diet #NAD+ #quercetin #dill #CD38
+
+- **Finding**: Lower body weight is correlated with improved RHR and HRV.
+    - Context: Observational, speaker's personal data (n=593 days), adults, adjusted for daily exertion and calorie intake.; Based on the correlation analysis between dietary intake and blood test results, specifically hs-CRP levels. The speaker's average daily MUFA intake was correlated with hs-CRP.; Analysis of the speaker's personal data, showing a strong positive correlation (r = 0.71) between calorie intake and RDW.; The speaker's personal data analysis from August 2018 to June 2023, with body weight recorded daily in the morning after using the bathroom and fasted (n ≈ 1800 days).; Observational, speaker's personal data (n=1200 days), adults.
+    - Timeframe: Based on long-term data tracking.; Not specified, but the speaker aims to test this in his next blood test.; Daily effect.; Effects observed over several months to years.
+    - Limitations: This is a single-person observational study; individual results may vary. Correlation does not equal causation.; Individual results, not necessarily applicable to others.; Individual data, correlation not causation.; Individual data, small effect size.; Correlation does not equal causation. Other unmeasured factors could influence CRP levels. Individual responses to dietary changes can vary.; Individual data, small effect size, non-fructose carbs not significant for HRV.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #calories #RDW #mortality; 3 ⭐⭐⭐ | Tags: #diet #calories #RHR #HRV #observational; 3 ⭐⭐⭐ | Tags: #diet #carbohydrates #RHR #observational; 3 ⭐⭐⭐ | Tags: #diet #weightloss #bodyweight #rhr #hrv #cardiovascularhealth; 3 ⭐⭐⭐ | Tags: #diet #MUFA #RHR #HRV #observational; 3 ⭐⭐⭐ | Tags: #diet #MUFA #CRP #inflammation #biological-age
 
 - **Finding**: Red bell pepper intake below average (average intake: 298g/day)
     - Context: Based on data from 23 blood tests. Intake is correlated with higher creatinine, higher neutrophils, and lower lymphocyte percentage, all considered unfavorable for aging.; Red bell peppers have a net negative correlative score of -4 with biomarkers, despite being a good source of beta-cryptoxanthin, which is associated with a younger epigenetic age. Average intake since 2018 is 293g/day.
@@ -1164,92 +1098,53 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Correlational. Individual responses may vary.; Correlative data. The need to balance beta-cryptoxanthin intake with negative correlations.
     - Confidence: 3 ⭐⭐⭐ | Tags: #diet #red\_bell\_pepper #beta-cryptoxanthin #epigenetic\_age #biomarkers; 3 ⭐⭐⭐ | Tags: #diet #redbellpepper #creatinine #neutrophils #lymphocytes #inflammation
 
-- **Finding**: Increased flaxseed intake to 16g/day from 11.8g/day.
-    - Context: Increased flaxseed intake may be a contributing factor. From test 5 to test 6.; Flaxseeds have a net positive correlative score of +4 and are associated with lower creatinine. The individual aims to reduce creatinine to around 0.9 mg/dL. Average intake since 2018 is 9.7g/day.
-    - Timeframe: 63 days.; From August 22nd to October 24th, 2022
-    - Limitations: Correlative data. Need to find the upper limit for benefits.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #flaxseed #creatinine #biomarkers; 3 ⭐⭐⭐ | Tags: #health\_marker #creatinine #flaxseed
+- **Finding**: Consumption of approximately 18 grams of chocolate per week is associated with the lowest all-cause mortality risk in never-smokers.
+    - Context: Observational study, comparing mortality risks in individuals consuming varying amounts of chocolate.; Observational study analyzing hazard ratios for all-cause mortality based on chocolate consumption in a large population (over 47,000 non-smokers and a similar number of current or former smokers).
+    - Timeframe: Not specified in the transcript.
+    - Limitations: Observational study, association does not equal causation. Potential for unmeasured confounders.; Observational study, association does not equal causation.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #chocolate #all-cause-mortality #diet #observational-study #non-smokers; 3 ⭐⭐⭐ | Tags: #chocolate #alzheimers #mortality #diet #observational-study
+
+- **Finding**: Trigonelline is found in high concentrations in fenugreek seeds and coffee beans.
+    - Context: Observational study used trigonelline as a biomarker for coffee exposure.; Expert opinion based on literature review, highlighting natural sources of trigonelline.; Expert opinion based on literature reports.
+    - Timeframe: Not specified.
+    - Limitations: Consuming such a large amount of fenugreek extract is not advisable due to the presence of other unknown molecules and potential side effects.; The exact amount of trigonelline needed from dietary sources to impact NAD+ levels and health outcomes is not yet known.; This plasma concentration may not be sufficient to significantly modulate NAD+ levels or impact health outcomes.
+    - Confidence: 2 ⭐⭐ | Tags: #diet #trigonelline #fenugreek #dosage #limitations; 3 ⭐⭐⭐ | Tags: #diet #trigonelline #coffee #fenugreek #natural #sources; 3 ⭐⭐⭐ | Tags: #diet #trigonelline #coffee #dosage #plasma #levels
 
 - **Finding**: Increased peanut intake to 12g/day from 0g/day.
-    - Context: Peanuts are a good source of niacin, which was reduced due to decreased barley intake. Peanuts have a net correlative score of 0. Average intake since 2018 is 2.6g/day.; Increased from 24g/day as a source of tryptophan betaine and lignoceric acid, a 24-carbon saturated fatty acid associated with reduced brain aging. Study: Observational, Population: Single individual, Timeframe: 29 days.
+    - Context: Increased from 24g/day as a source of tryptophan betaine and lignoceric acid, a 24-carbon saturated fatty acid associated with reduced brain aging. Study: Observational, Population: Single individual, Timeframe: 29 days.; Peanuts are a good source of niacin, which was reduced due to decreased barley intake. Peanuts have a net correlative score of 0. Average intake since 2018 is 2.6g/day.
     - Timeframe: 63 days.
-    - Limitations: Not following the correlation in this case to maintain niacin levels.; Observational, single individual, assumes association equals causation.
+    - Limitations: Observational, single individual, assumes association equals causation.; Not following the correlation in this case to maintain niacin levels.
     - Confidence: 3 ⭐⭐⭐ | Tags: #diet #peanuts #niacin; 2 ⭐⭐ | Tags: #diet #peanuts #brainhealth #lignocericacid
 
 - **Finding**: Increased Brazil nut intake to 4.7g/day from 3.4g/day.
-    - Context: Intervention: Increased dietary selenium to 400 mcg/day.; Increased by increasing Brazil nut consumption, aiming to improve the free T3 to free T4 ratio. Study: Observational, Population: Single individual, Timeframe: Ongoing.; Brazil nuts are a rich source of selenium, which is important for thyroid hormone conversion (T4 to T3). The individual is aiming for a higher T3/T4 ratio, which is associated with reduced all-cause mortality risk. Average intake since 2018 is 5g/day.; The speaker's personal data showing a low free T3/T4 ratio despite levothyroxine treatment. The tolerable upper limit for selenium is 400 mcg/day.; Potentially related to increased selenium intake from Brazil nuts. Measured on October 3rd and October 18th, 2022.; Observational studies on thyroid hormone changes during aging and the speaker's personal data. Current selenium intake is 275 mcg/day from Brazil nuts. The tolerable upper limit is 400 mcg/day.
-    - Timeframe: 63 days.; Ongoing.; Not specified, but retesting will be done soon to assess the impact.; Two weeks.
-    - Limitations: Individual response may vary. The effect of selenium on the free T3/T4 ratio in individuals taking levothyroxine needs further investigation.; Preliminary data on T3/T4 ratio.; The specific impact on individuals taking levothyroxine is not yet established.; Observational, single individual, effectiveness not yet determined.
-    - Confidence: 2 ⭐⭐ | Tags: #biomarkers #thyroid #freet3 #freet4 #selenium; 2 ⭐⭐ | Tags: #supplements #selenium #thyroid #dosage; 2 ⭐⭐ | Tags: #health\_marker #T3 #T4 #thyroid #selenium; 2 ⭐⭐ | Tags: #diet #selenium #thyroid #brazilnuts; 3 ⭐⭐⭐ | Tags: #diet #brazil\_nuts #selenium #thyroid #T3 #T4
-
-- **Finding**: Increasing monounsaturated fatty acid (MUFA) intake to about 20 grams per day may reduce high-sensitivity C-reactive protein (hs-CRP) levels.
-    - Context: Based on the correlation analysis between dietary intake and blood test results, specifically hs-CRP levels. The speaker's average daily MUFA intake was correlated with hs-CRP.; Analysis of the speaker's personal data, showing a strong positive correlation (r = 0.71) between calorie intake and RDW.; Observational, speaker's personal data (n=593 days), adults, adjusted for daily exertion and calorie intake.; Observational, speaker's personal data (n=1200 days), adults.
-    - Timeframe: Daily effect.; Not specified, but the speaker aims to test this in his next blood test.; Based on long-term data tracking.
-    - Limitations: Individual data, correlation not causation.; Individual data, small effect size, non-fructose carbs not significant for HRV.; Correlation does not equal causation. Other unmeasured factors could influence CRP levels. Individual responses to dietary changes can vary.; Individual results, not necessarily applicable to others.; Individual data, small effect size.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #MUFA #CRP #inflammation #biological-age; 3 ⭐⭐⭐ | Tags: #diet #calories #RHR #HRV #observational; 3 ⭐⭐⭐ | Tags: #diet #MUFA #RHR #HRV #observational; 3 ⭐⭐⭐ | Tags: #diet #carbohydrates #RHR #observational; 3 ⭐⭐⭐ | Tags: #diet #calories #RDW #mortality
+    - Context: Brazil nuts are a rich source of selenium, which is important for thyroid hormone conversion (T4 to T3). The individual is aiming for a higher T3/T4 ratio, which is associated with reduced all-cause mortality risk. Average intake since 2018 is 5g/day.; Observational studies on thyroid hormone changes during aging and the speaker's personal data. Current selenium intake is 275 mcg/day from Brazil nuts. The tolerable upper limit is 400 mcg/day.; Increased by increasing Brazil nut consumption, aiming to improve the free T3 to free T4 ratio. Study: Observational, Population: Single individual, Timeframe: Ongoing.
+    - Timeframe: Not specified, but retesting will be done soon to assess the impact.; 63 days.
+    - Limitations: Individual response may vary. The effect of selenium on the free T3/T4 ratio in individuals taking levothyroxine needs further investigation.; Observational, single individual, effectiveness not yet determined.; Preliminary data on T3/T4 ratio.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #brazil\_nuts #selenium #thyroid #T3 #T4; 2 ⭐⭐ | Tags: #diet #selenium #thyroid #brazilnuts
 
 - **Finding**: Increased coconut butter intake (26g/day vs. 16g/day) over 3 weeks was observed.
     - Context: Observational, self-experiment, n=1, aiming to increase LDL cholesterol and potentially influence the epigenetic pace of aging.; Personal dietary intervention to increase saturated fatty acid intake and potentially raise LDL cholesterol.
     - Timeframe: 3 weeks; 3 weeks prior to the test.
-    - Limitations: Self-experiment, observational data.; Short duration, the effect on the epigenetic pace of aging is yet to be determined.
+    - Limitations: Short duration, the effect on the epigenetic pace of aging is yet to be determined.; Self-experiment, observational data.
     - Confidence: 2 ⭐⭐ | Tags: #diet #saturated-fat #LDL #epigenetic-aging #observation; 3 ⭐⭐⭐ | Tags: #coconutbutter #saturatedfat #diet #intervention #selfexperiment
 
 - **Finding**: Higher dietary CML intake was associated with a 54% and 40% increased risk of pancreatic cancer in men (4th and 5th quintiles vs. 1st).
     - Context: Observational study in men and women.; Observational study in men.
     - Timeframe: Not specified in the transcript.
     - Limitations: Observational, potential confounders.; Only one study found this association, contradicts other findings, observational. No association found for women.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #AGEs #CML #cancer #pancreatic-cancer #men; 2 ⭐⭐ | Tags: #diet #AGEs #CML #mortality #men
+    - Confidence: 2 ⭐⭐ | Tags: #diet #AGEs #CML #mortality #men; 3 ⭐⭐⭐ | Tags: #diet #AGEs #CML #cancer #pancreatic-cancer #men
 
 - **Finding**: Mushrooms, particularly white button and great oyster varieties, are rich sources of ergothioneine. White button mushrooms contain 630 mg/kg (dry weight), and great oyster mushrooms contain 1.3 g/kg (dry weight) of ergothioneine.
-    - Context: Observational study comparing ergothioneine content in various foods.; Observational study measuring ergothioneine content in various foods.
+    - Context: Observational study measuring ergothioneine content in various foods.; Observational study comparing ergothioneine content in various foods.
     - Timeframe: Not specified, but likely a single measurement.
     - Limitations: Dry weight measurements may not directly translate to typical consumption.; Dry weight measurements; variability in ergothioneine content may exist between different batches or growing conditions.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #ergothioneine #mushrooms #diet #antioxidant; 3 ⭐⭐⭐ | Tags: #ergothioneine #diet #food-sources
+    - Confidence: 3 ⭐⭐⭐ | Tags: #ergothioneine #diet #food-sources; 3 ⭐⭐⭐ | Tags: #ergothioneine #mushrooms #diet #antioxidant
 
-- **Finding**: Daily intake of 167g mushrooms.
-    - Context: Ergothioneine is a metabolite found in mushrooms. Observational study in humans suggests higher plasma ergothioneine levels are associated with reduced all-cause mortality.; Rich source of spermidine and ergothioneine, both associated with potential longevity benefits.; Personal metabolomic data analysis. Increasing from one 700g box per week to two. Population: Single individual (speaker).; Observational, based on the correlation between higher mushroom intake and lower *Serratia* levels or higher levels of bacteria inversely correlated with *Serratia*. Individual aimed to eat at the lower end of their usual intake range due to the correlation patterns.; Observational study correlating self-reported mushroom intake with blood ergothioneine levels.; Personal metabolomic data analysis. Population: Single individual (speaker).; Observational, based on the correlation between lower intake of these foods and lower *Serratia* or higher levels of beneficial bacteria. Individual aimed for the lower end of their usual intake range.
-    - Timeframe: Not specified, likely a cross-sectional analysis.; Not specified, likely long-term dietary habits influence plasma levels.; Ongoing since 2015.; Not specified, but data suggests ongoing monitoring and adjustments.; 30-day average prior to the test.
-    - Limitations: Human data on ergothioneine is limited.; Self-reported dietary data can be unreliable; correlation does not equal causation.; Correlation, not causation. The exact amount of mushrooms needed is not quantified. Gut bacteria can degrade ergothioneine, impacting bioavailability.; Correlational, not causal. Individual's response may differ.; Correlational data, likely confounded by mushroom intake.; Correlational, not causal. Specific quantities not provided.; Correlational data from a single individual. Dosage adjustments may be necessary.
-    - Confidence: 2 ⭐⭐ | Tags: #diet #mushrooms #ergothioneine #longevity; 2 ⭐⭐ | Tags: #diet #oralmicrobiome #serratia #mushrooms #observational; 2 ⭐⭐ | Tags: #supplements #vitamin\_B5 #mushrooms #PCS #IS #metabolites #gut\_health; 2 ⭐⭐ | Tags: #diet #oralmicrobiome #serratia #onions #protein #observational; 2 ⭐⭐ | Tags: #ergothioneine #mushrooms #diet #blood-levels #correlation; 2 ⭐⭐ | Tags: #diet #mushrooms #PCS #IS #metabolites #gut\_health #vitamin\_B5; 3 ⭐⭐⭐ | Tags: #diet #mushrooms #spermidine #ergothioneine #longevity
-
-- **Finding**: Limiting omega-6 intake to around 6 grams/day may help reduce glucose without negatively impacting homocysteine.
-    - Context: Observational, single individual tracking diet and blood biomarkers over several years. Aim to increase B12 intake and potentially reduce homocysteine.; Observational study based on speaker's data. Higher omega-6 intake correlated with higher homocysteine. No significant correlation between omega-6 and glucose was found.; To test correlations with Horvath's epigenetic age and homocysteine. Study Type: Case Study. Population: Single individual.; Intervention was increasing sardine intake (source of B12).; Observational study based on the speaker's personal data. Higher B12 intake correlated with higher glucose and lower homocysteine.; Despite increasing dietary methyl donors, homocysteine levels went in the wrong direction.; Observational, self-experiment, n=1, attempting to reduce homocysteine through dietary methyl donors.; Case Study, single individual. Average intake is far below average since 2015 (542 mcg/day); Personal data correlated with B12 and omega-6 intake. Higher homocysteine is associated with increased all-cause mortality risk.
-    - Timeframe: Ongoing monitoring; 11 days prior to the test.; 49 days.; 3+ years; 42 days leading up to blood test.; 42 days.
-    - Limitations: Individual response.; Individual observation, potential confounding factors. B12 supplementation showed stronger negative correlations than food sources.; Single-person study, correlational data. Optimal omega-6 intake may vary.; Single-person study, correlational data. B12 has other potential health impacts.; Homocysteine levels increased despite the intervention.; Single-subject study.
-    - Confidence: 2 ⭐⭐ | Tags: #diet #beets #TMG #methyl-donors #homocysteine #observation; 3 ⭐⭐⭐ | Tags: #biomarker #homocysteine #cardiovascular; 3 ⭐⭐⭐ | Tags: #diet #omega-6 #glucose #homocysteine #correlation #observational; 2 ⭐⭐ | Tags: #diet #fish #omega3 #epigenetics #homocysteine; 2 ⭐⭐ | Tags: #diet #sardines #b12 #homocysteine; 3 ⭐⭐⭐ | Tags: #homocysteine #biomarker #all-cause-mortality #B12 #omega-6; 3 ⭐⭐⭐ | Tags: #supplement #B12 #glucose #homocysteine #correlation #observational; 3 ⭐⭐⭐ | Tags: #homocysteine #methyl-donors #diet #observation; 2 ⭐⭐ | Tags: #supplement #B12 #dietary
-
-- **Finding**: MCV (Mean Corpuscular Volume)
-    - Change: Moved towards more youthful values.
-    - Context: Observational, self-experiment, n=1, based on the correlation between cocoa beans and lower MCV.; Observational data from self-study, tracking diet and blood biomarkers.; Potentially linked to increased cocoa bean intake, which is significantly correlated with lower MCV.; Correlated with lower MCV and lipoprotein(a). Study Type: Case Study. Population: Single individual.
-    - Timeframe: 49 days.; 49-day period.; Not specified, but data collection spans multiple years.
-    - Confidence: 2 ⭐⭐ | Tags: #diet #cocoa-beans #MCV #observation; 3 ⭐⭐⭐ | Tags: #MCV #cocoa-beans #diet #observation; 2 ⭐⭐ | Tags: #diet #mcv #cocoa #correlation #hematology; 2 ⭐⭐ | Tags: #diet #cacao #mcv #lipoproteina
-
-- **Finding**: Nicotinic Acid, 50-60 mg/day.
-    - Effects: No observed increase in blood NAD+ levels (measured at 19.9 micromolar, the lowest reading across six tests).; Increased liver NAD+ levels by about four-fold.; Increased NAD+ levels from 21.1 to 31.7 micromolar.
-    - Context: Case study, single individual (male), age not specified, tracked diet by weighing all food and tracking with an app. The subject maintained a relatively constant niacin intake throughout the study period at ~40mg.; Case study, single individual (male), age not specified. Niacin intake was measured by tracking diet.; Self-experiment, single individual, based on rat studies indicating potential for increased NAD+ levels.; Self-experiment, single individual, following promising results from rodent studies. The lowest published amount of grape seed proanthocyanidin content in grape seeds (about 107 milligrams per gram) was used to calculate the intake.; After being fed 50mg/kg of grape seed proanthocyanidin extract.; Study in rats.; Self-experiment (n=1) tracking diet and measuring NAD levels via blood tests. Initial B6 intake was 3.2 mg/day, increased to 11.3 mg/day for an unstated period, then to 37.2 mg/day for a 32-day period.; Case study, single individual, increased vitamin B6 intake.; Taken for 36 of the 49 days. Levels are sensitive to intake in the 5 days before testing. Study Type: Case Study. Population: Single individual.; After 19 days of daily supplementation with 6.1 grams of grape seed powder.
-    - Limitations: Dosage based on personal NAD+ levels.; Single individual, observational. No control group.; Single individual, observational.; Animal study, not directly translatable to humans, specific dosage may vary.; Single subject, self-reported dietary intake, potential confounding factors not accounted for.; Single individual, dosage may be insufficient, bioavailability differences between grape seed powder and extract used in animal studies. The form of proanthocyanidin may impact effectiveness.; Single-person case study, the exact proanthocyanidin content of the powder used is unknown and could be higher or lower than the estimated 648mg, potential bioavailability differences between powder and extract.
-    - Confidence: 1 ⭐ | Tags: #diet #vitaminB6 #NAD #self-experiment #aging No specific dietary recommendations were mentioned in this transcript.; 1 ⭐ | Tags: #NAD #biomarker #self-experiment; 1 ⭐ | Tags: #diet #grapes #proanthocyanidins #NAD #self-experiment; 1 ⭐ | Tags: #supplement #grapes #proanthocyanidins #NAD #self-experiment; 2 ⭐⭐ | Tags: #healthmarker #NAD #intracellular #vitaminB6; 3 ⭐⭐⭐ | Tags: #supplement #nicotinicacid #nad #longevity; 2 ⭐⭐ | Tags: #diet #vitaminB6 #NAD #niacin #intracellular; 2 ⭐⭐ | Tags: #diet #niacin #NAD #intracellular; 3 ⭐⭐⭐ | Tags: #NAD #biomarker #ratstudy; 3 ⭐⭐⭐ | Tags: #supplement #grapes #proanthocyanidins #NAD #ratstudy
-
-- **Finding**: CRP (C-reactive protein)
-    - Change: Reduced by 133%; 133% reduction.
-    - Context: Planting 8,000 trees in South Louisville, KY.; South Louisville tree planting study.
-    - Timeframe: 2-3 years; 2-3 years.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #CRP #cardiovasculardisease #greenspace #environmentalintervention; 2 ⭐⭐ | Tags: #crp #greenspace #cardiovascular
-
-- **Finding**: Biological Age (PhenoAge)
-    - Change: 17.12 years younger than chronological age.; 15.2 years younger than chronological age.; ~5 years worse than the previous 8-test average.
-    - Context: Blood test #5 in 2023 using Dr. Morgan Levine's PhenoAge calculator. Intervention: Diet and supplement changes as described above.; Calculated using Dr. Morgan Levine's PhenoAge calculator based on blood test results. Intervention: Comprehensive diet and supplement regimen.; Calculated using Dr. Morgan Levine's PhenoAge calculator. Intervention: Comprehensive diet and supplement protocol.
-    - Timeframe: 49 days.; Snapshot at the time of the blood test (Test #4).; 47 days between blood test #4 and #5.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #biomarkers #biologicalage #phenoage #aging; 3 ⭐⭐⭐ | Tags: #biomarker #biologicalage #phenoage #aging; 3 ⭐⭐⭐ | Tags: #health-marker #biological-age #phenoage #worsening
-
-- **Finding**: Short-chain fatty acids (acetate, propionate, butyrate)
-    - Change: Increased after 6 weeks of endurance exercise (3 times/week) in lean individuals.; Approximately 50% reduction in individuals over 80 compared to those under 50.
-    - Acetate: 49 mmol/L to 19 mmol/L
-    - Propionate: 16 mmol/L to 8 mmol/L
-    - Butyrate: Approaching 50% reduction
-    - Context: Intervention study in previously sedentary individuals (20-45 years old). No change observed in obese individuals.; Observational study comparing SCFA levels across age groups.
-    - Timeframe: 6 weeks.; Cross-sectional comparison.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #health-marker #SCFA #aging; 3 ⭐⭐⭐ | Tags: #health-marker #SCFA #exercise #BMI
+- **Finding**: Cloves intake is positively correlated with longer telomere length.
+    - Context: Observational data from 15 telomere length tests paired with detailed dietary records. Correlation coefficient (r) = 0.7.; Observational study based on personal data from 10 telomere length tests and corresponding dietary records. Average dietary intake calculated for the period between each test (e.g., 60 days).; Case study, single individual, tracking calorie intake and telomere length over seven tests.; Observational data; specific correlation coefficient not provided, but P < 0.05.; Observational data; specific correlation coefficient not provided, but P < 0.05. The individual's ratio is always less than 2:1.; Case study, single individual, analyzing dietary data against telomere length.; Case study, single individual.; Observational study; same methodology as above.
+    - Timeframe: Data collected over multiple tests, with correlations analyzed.; Data collected over a period of at least a year, comparing 2022 and 2023 data.; Ongoing; the next test scheduled in approximately two weeks from the video's creation, with an update expected in September.; Data collected over multiple tests.; Effects observed over a year (2022-2023), with ongoing monitoring.; Ongoing.
+    - Limitations: Causation not established.; Single individual, correlational data, potential confounding factors not fully accounted for.; Single individual, correlation does not imply causation.; Correlation does not imply causation. The effect of increased clove intake on telomere length needs further observation.; Single individual, correlation does not imply causation. Potential for unmeasured confounders.; Single individual, correlation does not imply causation, potential confounding factors not fully accounted for.
+    - Confidence: 2 ⭐⭐ | Tags: #diet #calories #telomere-length #aging; 2 ⭐⭐ | Tags: #diet #brazil-nuts #selenium #vitamin-b1 #cacao #black-pepper #telomere-length #aging #observational; 3 ⭐⭐⭐ | Tags: #diet #telomere #omega-6 #omega-3 #correlation #observation; 2 ⭐⭐ | Tags: #diet #parmesan #cheese #telomere-length #aging; 3 ⭐⭐⭐ | Tags: #diet #telomere #cloves #correlation #observation; 3 ⭐⭐⭐ | Tags: #diet #telomere #broccoli #correlation #observation; 3 ⭐⭐⭐ | Tags: #diet #parmesan-cheese #telomere-length #aging #observational; 2 ⭐⭐ | Tags: #diet #flaxseed #telomere-length #aging; 3 ⭐⭐⭐ | Tags: #diet #calories #telomere-length #aging #observational
 
 - **Finding**: Cheat meals comprised less than 1% of total caloric intake.
     - Context: Observational. Population: Single individual, male, diagnosed with hypothyroidism.
@@ -1269,11 +1164,11 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Self-reported data, individual needs and tolerances may vary. Long-term effects of significantly exceeding RDAs for certain micronutrients are not fully understood.
     - Confidence: 3 ⭐⭐⭐ | Tags: #vitamins #minerals #rda #diet #micronutrients
 
-- **Finding**: Spermidine intake >11.6 mg/day is associated with the lowest all-cause mortality risk in humans.
-    - Context: Observational study of 829 individuals (average age 67) over 20 years.
-    - Timeframe: 20-year follow-up.
-    - Limitations: Observational, not causal.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #spermidine #mortality #humans #observational
+- **Finding**: Consuming 40g of parsley every other day can increase NAD+ levels.
+    - Context: Parsley is a concentrated source of apigenin (4500mg/100g), which inhibits CD38, leading to increased NAD+ levels. Parsley consumption is suggested to be added to a smoothie.
+    - Timeframe: Not explicitly stated, but the effect of inhibiting CD38 on NAD+ levels is expected to be relatively rapid.
+    - Limitations: The exact timeframe and magnitude of NAD+ increase from this specific parsley intake are not detailed. Individual absorption and metabolism of apigenin may vary.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #NAD+ #apigenin #parsley #CD38
 
 - **Finding**: Lemon juice, navel oranges, and blood oranges are good dietary sources of hesperidin.
     - Context: Data sourced from Phenol Explorer database, focusing on pure juice from whole foods.
@@ -1286,6 +1181,18 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Increase observed within 15 minutes, peaking around 1 hour, and fluctuating over 5 hours.
     - Limitations: Small sample size (15-20 students), limited to trypsin and elastase. The specific fat content of the meal was not detailed.
     - Confidence: 3 ⭐⭐⭐ | Tags: #diet #high-fat #trypsin #elastase #postprandial
+
+- **Finding**: A low-methionine diet increases FGF21 levels.
+    - Context: Expert opinion based on human studies
+    - Timeframe: Not specified
+    - Limitations: Specific dietary methionine levels and duration not provided
+    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #methionine #FGF21 #longevity
+
+- **Finding**: Increased garlic intake to 2.6g/day.
+    - Context: Observational, self-experiment, n=1, aiming to test the correlation between garlic intake and Horvath epigenetic age.
+    - Timeframe: 49-day period.
+    - Limitations: Single individual, correlation does not imply causation.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #garlic #epigenetic-age #methylation #observation
 
 - **Finding**: Macronutrient ratio of 44% fat, 38% net carbs, and 18.6% protein.
     - Context: Self-experiment aimed at maintaining a younger biological age.
@@ -1323,12 +1230,6 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: N=1, individual variation may exist.
     - Confidence: 3 ⭐⭐⭐ | Tags: #cocoa-beans #personalized-nutrition #biomarkers #n=1 #diet
 
-- **Finding**: Trigonelline is found in high concentrations in fenugreek seeds and coffee beans.
-    - Context: Expert opinion based on literature review, highlighting natural sources of trigonelline.
-    - Timeframe: Not specified.
-    - Limitations: The exact amount of trigonelline needed from dietary sources to impact NAD+ levels and health outcomes is not yet known.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #trigonelline #coffee #fenugreek #natural #sources
-
 - **Finding**: In a cohort of over 100 Iranian individuals, there was no association between caffeine intake and vitamin B3 intake. There was a partial association with folate and fiber intake.
     - Context: Observational study replicating findings from a smaller Singaporean cohort.
     - Timeframe: Not specified.
@@ -1346,6 +1247,12 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: 63 days.
     - Limitations: Individual-specific response. Optimal level may vary.
     - Confidence: 3 ⭐⭐⭐ | Tags: #diet #barley #homocysteine #triglycerides #biomarkers
+
+- **Finding**: Increased flaxseed intake to 16g/day from 11.8g/day.
+    - Context: Flaxseeds have a net positive correlative score of +4 and are associated with lower creatinine. The individual aims to reduce creatinine to around 0.9 mg/dL. Average intake since 2018 is 9.7g/day.
+    - Timeframe: 63 days.
+    - Limitations: Correlative data. Need to find the upper limit for benefits.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #flaxseed #creatinine #biomarkers
 
 - **Finding**: Decreased pistachio intake to 9.9g/day from 11g/day.
     - Context: Pistachios are a source of melatonin, potentially causing morning sleepiness. They have a net positive correlative score of +4. Average intake since 2018 is 2.1g/day.
@@ -1389,191 +1296,95 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Correlation, not causation, established for epigenetic age.
     - Confidence: 3 ⭐⭐⭐ | Tags: #diet #carotenoids #antioxidants #epigenetics
 
-- **Finding**: Ergothioneine supplementation
-    - Effects: Extended median lifespan in two different strains of fruit flies (Canton S and yw) at multiple concentrations.
-    - Context: Study in fruit flies. Data in mice or other mammals is not yet available.
-    - Limitations: Only tested in fruit flies. Human data suggests lower ergothioneine levels in long-lived individuals.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #ergothioneine #lifespan #flies
+- **Finding**: Limiting omega-6 intake to around 6 grams/day may help reduce glucose without negatively impacting homocysteine.
+    - Context: Observational study based on speaker's data. Higher omega-6 intake correlated with higher homocysteine. No significant correlation between omega-6 and glucose was found.
+    - Timeframe: 3+ years
+    - Limitations: Single-person study, correlational data. Optimal omega-6 intake may vary.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #omega-6 #glucose #homocysteine #correlation #observational
 
-- **Finding**: Methyl-folate, 400 mcg, 18 of 49 days.
-    - Effects: Reduced intake due to the inclusion of other folate sources in the diet.
-    - Context: Supplement usage adjusted based on dietary folate intake.
-    - Limitations: Individualized approach.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #folate #methylfolate #dietary #adjustment
+- **Finding**: Increased sardine intake to 143g/day.
+    - Context: To test correlations with Horvath's epigenetic age and homocysteine. Study Type: Case Study. Population: Single individual.; Observational, single individual tracking diet and blood biomarkers over several years. Aim to increase B12 intake and potentially reduce homocysteine.
+    - Timeframe: 49 days.; 42 days leading up to blood test.
+    - Limitations: Individual observation, potential confounding factors. B12 supplementation showed stronger negative correlations than food sources.; Single-subject study.
+    - Confidence: 2 ⭐⭐ | Tags: #diet #sardines #b12 #homocysteine; 2 ⭐⭐ | Tags: #diet #fish #omega3 #epigenetics #homocysteine
 
-- **Finding**: Homemade mouthwash with 1% xylitol, 1% sodium bicarbonate, and a few drops of peppermint oil in 1 liter of water.
-    - Effects: Potentially reduced *Serratia* levels based on initial tests.
-    - Context: Case Study, individual experimenting on themselves. Used 3-5 times daily.
-    - Limitations: Not a controlled study. Results may not be generalizable.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #supplement #oralmicrobiome #serratia #xylitol #sodiumbicarbonate #peppermintoil No supplement protocols or dosages are mentioned in the transcript. However, the discussion around Vitamin D implies that its benefits might be partly due to its association with sun exposure.
+- **Finding**: Increased cacao bean intake to 12g/day.
+    - Context: Observational data from self-study, tracking diet and blood biomarkers.; Correlated with lower MCV and lipoprotein(a). Study Type: Case Study. Population: Single individual.; Observational, self-experiment, n=1, based on the correlation between cocoa beans and lower MCV.
+    - Timeframe: 49 days.; Not specified, but data collection spans multiple years.; 49-day period.
+    - Limitations: Correlation does not imply causation.; Individual response.; Correlation does not imply causation; other dietary factors may contribute.
+    - Confidence: 2 ⭐⭐ | Tags: #diet #cacao #mcv #lipoproteina; 2 ⭐⭐ | Tags: #diet #cocoa-beans #MCV #observation; 2 ⭐⭐ | Tags: #diet #mcv #cocoa #correlation #hematology
 
-- **Finding**: Vitamin D, no supplementation, regular sun exposure (30-35 minutes, 2-3 times/week, full body).
-    - Effects: Maintain vitamin D levels (average 64 ng/mL over 10 tests).
-    - Context: Case Study, single individual, summertime.
-    - Limitations: Individual response, dependent on sun exposure, may not be applicable year-round or in all locations.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #supplement #vitaminD #sunexposure
+- **Finding**: Consumed 132g/day of alfalfa sprouts for 8 days leading up to the test, providing 24mg/day of trigonelline.
+    - Context: Case Study, single individual tracking diet with Cronometer. Aimed to assess the impact of trigonelline from food sources on NAD levels.; Based on existing literature (though no specific study on red clover seed sprouts was found in the transcript). The subject plans to consume 100g of red clover sprouts daily to reach an estimated 125 mg trigonelline.; Observational, self-experiment, n=1, exploring trigonelline's impact on NAD levels.; Follow-up to the previous experiment, testing the effect of a higher dose of trigonelline. Population: Single individual.; Self-experiment aiming to increase NAD+ through trigonelline-rich foods. Population: Single individual.
+    - Timeframe: 9 days; 11 days; 8 days prior to the test.; Not specified, upcoming experiment.; 1 week
+    - Limitations: Single subject, may indicate a non-linear dose-response relationship for trigonelline and NAD+.; Trigonelline content in red clover sprouts is not yet measured; assumption based on seed content.; Short duration, impact on NAD not yet confirmed.; Single individual, self-reported data, trigonelline content in alfalfa sprouts may vary.; Single subject, potential confounding effect of prior nicotinic acid supplementation, NAD+ increase may be within the normal range of variation.
+    - Confidence: 2 ⭐⭐ | Tags: #diet #trigonelline #red-clover #NAD #sprouts #hypothesis; 2 ⭐⭐ | Tags: #diet #alfalfa-sprouts #trigonelline #NAD #observation; 2 ⭐⭐ | Tags: #diet #NAD+ #trigonelline #clover sprouts #crimson clover; 2 ⭐⭐ | Tags: #diet #trigonelline #alfalfa #NAD #sprouts; 2 ⭐⭐ | Tags: #diet #NAD+ #trigonelline #clover sprouts
 
-- **Finding**: Glycine + NAC (1.6 mg/g of food each in mice)
-    - Effects: Extended median lifespan by 24% (129 weeks vs 104 weeks in controls), restored glutathione in heart, liver, and kidney.
-    - Context: Mouse study, 16 mice per group, supplementation started at 65 weeks.
-    - Limitations: Small sample size, lack of food intake and body weight data.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #glycine #NAC #mice #lifespan #glutathione #tissues
+- **Finding**: Addition of chickpeas as a source of trigonelline.
+    - Context: Based on the interviewer's personal diet analysis and research.; Self-reported dietary intake by an individual focused on biohacking and longevity.; Experiment to potentially impact NAD levels and methylation.; Case Study, single individual, tracked with Cronometer.
+    - Timeframe: Ongoing, part of the regular diet.; Not specified.; 49-day period.; Daily intake.
+    - Limitations: Self-reported, exact foods and quantities not specified.; It is unknown if this amount is enough to impact NAD+ levels, especially compared to higher doses used in studies.; Early stage; impact on NAD levels to be determined.; No information on the specific food sources or the method used to estimate the intake.
+    - Confidence: 2 ⭐⭐ | Tags: #chickpeas #trigonelline #NAD #methylation; 2 ⭐⭐ | Tags: #diet #trigonelline #background-intake #NAD; 2 ⭐⭐ | Tags: #diet, #trigonelline, #baseline; 2 ⭐⭐ | Tags: #diet #trigonelline #chickpeas #dosage #uncertain
 
-- **Finding**: Glial fibrillary acidic protein (GFAP)
-    - Change: Plasma levels are a biomarker of neuroinflammation.
-    - Context: Not commercially available for testing in the US.
-    - Timeframe: Not applicable
-    - Confidence: 3 ⭐⭐⭐ | Tags: #gfap #neuroinflammation #biomarker
-
-- **Finding**: Non-HDL Cholesterol (after adjustment for malnutrition)
-    - Change: Less than 85 mg/dL associated with reduced all-cause mortality risk. Greater than 85 mg/dL associated with increased risk.
-    - Context: Coronary artery disease patients, adjusted for albumin, lymphocytes, and total cholesterol.
-    - Timeframe: Not specified.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #non-HDL #cholesterol #mortality #CAD #malnutrition
-
-- **Finding**: Apolipoprotein B (ApoB)
-    - Change: Higher levels (>1.4 g/L) associated with increased CHD and all-cause dementia risk in the general population, and increased cardiovascular and all-cause mortality risk in 39-59 year-olds. Very low levels (<1.06 g/L) associated with increased all-cause mortality risk in individuals over 60.
-    - Context: Observational studies on large populations.
-    - Timeframe: Not specified, likely long-term associations.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #apob #chd #dementia #mortality #cardiovascular
-
-- **Finding**: Body fat percentage
-    - Change: Higher body fat percentage associated with better survival in some mouse models (e.g., dwarves, ILS cross), but may be specific to subcutaneous fat.
-    - Context: Observational studies in mice.
-    - Timeframe: Observed over the lifespan of the animals.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #body #fat #survival #mouse #subcutaneous
-
-- **Finding**: Visceral fat
-    - Change: Rapamycin may reduce visceral fat in humans.
-    - Context: Pearl trial (human study).
-    - Timeframe: Not specified.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #visceral #fat #rapamycin #human
-
-- **Finding**: Creatinine
-    - Change: Trended towards below average.
-    - Context: Potentially linked to chickpea intake, which is inversely correlated with creatinine.
-    - Timeframe: Over the past few tests.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #creatinine #chickpeas #diet #observation
-
-- **Finding**: Liver enzymes (ALT and AST)
-    - Change: Moved in the right direction relative to higher values in test number one.
-    - Context: Potentially linked to increased peanut intake, which is inversely correlated with the sum of ALT and AST.
-    - Timeframe: 49 days.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #liver-enzymes #ALT #AST #peanuts #diet #observation
-
-- **Finding**: Phenotypic Age
-    - Change: Increased to 37.65 years in the most recent test, the worst reading in seven tests.
-    - Context: After implementing dietary changes (reducing fat, increasing fiber and broccoli).
-    - Timeframe: Measured four times in 2020, with the most recent test after dietary changes.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #biological-age #diet #intervention #phenotypic-age
-
-- **Finding**: Lipofuscin
-    - Change: Accumulation of lipofuscin, an "age pigment," is linked to cellular damage.
-    - Context: Formed by a combination of polyunsaturated fats and iron.
-    - Timeframe: Accumulates over a lifetime.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #health-marker #lipofuscin #aging #polyunsaturated-fats #iron
-
-- **Finding**: Triglyceride level, Glycogen, Trehalose, and Water
-    - Change: Curvilinear relationship with lifespan extension (tuning them predicted 30% of the early extension of lifespan, but further tuning led to a downward trend in longevity).
-    - Context: Experiments where these metabolites were specifically tuned in fruit flies.
-    - Timeframe: Not specified.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #metabolites #fruitflies #lifespan #triglyceride #glycogen #trehalose #water
-
-- **Finding**: Alkaline phosphatase, Aspartate aminotransferase, DHEA-sulfate, HDL, LDL, hsCRP, Neutrophils+Monocytes, Platelets, Systolic Blood Pressure, Uric Acid
-    - Change: Significant correlations with calorie intake, with most showing changes associated with increased aging or mortality risk (except for platelets).
-    - Context: Speaker's personal data, analyzing correlations between various biomarkers and calorie intake.
-    - Timeframe: Based on long-term data.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #biomarkers #calories #aging #mortality
-
-- **Finding**: Average Daily Heart Rate
-    - Change: Higher average daily heart rate is correlated with a higher next-day RHR and a lower next-day HRV.
-    - Context: The speaker uses a fitness tracker to monitor this metric, in beats per minute (bpm).
-    - Timeframe: Daily
-    - Confidence: 3 ⭐⭐⭐ (personal data) | Tags: #heartrate #physicalactivity
-
-- **Finding**: Body Weight
-    - Change: Current weight is around 151 pounds, with a goal to reduce to 145 pounds or lower.
-    - Context: Significantly positively correlated with Horvath epigenetic age in the speaker. Current body fat percentage is estimated at 9%, with a target of 6%.
-    - Timeframe: Average daily body weight is tracked and correlated with each epigenetic test over two years.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #bodyweight #bodyfat #epigenetics #horvath
-
-- **Finding**: Estimated Glomerular Filtration Rate (eGFR)
-    - Change: Increase from an average of 86 (2006-2013) to 97 (2015-2020) in the speaker.
-    - Context: Personal data tracked over 15 years, with dietary changes implemented around 2015.
-    - Timeframe: Improvement observed over approximately 5 years.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #eGFR #kidney-function #biomarker #longitudinal
-
-- **Finding**: Very Low-Density Lipoprotein (VLDL)
-    - Change: Higher omega-6 correlated with lower VLDL (positive).
-    - Context: Personal data. VLDL increases during aging and is associated with increased cardiovascular disease risk.
-    - Timeframe: Ongoing monitoring
-    - Confidence: 3 ⭐⭐⭐ | Tags: #VLDL #biomarker #aging #cardiovascular-disease #omega-6
-
-- **Finding**: Increased low-fat yogurt intake to 117g/day.
-    - Context: Used as a marker for immune activation. Intervention: Increased low-fat yogurt intake.; To test correlation with nighttime respiratory rate, a marker of immune activation. Full-fat dairy correlated with negative biomarker changes. Study Type: Case Study. Population: Single individual.
-    - Timeframe: 49 days.
-    - Limitations: Self-experiment. Full-fat dairy exclusion based on personal observation.
-    - Confidence: 2 ⭐⭐ | Tags: #biomarker #respiratoryrate #immune; 2 ⭐⭐ | Tags: #diet #dairy #probiotics #respiratoryrate #immune
-
-- **Finding**: Chickpeas contain trigonelline at approximately 20mg per day.
-    - Context: Self-reported dietary intake by an individual focused on biohacking and longevity.; Based on the interviewer's personal diet analysis and research.; Case Study, single individual, tracked with Cronometer.
-    - Timeframe: Ongoing, part of the regular diet.; Daily intake.; Not specified.
-    - Limitations: It is unknown if this amount is enough to impact NAD+ levels, especially compared to higher doses used in studies.; No information on the specific food sources or the method used to estimate the intake.; Self-reported, exact foods and quantities not specified.
-    - Confidence: 2 ⭐⭐ | Tags: #diet #trigonelline #background-intake #NAD; 2 ⭐⭐ | Tags: #diet #trigonelline #chickpeas #dosage #uncertain; 2 ⭐⭐ | Tags: #diet, #trigonelline, #baseline
+- **Finding**: Increased vitamin B6 intake is associated with a potential, albeit minor, increase in intracellular NAD+ levels.
+    - Context: Self-experiment (n=1) tracking diet and measuring NAD levels via blood tests. Initial B6 intake was 3.2 mg/day, increased to 11.3 mg/day for an unstated period, then to 37.2 mg/day for a 32-day period.; Case study, single individual (male), age not specified, tracked diet by weighing all food and tracking with an app. The subject maintained a relatively constant niacin intake throughout the study period at ~40mg.; Case study, single individual (male), age not specified. Niacin intake was measured by tracking diet.
+    - Timeframe: 30 days (baseline), 21 days, 7 days, 49 days.; Baseline (30 days): 3.2 mg/day B6, NAD+ 25.6 micromolar. Test 4 (49 days): 11.3 mg/day B6, NAD+ 30.1 micromolar. Test 4 (14 days): 15.6 mg/day B6, NAD+ 30.1 micromolar.; 32 days for the highest B6 intake period.
+    - Limitations: Single individual, observational. No control group.; Single individual, observational.; Single subject, self-reported dietary intake, potential confounding factors not accounted for.
+    - Confidence: 2 ⭐⭐ | Tags: #diet #vitaminB6 #NAD #niacin #intracellular; 2 ⭐⭐ | Tags: #diet #niacin #NAD #intracellular; 1 ⭐ | Tags: #diet #vitaminB6 #NAD #self-experiment #aging
 
 - **Finding**: No significant correlations between diet (foods, macro, and micronutrients) and DunedinPACE were found in the current dataset.
     - Context: Analysis of the speaker's personal data. P-value of 0.08, just above the 0.05 significance threshold.; Analysis of the speaker's personal data, 103 dietary factors compared against DunedinPACE.
-    - Timeframe: Data collected over 14 tests from 2022 to 2024.; Data collected over multiple tests, exact timeframe not specified.
+    - Timeframe: Data collected over multiple tests, exact timeframe not specified.; Data collected over 14 tests from 2022 to 2024.
     - Limitations: Limited data points, potential need for more diverse dietary variations, no significant correlations using a p-value cut off of 0.05.; Not statistically significant, requires further investigation.
     - Confidence: 2 ⭐⭐ | Tags: #diet #epigenetics #correlation #dunedinPACE #aging; 2 ⭐⭐ | Tags: #diet #micronutrients #vitaminB6 #epigenetics #correlation #aging
 
 - **Finding**: High intake of dietary CD38 inhibitors, averaging 160-390 mg/day, predominantly from kaempferol (70%), due to high blackberry consumption.
-    - Context: Analysis of speaker's diet and blood test data. Population: Single individual (speaker).; Speaker's personal dietary data collected from detailed food tracking since July 2018 (over 1000 days of data), corresponding to 16 blood tests. Population: Single individual (speaker).; Analysis of speaker's diet and blood test data (n=11-16). Population: Single individual (speaker).
-    - Timeframe: Data collected since July 2018.; Ongoing since July 2018.
+    - Context: Speaker's personal dietary data collected from detailed food tracking since July 2018 (over 1000 days of data), corresponding to 16 blood tests. Population: Single individual (speaker).; Analysis of speaker's diet and blood test data. Population: Single individual (speaker).; Analysis of speaker's diet and blood test data (n=11-16). Population: Single individual (speaker).
+    - Timeframe: Ongoing since July 2018.; Data collected since July 2018.
     - Limitations: Observational data from a single individual. Correlation does not imply causation.; Observational, single-subject study.; Observational, single-subject study. Potential negative effect needs further investigation.
-    - Confidence: 2 ⭐⭐ | Tags: #diet #cd38 #inhibitors #kaempferol #blackberry #glucose #observational; 2 ⭐⭐ | Tags: #diet #cd38 #inhibitors #glucose #correlation #observational; 2 ⭐⭐ | Tags: #diet #cd38 #inhibitors #platelets #rbc #correlation #observational
+    - Confidence: 2 ⭐⭐ | Tags: #diet #cd38 #inhibitors #platelets #rbc #correlation #observational; 2 ⭐⭐ | Tags: #diet #cd38 #inhibitors #kaempferol #blackberry #glucose #observational; 2 ⭐⭐ | Tags: #diet #cd38 #inhibitors #glucose #correlation #observational
 
-- **Finding**: Consuming 100g of alfalfa sprouts daily contributes approximately 25 mg of trigonelline.
-    - Context: Case Study, single individual tracking diet with Cronometer. Aimed to assess the impact of trigonelline from food sources on NAD levels.; Follow-up to the previous experiment, testing the effect of a higher dose of trigonelline. Population: Single individual.; Self-experiment with trigonelline-rich foods.; Based on existing literature (though no specific study on red clover seed sprouts was found in the transcript). The subject plans to consume 100g of red clover sprouts daily to reach an estimated 125 mg trigonelline.; Interventions included increased trigonelline intake through diet (alfalfa sprouts, green peas, snow peas, fenugreek seeds) aiming to increase NAD levels.; Self-experiment aiming to increase NAD+ through trigonelline-rich foods. Population: Single individual.
-    - Timeframe: 11 days; 9 days; 49 days.; Not specified, upcoming experiment.; 1 week
-    - Limitations: Trigonelline content in red clover sprouts is not yet measured; assumption based on seed content.; Single individual, self-reported data, trigonelline content in alfalfa sprouts may vary.; Single subject, potential confounding effect of prior nicotinic acid supplementation, NAD+ increase may be within the normal range of variation.; Single subject, may indicate a non-linear dose-response relationship for trigonelline and NAD+.
-    - Confidence: 2 ⭐⭐ | Tags: #diet #trigonelline #red-clover #NAD #sprouts #hypothesis; 2 ⭐⭐ | Tags: #diet #NAD+ #trigonelline #clover sprouts #crimson clover; 2 ⭐⭐ | Tags: #diet #trigonelline #alfalfa #NAD #sprouts; 2 ⭐⭐ | Tags: #diet #NAD+ #trigonelline #clover sprouts; 2 ⭐⭐ | Tags: #NAD+ #health marker #intracellular; N/A | Tags: #NAD #trigonelline #diet #observation
+- **Finding**: Increasing calorie intake from 2080 kcal/day to 2150 kcal/day may improve lymphocyte levels.
+    - Context: Correlation analysis between lymphocyte levels and average daily calorie intake from the speaker's personal data.; Personal data analysis of the speaker, tracking diet and biomarkers over 9 years.
+    - Timeframe: Not specified, based on long-term data.; Observed improvement in lymphocyte levels within a few months after increasing calorie intake.
+    - Limitations: Individual results, may not be generalizable; potential for negative impacts on other biomarkers if calorie intake is increased too much.; Extrapolation based on personal data, not directly tested; high calorie intake correlated with negative changes in other health markers.
+    - Confidence: 1 ⭐ | Tags: #diet #calories #lymphocytes #extrapolation; 2 ⭐⭐ | Tags: #diet #calories #lymphocytes #longevity
 
 - **Finding**: Increased vegetable intake up to 2000g per day (approximately 25 servings) is strongly correlated with higher eGFR.
-    - Context: Observational study based on personal data, supported by limited external research.; Observational study based on personal data.; Observational study based on personal data of a 48-year-old male over 880 days, corresponding to 13 eGFR measurements.; Observational study based on personal data over 28 blood tests from 2015 onwards.
-    - Timeframe: Data collected from 2015 onwards.; Data collected over 880 days.
-    - Limitations: Limited external studies on fish intake and kidney function.; Single-subject study; foods contain many nutrients beyond those analyzed.; Single-subject study; correlation does not equal causation.; Single-subject study; other dietary factors may contribute.
-    - Confidence: 2 ⭐⭐ | Tags: #diet #fiber #omega-3 #protein #eGFR #kidney-function #observational; 2 ⭐⭐ | Tags: #diet #vegetables #eGFR #kidney-function #observational; 2 ⭐⭐ | Tags: #diet #beef #eGFR #kidney-function #observational; 2 ⭐⭐ | Tags: #diet #sardines #fish #eGFR #kidney-function #observational
+    - Context: Observational study based on personal data of a 48-year-old male over 880 days, corresponding to 13 eGFR measurements.; Observational study based on personal data, supported by limited external research.; Observational study based on personal data.; Observational study based on personal data over 28 blood tests from 2015 onwards.
+    - Timeframe: Data collected over 880 days.; Data collected from 2015 onwards.
+    - Limitations: Limited external studies on fish intake and kidney function.; Single-subject study; foods contain many nutrients beyond those analyzed.; Single-subject study; other dietary factors may contribute.; Single-subject study; correlation does not equal causation.
+    - Confidence: 2 ⭐⭐ | Tags: #diet #sardines #fish #eGFR #kidney-function #observational; 2 ⭐⭐ | Tags: #diet #fiber #omega-3 #protein #eGFR #kidney-function #observational; 2 ⭐⭐ | Tags: #diet #vegetables #eGFR #kidney-function #observational; 2 ⭐⭐ | Tags: #diet #beef #eGFR #kidney-function #observational
 
 - **Finding**: Time-restricted feeding, not eating between 7 PM and 7 AM.
     - Context: RCT, 38 men, average age 59. Part of a broader dietary intervention.
     - Timeframe: 8 weeks
-    - Limitations: Only men included, adherence to diet not reported.; Only men included, adherence to the intervention not reported.
+    - Limitations: Only men included, adherence to the intervention not reported.; Only men included, adherence to diet not reported.
     - Confidence: 2 ⭐⭐ | Tags: #diet #paleo #epigenetic\_age; 2 ⭐⭐ | Tags: #diet #intermittent\_fasting #epigenetic\_age
 
-- **Finding**: Lower calorie intake is associated with lower VLDL levels.
-    - Context: Observational data from the speaker's personal diet and blood test tracking over several years. The speaker found a significant positive correlation (r = 0.6, p < 0.05) between average daily calorie intake and VLDL levels. The speaker aims for 2500 calories per day or less to maintain lower VLDL.; The speaker's personal data over several years. Significant difference between pre-diet tracking and diet tracking periods.
-    - Timeframe: Effects observed over a period of six years of diet tracking, with more recent changes noted over six weeks.; 2005-2013 (pre-diet tracking), 2015-present (diet tracking).
-    - Limitations: This is a single-person case study, and results may not be generalizable. Other dietary factors were considered but not found to be significantly correlated with VLDL in this individual.
-    - Confidence: 2 ⭐⭐ | Tags: #diet #calories #VLDL #cholesterol #longitudinal; 2 ⭐⭐ | Tags: #VLDL #diet #self-tracking
-
-- **Finding**: Layered supplementation approach (specific components not detailed).
-    - Effects: Marketed for cognitive health; based on research aimed at replicating the multi-omic signature of extended lifespan in fruit flies.; Showed promise in extending lifespan in fruit flies and led to the development of a commercial product (Rebuilder) marketed for cognitive health.
-    - Context: Research by Genesee and subsequent work, aimed at mimicking the multi-omic signature of long-lived fruit flies.; Early attempt at translating lifespan extension findings in fruit flies to humans using an omics-guided approach. Genescient was founded on this principle around 2010.
-    - Limitations: The exact composition and dosages of the supplements used in the fruit fly studies are not provided. Efficacy in humans is not directly established.; Dr. Rose was not directly involved in developing or testing the product. Efficacy for lifespan extension in humans is not established.
-    - Confidence: 2 ⭐⭐ | Tags: #supplements #cocktail #fruitflies #lifespan #cognition #omics; 2 ⭐⭐ | Tags: #supplements #cognitivehealth #lifespan #genescient #genair
-
-- **Finding**: Lipopolysaccharide (LPS)
-    - Change: Elevated levels in blood suggest increased intestinal permeability and bacterial translocation.; Elevated levels may indicate high LPS levels.
-    - Context: LBP circulates in the blood and binds to LPS.; LPS is a component of the outer membrane of Gram-negative bacteria. Measurement can be challenging due to variability in the assay and binding to lipoproteins.
-    - Timeframe: Not specified.; Not specified, but can be acutely elevated after events like ultra-endurance exercise or a high-fat meal.
-    - Confidence: 2 ⭐⭐ | Tags: #healthmarker #LBP #LPS #bacterialtranslocation; 2 ⭐⭐ | Tags: #healthmarker #LPS #guthealth #bacterialtranslocation
+- **Finding**: Increased low-fat yogurt intake to 117g/day.
+    - Context: To test correlation with nighttime respiratory rate, a marker of immune activation. Full-fat dairy correlated with negative biomarker changes. Study Type: Case Study. Population: Single individual.
+    - Timeframe: 49 days.
+    - Limitations: Self-experiment. Full-fat dairy exclusion based on personal observation.
+    - Confidence: 2 ⭐⭐ | Tags: #diet #dairy #probiotics #respiratoryrate #immune
 
 - **Finding**: Reduced flax seed intake to 16g/day.
     - Context: Flax seeds are a source of gamma-tocopherol, which is correlated with higher lipoprotein(a) in this individual. Study Type: Case Study. Population: Single individual.
     - Timeframe: 49 days.
     - Limitations: Individual-specific correlation.
     - Confidence: 2 ⭐⭐ | Tags: #diet #flaxseed #gammatocopherol #lipoproteina
+
+- **Finding**: Added oysters (165g can per week, equivalent to 5g per day).
+    - Context: Oysters are a rich source of zinc (59mg/can), which may impact candida antibodies and taurine. Study Type: Case Study. Population: Single individual.
+    - Timeframe: 49 days.
+    - Limitations: New addition to the diet, early-stage observation.
+    - Confidence: 2 ⭐⭐ | Tags: #diet #oysters #zinc #candida #taurine
+
+- **Finding**: Consuming 100g of fresh peppermint leaves provides approximately 120mg of hesperidin.
+    - Context: Based on data from Phenol Explorer, extrapolated from dried peppermint's hesperidin content (481mg/100g).
+    - Timeframe: Not specified, likely ongoing for potential prophylactic and therapeutic effects.
+    - Limitations: The study cited is not a randomized controlled trial, and the calculation assumes a direct conversion from dried to fresh peppermint.
+    - Confidence: 2 ⭐⭐ | Tags: #hesperidin #peppermint #diet #COVID-19 #prevention #treatment
 
 - **Finding**: Biomarkers can be used to personalize diet for optimal health and longevity.
     - Context: Speaker's own approach of using biomarkers to guide dietary choices. Population: The speaker.
@@ -1592,6 +1403,18 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Acute effect during digestion.
     - Limitations: Needs further investigation in the context of autodigestion.
     - Confidence: 2 ⭐⭐ | Tags: #diet #meat #protein-digestion #colon-health
+
+- **Finding**: Increased beet intake to 302g/day for 11 days prior to the test, yielding an additional 53mg of trimethylglycine (TMG) per day.
+    - Context: Observational, self-experiment, n=1, attempting to reduce homocysteine through dietary methyl donors.
+    - Timeframe: 11 days prior to the test.
+    - Limitations: Homocysteine levels increased despite the intervention.
+    - Confidence: 2 ⭐⭐ | Tags: #diet #beets #TMG #methyl-donors #homocysteine #observation
+
+- **Finding**: Inclusion of 63g/day of oranges providing 32mg/day of proline betaine.
+    - Context: Experiment to assess the impact on homocysteine levels.
+    - Timeframe: 49-day period.
+    - Limitations: Early stage; long-term effects and dosage optimization needed.
+    - Confidence: 2 ⭐⭐ | Tags: #oranges #proline #betaine #homocysteine #methylation
 
 - **Finding**: High nitrate intake, particularly from sources like beets (200 grams of raw beets per day mentioned), may act as a prebiotic in the oral cavity, potentially reducing levels of pathogenic bacteria like *P. gingivalis*.
     - Context: Based on in vitro studies. No clinical trials in humans have confirmed this effect.
@@ -1641,6 +1464,12 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Correlational, not causal. Individual's response may differ.
     - Confidence: 2 ⭐⭐ | Tags: #diet #oralmicrobiome #serratia #yogurt #observational
 
+- **Finding**: The transcript mentions that tested resin samples from a pipe artifact contained majority tobacco, with some other roots, but no cannabis or ayahuasca.
+    - Context: Analysis of organic material found within an artifact purported to be a pipe. The population is unknown. The people using this pipe are thought to be ancient and possibly non-human.
+    - Timeframe: Not applicable, as this is a compositional analysis.
+    - Limitations: Limited sample size (one pipe), unclear if the residue represents typical usage.
+    - Confidence: 2 ⭐⭐ | Tags: #ancient #diet #tobacco #no-cannabis #no-ayahuasca
+
 - **Finding**: Reducing cocoa bean and coconut butter intake by about half resulted in a 12g reduction in total fat and an 8g reduction in saturated fat.
     - Context: Personal dietary modification based on observed correlations between fat intake and health markers.
     - Timeframe: Implemented over approximately 30 days prior to the most recent blood test.
@@ -1684,11 +1513,23 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Hypothesis based on limited data.
     - Confidence: 2 ⭐⭐ | Tags: #diet #clove #oral\_microbiome
 
+- **Finding**: Higher parsley intake is significantly correlated with a younger Horvath epigenetic age.
+    - Context: Analysis of personal dietary data alongside epigenetic testing. Population: Single individual (speaker).
+    - Timeframe: Not specified, based on data from six tests over two years.
+    - Limitations: Limited sample size (n=1), potential for false positives due to not accounting for the false discovery rate.
+    - Confidence: 2 ⭐⭐ | Tags: #diet #epigenetics #horvath #parsley #anti-aging
+
 - **Finding**: Higher salt intake is significantly correlated with a slower Dunedin Pace.
     - Context: Analysis of personal dietary data alongside epigenetic testing. Population: Single individual (speaker).
     - Timeframe: Not specified, based on data from six tests over two years.
     - Limitations: Limited sample size (n=1), potential for false positives, counterintuitive to general health advice.
     - Confidence: 2 ⭐⭐ | Tags: #diet #epigenetics #dunedinpace #salt #anti-aging
+
+- **Finding**: Dietary interventions may improve albumin levels.
+    - Context: Observational study on centenarians and older adults; albumin levels decrease with age and lower levels are associated with higher mortality risk.
+    - Timeframe: Not specified in the transcript.
+    - Limitations: Specific dietary recommendations are not provided; further research is needed to determine optimal dietary strategies for improving albumin in older adults.
+    - Confidence: 2 ⭐⭐ | Tags: #diet #albumin #mortality #aging
 
 - **Finding**: Daily intake of 2 cups of dark leafy greens (kale, swiss chard, collard greens, spinach).
     - Context: RCT, 38 men, average age 59. Part of a broader dietary intervention.
@@ -1714,64 +1555,17 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Only men included, adherence to diet not reported.
     - Confidence: 2 ⭐⭐ | Tags: #diet #methylation #epigenetic\_age
 
+- **Finding**: Lower calorie intake is associated with lower VLDL levels.
+    - Context: Observational data from the speaker's personal diet and blood test tracking over several years. The speaker found a significant positive correlation (r = 0.6, p < 0.05) between average daily calorie intake and VLDL levels. The speaker aims for 2500 calories per day or less to maintain lower VLDL.
+    - Timeframe: Effects observed over a period of six years of diet tracking, with more recent changes noted over six weeks.
+    - Limitations: This is a single-person case study, and results may not be generalizable. Other dietary factors were considered but not found to be significantly correlated with VLDL in this individual.
+    - Confidence: 2 ⭐⭐ | Tags: #diet #calories #VLDL #cholesterol #longitudinal
+
 - **Finding**: Daily intake of 183g strawberries.
     - Context: Strawberries are a rich source of fisetin, which extended lifespan in mice.
     - Timeframe: Ongoing since 2015.
     - Limitations: Mouse study; human efficacy for lifespan extension not yet proven.
     - Confidence: 2 ⭐⭐ | Tags: #diet #strawberries #fisetin #lifespan
-
-- **Finding**: Daily intake of blackberries (41g) and parsley (17g).
-    - Context: Contain dietary CD38 inhibitors (cyanidin and apigenin), which may help maintain NAD+ levels.
-    - Timeframe: Ongoing since 2015.
-    - Limitations: Indirect mechanism; impact on human NAD+ levels not directly measured.
-    - Confidence: 2 ⭐⭐ | Tags: #diet #CD38 #NAD #aging
-
-- **Finding**: Alpha-1-antitrypsin (A1AT)
-    - Effects: Potential to mitigate autodigestion.
-    - Context: Expert opinion, based on its use in treating A1AT deficiency and its ability to inhibit trypsin. Mentioned as affordable and orally available.
-    - Limitations: No specific dosage or timeframe provided. Efficacy in mitigating age-related autodigestion needs to be studied.
-    - Confidence: 2 ⭐⭐ | Tags: #supplement #A1AT #trypsin-inhibitor #aging
-
-- **Finding**: Daily supplement containing prebiotics (vegetables, fruits, seeds, herbs).
-    - Effects: Promotes growth of beneficial gut bacteria.
-    - Context: RCT, 38 men, average age 59.
-    - Limitations: Exact composition and dosage not specified, adherence not reported.
-    - Confidence: 2 ⭐⭐ | Tags: #supplement #prebiotics #gut\_health
-
-- **Finding**: Heart Rate Variability (HRV) - RMSSD
-    - Change: Increased by 2.2 ms (from 52 to 54.2 ms)
-    - Context: Middle-of-the-night melatonin supplementation, adjusted for sleep, physical activity, and calorie intake.
-    - Timeframe: 162 days
-    - Confidence: 2 ⭐⭐ | Tags: #HRV #RMSSD #melatonin #cardiovascular
-
-- **Finding**: FEV1 (Forced Expiratory Volume in one second)
-    - Change: Baseline average of 3.25 L decreased to 2.98 L during the seven-week lung training period. Post-training, FEV1 recovered to 3.09 L.
-    - Context: The decrease was observed during the use of "The Breather Fit" lung training device for six days a week, 5-8 minutes a day, at the highest resistance settings.
-    - Timeframe: Seven weeks of training led to a significant decline; seven weeks post-training led to partial recovery.
-    - Confidence: 2 ⭐⭐ | Tags: #FEV1 #lungfunction #respiratoryhealth #healthmarker
-
-- **Finding**: Lipoprotein(a)
-    - Context: Targeted for reduction due to its role in cardiovascular health and the Donan Pace algorithm. Intervention: Increased cacao bean intake, reduced flax seed intake.
-    - Timeframe: 49 days.
-    - Confidence: 2 ⭐⭐ | Tags: #biomarker #lipoproteina #cardiovascular
-
-- **Finding**: CRP (C-reactive protein)
-    - Change: May be reduced by rapamycin in larger human studies.
-    - Context: Discussion of potential biomarkers for rapamycin.
-    - Timeframe: Not specified.
-    - Confidence: 2 ⭐⭐ | Tags: #CRP #inflammation #rapamycin #human
-
-- **Finding**: Zonulin
-    - Change: Elevated levels may indicate increased intestinal permeability or immune activation.
-    - Context: Traditionally considered a marker of gut barrier function, but recent research suggests it may be a complement protein involved in immune responses.
-    - Timeframe: Not specified.
-    - Confidence: 2 ⭐⭐ | Tags: #healthmarker #zonulin #guthealth #intestinalpermeability
-
-- **Finding**: Epigenetic Age (Horvath Clock)
-    - Change**: 3.23 years younger in the treatment group compared to controls. 1.96 years younger within the treatment group, but this was not statistically significant.
-    - Context: Diet and lifestyle intervention including modified paleo diet, pre/probiotics, exercise, sleep, and stress management.
-    - Timeframe: 8 weeks
-    - Confidence: 2 ⭐⭐ | Tags: #epigenetic\_age #Horvath\_clock #intervention
 
 - **Finding**: Foods and nutrients correlated with the KTR are detailed on Patreon.
     - Context: Speaker is analyzing personal data to identify dietary factors influencing KTR.
@@ -1785,23 +1579,23 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Single case study (n=1), no control group, only one blood test analyzed.
     - Confidence: 1 ⭐ | Tags: #carnivore #diet #biomarkers #longevity #aging
 
+- **Finding**: Consuming 6.1 grams of grape seed powder daily, estimated to contain at least 648 milligrams of proanthocyanidins, did not increase NAD+ levels.
+    - Context: Self-experiment, single individual, following promising results from rodent studies. The lowest published amount of grape seed proanthocyanidin content in grape seeds (about 107 milligrams per gram) was used to calculate the intake.
+    - Timeframe: 19 days
+    - Limitations: Single-person case study, the exact proanthocyanidin content of the powder used is unknown and could be higher or lower than the estimated 648mg, potential bioavailability differences between powder and extract.
+    - Confidence: 1 ⭐ | Tags: #diet #grapes #proanthocyanidins #NAD #self-experiment
+
 - **Finding**: Cardamom intake of 2g per day.
     - Context: Observational, based on higher intake on days with zero *Serratia* in previous tests.
     - Timeframe: 3 days, including the day of the test.
     - Limitations: Correlational, not causal. Very short duration. Individual's response may differ.
     - Confidence: 1 ⭐ | Tags: #diet #oralmicrobiome #serratia #cardamom #observational
 
-- **Finding**: Green tea consumption.
-    - Effects: Not directly linked to KTR in the transcript, but mentioned as part of the speaker's health regimen.
-    - Context: Speaker uses a diet tracker (Cronometer) to monitor green tea intake.
-    - Limitations: No specific dosage or effect on KTR mentioned.
-    - Confidence: 1 ⭐ | Tags: #greentea #diettracker #chronometer
-
 - **Finding**: No specific dietary recommendations are provided in this transcript.
     - Context: N/A
     - Timeframe: N/A
     - Limitations: Diet was not the focus of this video.; N/A
-    - Confidence: N/A | Tags: #diet #future #video; N/A | Tags: #diet; N/A | Tags: #diet No specific dietary recommendations with exact measurements were mentioned in this transcript. Future videos are expected to contain details regarding dietary interventions. *(No specific dietary recommendations with exact measurements were mentioned in the provided transcript.)* No specific diet insights were provided in the transcript.
+    - Confidence: N/A | Tags: #diet; N/A | Tags: #diet #future #video
 
 - **Finding**: Diet composition analysis is mentioned but not detailed in this transcript.
     - Context: The speaker states that diet composition data corresponding to blood test number two will be covered in a future video.
@@ -1821,62 +1615,56 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Lack of dietary data.
     - Confidence: N/A | Tags: #diet #glutathione #precursors
 
-- **Finding**: No specific supplement protocol was mentioned as being used by the individual in the transcript. However, there are correlations with nutrients.
-    - Effects: Not applicable, as no supplement protocol is defined.
-    - Context: Single individual. Correlations between dietary components and telomere length are observed.
-    - Limitations: No supplement protocol is used. Correlations are based on dietary intake, not supplementation.
-    - Confidence: Not applicable | Tags: #supplements #none-mentioned No specific supplement protocols or dosages are mentioned in the transcript, other than a brief mention of the avoidance of multivitamins with iron. No specific supplement protocols are mentioned in this transcript. However, the role of SCFAs suggests potential benefits from:
-
-- **Finding**: No specific supplement protocol is mentioned. The focus is on dietary calcium intake.
-    - Effects: N/A
-    - Context: N/A
-    - Limitations: N/A
-    - Confidence: N/A | Tags: #supplements #calcium No specific supplement protocols with dosages are explicitly mentioned, but the speaker's diet includes foods high in certain nutrients:
-
-- **Finding**: DHEA Sulfate (Not directly measured in this section)
-    - Change: Aiming for an increase with increased almond and vitamin E intake
-    - Context: Observation about a correlation in the data.
-    - Timeframe: To be measured in the future.
-    - Confidence: N/A | Tags: #health-marker #DHEA-Sulfate #future-experiment
-
 
 ## Supplements
 
+- **Protocol**: Levothyroxine, 137.5 mcg/day
+    - Effects: Treatment for hypothyroidism, diagnosed in the individual's 20s.; Treatment for hypothyroidism, diagnosed in the speaker's 20s.; Treatment for hypothyroidism.; Management of hypothyroidism.
+    - Context: Case study, n=1, diagnosed with hypothyroidism in mid-20s.; Diagnosed with hypothyroidism in his 20s.; Case Study, single individual diagnosed with hypothyroidism.; Diagnosed with hypothyroidism in early 20s; ongoing.; Diagnosed with hypothyroidism over 20 years ago.; Speaker diagnosed with hypothyroidism in his 20s. Population: Individuals with hypothyroidism.; The individual has been taking levothyroxine for about half of his life. Population: Individuals with hypothyroidism.; Expert Opinion, Case Study | Population: Individual with hypothyroidism; Case Study, diagnosed with hypothyroidism in 20s. Population: Single individual, male.
+    - Limitations: Prescription medication, specific to thyroid condition.; Specific dosage not mentioned. Individual needs may vary.; Standard treatment, not an experimental intervention.; Standard treatment for hypothyroidism, not a specific longevity intervention in this context.; Dosage may vary based on individual needs.; Individual-specific treatment.; Medically necessary intervention, not a longevity-specific supplement.; Individual prescription, not a general recommendation.; Prescription medication for a specific condition.
+    - Confidence: 5 ⭐⭐⭐⭐⭐ | Tags: #levothyroxine #hypothyroidism #thyroid #hormone; 5 ⭐⭐⭐⭐⭐ | Tags: #hypothyroidism #levothyroxine #thyroid #hormone; 5 ⭐⭐⭐⭐⭐ | Tags: #supplement #levothyroxine #hypothyroidism #treatment; 5 ⭐⭐⭐⭐⭐ | Tags: #supplement #levothyroxine #hypothyroidism; 4 ⭐⭐⭐⭐ | Tags: #levothyroxine #hypothyroidism #hormones
+
 - **Protocol**: Trigonelline is not currently sold as a pure supplement.
     - Effects: N/A
-    - Context: Expert opinion. Fenugreek extracts are available but not standardized for trigonelline content.; Expert opinion based on literature reports.
-    - Limitations: The diverse composition of fenugreek extracts makes it difficult to determine the appropriate dose and potential effects.; Consuming such a large amount of fenugreek extract is not advisable due to the presence of other unknown molecules and potential side effects.
-    - Confidence: 5 ⭐⭐⭐⭐⭐ | Tags: #supplement #trigonelline #availability #fenugreek #limitations; 2 ⭐⭐ | Tags: #diet #trigonelline #fenugreek #dosage #limitations
+    - Context: Expert opinion. Fenugreek extracts are available but not standardized for trigonelline content.
+    - Limitations: The diverse composition of fenugreek extracts makes it difficult to determine the appropriate dose and potential effects.
+    - Confidence: 5 ⭐⭐⭐⭐⭐ | Tags: #supplement #trigonelline #availability #fenugreek #limitations
 
 - **Protocol**: Glycine supplementation
-    - Effects: Restored glutathione levels, reduced oxidative stress, genomic damage, inflammation, insulin resistance, improved mitochondrial function, endothelial function, body composition, muscle strength, exercise capacity, cognition, cellular senescence, stem cell markers, mitophagy, and reduced blood pressure.; Increased median lifespan by 4% in female mice and 6% in male mice. No significant increase in maximum lifespan in female mice, but a 6% increase in male mice.
-    - Context: RCT in older adults, glycine + NAC supplementation.; Two RCTs in older adults (71-80 years and 61-80 years). First study: 8 older adults received supplementation, 8 young adults were control. Second study: 11 older adults and 12 young adults received supplementation. Mouse study: 16 mice received supplementation, 16 mice were control.; RCT in mice (pooled data from 3 different study sites: Jackson Lab, University of Michigan, University of Texas); supplementation started at 9 months of age.
-    - Limitations: Small sample sizes in human studies. Mouse study lacked food intake and body weight data.; Only tested in mice.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #glutathione #restoration #glycine #NAC; 4 ⭐⭐⭐⭐ | Tags: #glycine #lifespan #mice; 4 ⭐⭐⭐⭐ | Tags: #glycine #NAC #glutathione #antioxidant #aging #inflammation #mitochondria #cognition #muscle #lifespan
+    - Effects: Increased median lifespan by 4% in female mice and 6% in male mice. No significant increase in maximum lifespan in female mice, but a 6% increase in male mice.; Extended median lifespan by 24% (129 weeks vs 104 weeks in controls), restored glutathione in heart, liver, and kidney.; Restored glutathione levels, reduced oxidative stress, genomic damage, inflammation, insulin resistance, improved mitochondrial function, endothelial function, body composition, muscle strength, exercise capacity, cognition, cellular senescence, stem cell markers, mitophagy, and reduced blood pressure.; Similar to the above, based on 100 mg/kg body weight.; Improved glutathione levels and various health markers in older adults.
+    - Context: RCT in mice (pooled data from 3 different study sites: Jackson Lab, University of Michigan, University of Texas); supplementation started at 9 months of age.; RCT in older adults (61-80 years), 11 older adults, and 12 younger adults, 16 weeks.; Mouse study, 16 mice per group, supplementation started at 65 weeks.; Derived from the dosage used in the RCT.; Two RCTs in older adults (71-80 years and 61-80 years). First study: 8 older adults received supplementation, 8 young adults were control. Second study: 11 older adults and 12 young adults received supplementation. Mouse study: 16 mice received supplementation, 16 mice were control.
+    - Limitations: Small sample size.; Only tested in mice.; Small sample sizes in human studies. Mouse study lacked food intake and body weight data.; Small sample size, lack of food intake and body weight data.; Individual needs may vary.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #glycine #NAC #dosage #example; 3 ⭐⭐⭐ | Tags: #glycine #NAC #mice #lifespan #glutathione #tissues; 4 ⭐⭐⭐⭐ | Tags: #glycine #NAC #glutathione #antioxidant #aging #inflammation #mitochondria #cognition #muscle #lifespan; 4 ⭐⭐⭐⭐ | Tags: #glycine #NAC #dosage #health #markers; 4 ⭐⭐⭐⭐ | Tags: #glycine #lifespan #mice
 
 - **Protocol**: Vitamin D, 1000 IU/day
-    - Effects: Supplementation due to limited sun exposure in Boston.; Maintain vitamin D levels during low sunlight months.; Supplementation.; Supplementation in non-summer months.; Supplementation due to limited sun exposure.; Maintaining Vitamin D levels during non-summer months.; Likely supporting bone health, immune function.; Not specified, presumably to maintain adequate vitamin D levels.; Supplementation during winter months.; Not directly measured in this study.; Supplementing due to living in the northeast (Boston) with limited sun exposure.
-    - Context: Case Study. Population: Single individual, male, diagnosed with hypothyroidism.; Expert opinion based on the speaker's approach.; Standard practice for individuals with limited sun exposure.; No vitamin D supplementation, regular sun exposure.; Taken daily for 29 days. Study: Observational, Population: Single individual with hypothyroidism, Timeframe: 29 days.; Used to supplement during winter.; Case study, n=1, 8-9 months of the year.; Taken for all 49 days of the test period. Study Type: Case Study. Population: Single individual living in Boston.; Expert Opinion, Case Study | Population: Individual experiencing winter; Living in Boston, taken for 8-9 months of the year.; The individual did not take vitamin D for the first six weeks of the period, relying on sun exposure. Population: General, especially those with limited sun exposure.; Supplementation for 49 out of 49 days.
-    - Limitations: Seasonal, dosage not specified.; Intermittent supplementation.; Dosage may need adjustment based on individual vitamin D levels and sun exposure.; Standard supplementation due to geographical location.; Low dose, individual-specific.; Individual needs may vary based on location, skin type, and other factors.; Dosage and blood levels not provided.; Single individual, self-reported.; Seasonal supplementation; individual needs may vary.; No data provided.; Seasonal, dependent on location and sun exposure.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #vitaminD #supplementation #winter; 4 ⭐⭐⭐⭐ | Tags: #supplement #vitamind #sunexposure; 3 ⭐⭐⭐ | Tags: #supplement #vitamin-D; 3 ⭐⭐⭐ | Tags: #supplements #vitamind #dosage #hypothyroidism; 4 ⭐⭐⭐⭐ | Tags: #biomarker #vitaminD #deficiency; 3 ⭐⭐⭐ | Tags: #supplement #vitamind #sunexposure; 4 ⭐⭐⭐⭐ | Tags: #supplement #vitamin-D #sun-exposure; 4 ⭐⭐⭐⭐ | Tags: #supplement #vitamin-D #sunlight; 1 ⭐ | Tags: #vitaminD #winter #supplementation; 4 ⭐⭐⭐⭐ | Tags: #vitamin #D #supplementation #seasonal; 4 ⭐⭐⭐⭐ | Tags: #supplement #vitamin\_D; 4 ⭐⭐⭐⭐ | Tags: #vitamind #supplementation #sunexposure
+    - Effects: Maintaining Vitamin D levels during non-summer months.; Supplementation.; Supplementation in non-summer months.; Not directly measured in this study.; Maintain vitamin D levels (average 64 ng/mL over 10 tests).; Supplementing due to living in the northeast (Boston) with limited sun exposure.; Likely supporting bone health, immune function.; Maintain vitamin D levels during low sunlight months.; Supplementation due to limited sun exposure.; Supplementation due to limited sun exposure in Boston.; Not specified, presumably to maintain adequate vitamin D levels.; Supplementation during winter months.
+    - Context: Standard practice for individuals with limited sun exposure.; Taken daily for 29 days. Study: Observational, Population: Single individual with hypothyroidism, Timeframe: 29 days.; Expert Opinion, Case Study | Population: Individual experiencing winter; The individual did not take vitamin D for the first six weeks of the period, relying on sun exposure. Population: General, especially those with limited sun exposure.; Taken for all 49 days of the test period. Study Type: Case Study. Population: Single individual living in Boston.; Case Study. Population: Single individual, male, diagnosed with hypothyroidism.; Expert opinion based on the speaker's approach.; Living in Boston, taken for 8-9 months of the year.; Case Study, single individual, summertime.; Supplementation for 49 out of 49 days.; Used to supplement during winter.; Case study, n=1, 8-9 months of the year.
+    - Limitations: Individual needs may vary based on location, skin type, and other factors.; Standard supplementation due to geographical location.; Dosage and blood levels not provided.; Individual response, dependent on sun exposure, may not be applicable year-round or in all locations.; Seasonal, dosage not specified.; Seasonal supplementation; individual needs may vary.; Single individual, self-reported.; Intermittent supplementation.; Dosage may need adjustment based on individual vitamin D levels and sun exposure.; No data provided.; Seasonal, dependent on location and sun exposure.; Low dose, individual-specific.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #supplement #vitamin-D #sun-exposure; 1 ⭐ | Tags: #vitaminD #winter #supplementation; 4 ⭐⭐⭐⭐ | Tags: #supplement #vitamin\_D; 4 ⭐⭐⭐⭐ | Tags: #supplement #vitamind #sunexposure; 4 ⭐⭐⭐⭐ | Tags: #vitamin #D #supplementation #seasonal; 3 ⭐⭐⭐ | Tags: #supplements #vitamind #dosage #hypothyroidism; 4 ⭐⭐⭐⭐ | Tags: #supplement #vitamin-D #sunlight; 3 ⭐⭐⭐ | Tags: #supplement #vitamin-D; 4 ⭐⭐⭐⭐ | Tags: #vitaminD #supplementation #winter; 3 ⭐⭐⭐ | Tags: #supplement #vitaminD #sunexposure; 3 ⭐⭐⭐ | Tags: #supplement #vitamind #sunexposure; 4 ⭐⭐⭐⭐ | Tags: #vitamind #supplementation #sunexposure
+
+- **Protocol**: Increased spermidine intake (approximately 1 mg/day) via wheat germ-enriched bread.
+    - Effects: Improved memory performance in older adults at risk for dementia.; Improved cognitive performance in older adults with dementia, increased blood spermidine levels by about 40%.
+    - Context: RCT with 28 participants (average age 70) over 3 months.; RCT with 92 participants (average age 83) over 3 months.
+    - Limitations: Small increase in spermidine intake.; Small sample size, no significant difference in blood spermidine levels.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #supplement #spermidine #cognition #dementia #RCT; 4 ⭐⭐⭐⭐ | Tags: #supplement #spermidine #cognition #dementia #RCT #wheatgerm
+
+- **Protocol**: Rapamycin (dosage not specified)
+    - Effects: Extends lifespan in mice, particularly in long-lived controls. Improves healthy lifespan in marmosets by approximately 10%.; Extends lifespan more than rapamycin alone in mice.
+    - Context: Multiple mouse studies, including those passing the 900-day rule; Intervention Testing Program (ITP) studies.; ITP studies mentioned in the transcript.
+    - Limitations: Human data lacking; mechanisms need further investigation.; Potential side effects like immunosuppression; human data limited. Exact dosage for humans unclear.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #acarbose #rapamycin #combination #therapy #lifespan #mouse #ITP; 4 ⭐⭐⭐⭐ | Tags: #rapamycin #lifespan #extension #mouse #ITP #marmoset
 
 - **Protocol**: Trigonelline gavage at 300 mg/kg in mice.
-    - Effects: Significantly increased NAD+ levels in liver, muscle, kidney, and blood after 2 hours.; Associated with a decrease in NAD levels from 30.1 µM to 22.3 µM.; Usually taken to maintain NAD levels around 40 micromolar.; Potential increase in NAD+ levels from 25.6 micromolar to 30.1 micromolar.
-    - Context: Case study, single individual, NMN supplementation.; Case study, single individual (male).; *In vivo* study using young mice. This dose is equimolar to NR doses commonly used in rodent studies.; Taken on 1 of 29 days. Awaiting trigonelline supplement. Study: Observational, Population: Single individual, Timeframe: 1 day.; Measured after 10 days of 500mg/day trigonelline supplementation. Baseline established with 20 measurements from early 2023 to 2024.; Self-experiment (n=1), NAD measured via blood tests. The source of vitamin B6 was not stated.; Supplement interventions with NMN, nicotinic acid, and vitamin B6.; Measured on the same day as blood test number 7. Intervention: Nicotinic Acid supplementation (50-60 mg/day for 36 of 49 days).
-    - Limitations: Single subject, no control group, potential for other factors influencing NAD levels.; Single individual, atypical usage for this period.; Single individual, observational.; This is an acute study; long-term effects of this dose are not known.
-    - Confidence: 1 ⭐ | Tags: #supplement #vitaminB6 #NAD #self-experiment; 2 ⭐⭐ | Tags: #supplements #vitaminB6 #NAD #intracellular; 3 ⭐⭐⭐ | Tags: #biomarker #nad #nicotinicacid; 2 ⭐⭐ | Tags: #NAD, #biomarker, #trigonelline, #supplementation, #health-marker; 1 ⭐ | Tags: #healthmarker #NAD #biomarker; 3 ⭐⭐⭐ | Tags: #healthmarker #NAD #intracellular #NMN; 2 ⭐⭐ | Tags: #supplements #nicotinicacid #nad #trigonelline; 4 ⭐⭐⭐⭐ | Tags: #supplement #trigonelline #dosage #mice #NAD+ #acute
+    - Effects: Associated with a decrease in NAD levels from 30.1 µM to 22.3 µM.; No increase in NAD levels (26.3 µM); Increased NAD levels (above 26.6 µM); No increase in NAD levels (26.3 µM compared to baseline range of 18.5-26.6 µM).; Attempt to impact NAD.; Experimenting with dosage and alternatives for potentially increasing NAD.; Increased NAD+ levels to 67 micromolar.; Increased NAD+ levels from approximately 25 micromolar to 39.3 micromolar.; The speaker took these supplements to target NAD-related pathways. The speaker experienced a negative effect on the Dunedin Pace of Aging test after taking both, and potentially a worse effect after doubling the tryptophan dose, after removing niacin.; Increased intracellular NAD levels from a baseline of 20-25 µM to 67 µM on one occasion.; No significant change in NAD+ levels from baseline.; Usually taken to maintain NAD levels around 40 micromolar.; Increased NAD+ levels from 21.1 to 31.7 micromolar.; Potential increase in NAD+ levels, although the effect may not have been fully washed out during the first clover sprout experiment.; No observed increase in NAD+ levels; in fact, the lowest NAD+ level was recorded.; Increased NAD+ levels to 38 micromolar, comparable to 1000 mg/day of NMN.; No significant change in NAD+ levels observed (remained around 25 micromolar).; No increase in NAD levels when combined with 45 mg/day nicotinic acid.; Increased NAD+ levels above 25 micromolar (exact value not specified for this combination).; Potential NAD boost, especially on exercise days; associated with improved heart rate variability.; Potential increase in NAD+ levels from 25.6 micromolar to 30.1 micromolar.; Significantly increased NAD+ levels in liver, muscle, kidney, and blood after 2 hours.
+    - Context: Case Study, single individual, NAD measured via intracellular blood test by Gfinity.; Case Study, n=1, Male, focused on biohacking aging.; Case study, n=1, exploring strategies to increase NAD levels.; Taken on 1 of 29 days. Awaiting trigonelline supplement. Study: Observational, Population: Single individual, Timeframe: 1 day.; Case Study. Population: Single individual, male, diagnosed with hypothyroidism.; Case Study, n=1, aiming to maximize de novo NAD+ synthesis.; Case Study, n=1, healthy individual aiming to optimize NAD+ levels; Self-experiment by an individual (n=1) to test the effects of trigonelline on NAD+.; The speaker's NAD levels were low.; Self-experiment (n=1), NAD measured via blood tests. The source of vitamin B6 was not stated.; Taken for 36 of the 49 days. Levels are sensitive to intake in the 5 days before testing. Study Type: Case Study. Population: Single individual.; Case Study, single individual, data from a previous video referenced.; Case Study, single individual.; Taken occasionally due to potential impact on epigenetic aging.; Case study, single individual (male).; Taken in the one-week period prior to the first clover sprout experiment but eliminated 4 days before testing.; Case Study, single individual, blood test on March 4th; Case Study, n=1, healthy individual aiming to optimize NAD+ levels.; *In vivo* study using young mice. This dose is equimolar to NR doses commonly used in rodent studies.
+    - Limitations: Single individual, short duration, possibly below the effective threshold.; Super-physiological dose (300% increase). Potentially negative impact on biomarkers.; Potential impact on epigenetic aging (dN Pace); more research needed.; Single individual, self-reported. Impact on DunedinPACE with this dose is unknown.; Single subject, no control group, potential for other factors influencing NAD levels.; Single individual, self-reported, short duration.; Single individual, self-reported.; Single individual, atypical usage for this period.; Single individual, short duration (7 days).; Single individual, varying dosage, possibly below the effective threshold.; Single individual, short duration (21 days).; Single individual, effect of trigonelline alone not assessed.; This is an acute study; long-term effects of this dose are not known.; Dosage and timing of nicotinic acid supplementation are not specified.; Potential confounding factor in the first experiment, dosage was relatively low.; Inconsistent usage, exploring alternatives like fenugreek seeds and chickpeas.; Single individual, observational.; Did not raise NAD more than niacin alone in a previous test. Stopped after 19 days.; Single individual, self-reported. Correlated with worst epigenetic pace of aging (DunedinPACE 0.98).; Personal anecdote with a negative outcome. Further research is needed to understand the effects of these supplements on aging biomarkers.; Single individual, limited details provided in this transcript.; Dosage based on personal NAD+ levels.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #supplement #trigonelline #dosage #mice #NAD+ #acute; 2 ⭐⭐ | Tags: #nicotinic #acid #NAD #heart #rate #variability #epigenetic #aging; 2 ⭐⭐ | Tags: #supplement #tryptophan #NAD #potential-negative-impact; 1 ⭐ | Tags: #supplement #vitaminB6 #NAD #self-experiment; 2 ⭐⭐ | Tags: #supplement #niacin #NAD; 2 ⭐⭐ | Tags: #supplement #nicotinic-acid #NAD #experiment; 3 ⭐⭐⭐ | Tags: #supplements #nicotinic-acid #NAD #effective-dose; 3 ⭐⭐⭐ | Tags: #supplements #trigonelline #NAD #synergy #ineffective; 2 ⭐⭐ | Tags: #supplements #NAD #nicotinic_acid #biohacking; 3 ⭐⭐⭐ | Tags: #supplements #NMN #NAD #intracellular; 2 ⭐⭐ | Tags: #supplements #nicotinic acid #NAD+; 1 ⭐ | Tags: #supplement #niacin #nicotinicacid #tryptophan #NAD #longevity; 2 ⭐⭐ | Tags: #supplements #NMN #NAD #intracellular; 1 ⭐ | Tags: #supplement #niacin #nicotinicacid #NAD #longevity; 1 ⭐ | Tags: #supplement #niacin #tryptophan #NAD #aging; 3 ⭐⭐⭐ | Tags: #supplement #nicotinicacid #nad #longevity; 2 ⭐⭐ | Tags: #supplements #nicotinicacid #nad #trigonelline; 1 ⭐ | Tags: #supplement #niacin #nicotinicacid #NAD #longevity #epigenetics; 1 ⭐ | Tags: #supplement #NMN #NAD #longevity; 3 ⭐⭐⭐ | Tags: #supplements #nicotinic-acid #NAD #low-dose #ineffective; 2 ⭐⭐ | Tags: #supplement, #trigonelline, #NAD, #self-experiment; 2 ⭐⭐ | Tags: #supplements #vitaminB6 #NAD #intracellular
 
 - **Protocol**: Chronic trigonelline supplementation in aged mice (2 years old) for 3 months at 300 mg/kg.
-    - Effects: Increased median survival by 16% and maximum survival by 29% in mice.; 10 millimolar significantly increased lifespan in *C. elegans*, while 5 millimolar did not have a significant effect.; Improved muscle fiber integrity, reduced paralysis, and extended lifespan by approximately 17.4%.; Improved grip strength and resistance to fatigue during muscle contraction tests. No change in limb mass or peak force at baseline.
-    - Context: *In vivo* study in aged mice.; *In vivo* study using a nematode model of aging.; RCT in mice, started at 7 weeks of age.; Study in *C. elegans*.
-    - Limitations: Animal study, direct human translation uncertain. Optimal human dosage unknown.; Results may not directly translate to humans.; Mice do not necessarily become sarcopenic like humans, so the lack of change in limb mass may not be relevant to humans.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #supplement #trigonelline #dosage #worms #lifespan #muscle; 3 ⭐⭐⭐ | Tags: #supplement #ergothioneine #mice #lifespan #dosage; 4 ⭐⭐⭐⭐ | Tags: #supplement #trigonelline #dosage #mice #aging #muscle #function; 3 ⭐⭐⭐ | Tags: #supplement #ergothioneine #worms #lifespan #dosage
-
-- **Protocol**: Relative muscle weight
-    - Change: Increased from 2.66% (vehicle) to a higher, but unspecified percentage in the 5x group.; Increased from 0.95% (vehicle) to 0.99% (1x), 0.99% (2x), and 1.04% (5x).; Significantly increased in all *L. plantarum* groups compared to vehicle.; Significantly increased in all *L. plantarum* groups compared to vehicle, with a plateau at 2x and 5x.
-    - Context: *L. plantarum* supplementation in young mice for 4 weeks.
-    - Timeframe: 4 weeks
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #grip #strength #muscle #mice #probiotic; 4 ⭐⭐⭐⭐ | Tags: #aerobic #capacity #exercise #mice #probiotic; 4 ⭐⭐⭐⭐ | Tags: #cecum #gut #microbiome #mice #probiotic; 4 ⭐⭐⭐⭐ | Tags: #muscle #mass #mice #probiotic
+    - Effects: Improved grip strength and resistance to fatigue during muscle contraction tests. No change in limb mass or peak force at baseline.; Improved muscle fiber integrity, reduced paralysis, and extended lifespan by approximately 17.4%.; Increased median survival by 16% and maximum survival by 29% in mice.; 10 millimolar significantly increased lifespan in *C. elegans*, while 5 millimolar did not have a significant effect.
+    - Context: Study in *C. elegans*.; RCT in mice, started at 7 weeks of age.; *In vivo* study using a nematode model of aging.; *In vivo* study in aged mice.
+    - Limitations: Animal study, direct human translation uncertain. Optimal human dosage unknown.; Mice do not necessarily become sarcopenic like humans, so the lack of change in limb mass may not be relevant to humans.; Results may not directly translate to humans.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #supplement #ergothioneine #worms #lifespan #dosage; 4 ⭐⭐⭐⭐ | Tags: #supplement #trigonelline #dosage #worms #lifespan #muscle; 4 ⭐⭐⭐⭐ | Tags: #supplement #trigonelline #dosage #mice #aging #muscle #function; 3 ⭐⭐⭐ | Tags: #supplement #ergothioneine #mice #lifespan #dosage
 
 - **Protocol**: Nicotinamide Riboside (NR) supplementation (1000 ppm)
     - Effects: No significant effect on median or maximum lifespan in male or female mice.
@@ -1884,29 +1672,83 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Only tested in mice.
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #nicotinamide #riboside #NR #lifespan #mice
 
-- **Protocol**: Gut microbiome composition (Bacteroidetes)
-    - Change: Increased relative abundance in the 2x and 5x groups.
-    - Context: *L. plantarum* supplementation in young mice for 4 weeks.
-    - Timeframe: 4 weeks
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #gut #microbiome #bacteroidetes #mice #probiotic
+- **Protocol**: 17-a-estradiol (17aE2; non-feminizing estrogen)
+    - Effects: Shown to robustly increase the lifespan of male mice.
+    - Context: ITP studies mentioned in the transcript.
+    - Limitations: Does not work in females.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #17aE2 #lifespan #mouse #ITP
 
-- **Protocol**: Spermidine supplementation (1.2 mg/day).
-    - Effects: Improved memory performance in older adults at risk for dementia.
-    - Context: RCT with 28 participants (average age 70) over 3 months.; RCT with spermidine supplement intervention.
-    - Limitations: Small sample size, no significant difference in blood spermidine levels.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #cognition #dementia #spermidine #RCT; 3 ⭐⭐⭐ | Tags: #supplement #spermidine #cognition #dementia #RCT
+- **Protocol**: Canagliflozin (SGLT2 inhibitor)
+    - Effects: increased median lifespan in one study by 14% in mice who were already long-lived.
+    - Context: ITP studies mentioned in the transcript.
+    - Limitations: Only works in males, not females.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #canagliflozin #lifespan #mouse #ITP
+
+- **Protocol**: Trypsin inhibitor (not specified, but alpha-1-antitrypsin is mentioned as affordable and orally available) in drinking water.
+    - Effects: Reduced trypsin infiltration in organs, partial restoration of mucin density and collagen integrity in aged rats.
+    - Context: 2-week treatment in aged rats.
+    - Limitations: Specific trypsin inhibitor and dosage not provided. Long-term effects and optimal dosing unknown.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #supplement #trypsin-inhibitor #aging #rats
+
+- **Protocol**: Acarbose supplementation.
+    - Effects: Increased median and maximum lifespan in male and female mice. Increased fecal levels of acetate, butyrate, and propionate.
+    - Context: Pooled data from genetically heterogeneous mice at three study sites.
+    - Limitations: Mouse study; optimal dosage and effects in humans need further investigation.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #acarbose #lifespan #SCFAs #supplementation
+
+- **Protocol**: Recombinant mouse serum albumin (rMSA), 20mg or 50mg, injected every three weeks.
+    - Effects: Increased lifespan, improved muscle strength, increased muscle mass, enhanced cognitive function, reduced phosphorylated tau levels in the brain, glossier and thicker fur.
+    - Context: C57BL/6 mice, starting at 12 months of age.
+    - Limitations: The study used a mouse model, and the results may not directly translate to humans. The control group had a shorter lifespan than typically observed in this mouse strain, raising questions about potential confounding factors.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #albumin #rMSA #injection #longevity #healthspan #musclestrength #cognitivefunction #ptau
+
+- **Protocol**: *Lactiplantibacillus plantarum* (isolated from olympic athlete's fecal matter), 9 x 10^8 CFU/kg (1x), 1.8 x 10^9 CFU/kg (2x), and 4.5 x 10^9 CFU/kg (5x), orally once per day.
+    - Effects: Increased muscle mass, grip strength, and aerobic exercise capacity; decreased fat mass; altered cecum weight and gut microbiome composition.
+    - Context: RCT; young (6-week-old) male ICR mice; compared to the vehicle group.
+    - Limitations: Only tested in mice; specific strain and source of *L. plantarum* may be unique.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #supplement #probiotic #lactobacillus #plantarum #muscle #exercise #gut #microbiome #mice
+
+- **Protocol**: Melatonin, 39 mcg/day on average, taken as needed.
+    - Effects: Sleep aid.; Increased sleep duration (7.7 hours vs. 7.2 hours, p < 0.05), increased HRV (54.2 ms vs. 52 ms, p < 0.05), decreased RHR (45.6 bpm vs. 46.7 bpm, p < 0.05).; Improved sleep quality.; The speaker is experimenting with melatonin, and the dosage was introduced before blood test number one and increased during the period of test number two.
+    - Context: Observational study, single individual, compared 26 days with melatonin to 136 days without.; Taken before bed or in the middle of the night when needed.; Case Study | Population: Individual experimenting with melatonin; Case Study, single individual.
+    - Limitations: Dosage not specified, single-subject study, potential placebo effect.; Low dosage, used intermittently.; Very low dose and infrequent use, individual response.; The long-term effects and optimal dosage are still under investigation.
+    - Confidence: 2 ⭐⭐ | Tags: #melatonin #sleep #circadianrhythm #supplementation; 3 ⭐⭐⭐ | Tags: #supplement #melatonin #sleep; 2 ⭐⭐ | Tags: #melatonin #sleep #HRV #RHR #supplementation
+
+- **Protocol**: Methyl-B12, 1000 mcg/day.
+    - Effects: Tested for potential to lower homocysteine. No impact observed.; Reduced homocysteine by 20%.; Not directly measured in this study.; Attempt to reduce homocysteine.; High B12 correlated with negative changes in multiple blood biomarkers, thus not supplementing despite correlation with lower homocysteine.; Aims to maintain reasonable homocysteine levels.; Aimed to reduce homocysteine levels.; Expected to potentially reduce homocysteine.; No significant change in homocysteine levels.; Aim to reduce homocysteine levels, potential impact on NAD and DHEA sulfate.; Aiming to reduce homocysteine levels.; Experimenting with dosage to assess impact on homocysteine.; Associated with lower homocysteine levels in this individual's data.; Potential reduction in fasting glucose levels. Potential increase in homocysteine levels.
+    - Context: Expert Opinion, Case Study | Population: Individual monitoring homocysteine; Personal experiment based on a hypothesis that glycine may reduce homocysteine. Supplementation started on December 15th, with at least 39 days of 2g/day prior to the test.; Case study, n=1, exploring potential effects on homocysteine levels.; Taken between April and July blood tests. Population: Single individual (speaker).; Case Study, single individual. Average intake is far below average since 2015 (542 mcg/day); 49-day period leading up to blood test #3. Dosage planned to be increased to 4g/day for the next testing period.; Personal experiment, 44 out of 49 days prior to blood test.; Supplementation for all 49 days.; Taken for the last 14 days of the 29-day period. Study: Observational, Population: Single individual, Timeframe: 14 days.; Case Study. Population: Single individual, male, diagnosed with hypothyroidism.; Expert opinion based on the speaker's approach.; Observational study based on the speaker's personal data. Higher B12 intake correlated with higher glucose and lower homocysteine.; Used to manage homocysteine levels.; Personal biohacking experiment, included in the recent blood test.
+    - Limitations: Short-term supplementation, specific to the speaker's goal.; Individual response; may not be necessary for everyone.; Inconsistent usage, no clear effect on homocysteine observed yet.; Effects on homocysteine not yet confirmed in this individual.; Single-person study, correlational data. B12 has other potential health impacts.; Single individual, short duration, no effect observed.; Single individual, short duration. The speaker acknowledges that glycine did not impact homocysteine as expected.; Results to be presented in a future video.; Individual response.; Effectiveness and optimal dosage may vary.; Used in combination with serine.; No data provided.; No dramatic improvement or worsening of Levine's biological age data was observed with this dosage. Individual responses may vary.; Individual-specific response.
+    - Confidence: 2 ⭐⭐ | Tags: #supplements #bcaas #homocysteine #dosage; 3 ⭐⭐⭐ | Tags: #supplement #B12 #glucose #homocysteine #correlation #observational; 3 ⭐⭐⭐ | Tags: #supplement #B12 #homocysteine; 1 ⭐ | Tags: #glycine #homocysteine #aminoacid #supplementation; 1 ⭐ | Tags: #supplement #methylb12 #homocysteine #shortterm; 2 ⭐⭐ | Tags: #supplement #methyl-B12 #homocysteine #experiment; 2 ⭐⭐ | Tags: #serine #homocysteine #aminoacid #supplementation; 1 ⭐ | Tags: #B12 #methylB12 #supplementation; 3 ⭐⭐⭐ | Tags: #methylB12 #homocysteine #bvitamin; 3 ⭐⭐⭐ | Tags: #methyl #B12 #homocysteine; 2 ⭐⭐ | Tags: #supplement #vitamin-B6 #P5P #homocysteine; 1 ⭐ | Tags: #serine #vitaminB6 #homocysteine #NAD #DHEAsulfate #supplement; 2 ⭐⭐ | Tags: #supplement #methylb12 #homocysteine #methylation; 2 ⭐⭐ | Tags: #supplement #B12 #dietary
+
+- **Protocol**: Taurine (dosage not specified)
+    - Effects: Shown to extend lifespan in one study with long-lived mice; moderate evidence for blood pressure benefits in humans.; Extended median lifespan in male and female mice.
+    - Context: Interventional study in mice, no specific dosage mentioned. The video presenter mentions considering supplementation if his levels decline, but does not start supplementation.; Mouse study passing the 900-day rule; some human data.
+    - Limitations: Limited data compared to rapamycin; mechanism not fully understood. Exact quantities not discussed.; Optimal human dosage not established. The video does not mention any specific dosages used in the studies.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #taurine #lifespan #blood #pressure #mouse #human; 3 ⭐⭐⭐ | Tags: #supplement #taurine #lifespan #mice #aging
 
 - **Protocol**: No specific supplement protocol is mentioned, but the implication is that supplementation could be used to increase EPA and DHA levels.
     - Effects: Increased circulating EPA and DHA, potentially reducing all-cause mortality risk.; N/A
-    - Context: Based on the meta-analysis showing an association between higher EPA/DHA levels and lower mortality risk.; The speaker mentions supplements as a contributing factor but does not provide specific details.; N/A
-    - Limitations: No data provided in this transcript.; Optimal dosage and form of supplementation are not provided. Individual needs may vary.; N/A
-    - Confidence: N/A | Tags: #supplements; 3 ⭐⭐⭐ | Tags: #supplements #omega-3 #EPA #DHA #mortality; N/A | Tags: #supplements #intervention
+    - Context: The speaker mentions supplements as a contributing factor but does not provide specific details.; Based on the meta-analysis showing an association between higher EPA/DHA levels and lower mortality risk.; N/A
+    - Limitations: Optimal dosage and form of supplementation are not provided. Individual needs may vary.; No data provided in this transcript.; N/A
+    - Confidence: N/A | Tags: #supplements; N/A | Tags: #supplements #intervention; 3 ⭐⭐⭐ | Tags: #supplements #omega-3 #EPA #DHA #mortality; N/A | Tags: #supplements #calcium
 
-- **Protocol**: Methyl-B12, 1000 mcg/day.
-    - Effects: Tested for potential to lower homocysteine. No impact observed.; No significant change in homocysteine levels.; Associated with lower homocysteine levels in this individual's data.; Attempt to reduce homocysteine.; Aim to reduce homocysteine levels, potential impact on NAD and DHEA sulfate.
-    - Context: Attempt to lower homocysteine with high-dose BCAAs.; Case Study. Population: Single individual, male, diagnosed with hypothyroidism.; Taken for the last 14 days of the 29-day period. Study: Observational, Population: Single individual, Timeframe: 14 days.; Serine and Vitamin B6 supplementation were implemented to potentially reduce homocysteine levels.; After at least 39 days of 2g/day glycine supplementation.; Personal experiment based on a hypothesis that glycine may reduce homocysteine. Supplementation started on December 15th, with at least 39 days of 2g/day prior to the test.; Personal experiment, 44 out of 49 days prior to blood test.; Supplementation for all 49 days.
-    - Limitations: Single individual, short duration, no effect observed.; Used in combination with serine.; Results to be presented in a future video.; Individual-specific response.; Single individual, short duration. The speaker acknowledges that glycine did not impact homocysteine as expected.
-    - Confidence: 2 ⭐⭐ | Tags: #homocysteine #serine #vitaminb6; 3 ⭐⭐⭐ | Tags: #methyl #B12 #homocysteine; 2 ⭐⭐ | Tags: #homocysteine #cardiovascularrisk #aminoacids; 2 ⭐⭐ | Tags: #supplement #vitamin-B6 #P5P #homocysteine; 2 ⭐⭐ | Tags: #supplements #bcaas #homocysteine #dosage; 1 ⭐ | Tags: #serine #vitaminB6 #homocysteine #NAD #DHEAsulfate #supplement; 1 ⭐ | Tags: #glycine #homocysteine #aminoacid #supplementation; 2 ⭐⭐ | Tags: #biomarkers #homocysteine #bcaas
+- **Protocol**: Grape seed proanthocyanidin extract (GSPE), 50 mg/kg (in rats)
+    - Effects: No observed increase in blood NAD+ levels (measured at 19.9 micromolar, the lowest reading across six tests).; Increased liver NAD+ levels by about four-fold.
+    - Context: Study in rats.; Self-experiment, single individual, based on rat studies indicating potential for increased NAD+ levels.
+    - Limitations: Animal study, not directly translatable to humans, specific dosage may vary.; Single individual, dosage may be insufficient, bioavailability differences between grape seed powder and extract used in animal studies. The form of proanthocyanidin may impact effectiveness.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #supplement #grapes #proanthocyanidins #NAD #ratstudy; 1 ⭐ | Tags: #supplement #grapes #proanthocyanidins #NAD #self-experiment
+
+- **Protocol**: Homemade mouthwash with 1% xylitol, 1% sodium bicarbonate, and a few drops of peppermint oil in 1 liter of water.
+    - Effects: Potentially reduced *Serratia* levels based on initial tests.; May reduce *Streptococcus mutans* (associated with cavities) and *Serratia marcescens*. The speaker uses a 10% xylitol solution in a homemade mouthwash.; No significant impact on *Serratia* (95%).; *Serratia* at 41%, lower than some tests but not zero.; No significant impact on *Serratia* (96%).
+    - Context: Case Study, individual experimenting on themselves. Used 3-5 times daily. Based on in vitro study showing *Serratia* reduction with 5% xylitol.; Part of the speaker's personalized oral microbiome optimization strategy.; Case Study, individual experimenting on themselves. Used 3-5 times daily.
+    - Limitations: Not a controlled study. Specific dosage not mentioned.; Not a controlled study. In vitro results may not translate to in vivo.; Not a controlled study. Results may not be generalizable.; Based on in vitro studies and personal experimentation.
+    - Confidence: 2 ⭐⭐ | Tags: #supplement #oralmicrobiome #serratia #potassiumnitrate; 3 ⭐⭐⭐ | Tags: #supplement #oralmicrobiome #serratia #xylitol #sodiumbicarbonate #peppermintoil; 1 ⭐ | Tags: #supplement #oralmicrobiome #serratia #xylitol; 2 ⭐⭐ | Tags: #supplement #xylitol #oralhealth #mouthwash; 1 ⭐ | Tags: #supplement #oralmicrobiome #serratia #berberine
+
+- **Protocol**: Ergothioneine supplementation
+    - Effects: Extended median lifespan in two different strains of fruit flies (Canton S and yw) at multiple concentrations.
+    - Context: Study in fruit flies. Data in mice or other mammals is not yet available.
+    - Limitations: Only tested in fruit flies. Human data suggests lower ergothioneine levels in long-lived individuals.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #ergothioneine #lifespan #flies
 
 - **Protocol**: Cholic Acid (CA) supplementation (0.1%)
     - Effects: Increased median lifespan by 7% in a progeria mouse model (ZMP STE knockout).
@@ -1914,6 +1756,18 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Not specified, but effects were observed over the lifespan of the mice.
     - Limitations: Borderline significant increase in maximum lifespan (p=0.054). The study used a progeria model, and the effects on normal aging are unknown.
     - Confidence: 3 ⭐⭐⭐ | Tags: #cholic #acid #progeria #lifespan
+
+- **Protocol**: Spermidine (dosage not specified)
+    - Effects: Performs well in multiple mouse studies, potential for lifespan extension.
+    - Context: Mouse studies mentioned in the transcript.
+    - Limitations: Human data needed for further validation. Exact quantities not discussed.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #spermidine #lifespan #mouse
+
+- **Protocol**: N-Acetyl-L-Cysteine (NAC)
+    - Effects: increased median lifespan in one study by 19.6% in mice who were already long-lived.
+    - Context: ITP studies mentioned in the transcript.
+    - Limitations: Failed in a second ITP test.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #NAC #lifespan #mouse #ITP
 
 - **Protocol**: Alpha-ketoglutarate supplementation
     - Effects: Increased average and maximum lifespan in female mice (31 and 38 months, respectively). No significant increase in male mice lifespan.
@@ -1926,6 +1780,12 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Context: Observational study in C57 black 6j mice
     - Limitations: Mouse study; less effective than FGF21 overexpression; no data for female mice
     - Confidence: 3 ⭐⭐⭐ | Tags: #supplement #berberine #lifespan #mice
+
+- **Protocol**: Methyl-folate, 400 mcg, 18 of 49 days.
+    - Effects: Reduced intake due to the inclusion of other folate sources in the diet.
+    - Context: Supplement usage adjusted based on dietary folate intake.
+    - Limitations: Individualized approach.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #folate #methylfolate #dietary #adjustment
 
 - **Protocol**: Vitamin D
     - Effects: Can increase intestinal alkaline phosphatase (IAP) expression. Vitamin D is also important for skin antimicrobial defense.
@@ -1945,23 +1805,17 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Correlation with sunlight exposure and its benefits.
     - Confidence: 3 ⭐⭐⭐ | Tags: #vitamind #sunlight #mortality
 
-- **Protocol**: Taurine supplementation
-    - Effects: Extended median lifespan in male and female mice.
-    - Context: Interventional study in mice, no specific dosage mentioned. The video presenter mentions considering supplementation if his levels decline, but does not start supplementation.
-    - Limitations: Optimal human dosage not established. The video does not mention any specific dosages used in the studies.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #supplement #taurine #lifespan #mice #aging
+- **Protocol**: Layered supplementation approach (specific components not detailed).
+    - Effects: Showed promise in extending lifespan in fruit flies and led to the development of a commercial product (Rebuilder) marketed for cognitive health.; Marketed for cognitive health; based on research aimed at replicating the multi-omic signature of extended lifespan in fruit flies.
+    - Context: Research by Genesee and subsequent work, aimed at mimicking the multi-omic signature of long-lived fruit flies.; Early attempt at translating lifespan extension findings in fruit flies to humans using an omics-guided approach. Genescient was founded on this principle around 2010.
+    - Limitations: The exact composition and dosages of the supplements used in the fruit fly studies are not provided. Efficacy in humans is not directly established.; Dr. Rose was not directly involved in developing or testing the product. Efficacy for lifespan extension in humans is not established.
+    - Confidence: 2 ⭐⭐ | Tags: #supplements #cognitivehealth #lifespan #genescient #genair; 2 ⭐⭐ | Tags: #supplements #cocktail #fruitflies #lifespan #cognition #omics
 
-- **Protocol**: AST
-    - Change: Lower levels associated with higher strawberry and mushroom intake.
-    - Context: Liver enzyme, lower levels generally favorable within the healthy range.
-    - Timeframe: Observed over 63 days.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #healthmarker #ast #liver
-
-- **Protocol**: Homocysteine
-    - Change: Lower levels associated with higher carrot intake (favorable, but not followed due to beta-carotene concerns). Higher levels associated with higher mushroom intake (unfavorable).
-    - Context: Amino acid, increases with age, associated with increased all-cause mortality risk.
-    - Timeframe: Observed over 63 days.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #healthmarker #homocysteine
+- **Protocol**: Brazil nuts for selenium.
+    - Effects: Initially correlated with longer telomere length, but not significant after calorie adjustment.
+    - Context: Observational study, dietary intake tracked, dosage increased to test the correlation.; Observational study, dietary intake tracked, dosage not specified but maintained at the higher end of the individual's usual range.
+    - Limitations: Correlational, not a controlled intervention.
+    - Confidence: 2 ⭐⭐ | Tags: #supplement #selenium #brazil-nuts #telomere-length #aging; 2 ⭐⭐ | Tags: #supplement #black-pepper #telomere-length #aging
 
 - **Protocol**: Duration of multivitamin use.
     - Effects: Included as a component of the AHEI score, with longer duration contributing to a higher score.
@@ -1969,11 +1823,35 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: The specific type, dosage, and composition of the multivitamin are not defined.
     - Confidence: 2 ⭐⭐ | Tags: #supplements #multivitamin #AHEI
 
+- **Protocol**: Increase selenium intake from approximately 275 mcg/day to 400 mcg/day.
+    - Effects: Expected to improve the free T3/T4 ratio based on the role of selenium in thyroid hormone metabolism.
+    - Context: The speaker's personal data showing a low free T3/T4 ratio despite levothyroxine treatment. The tolerable upper limit for selenium is 400 mcg/day.
+    - Limitations: The specific impact on individuals taking levothyroxine is not yet established.
+    - Confidence: 2 ⭐⭐ | Tags: #supplements #selenium #thyroid #dosage
+
+- **Protocol**: Metformin (dosage not specified)
+    - Effects: Limited, non-significant lifespan extension in mice; does not pass the 900-day rule. May normalize lifespan in pre-diabetic humans.
+    - Context: Multiple mouse studies, including those failing the 900-day rule; human studies in pre-diabetics.
+    - Limitations: Not effective for lifespan extension in healthy mice; human benefits limited to specific populations.
+    - Confidence: 2 ⭐⭐ | Tags: #metformin #lifespan #mouse #human #pre-diabetes
+
+- **Protocol**: Alpha-1-antitrypsin (A1AT)
+    - Effects: Potential to mitigate autodigestion.
+    - Context: Expert opinion, based on its use in treating A1AT deficiency and its ability to inhibit trypsin. Mentioned as affordable and orally available.
+    - Limitations: No specific dosage or timeframe provided. Efficacy in mitigating age-related autodigestion needs to be studied.
+    - Confidence: 2 ⭐⭐ | Tags: #supplement #A1AT #trypsin-inhibitor #aging
+
 - **Protocol**: Vitamin K1
     - Effects: In vitro studies suggest it increases the expression of intestinal alkaline phosphatase (IAP), which improves gut barrier function.
     - Context: IAP overexpression in mice has been linked to increased lifespan. IAP supplementation in overweight diabetic patients has shown improved glycemic status.
     - Limitations: Primarily based on in vitro studies. Optimal dosage and long-term effects in humans are not well-established.
     - Confidence: 2 ⭐⭐ | Tags: #supplement #vitamink1 #guthealth #IAP
+
+- **Protocol**: Probiotics (e.g., *Lactobacillus*, *Bifidobacteria*)
+    - Effects: May improve gut health and potentially address specific microbial imbalances. For example, *Lactobacillus* supplementation increased muscle mass in a cachexia mouse model.
+    - Context: The speaker mentions personal experimentation with *Bifidobacteria*. Probiotic effectiveness can depend on the strain, dosage, and individual microbiome composition. Some probiotics may not survive stomach acidity.
+    - Limitations: Highly individualized. Effectiveness depends on proper formulation and targeted approach based on microbiome analysis.
+    - Confidence: 2 ⭐⭐ | Tags: #supplement #probiotics #guthealth #personalizedmedicine
 
 - **Protocol**: Glutamine
     - Effects: Some evidence suggests it may improve gut barrier function.
@@ -1981,29 +1859,47 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Individual responses may vary. The speaker suggests a cautious approach, monitoring systemic biomarkers to assess effectiveness.
     - Confidence: 2 ⭐⭐ | Tags: #supplement #glutamine #guthealth #intestinalpermeability
 
+- **Protocol**: Vitamin B5, dosage not specified, likely through increased mushroom intake.
+    - Effects: Inversely correlated with PCS and IS levels.
+    - Context: Personal metabolomic data analysis. Population: Single individual (speaker).
+    - Limitations: Correlational data, likely confounded by mushroom intake.
+    - Confidence: 2 ⭐⭐ | Tags: #supplements #vitamin\_B5 #mushrooms #PCS #IS #metabolites #gut\_health
+
+- **Protocol**: Prebiotics, such as inulin or fructooligosaccharides, which can increase SCFA production.
+    - Effects: Potential increase in SCFA levels, potentially reducing Enterobacteria.
+    - Context: These are types of soluble fiber that can be fermented by gut bacteria. No specific dosage or timing is provided in the transcript.
+    - Limitations: No direct evidence is provided for prebiotic supplementation.
+    - Confidence: 2 ⭐⭐ (based on mechanistic understanding and indirect evidence) | Tags: #supplements #prebiotics #SCFAs #gut-microbiome
+
 - **Protocol**: *Lactobacillus reuteri* supplementation (strain not specified, dosage not specified).
     - Effects: Potential increase in ergothioneine levels.
     - Context: Cell culture experiments demonstrating *L. reuteri*'s ability to produce and release ergothioneine; observational study showing a correlation between fecal *L. reuteri* and fecal ergothioneine levels.
     - Limitations: No human trials yet; optimal strains and dosages are unknown. In one study, four of the six strains of *L. reuteri* tested released decent amounts of ergothioneine into the cell media, two released four and five-fold more ergothioneine compared with the negative control.
     - Confidence: 2 ⭐⭐ | Tags: #ergothioneine #probiotics #Lactobacillus-reuteri #gut-health
 
-- **Protocol**: Sleep Duration
-    - Change: Increased by 0.5 hours (from 7.2 to 7.7 hours)
-    - Context: Middle-of-the-night melatonin supplementation.
-    - Timeframe: 162 days
-    - Confidence: 2 ⭐⭐ | Tags: #sleep #duration #melatonin
+- **Protocol**: Daily supplement containing prebiotics (vegetables, fruits, seeds, herbs).
+    - Effects: Promotes growth of beneficial gut bacteria.
+    - Context: RCT, 38 men, average age 59.
+    - Limitations: Exact composition and dosage not specified, adherence not reported.
+    - Confidence: 2 ⭐⭐ | Tags: #supplement #prebiotics #gut\_health
 
-- **Protocol**: Average Daily Heart Rate
-    - Change: No significant change (57.5 bpm vs 57.3 bpm)
-    - Context: Comparison between days with and without melatonin supplementation.
-    - Timeframe: 162 days
-    - Confidence: 2 ⭐⭐ | Tags: #physical #activity #melatonin
+- **Protocol**: Daily *Lactobacillus plantarum* probiotic.
+    - Effects: Potential increase in folate synthesis, which may impact methylation and epigenetic age.
+    - Context: RCT, 38 men, average age 59.
+    - Limitations: Dosage not specified, adherence not reported.
+    - Confidence: 2 ⭐⭐ | Tags: #supplement #probiotics #folate #methylation
 
-- **Protocol**: NAD+ (Intracellular)
-    - Change: Decrease to 19 µM after consuming 271g of clover sprouts daily for 11 days.
-    - Context: Follow-up self-experiment with a higher dose of trigonelline.
-    - Timeframe: 11 days
-    - Confidence: 2 ⭐⭐ | Tags: #NAD+ #health marker #intracellular
+- **Protocol**: Green tea consumption.
+    - Effects: Not directly linked to KTR in the transcript, but mentioned as part of the speaker's health regimen.
+    - Context: Speaker uses a diet tracker (Cronometer) to monitor green tea intake.
+    - Limitations: No specific dosage or effect on KTR mentioned.
+    - Confidence: 1 ⭐ | Tags: #greentea #diettracker #chronometer
+
+- **Protocol**: 40% Urea Cream
+    - Effects: Urea has antimicrobial effects and is a keratolytic agent. The speaker plans to use it topically for seborrheic keratosis (a benign skin tumor).
+    - Context: Based on PubMed research, the speaker is experimenting with a high concentration of urea as an alternative to laser treatment.
+    - Limitations: Experimental and based on personal use.
+    - Confidence: 1 ⭐ | Tags: #supplement #urea #skinhealth #topical
 
 - **Protocol**: Potentially DHEA supplementation in the past, but not currently being used
     - Effects: Past DHEA-sulfate levels were around 300 µg/dL, but current levels are at 126 µg/dL without supplementation. The impact of past supplementation on current levels is unknown.
@@ -2011,206 +1907,92 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Unclear if past DHEA supplementation is related to the observed levels. Unclear whether current levels are suboptimal.
     - Confidence: 1 ⭐ | Tags: #dhea #androgens #supplementation #aging
 
-- **Protocol**: NAD+
-    - Change: The speaker had low NAD+ levels. Supplementation with niacin and tryptophan led to a negative outcome on the Dunedin Pace of Aging test.
-    - Context: NAD+ is a crucial coenzyme involved in various cellular processes.
-    - Timeframe: Not specified.
-    - Confidence: 1 ⭐ (based on personal experience) | Tags: #healthmarker #NAD #aging #supplementation
-
-- **Protocol**: DunedinPACE (Epigenetic Pace of Aging)
-    - Change: 0.98 (worst score observed) after 600 mg/day nicotinic acid.
-    - Context: Potentially negative effect of high-dose nicotinic acid.
-    - Timeframe: Not specified.
-    - Confidence: 1 ⭐ | Tags: #healthmarker #epigenetics #aging #DunedinPACE
-
-- **Protocol**: Plasma Trigonelline
-    - Change: Not yet measured, pending results.
-    - Context: Testing the hypothesis of whether or not plasma trigonelline levels were greater than 7 micromolar, which, if not, suggests the dose of 500 mg wasn't high enough.
-    - Timeframe: N/A
-    - Confidence: N/A | Tags: #Plasma #Trigonelline #biomarker #supplementation #health-marker
+- **Protocol**: No specific supplement protocol was mentioned as being used by the individual in the transcript. However, there are correlations with nutrients.
+    - Effects: Not applicable, as no supplement protocol is defined.
+    - Context: Single individual. Correlations between dietary components and telomere length are observed.
+    - Limitations: No supplement protocol is used. Correlations are based on dietary intake, not supplementation.
+    - Confidence: Not applicable | Tags: #supplements #none-mentioned
+    - No specific supplement protocols are mentioned in this transcript. However, the role of SCFAs suggests potential benefits from: 
 
 
 ## Scientific Methods
 
-- **Study**: Heart Rate Variability (HRV) - RMSSD
-    - Change: Decreased from 51 bpm (2018) to 47 bpm (2021).; Increased by 43% from 47 ms in 2018 to 68 ms in 2024.; Increased slightly from previous test (statistically significant).; Decreased from an average of 51 bpm in 2018 to 44 bpm in the first six months of 2023 (14% decrease).; Decreased by 17% from 51 bpm in 2018 to 42 bpm in 2024.; Declines significantly with age from 20-60 years. Decreases with higher physical activity, body weight, and calorie intake. Increases with higher monounsaturated fatty acid, omega-6 fatty acid, and protein intake. Decreases with higher fructose, saturated fatty acid, and fiber intake.; Increased from 47 ms (2018) to 52 ms (2021).
-    - Context: Average RHR measured over 42 days.; Measured as the root mean squared of successive differences in heartbeats.; Correlated with lower body weight and modulated physical activity.; Inversely correlated with body weight and previous day's ADHR.; Resting heart rate increases with age until 50, then declines. Lower resting heart rate (around 45 bpm) associated with lowest all-cause mortality.; HRV declines with age. Higher HRV indicates better cardiovascular function.; Comparison between two periods in 2022, measured using a fitness tracker.; Correlated with lower body weight and balanced exercise.
-    - Timeframe: Significant increase each year since 2018, except for a dip in 2021.; Changes observed over several years.; Changes observed over 6 years (2018-2024).; Daily fluctuations, long-term age-related changes.; Significant reduction each year since 2018.; 42 days.; 49 days
-    - Confidence: 3 ⭐⭐⭐ | Tags: #mortality #aging #biomarkers #cardiovascular; 4 ⭐⭐⭐⭐ | Tags: #restingheartrate #aging #observational; 4 ⭐⭐⭐⭐ (large-scale studies), 3 ⭐⭐⭐ (personal data) | Tags: #HRV #cardiovascular #aging; 4 ⭐⭐⭐⭐ | Tags: #heartratevariability #aging #observational; 4 ⭐⭐⭐⭐ | Tags: #resting-heart-rate #cardiovascular #aging #mortality; 4 ⭐⭐⭐⭐ | Tags: #HRV #cardiovascular #aging; 3 ⭐⭐⭐ | Tags: #heart-rate #cardiovascular #fitness; 3 ⭐⭐⭐ | Tags: #rhr #hearthealth #cardiovascular; 4 ⭐⭐⭐⭐ | Tags: #healthmarker #rhr #cardiovascular; 4 ⭐⭐⭐⭐ | Tags: #HRV #cardiovascular #improvement; 3 ⭐⭐⭐ | Tags: #HRV #cardiovascular #fitness
-
-- **Study**: Randomized Controlled Trial (RCT)
-    - Methodology: Mice were divided into five groups: ad libitum feeding, one or two days of fasting, and 20% or 40% calorie restriction. Lifespan and biomarkers were tracked.; Mice were fed diets with varying levels of AGEs (low, regular, high) with or without calorie restriction. Food intake and body weight were monitored. Lifespan was the primary outcome.; Genetically engineered mice (C57 black 6j) to overexpress FGF21 (5-10 fold increase). Compared lifespan with wild-type mice.; 960 mice were randomly assigned to five groups (192 mice per group) at 6 months of age: ad libitum, one day fasting, two days fasting, 20% CR, and 40% CR. Food intake, lifespan, physical activity (wheel running), and various biomarkers were measured.; Compared lifespan of C57 black 6J male mice under different feeding regimens: ad libitum, 30% CR with various fasting durations and timing (day vs. night). Survival curves were generated, and median and 10% survival were analyzed.; Analysis of lifespan data from multiple studies, comparing control group lifespans with intervention group lifespans. Examined the relationship between control lifespan and the magnitude of lifespan extension from interventions like caloric restriction. Corrected for regression to the mean.; Compared lifespan of C57 black 6j mice supplemented with alpha-ketoglutarate to wild-type mice.; Comparing lifespan of FGF21 overexpressing mice with wild-type mice.; Comparing survival curves of mice fed different diets (methionine-restricted vs. control). Measuring median and maximum survival.; Male mice were divided into three groups: ad libitum, single-meal feeding, and 30% calorie restriction. Two different diets (NIA and Wisc) were used. Food intake, fasting interval, and lifespan were measured.
-    - Key Findings: Low AGE diet increased lifespan and improved metabolic parameters. High AGE diet shortened lifespan even with calorie restriction.; Daily fasting, with or without calorie restriction, significantly increased lifespan in male mice. The most significant lifespan extension was observed with 30% calorie restriction and a longer fasting window.; FGF21 overexpression significantly extended average lifespan in male mice (28 to 36 months) and both average (30 to 40 months) and maximum lifespan in female mice.; Alpha-ketoglutarate extended both average and maximal lifespan in female mice but not significantly in male mice.; Longer-lived control groups are associated with smaller lifespan extensions from interventions. The 900-day rule provides a benchmark for robust studies in black six and het3 mice.; Fasting and calorie restriction increased lifespan. Higher lymphocyte levels and lower RDW at 16 months were associated with longer lifespan, independent of group assignment.; FGF21 overexpression significantly increased lifespan.; Fasting and calorie restriction extended median lifespan, with 40% CR showing the most significant increase and improved physical activity. Higher lymphocyte counts and lower RDW were associated with longer lifespans.; Methionine restriction significantly increased lifespan.; CR with prolonged fasting, especially when aligned with circadian rhythm, significantly increased lifespan.
-    - Limitations: Not explicitly included in the 900-day rule analysis.; Mouse model; results may not directly translate to humans.; Only male mice were studied, limited data on underlying mechanisms.; Observational, potential confounding factors not fully controlled.; Observational nature limits causal inference. Strain-specific differences may exist.; Conducted in male mice only.; Difficult to replicate, potential ethical concerns with severe restriction.; The study was conducted on male mice only.; Mouse study, may not directly translate to humans; Less effective than FGF21 overexpression in extending lifespan.; Only male mice were studied.; Animal study, may not directly translate to humans.; Genetically modified mice, not directly applicable to humans without FGF21 manipulation.; Magnitude of CR effect doesn't fully replicate across studies, potentially due to strain differences, variations in restriction protocols (20% vs 40% restriction), and purified vs standard chow. Regression to the mean must be accounted for.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #mice #fasting #calorie-restriction #lifespan #lymphocytes #RDW; 4 ⭐⭐⭐⭐ | Tags: #experimental #mice #fasting #calorie-restriction #lifespan; 4 ⭐⭐⭐⭐ | Tags: #lifespan #mice #calorie-restriction #fasting; 5 ⭐⭐⭐⭐⭐ | Tags: #RCT #mice #fasting #calorie-restriction #lifespan #biomarkers; 4 ⭐⭐⭐⭐ | Tags: #FGF21 #lifespan #mice #genetic-engineering; 4 ⭐⭐⭐⭐ | Tags: #lifespan #mice #calorie-restriction #fasting #circadian-alignment; 4 ⭐⭐⭐⭐ | Tags: #experimental #FGF21 #transgenic #lifespan #mice; 4 ⭐⭐⭐⭐ | Tags: #RCT #mice #AGEs #lifespan #calorie-restriction; 4 ⭐⭐⭐⭐ | Tags: #observational #lifespan #mouse #regression #900-day #rule; 3 ⭐⭐⭐ | Tags: #alpha-ketoglutarate #lifespan #mice; 4 ⭐⭐⭐⭐ | Tags: #body-weight #AGEs #mice #metabolism; 4 ⭐⭐⭐⭐ | Tags: #mice #lifespan #calorie-restriction #fasting #circadian-rhythm #survival-analysis; 4 ⭐⭐⭐⭐ | Tags: #circadian #rhythm #fasting #lifespan #extension #mouse #cr; 4 ⭐⭐⭐⭐ | Tags: #caloric #restriction #lifespan #extension #mouse #ILS #strain #regression #purified #chow; 4 ⭐⭐⭐⭐ | Tags: #observational #lifespan #survival #mice; 3 ⭐⭐⭐ | Tags: #caloric #restriction #severe #lifespan #mouse; 4 ⭐⭐⭐⭐ | Tags: #calorie-restriction #fasting #lifespan #mice #circadian-alignment
-
-- **Study**: RCT
-    - Methodology: Use of Levine Phenotypic Age calculator and Aging.ai 3.0 for biological age calculation, based on published models and algorithms.; Correlation analysis between dietary intake (87 foods, macro, and micronutrients) and levels of PCS and IS measured via metabolomic testing.; Detailed tracking of diet (weighing all food), supplements, and blood biomarkers over multiple years. Adjustments to diet and supplements are made based on observed correlations with biomarkers and epigenetic age.; Self-experimentation with detailed tracking of diet (weighing food, using Cronometer), supplements, and biomarkers (blood tests, epigenetic tests). Correlation analysis between dietary intake and biomarkers.; Longitudinal tracking of self-reported biological age using Levine's phenotypic age calculator and Aging.ai 3.0, alongside other biomarkers. Blood test data was collected multiple times per year, starting as early as 2009 for some metrics.; 38 men, average age 59, divided into control and treatment groups. The treatment group received a multi-faceted diet and lifestyle intervention, including dietary changes, supplementation, exercise, sleep, and stress management guidance. Epigenetic age was measured using the Horvath epigenetic clock at baseline and after 8 weeks.; Detailed tracking of diet (using a food scale and Cronometer), supplements, and biomarkers over a 49-day period. Correlation analysis between dietary components and biomarkers. Introduction of specific foods (oranges, chickpeas) to observe effects on homocysteine and potential NAD levels.; Self-experimentation with tracking of diet, supplements, and blood biomarkers over multiple years. Data analysis includes correlations between diet and blood biomarkers.; Personal data tracking of RHR, HRV, physical activity, body weight, and diet (including macronutrients) over 1200 days. Linear regression models adjusted for daily exertion and calorie intake to assess the impact of macronutrients.; Self-experimentation with repeated blood tests over several years (2009-2023). Biological age assessed using Dr. Morgan Levine's Phenotypic Age calculator and Aging.ai. Biomarkers tracked include glucose, creatinine, triglycerides, red blood cells, and C-reactive protein (CRP).; Detailed tracking of dietary intake using Chronometer, supplement use, and blood test results over several years. Statistical analysis using two-sample t-tests to compare data between different periods.; Self-tracking of daily dietary intake and correlating it with periodic blood test results (phenotypic age, glucose, creatinine, CRP, RBC, etc.) over several years. Statistical analysis to identify correlations between dietary factors and health markers.; Self-experimentation with detailed tracking of diet, supplements, and prescription medications. Regular blood testing and analysis using various biomarkers, including biological age calculation with PhenoAge.; Detailed tracking of daily food intake using a food scale and chronometer software. Data entered into a spreadsheet and correlated with blood biomarker data collected over several years (since 2015).; The speaker uses a self-tracking methodology, recording daily food intake with a food scale and tracking app (Cronometer), and correlating this with blood test results and other health metrics over 9 years.; Using established biological age calculators (Dr. Levine's Phenotypic Age and Aging.ai) based on peer-reviewed scientific literature.; The presenter tracked his daily protein intake using a food scale and the Chronometer app over 7 years. He also had 36 blood tests during this period. Correlation analysis was used to assess the relationship between protein intake and biomarkers. Biomarker vs. biomarker analysis was also performed.; Human study with ad lib and calorie restricted (12%) groups, for 2 years. Three time points: baseline, 12 months, 24 months.; The speaker is tracking his own biomarkers over time, comparing them to established reference ranges and research on all-cause mortality. Levine's PhenoAge calculator and Aging.ai 3.0 are used to estimate biological age.; The individual weighs all food with a food scale since 2015, logs daily food amounts into Chronometer, and manually enters data into a spreadsheet. Each blood test (including telomere length) is paired with the average dietary intake over the period between tests (e.g., 50-day average). Correlations between dietary components (foods, macro, and micronutrients) and telomere length are calculated.; Longitudinal self-tracking of diet (calories, macro/micronutrients, specific foods) and telomere length. Statistical analysis using two-sample t-tests, correlation analysis, and multivariable models to identify associations. False discovery rate (FDR) calculated to account for multiple comparisons.; Correlation analysis of dietary intake (macronutrients, specific foods, B12) and blood biomarkers over 30 blood tests in 6 years (or 17 blood tests in 3 years for food-specific correlations).; The speaker tracks his own health data, including HRV, RHR, body weight, and daily activity, using a fitness tracker. He analyzes changes over time and correlates them with each other. Statistical significance is determined using two-sample t-tests.; Compared epigenetic age changes in humans on ad libitum versus 12% caloric restriction diets over 2 years. Epigenetic age assessed using Horvath, Hannum, PhenoAge, GrimAge, and DunedinPACE clocks at baseline, 12 months, and 24 months.; Longitudinal self-tracking of telomere length (10 tests over 2 years) and diet. Telomere length measured via blood tests by True Diagnostic. Diet tracked meticulously using a food scale and chronometer, with average intakes calculated for the periods between tests. Statistical analysis using two-sample t-tests and correlation coefficients (Pearson's r) to assess relationships between dietary factors and telomere length, both unadjusted and adjusted for calorie intake.; Longitudinal tracking of diet, blood biomarkers, and physical function metrics. Correlation analysis between dietary components and biomarkers. Adjustment of diet based on correlational findings.; Longitudinal tracking of diet (using food scale and Cronometer), blood biomarkers (30+ tests since 2009), and cardiovascular fitness metrics (since 2018). Correlation analysis between diet and biomarkers. Two-sample t-tests to compare data across years.; Self-experimentation with detailed tracking of diet, blood biomarkers, and cardiovascular fitness metrics. Correlation analysis between dietary components and biomarkers.; Analysis of personal blood test data (n=39) and dietary data since 2015 to identify correlations and potential interventions.; Analysis of blood test results, comparison with existing literature on biomarkers and all-cause mortality, calculation of biological age using Levine's phenotypic age calculator.; Correlation analysis of daily and monthly data for average daily heart rate (ADHR), resting heart rate (RHR), heart rate variability (HRV), and body weight. Data collected using a wearable device (Whoop) and self-reported body weight measurements.; Analysis of longitudinal blood test data from a single individual (the speaker) collected from 2009 to 2023. Blood tests were analyzed using Dr. Morgan Levine's phenotypic age calculator and aging.ai to determine biological age. The speaker also referenced published studies to interpret his white blood cell and neutrophil counts.; The speaker uses their personal health data to track changes in RHR and HRV over time, comparing these metrics to changes in body weight and exercise patterns.; The speaker analyzed his blood test results, including biomarkers like albumin, lymphocytes, red blood cell volume, red blood cell distribution width, alkaline phosphatase, white blood cells, creatinine, glucose, and high-sensitivity C-reactive protein (hs-CRP). He then correlated these biomarkers with his dietary intake data, focusing on macronutrients and specifically monounsaturated fatty acids (MUFA). Statistical analysis was performed to determine the correlation coefficient and statistical significance (p-value).; The speaker collected daily data on body weight, RHR, HRV, and ADHR. Statistical analysis was performed to identify correlations between these variables using correlation coefficients and p-values. ADHR is used as an index of daily physical activity, as provided by the Whoop fitness tracker.; Large-scale observational studies used to validate biological age calculators (Levine's Phenotypic Age, Aging.AI) and their association with chronological age and all-cause mortality.; The individual meticulously tracks daily food intake using chronometer since April 2015. He weighs all food before consumption and enters the data into the app. Daily data is then compiled into a spreadsheet to analyze average intake over specific periods (e.g., 63 days) corresponding to blood tests. Correlations between dietary components (foods, macro, and micronutrients) and blood biomarkers are calculated.; A two-year randomized controlled trial (CALERIE study) comparing the effects of a 12% calorie-restricted diet (CR) versus an ad-libitum diet (AL) on epigenetic aging. Epigenetic age was assessed using five different clocks: Horvath, Hannum, PhenoAge, GrimAge, and Dunedin Pace at baseline, 12 months, and 24 months.; The speaker tracked their own VLDL levels and diet over several years, using tools like Cronometer to log food intake and analyze macronutrient composition. Statistical analysis (t-tests, correlations) was used to identify associations between dietary variables and VLDL levels.; The individual is conducting an n-of-1 experiment by adjusting his diet based on the identified correlations and then retesting telomere length. He plans to recalculate correlations after each test to identify and eliminate spurious correlations.; Longitudinal tracking of blood biomarkers using lab-based venipuncture and at-home finger-prick testing. Comparison of results from Levine Phenotypic Age calculator and Aging.ai 3.0 for biological age assessment.; Tracking personal dietary intake (calories, macronutrients) since 2015, correlating with blood test results (hs-CRP, HDL, glucose, uric acid, RBC, RDW, etc.) over 16-32 data points. Statistical analysis using correlation coefficients.; Longitudinal self-tracking of diet and blood biomarkers since 2015, with 32 blood tests over 6.5 years. Correlation analysis between dietary components (especially fat intake) and 23 blood-based biomarkers. Use of two-sample t-tests to compare data between different periods.; Cross-sectional analysis of blood test data from multiple age groups: centenarian offspring and spouses (around 75 years), community-dwelling older adults (85-99 years), centenarians (100-104 years), semi-supercentenarians (105-109 years), and supercentenarians (110+ years). The study also utilizes longitudinal data from the Baltimore Longitudinal Study on Aging (BLSA) for white blood cell analysis and references other studies for age-related changes and mortality risk associated with various biomarkers.; The speaker is tracking his own DunedinPACE over time and attempting to correlate it with dietary factors. 103 comparisons for foods, macro and micronutrients were evaluated against DunedinPACE.; Analysis of data from NHANES III and NHANES IV to validate the phenotypic age calculator.; Tracking personal dietary intake (using Cronometer) and correlating it with biomarker data, including DunedinPACE, over multiple tests (13 for DunedinPACE). Calculating correlations between diet (foods, macros, micros) and biomarkers to identify potential interventions for optimizing DunedinPACE.; The speaker is tracking their own epigenetic age over time using blood tests sent to True Diagnostic. They analyze correlations between their Horvath epigenetic age and Dunedin Pace with various factors like body weight and food intake. Data is collected over six tests spanning two years. They use statistical correlation and p-values to evaluate the significance of these relationships. The goal is to identify causative factors by manipulating variables based on observed correlations and seeing if the epigenetic clocks respond accordingly.; Analysis of personal data on diet, glucose, and CRP levels.; Tracking of blood biomarkers over 9 years (55 tests total) using self-ordered tests from a commercial lab (Quest Diagnostics). Regular monitoring of various health markers, including those related to liver, kidney, metabolic, inflammatory, and hematological health. Calculation of biological age using the PhenoAge formula.
-    - Key Findings: ; Consistent diet and targeted supplementation are associated with maintaining a younger biological age.; Identified correlations between specific dietary components (e.g., fat, fiber, carotenoids) and blood biomarkers. Showed improvements in biological age and cardiovascular fitness over time.; Cardiovascular fitness metrics (low RHR, high HRV) strongly correlate with younger biological age. Dietary CD38 inhibitors show mixed correlations with specific biomarkers but not overall biological age.; The speaker's average VLDL decreased from 13.2 mg/dL (pre-diet tracking) to 11 mg/dL (during diet tracking). A significant positive correlation was found between average daily calorie intake and VLDL levels.; Significant correlations found between macadamia nuts, mushrooms, coconut butter, vitamin B5, and levels of PCS and IS.; Biological age consistently lower than chronological age. CRP levels consistently below 0.3 mg/L. Identification of specific biomarkers for improvement.; Significant positive correlation between ADHR and RHR (r = 0.63, p < 0.05); significant inverse correlation between ADHR and HRV; significant positive correlation between body weight and RHR; significant inverse correlation between body weight and HRV.; No significant dietary correlations with DunedinPACE were found in the current dataset. DunedinPACE has remained relatively stable, resisting the expected age-related increase.; Biological age is consistently lower than chronological age. Homocysteine levels did not decrease with glycine supplementation.; Strong correlations between fat intake and glucose/creatinine; fiber, vitamin C, potassium-to-sodium ratio, PRAL, and glucose; yogurt and RBC/glucose/creatinine. Seasonal impact on CRP.; These tools provide an estimate of biological age based on multiple biomarkers.; Correlations between calorie intake, lymphocyte levels, RDW, and other biomarkers; potential for personalized health optimization through data analysis.; A significant inverse correlation (r = -0.61, p < 0.05) was found between average daily MUFA intake and hs-CRP levels. Weak correlations were found between MUFA intake and the other eight biomarkers in Levine's test.; At-home hs-CRP testing yields results comparable to lab-based testing. Biological age consistently lower than chronological age, with further reductions in 2022.; Initial telomere length measurements showed an average of 7.05 kb in 2022, 7.13 kb in 2023, and 7.12 kb in 2024 (with recent tests suggesting a decline).; Several dietary components are significantly correlated (P < 0.05) with telomere length, including cloves, broccoli, calcium, onions (positively), and TMG, omega-6 to omega-3 ratio, zinc, and SFAs (negatively).; Significant increase in telomere length from 2022 to 2023. Significant correlations between calorie intake, parmesan cheese, and telomere length. Other dietary correlations not significant after calorie adjustment.; Significant reduction in biological age correlated with specific dietary and supplement interventions.; Association between diet, supplements, and biomarkers, including a younger biological age. Preliminary data suggests potential benefits of proline betaine and trigonelline for homocysteine and NAD.; Significant correlations between dietary fructose, HDL, and hs-CRP. Also, correlations between fructose and uric acid, RBC, and RDW.; Lower body weight, higher parsley, and tomato intake are correlated with younger Horvath age. Higher cinnamon and salt intake are correlated with a slower Dunedin Pace, while higher coconut butter and date intake are correlated with a faster pace.; These calculators provide an estimate of biological age based on a panel of biomarkers.; Consistent reduction in biological age compared to chronological age, with the most significant reduction in 2022. Aging.ai age has remained relatively stable around 30 years.; Levine's Phenotypic Age strongly correlates with chronological age (r=0.94-0.96) and predicts all-cause mortality. Aging.AI shows a weaker correlation with chronological age (r=0.8) but still predicts all-cause mortality.; Significant reduction in biological age markers. Identification of specific foods correlated with favorable or unfavorable biomarker changes.; The speaker's biological age has been consistently lower than his chronological age, with a notable reduction in recent years. His white blood cell and neutrophil counts, while flagged as low by standard reference ranges, appear to be within ranges associated with lower all-cause mortality risk based on external studies.; Significant correlations between total fat intake, glucose, and other biomarkers. Indication that lower fat, higher carbohydrate (from whole, unprocessed sources) intake may be optimal for this individual.; Identified correlations between specific dietary components (foods, macros, micros) and blood biomarkers, enabling personalized dietary adjustments.; Age-related changes in various blood markers, including white blood cells, red blood cells, hemoglobin, platelets, cholesterol, albumin, creatinine, and inflammatory markers. Centenarians show deviations from typical age-related trends in some markers.; Strong correlations between fat intake and both glucose and CRP levels. Higher fat intake is associated with higher glucose but lower CRP.; Biological age consistently lower than chronological age. Identification of specific biomarkers that are either improving or remaining stable over time, suggesting resistance to age-related decline.; Significant improvement in HRV and RHR between two test periods. A significant inverse correlation between body weight and HRV, and a positive correlation between body weight and RHR.; Low DHEA sulfate, declining cortisol and testosterone, correlation between dietary and blood cholesterol.; DunedinPACE was the only clock to show a significant slowing of the epigenetic pace of aging in the CR group.; Identification of potential dietary factors influencing biological age and specific biomarkers.; Identified correlations between specific foods (e.g., garlic, cocoa beans) and health markers (e.g., epigenetic age, MCV).; A significant inverse correlation (r = -0.57, p = 0.05) was found between LDL cholesterol and DunedinPACE. No significant correlations between specific foods or nutrients and DunedinPACE were found in the latest analysis.; Treatment group showed a 3.23-year reduction in epigenetic age compared to controls. However, only 44% of the treatment group showed improvement.; Phenotypic age strongly correlated with chronological age (r=0.94 in NHANES III, r=0.96 in NHANES IV).; Higher protein intake was significantly correlated with unfavorable changes in several key aging biomarkers.; Calorie restricted group showed a slower epigenetic pace of aging as measured by DunedinPACE, but not by other clocks (Horvath, PhenoAge, GrimAge).; Significant increases in supplemental tryptophan and serine intake coincided with a worsening in biological age score. Minor dietary changes were observed.; The individual identifies correlations between specific foods and biomarkers, guiding dietary adjustments to optimize his blood biomarker profile.; Significant correlations between saturated fat intake and glucose, full-fat yogurt and glucose, B12 and glucose/homocysteine, omega-6 and homocysteine.; Only the Dunedin Pace clock detected a significant reduction in the epigenetic aging rate in the CR group compared to the AL group at both 12 and 24 months. The other clocks did not show a significant difference.; Telomere length increased significantly from 2022 to 2023. Several dietary factors showed significant correlations with telomere length.; Levine's phenotypic age calculator, based on nine biomarkers and age, strongly correlates with chronological age and predicts all-cause mortality.; Lower body weight is associated with improved RHR and HRV. A structured exercise routine with rest days contributes to better RHR and HRV.
-    - Limitations: Single subject, potential for bias, limited generalizability.; Only one study directly comparing these epigenetic clocks. Further research is needed to confirm if Dunedin Pace is consistently superior in detecting the effects of interventions on the epigenetic aging rate.; Causation not established.; Observational study, potential confounding factors not accounted for.; Single subject, correlational data, potential for confounding factors.; Single-subject study; correlations do not imply causation; potential confounding factors not addressed.; Single-subject design, limited generalizability, potential for confounding factors.; Single individual, limited generalizability, potential for bias.; Single-subject study, potential for confounding factors, limited data points for robust correlation analysis, healthy user bias.; Single-subject data, correlations may not be generalizable.; Single-subject study; potential for bias; limited generalizability.; Single subject (n=1), potential for bias, lack of control group. Difficulty in establishing causality due to observational nature.; Single subject, potential for bias, lack of control group.; Observational studies cannot establish causation. Case study (n=1) has limited generalizability. Expert opinion may be biased.; Single-subject study, potential for bias, results may not be generalizable.; The study is based on a single individual (self-experimentation), limiting generalizability. Correlation does not imply causation. Potential confounding factors were not addressed.; Single subject, correlations do not prove causation, potential for confounding factors.; This is a self-reported analysis of one individual's data, limiting generalizability. The analysis relies on the accuracy of the phenotypic age calculators and the external studies cited.; Observational data, susceptible to confounding factors. Correlations do not equal causation. Highly individualized approach, results may not be generalizable. Self-reported data may have biases.; The accuracy and generalizability of these calculators are still under debate in the scientific community.; Single-subject study, potential for bias, limited generalizability.; Single-subject study, potential for bias in self-reporting and interpretation. Reliance on publicly available biological age calculators. Limited generalizability.; Cross-sectional nature limits causal inference; potential confounding factors not fully addressed; specific dietary interventions not explored.; Single-subject design, inherent biases, difficulty in establishing causality due to multiple simultaneous interventions, reliance on correlations.; Single-subject study; correlations do not prove causation; no control group.; Single individual, self-reported dietary data, potential for measurement error, correlations do not imply causation.; Single individual, self-reported data, potential for confounding factors.; Single-subject study, correlational data, potential for confounding variables, self-reported dietary intake.; The accuracy and clinical relevance of these models are still under investigation. Models may be influenced by the datasets used to develop them.; Single-subject study, correlational findings, potential for unmeasured confounding variables, reliance on self-reported dietary data.; Single-subject study; results may not be generalizable. Correlation does not equal causation.; This is a single-person observational study; individual results may vary. Correlation does not equal causation.; Correlation does not equal causation. Potential confounding factors are not addressed. Relies on self-reported data.; Single-subject study, limited generalizability. Potential for bias in self-reported data.; Single-subject study, limited generalizability.; Small sample size, only men included, lack of data on adherence to interventions, the change in epigenetic age within the treatment group was not statistically significant (p=0.066).; Single-subject study; results may not be generalizable.; Single individual, limiting generalizability. Correlations do not prove causation. Potential for unmeasured confounders.; Single-person study, correlations do not imply causation, potential confounding factors.; Single-subject study; lacks control group; findings may not be generalizable.; Single-subject study; reliance on self-reported data; potential for confounding variables.; Observational studies, potential for confounding factors.; Specific dietary composition beyond caloric restriction not detailed.; Single-subject study, potential for bias, limited control over variables.; Single-subject study, limiting generalizability. Potential for bias in self-reporting and analysis.; Small sample size (n=1), correlational data, potential for confounding factors.; Single-subject study, making it difficult to generalize findings. Potential for false positives due to not accounting for the false discovery rate. Self-reported dietary intake may be subject to inaccuracies.; Single-subject study; the PhenoAge model's inclusion of chronological age limits the maximum possible biological age reduction. The transcript does not detail which biomarkers besides hs-CRP were used.; Single-subject study; findings may not be generalizable. Difficult to establish causation due to multiple variables.; The study was on 12% calorie restriction, not directly comparable to the speaker's situation.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #weightloss #bodyweight #rhr #hrv #cardiovascularhealth; 3 ⭐⭐⭐ | Tags: #self-experiment #observation #correlation #biomarkers #diet #epigenetics; 3 ⭐⭐⭐ | Tags: #self-tracking #biomarkers #correlation #t-test #casestudy; 2 ⭐⭐ | Tags: #casestudy #selfexperimentation #biohacking #biomarkers; 3 ⭐⭐⭐ | Tags: #self-tracking #biomarkers #correlation #longitudinal #diet; 2 ⭐⭐ | Tags: #observational #biomarkers #biological-age #at-home-testing; 3 ⭐⭐⭐ (for the review of existing literature, phenotypic age studies) | Tags: #observational #casestudy #biomarkers #mortality #phenotypicage #NHANES; 4 ⭐⭐⭐⭐ | Tags: #cohortstudy #nhanes #biologicalage #chronologicalage #allcausemortality #phenotypicage #agingai; 2 ⭐⭐ | Tags: #casestudy #diet #VLDL #self-tracking; 3 ⭐⭐⭐ | Tags: #biological #age #phenoage #aging #biomarker; 3 ⭐⭐⭐ | Tags: #observational #self-tracking #correlation #biomarkers #whoop; 3 ⭐⭐⭐ | Tags: #biological-age #aging-ai #longitudinal; 4 ⭐⭐⭐⭐ | Tags: #cohort #NHANES #phenotypicage #validation; 2 ⭐⭐ | Tags: #research #observational #diet #biomarkers #correlation; 3 ⭐⭐⭐ | Tags: #body-weight #correlation #health; 2 ⭐⭐ | Tags: #casestudy #selfexperimentation #biomarkers #biologicalage; 3 ⭐⭐⭐ | Tags: #observational #cross-sectional #longitudinal #aging #biomarkers #mortality; 2 ⭐⭐ | Tags: #observational #self-tracking #epigenetics #diet #correlation #aging; 2 ⭐⭐ | Tags: #selfexperiment #casestudy #diettracking #correlations #methodology; 2 ⭐⭐ | Tags: #self-experiment #correlation #diet #blood-test #longitudinal; 2 ⭐⭐ | Tags: #casestudy #epigenetics #correlation #self-experimentation; 2 ⭐⭐ | Tags: #RCT #epigenetic\_age #diet #lifestyle; 2 ⭐⭐ | Tags: #biological #age #longitudinal #analysis #self-reported; 3 ⭐⭐⭐ | Tags: #observational #case-study #telomere-length #diet #correlation #self-tracking; 4 ⭐⭐⭐⭐ | Tags: #RCT #calorierestriction #epigenetics #dunedinpace #anti-aging; 2 ⭐⭐ | Tags: #self-study #longitudinal #biomarkers #aging #phenoage; 3 ⭐⭐⭐ | Tags: #bodyweight #weightloss #bmi; 3 ⭐⭐⭐ | Tags: #self-experimentation #longitudinal #correlation #biomarkers; 3 ⭐⭐⭐ | Tags: #diet #telomere #omega-6 #omega-3 #correlation #observation; 3 ⭐⭐⭐ | Tags: #observational #correlation #biomarkers #diet #self-experimentation; 3 ⭐⭐⭐ (personal data) | Tags: #bodyweight #RHR #HRV; 3 ⭐⭐⭐ | Tags: #observational #correlation #diet #biomarkers #self-experimentation; 3 ⭐⭐⭐ | Tags: #RHR #HRV #diet #exercise #bodyweight #observational #self-tracking #personalized; 2 ⭐⭐ | Tags: #methodology #selfexperimentation #longitudinal #correlation #diet #biomarkers; 3 ⭐⭐⭐ | Tags: #phenoage #biologicalage #aging; 3 ⭐⭐⭐ | Tags: #scientific-method #case-study #observational #self-tracking #chronometer; 3 ⭐⭐⭐ | Tags: #expertopinion #biologicalage #calculators #biomarkers; 2 ⭐⭐ | Tags: #observational #longitudinal #biological-age #self-reported; 3 ⭐⭐⭐ | Tags: #observational #diet #telomere #correlation #self-reported; 2 ⭐⭐ | Tags: #casestudy #self-experimentation #longitudinal #exercise #bodyweight; 2 ⭐⭐ | Tags: #case-study #personal-data #biomarkers #diet; 3 ⭐⭐⭐ | Tags: #self #experiment #case #study #diet #tracking #biomarkers #correlation #analysis; 5 ⭐⭐⭐⭐⭐ | Tags: #RCT #caloricrestriction #epigeneticclocks #methodology; 4 ⭐⭐⭐⭐ | Tags: #RCT #calorierestriction #epigenetics #aging #dunedinPACE #horvath #phenoage #grimage; 2 ⭐⭐ | Tags: #selfexperimentation #observational #casestudy #biomarkers #correlation #diet #fitness; 2 ⭐⭐ | Tags: #self-tracking #biomarkers #correlation #longitudinal; 2 ⭐⭐ | Tags: #case-study #n-of-1 #telomere #diet #intervention; 2 ⭐⭐ | Tags: #case-study #self-tracking #telomere-length #diet #statistics; 2 ⭐⭐ | Tags: #casestudy #longitudinal #biomarkers #biologicalage #selfexperimentation; 2 ⭐⭐ | Tags: #observational #case-study #correlation #heart-rate #HRV #body-weight; 2 ⭐⭐ | Tags: #health\_markers #epigenetics #horvath\_clock #coconut\_butter #aging; 2 ⭐⭐ | Tags: #longitudinal #biomarkers #biologicalage #self-experimentation; 2 ⭐⭐ | Tags: #case-study #diet #glucose #crp #correlation; 3 ⭐⭐⭐ | Tags: #expert-opinion #biological-age #models #algorithms; 2 ⭐⭐ | Tags: #research #selfexperimentation #longitudinal #biomarkers #diet #supplements; 3 ⭐⭐⭐ | Tags: #scientific\_method #observational #case\_study #diet\_tracking #correlation #biomarkers; 2 ⭐⭐ | Tags: #scientific\_methods #observational #case\_study #correlation #metabolomics #diet; 3 ⭐⭐⭐ | Tags: #observational #case-study #diet #biomarkers #correlation #self-tracking; 2 ⭐⭐ | Tags: #self-experiment #protein #biomarkers #correlation
-
-- **Study**: Levothyroxine, 137.5 mcg/day
-    - Effects: Treatment for hypothyroidism.; Treatment for hypothyroidism, diagnosed in the individual's 20s.; Management of hypothyroidism.; Treatment for hypothyroidism, diagnosed in the speaker's 20s.
-    - Context: Case Study, diagnosed with hypothyroidism in 20s. Population: Single individual, male.; Diagnosed with hypothyroidism over 20 years ago.; Expert Opinion, Case Study | Population: Individual with hypothyroidism; Speaker diagnosed with hypothyroidism in his 20s. Population: Individuals with hypothyroidism.; The individual has been taking levothyroxine for about half of his life. Population: Individuals with hypothyroidism.; Case study, n=1, diagnosed with hypothyroidism in mid-20s.; Diagnosed with hypothyroidism in early 20s; ongoing.; Case Study, single individual diagnosed with hypothyroidism.; Diagnosed with hypothyroidism in his 20s.
-    - Limitations: Prescription medication for a specific condition.; Medically necessary intervention, not a longevity-specific supplement.; Standard treatment for hypothyroidism, not a specific longevity intervention in this context.; Individual-specific treatment.; Prescription medication, specific to thyroid condition.; Dosage may vary based on individual needs.; Individual prescription, not a general recommendation.; Specific dosage not mentioned. Individual needs may vary.; Standard treatment, not an experimental intervention.
-    - Confidence: 5 ⭐⭐⭐⭐⭐ | Tags: #supplement #levothyroxine #hypothyroidism #treatment; 5 ⭐⭐⭐⭐⭐ | Tags: #hypothyroidism #levothyroxine #thyroid #hormone; 5 ⭐⭐⭐⭐⭐ | Tags: #supplement #levothyroxine #hypothyroidism; 4 ⭐⭐⭐⭐ | Tags: #levothyroxine #hypothyroidism #hormones; 5 ⭐⭐⭐⭐⭐ | Tags: #levothyroxine #hypothyroidism #thyroid #hormone
+- **Study**: Intervention Testing Program (ITP)
+    - Methodology: Pooling data from multiple studies to assess the overall effectiveness of interventions and identify robust compounds.; Rigorous, multi-center program testing the lifespan effects of various compounds in genetically heterogeneous mice.
+    - Key Findings: Identified interventions like rapamycin and dwarfism that consistently extend lifespan in long-lived controls. Highlighted the limitations of metformin in lifespan extension.; Validated the effectiveness of rapamycin and identified other promising interventions. Demonstrated the importance of long-lived controls for robust results.
+    - Limitations: Expensive and time-consuming. Not all compounds that work in other studies replicate in the ITP.; Heterogeneity between studies can make it difficult to draw definitive conclusions.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #meta-analysis #lifespan #intervention #mouse; 5 ⭐⭐⭐⭐⭐ | Tags: #ITP #lifespan #mouse #intervention #rapamycin
 
 - **Study**: Experimental Evolution
-    - Methodology: Breeding fruit flies exclusively from older adults to select for delayed aging. The life cycle is tuned so that there is a long period between when an egg becomes or is given an adult produced by the egg is given the opportunity to reproduce. The longer that life cycle is the greater the lifespan that population will evolve. Five populations with late reproduction and five control populations were used in the second experiment starting in February 1980, and those populations still exist.; Comparison of lifespan data between control and late-reproducing fruit fly populations. Observation of survival curves and calculation of average and maximal lifespans.; Delaying the age of reproduction in fruit flies over multiple generations (80 generations for a doubling of lifespan). This alters the force of natural selection on survival, favoring traits associated with longevity.
-    - Key Findings: Average lifespan extended by 65-68%, maximal lifespan extended by up to 100% in fruit flies.; Doubling of lifespan in approximately 80 generations, demonstrating the plasticity of aging and its genetic underpinnings.; Significant rightward shift in the survival curve for late-reproducing flies, indicating increased lifespan.
-    - Limitations: Not directly applicable to humans due to the long timeframe required (estimated 2000 years for a similar effect).; Does not directly test specific interventions, but demonstrates the effect of delayed reproduction on lifespan.; Direct translation to humans is complex and ethically challenging. The experiment with humans is not worth doing because it would take about 2000 years to double the lifespan.
-    - Confidence: 5 ⭐⭐⭐⭐⭐ | Tags: #experimentalevoultion #fruitflies #lifespan #genetics #aging; 5 ⭐⭐⭐⭐⭐ | Tags: #lifespan #fruitflies #experimental #evolution; 5 ⭐⭐⭐⭐⭐ | Tags: #experimental #evolution #fruitflies #lifespan #reproduction #natural #selection; 4 ⭐⭐⭐⭐ | Tags: #observational #fruitflies #lifespan #survival #curves
+    - Methodology: Comparison of lifespan data between control and late-reproducing fruit fly populations. Observation of survival curves and calculation of average and maximal lifespans.; Breeding fruit flies exclusively from older adults to select for delayed aging. The life cycle is tuned so that there is a long period between when an egg becomes or is given an adult produced by the egg is given the opportunity to reproduce. The longer that life cycle is the greater the lifespan that population will evolve. Five populations with late reproduction and five control populations were used in the second experiment starting in February 1980, and those populations still exist.; Delaying the age of reproduction in fruit flies over multiple generations (80 generations for a doubling of lifespan). This alters the force of natural selection on survival, favoring traits associated with longevity.
+    - Key Findings: Significant rightward shift in the survival curve for late-reproducing flies, indicating increased lifespan.; Doubling of lifespan in approximately 80 generations, demonstrating the plasticity of aging and its genetic underpinnings.; Average lifespan extended by 65-68%, maximal lifespan extended by up to 100% in fruit flies.
+    - Limitations: Does not directly test specific interventions, but demonstrates the effect of delayed reproduction on lifespan.; Direct translation to humans is complex and ethically challenging. The experiment with humans is not worth doing because it would take about 2000 years to double the lifespan.; Not directly applicable to humans due to the long timeframe required (estimated 2000 years for a similar effect).
+    - Confidence: 5 ⭐⭐⭐⭐⭐ | Tags: #experimental #evolution #fruitflies #lifespan #reproduction #natural #selection; 4 ⭐⭐⭐⭐ | Tags: #observational #fruitflies #lifespan #survival #curves; 5 ⭐⭐⭐⭐⭐ | Tags: #experimentalevoultion #fruitflies #lifespan #genetics #aging
 
-- **Study**: Speaker's cystine/cysteine ratio
-    - Change: 0.06; Likely increases with age (based on higher methionine sulfoxide levels in older individuals).; Increases with age (positive age beta coefficient); Higher levels found in centenarians (average age 97) compared to their offspring (average age 67).
-    - Context: Increased oxidative stress associated with aging.; Indicative of increased oxidative stress during aging.; Relatively low ratio, considered baseline. The goal is to avoid an age-related increase.
-    - Timeframe: April 2023; Baseline data presented; changes over time need to be assessed.; Observed in a cross-sectional study comparing different age groups.; N/A
-    - Confidence: 3 ⭐⭐⭐ | Tags: #oxidative-stress #aging #methionine; 3 ⭐⭐⭐ | Tags: #metabolomics #oxidative-stress #aging #observational; 2 ⭐⭐ | Tags: #oxidative-stress #aging #methionine-sulfoxide #methionine; 4 ⭐⭐⭐⭐ | Tags: #oxidative-stress #aging #cystine #cysteine; 5 ⭐⭐⭐⭐⭐ | Tags: #personal-data #oxidative-stress #baseline
+- **Study**: Randomized Controlled Trial (RCT)
+    - Methodology: Compared lifespan of C57 black 6J male mice under different feeding regimens: ad libitum, 30% CR with various fasting durations and timing (day vs. night). Survival curves were generated, and median and 10% survival were analyzed.; Mice were divided into five groups: ad libitum feeding, one or two days of fasting, and 20% or 40% calorie restriction. Lifespan and biomarkers were tracked.; 960 mice were randomly assigned to five groups (192 mice per group) at 6 months of age: ad libitum, one day fasting, two days fasting, 20% CR, and 40% CR. Food intake, lifespan, physical activity (wheel running), and various biomarkers were measured.; Male mice were divided into three groups: ad libitum, single-meal feeding, and 30% calorie restriction. Two different diets (NIA and Wisc) were used. Food intake, fasting interval, and lifespan were measured.; Mice were fed diets with varying levels of AGEs (low, regular, high) with or without calorie restriction. Food intake and body weight were monitored. Lifespan was the primary outcome.
+    - Key Findings: CR with prolonged fasting, especially when aligned with circadian rhythm, significantly increased lifespan.; Fasting and calorie restriction extended median lifespan, with 40% CR showing the most significant increase and improved physical activity. Higher lymphocyte counts and lower RDW were associated with longer lifespans.; Daily fasting, with or without calorie restriction, significantly increased lifespan in male mice. The most significant lifespan extension was observed with 30% calorie restriction and a longer fasting window.; Low AGE diet increased lifespan and improved metabolic parameters. High AGE diet shortened lifespan even with calorie restriction.; Fasting and calorie restriction increased lifespan. Higher lymphocyte levels and lower RDW at 16 months were associated with longer lifespan, independent of group assignment.
+    - Limitations: The study was conducted on male mice only.; Animal study, may not directly translate to humans.; Mouse model; results may not directly translate to humans.; Only male mice were studied, limited data on underlying mechanisms.; Conducted in male mice only.
+    - Confidence: 5 ⭐⭐⭐⭐⭐ | Tags: #RCT #mice #fasting #calorie-restriction #lifespan #biomarkers; 3 ⭐⭐⭐ | Tags: #mice #fasting #calorie-restriction #lifespan #lymphocytes #RDW; 4 ⭐⭐⭐⭐ | Tags: #mice #lifespan #calorie-restriction #fasting #circadian-rhythm #survival-analysis; 4 ⭐⭐⭐⭐ | Tags: #experimental #mice #fasting #calorie-restriction #lifespan; 4 ⭐⭐⭐⭐ | Tags: #RCT #mice #AGEs #lifespan #calorie-restriction
 
-- **Study**: Consumed 166.5g/day of mushrooms, yielding 11.8mg/day of spermidine.
-    - Context: Observational study over 20 years.; Mouse studies mentioned in the transcript.; Based on research showing spermidine's potential to increase lifespan in mice and reduce all-cause mortality risk in humans.
-    - Timeframe: 20 years.; Ongoing dietary practice.
-    - Limitations: Human data needed for further validation. Exact quantities not discussed.; Human studies on spermidine are observational, optimal dosage not yet established.; Small magnitude of spermidine increase.; Observational design, cannot establish causality.; Species-specific effect.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #diet #mushrooms #spermidine #longevity #allcausemortality; 4 ⭐⭐⭐⭐ | Tags: #RCT #spermidine #cognition #dementia #wheatgerm; 3 ⭐⭐⭐ | Tags: #observational #spermidine #mortality #cognition #humans; 3 ⭐⭐⭐ | Tags: #mortality #spermidine #observational; 4 ⭐⭐⭐⭐ | Tags: #animalstudy #mice #spermidine #lifespan; 4 ⭐⭐⭐⭐ | Tags: #animalstudy #rats #spermidine #lifespan; 3 ⭐⭐⭐ | Tags: #spermidine #lifespan #mouse
+- **Study**: RCT
+    - Methodology: Self-experimentation with detailed tracking of diet (weighing food, using Cronometer), supplements, and biomarkers (blood tests, epigenetic tests). Correlation analysis between dietary intake and biomarkers.; The individual is conducting an n-of-1 experiment by adjusting his diet based on the identified correlations and then retesting telomere length. He plans to recalculate correlations after each test to identify and eliminate spurious correlations.; The speaker tracked their own VLDL levels and diet over several years, using tools like Cronometer to log food intake and analyze macronutrient composition. Statistical analysis (t-tests, correlations) was used to identify associations between dietary variables and VLDL levels.; Self-experimentation with repeated blood tests over several years (2009-2023). Biological age assessed using Dr. Morgan Levine's Phenotypic Age calculator and Aging.ai. Biomarkers tracked include glucose, creatinine, triglycerides, red blood cells, and C-reactive protein (CRP).; The speaker uses a self-tracking methodology, recording daily food intake with a food scale and tracking app (Cronometer), and correlating this with blood test results and other health metrics over 9 years.; Human study with ad lib and calorie restricted (12%) groups, for 2 years. Three time points: baseline, 12 months, 24 months.; Self-experimentation with tracking of diet, supplements, and blood biomarkers over multiple years. Data analysis includes correlations between diet and blood biomarkers.; The speaker collected daily data on body weight, RHR, HRV, and ADHR. Statistical analysis was performed to identify correlations between these variables using correlation coefficients and p-values. ADHR is used as an index of daily physical activity, as provided by the Whoop fitness tracker.; Use of Levine Phenotypic Age calculator and Aging.ai 3.0 for biological age calculation, based on published models and algorithms.; Self-experimentation with detailed tracking of diet, blood biomarkers, and cardiovascular fitness metrics. Correlation analysis between dietary components and biomarkers.; Longitudinal self-tracking of telomere length (10 tests over 2 years) and diet. Telomere length measured via blood tests by True Diagnostic. Diet tracked meticulously using a food scale and chronometer, with average intakes calculated for the periods between tests. Statistical analysis using two-sample t-tests and correlation coefficients (Pearson's r) to assess relationships between dietary factors and telomere length, both unadjusted and adjusted for calorie intake.; The speaker uses their personal health data to track changes in RHR and HRV over time, comparing these metrics to changes in body weight and exercise patterns.; Personal data tracking of RHR, HRV, physical activity, body weight, and diet (including macronutrients) over 1200 days. Linear regression models adjusted for daily exertion and calorie intake to assess the impact of macronutrients.; Correlation analysis of dietary intake (macronutrients, specific foods, B12) and blood biomarkers over 30 blood tests in 6 years (or 17 blood tests in 3 years for food-specific correlations).; Detailed tracking of dietary intake using Chronometer, supplement use, and blood test results over several years. Statistical analysis using two-sample t-tests to compare data between different periods.; The presenter tracked his daily protein intake using a food scale and the Chronometer app over 7 years. He also had 36 blood tests during this period. Correlation analysis was used to assess the relationship between protein intake and biomarkers. Biomarker vs. biomarker analysis was also performed.; The speaker is tracking his own biomarkers over time, comparing them to established reference ranges and research on all-cause mortality. Levine's PhenoAge calculator and Aging.ai 3.0 are used to estimate biological age.; Longitudinal tracking of diet, blood biomarkers, and physical function metrics. Correlation analysis between dietary components and biomarkers. Adjustment of diet based on correlational findings.; Detailed tracking of diet (using a food scale and Cronometer), supplements, and biomarkers over a 49-day period. Correlation analysis between dietary components and biomarkers. Introduction of specific foods (oranges, chickpeas) to observe effects on homocysteine and potential NAD levels.; Tracking personal dietary intake (using Cronometer) and correlating it with biomarker data, including DunedinPACE, over multiple tests (13 for DunedinPACE). Calculating correlations between diet (foods, macros, micros) and biomarkers to identify potential interventions for optimizing DunedinPACE.; A two-year randomized controlled trial (CALERIE study) comparing the effects of a 12% calorie-restricted diet (CR) versus an ad-libitum diet (AL) on epigenetic aging. Epigenetic age was assessed using five different clocks: Horvath, Hannum, PhenoAge, GrimAge, and Dunedin Pace at baseline, 12 months, and 24 months.; Analysis of longitudinal blood test data from a single individual (the speaker) collected from 2009 to 2023. Blood tests were analyzed using Dr. Morgan Levine's phenotypic age calculator and aging.ai to determine biological age. The speaker also referenced published studies to interpret his white blood cell and neutrophil counts.; Correlation analysis of daily and monthly data for average daily heart rate (ADHR), resting heart rate (RHR), heart rate variability (HRV), and body weight. Data collected using a wearable device (Whoop) and self-reported body weight measurements.; The individual meticulously tracks daily food intake using chronometer since April 2015. He weighs all food before consumption and enters the data into the app. Daily data is then compiled into a spreadsheet to analyze average intake over specific periods (e.g., 63 days) corresponding to blood tests. Correlations between dietary components (foods, macro, and micronutrients) and blood biomarkers are calculated.; Tracking personal dietary intake (calories, macronutrients) since 2015, correlating with blood test results (hs-CRP, HDL, glucose, uric acid, RBC, RDW, etc.) over 16-32 data points. Statistical analysis using correlation coefficients.; Tracking of blood biomarkers over 9 years (55 tests total) using self-ordered tests from a commercial lab (Quest Diagnostics). Regular monitoring of various health markers, including those related to liver, kidney, metabolic, inflammatory, and hematological health. Calculation of biological age using the PhenoAge formula.; Detailed tracking of daily food intake using a food scale and chronometer software. Data entered into a spreadsheet and correlated with blood biomarker data collected over several years (since 2015).; Longitudinal tracking of self-reported biological age using Levine's phenotypic age calculator and Aging.ai 3.0, alongside other biomarkers. Blood test data was collected multiple times per year, starting as early as 2009 for some metrics.; Self-experimentation with detailed tracking of diet, supplements, and prescription medications. Regular blood testing and analysis using various biomarkers, including biological age calculation with PhenoAge.; Longitudinal self-tracking of diet (calories, macro/micronutrients, specific foods) and telomere length. Statistical analysis using two-sample t-tests, correlation analysis, and multivariable models to identify associations. False discovery rate (FDR) calculated to account for multiple comparisons.; Detailed tracking of diet (weighing all food), supplements, and blood biomarkers over multiple years. Adjustments to diet and supplements are made based on observed correlations with biomarkers and epigenetic age.; The speaker is tracking his own DunedinPACE over time and attempting to correlate it with dietary factors. 103 comparisons for foods, macro and micronutrients were evaluated against DunedinPACE.; Longitudinal tracking of diet (using food scale and Cronometer), blood biomarkers (30+ tests since 2009), and cardiovascular fitness metrics (since 2018). Correlation analysis between diet and biomarkers. Two-sample t-tests to compare data across years.; Longitudinal tracking of blood biomarkers using lab-based venipuncture and at-home finger-prick testing. Comparison of results from Levine Phenotypic Age calculator and Aging.ai 3.0 for biological age assessment.; The speaker is tracking their own epigenetic age over time using blood tests sent to True Diagnostic. They analyze correlations between their Horvath epigenetic age and Dunedin Pace with various factors like body weight and food intake. Data is collected over six tests spanning two years. They use statistical correlation and p-values to evaluate the significance of these relationships. The goal is to identify causative factors by manipulating variables based on observed correlations and seeing if the epigenetic clocks respond accordingly.; 38 men, average age 59, divided into control and treatment groups. The treatment group received a multi-faceted diet and lifestyle intervention, including dietary changes, supplementation, exercise, sleep, and stress management guidance. Epigenetic age was measured using the Horvath epigenetic clock at baseline and after 8 weeks.; Longitudinal self-tracking of diet and blood biomarkers since 2015, with 32 blood tests over 6.5 years. Correlation analysis between dietary components (especially fat intake) and 23 blood-based biomarkers. Use of two-sample t-tests to compare data between different periods.; Analysis of blood test results, comparison with existing literature on biomarkers and all-cause mortality, calculation of biological age using Levine's phenotypic age calculator.; Large-scale observational studies used to validate biological age calculators (Levine's Phenotypic Age, Aging.AI) and their association with chronological age and all-cause mortality.; Using established biological age calculators (Dr. Levine's Phenotypic Age and Aging.ai) based on peer-reviewed scientific literature.; Cross-sectional analysis of blood test data from multiple age groups: centenarian offspring and spouses (around 75 years), community-dwelling older adults (85-99 years), centenarians (100-104 years), semi-supercentenarians (105-109 years), and supercentenarians (110+ years). The study also utilizes longitudinal data from the Baltimore Longitudinal Study on Aging (BLSA) for white blood cell analysis and references other studies for age-related changes and mortality risk associated with various biomarkers.; The speaker tracks his own health data, including HRV, RHR, body weight, and daily activity, using a fitness tracker. He analyzes changes over time and correlates them with each other. Statistical significance is determined using two-sample t-tests.; Self-tracking of daily dietary intake and correlating it with periodic blood test results (phenotypic age, glucose, creatinine, CRP, RBC, etc.) over several years. Statistical analysis to identify correlations between dietary factors and health markers.; The speaker analyzed his blood test results, including biomarkers like albumin, lymphocytes, red blood cell volume, red blood cell distribution width, alkaline phosphatase, white blood cells, creatinine, glucose, and high-sensitivity C-reactive protein (hs-CRP). He then correlated these biomarkers with his dietary intake data, focusing on macronutrients and specifically monounsaturated fatty acids (MUFA). Statistical analysis was performed to determine the correlation coefficient and statistical significance (p-value).; Correlation analysis between dietary intake (87 foods, macro, and micronutrients) and levels of PCS and IS measured via metabolomic testing.; Analysis of data from NHANES III and NHANES IV to validate the phenotypic age calculator.; Analysis of personal blood test data (n=39) and dietary data since 2015 to identify correlations and potential interventions.; Compared epigenetic age changes in humans on ad libitum versus 12% caloric restriction diets over 2 years. Epigenetic age assessed using Horvath, Hannum, PhenoAge, GrimAge, and DunedinPACE clocks at baseline, 12 months, and 24 months.; Analysis of personal data on diet, glucose, and CRP levels.; The individual weighs all food with a food scale since 2015, logs daily food amounts into Chronometer, and manually enters data into a spreadsheet. Each blood test (including telomere length) is paired with the average dietary intake over the period between tests (e.g., 50-day average). Correlations between dietary components (foods, macro, and micronutrients) and telomere length are calculated.
+    - Key Findings: ; Strong correlations between fat intake and both glucose and CRP levels. Higher fat intake is associated with higher glucose but lower CRP.; Correlations between calorie intake, lymphocyte levels, RDW, and other biomarkers; potential for personalized health optimization through data analysis.; Levine's Phenotypic Age strongly correlates with chronological age (r=0.94-0.96) and predicts all-cause mortality. Aging.AI shows a weaker correlation with chronological age (r=0.8) but still predicts all-cause mortality.; Several dietary components are significantly correlated (P < 0.05) with telomere length, including cloves, broccoli, calcium, onions (positively), and TMG, omega-6 to omega-3 ratio, zinc, and SFAs (negatively).; At-home hs-CRP testing yields results comparable to lab-based testing. Biological age consistently lower than chronological age, with further reductions in 2022.; Age-related changes in various blood markers, including white blood cells, red blood cells, hemoglobin, platelets, cholesterol, albumin, creatinine, and inflammatory markers. Centenarians show deviations from typical age-related trends in some markers.; Only the Dunedin Pace clock detected a significant reduction in the epigenetic aging rate in the CR group compared to the AL group at both 12 and 24 months. The other clocks did not show a significant difference.; Consistent diet and targeted supplementation are associated with maintaining a younger biological age.; Calorie restricted group showed a slower epigenetic pace of aging as measured by DunedinPACE, but not by other clocks (Horvath, PhenoAge, GrimAge).; The speaker's biological age has been consistently lower than his chronological age, with a notable reduction in recent years. His white blood cell and neutrophil counts, while flagged as low by standard reference ranges, appear to be within ranges associated with lower all-cause mortality risk based on external studies.; Identified correlations between specific foods (e.g., garlic, cocoa beans) and health markers (e.g., epigenetic age, MCV).; Treatment group showed a 3.23-year reduction in epigenetic age compared to controls. However, only 44% of the treatment group showed improvement.; Initial telomere length measurements showed an average of 7.05 kb in 2022, 7.13 kb in 2023, and 7.12 kb in 2024 (with recent tests suggesting a decline).; Identified correlations between specific dietary components (foods, macros, micros) and blood biomarkers, enabling personalized dietary adjustments.; Phenotypic age strongly correlated with chronological age (r=0.94 in NHANES III, r=0.96 in NHANES IV).; Significant correlations between total fat intake, glucose, and other biomarkers. Indication that lower fat, higher carbohydrate (from whole, unprocessed sources) intake may be optimal for this individual.; These calculators provide an estimate of biological age based on a panel of biomarkers.; Significant reduction in biological age markers. Identification of specific foods correlated with favorable or unfavorable biomarker changes.; Significant increase in telomere length from 2022 to 2023. Significant correlations between calorie intake, parmesan cheese, and telomere length. Other dietary correlations not significant after calorie adjustment.; The speaker's average VLDL decreased from 13.2 mg/dL (pre-diet tracking) to 11 mg/dL (during diet tracking). A significant positive correlation was found between average daily calorie intake and VLDL levels.; Significant positive correlation between ADHR and RHR (r = 0.63, p < 0.05); significant inverse correlation between ADHR and HRV; significant positive correlation between body weight and RHR; significant inverse correlation between body weight and HRV.; Association between diet, supplements, and biomarkers, including a younger biological age. Preliminary data suggests potential benefits of proline betaine and trigonelline for homocysteine and NAD.; Strong correlations between fat intake and glucose/creatinine; fiber, vitamin C, potassium-to-sodium ratio, PRAL, and glucose; yogurt and RBC/glucose/creatinine. Seasonal impact on CRP.; Significant improvement in HRV and RHR between two test periods. A significant inverse correlation between body weight and HRV, and a positive correlation between body weight and RHR.; Biological age is consistently lower than chronological age. Homocysteine levels did not decrease with glycine supplementation.; Cardiovascular fitness metrics (low RHR, high HRV) strongly correlate with younger biological age. Dietary CD38 inhibitors show mixed correlations with specific biomarkers but not overall biological age.; Significant increases in supplemental tryptophan and serine intake coincided with a worsening in biological age score. Minor dietary changes were observed.; Significant reduction in biological age correlated with specific dietary and supplement interventions.; Low DHEA sulfate, declining cortisol and testosterone, correlation between dietary and blood cholesterol.; Significant correlations between dietary fructose, HDL, and hs-CRP. Also, correlations between fructose and uric acid, RBC, and RDW.; No significant dietary correlations with DunedinPACE were found in the current dataset. DunedinPACE has remained relatively stable, resisting the expected age-related increase.; Significant correlations found between macadamia nuts, mushrooms, coconut butter, vitamin B5, and levels of PCS and IS.; Identification of potential dietary factors influencing biological age and specific biomarkers.; Significant correlations between saturated fat intake and glucose, full-fat yogurt and glucose, B12 and glucose/homocysteine, omega-6 and homocysteine.; Biological age consistently lower than chronological age. CRP levels consistently below 0.3 mg/L. Identification of specific biomarkers for improvement.; These tools provide an estimate of biological age based on multiple biomarkers.; Identified correlations between specific dietary components (e.g., fat, fiber, carotenoids) and blood biomarkers. Showed improvements in biological age and cardiovascular fitness over time.; Lower body weight is associated with improved RHR and HRV. A structured exercise routine with rest days contributes to better RHR and HRV.; Higher protein intake was significantly correlated with unfavorable changes in several key aging biomarkers.; A significant inverse correlation (r = -0.61, p < 0.05) was found between average daily MUFA intake and hs-CRP levels. Weak correlations were found between MUFA intake and the other eight biomarkers in Levine's test.; DunedinPACE was the only clock to show a significant slowing of the epigenetic pace of aging in the CR group.; Lower body weight, higher parsley, and tomato intake are correlated with younger Horvath age. Higher cinnamon and salt intake are correlated with a slower Dunedin Pace, while higher coconut butter and date intake are correlated with a faster pace.; Telomere length increased significantly from 2022 to 2023. Several dietary factors showed significant correlations with telomere length.; Levine's phenotypic age calculator, based on nine biomarkers and age, strongly correlates with chronological age and predicts all-cause mortality.; A significant inverse correlation (r = -0.57, p = 0.05) was found between LDL cholesterol and DunedinPACE. No significant correlations between specific foods or nutrients and DunedinPACE were found in the latest analysis.; Biological age consistently lower than chronological age. Identification of specific biomarkers that are either improving or remaining stable over time, suggesting resistance to age-related decline.; The individual identifies correlations between specific foods and biomarkers, guiding dietary adjustments to optimize his blood biomarker profile.; Consistent reduction in biological age compared to chronological age, with the most significant reduction in 2022. Aging.ai age has remained relatively stable around 30 years.
+    - Limitations: Observational data, susceptible to confounding factors. Correlations do not equal causation. Highly individualized approach, results may not be generalizable. Self-reported data may have biases.; Single-subject study, limiting generalizability. Potential for bias in self-reporting and analysis.; Single subject, potential for bias, lack of control group.; Single-subject study; reliance on self-reported data; potential for confounding variables.; Single-subject study, limited generalizability.; The accuracy and generalizability of these calculators are still under debate in the scientific community.; Observational studies, potential for confounding factors.; Single subject, correlations do not prove causation, potential for confounding factors.; Small sample size, only men included, lack of data on adherence to interventions, the change in epigenetic age within the treatment group was not statistically significant (p=0.066).; Single individual, limiting generalizability. Correlations do not prove causation. Potential for unmeasured confounders.; Single-subject design, inherent biases, difficulty in establishing causality due to multiple simultaneous interventions, reliance on correlations.; Observational studies cannot establish causation. Case study (n=1) has limited generalizability. Expert opinion may be biased.; Cross-sectional nature limits causal inference; potential confounding factors not fully addressed; specific dietary interventions not explored.; Single-subject study, potential for bias, limited control over variables.; Single-subject study; findings may not be generalizable. Difficult to establish causation due to multiple variables.; Single-subject study; results may not be generalizable.; Single individual, self-reported dietary data, potential for measurement error, correlations do not imply causation.; Single-subject study, making it difficult to generalize findings. Potential for false positives due to not accounting for the false discovery rate. Self-reported dietary intake may be subject to inaccuracies.; The study was on 12% calorie restriction, not directly comparable to the speaker's situation.; This is a self-reported analysis of one individual's data, limiting generalizability. The analysis relies on the accuracy of the phenotypic age calculators and the external studies cited.; Single-subject study; correlations do not prove causation; no control group.; Small sample size (n=1), correlational data, potential for confounding factors.; Single-subject study, correlational findings, potential for unmeasured confounding variables, reliance on self-reported dietary data.; Single-subject study, limited generalizability. Potential for bias in self-reported data.; Single-subject study, potential for bias, results may not be generalizable.; Single-subject study; correlations do not imply causation; potential confounding factors not addressed.; Single individual, self-reported data, potential for confounding factors.; Single-subject data, correlations may not be generalizable.; Only one study directly comparing these epigenetic clocks. Further research is needed to confirm if Dunedin Pace is consistently superior in detecting the effects of interventions on the epigenetic aging rate.; Single-subject study; results may not be generalizable. Correlation does not equal causation.; Specific dietary composition beyond caloric restriction not detailed.; Single subject, correlational data, potential for confounding factors.; The study is based on a single individual (self-experimentation), limiting generalizability. Correlation does not imply causation. Potential confounding factors were not addressed.; Single subject (n=1), potential for bias, lack of control group. Difficulty in establishing causality due to observational nature.; Single-subject study, potential for bias in self-reporting and interpretation. Reliance on publicly available biological age calculators. Limited generalizability.; Single individual, limited generalizability, potential for bias.; Single-subject design, limited generalizability, potential for confounding factors.; Single-subject study, correlational data, potential for confounding variables, self-reported dietary intake.; Single-subject study; potential for bias; limited generalizability.; Single-subject study; lacks control group; findings may not be generalizable.; Observational study, potential confounding factors not accounted for.; The accuracy and clinical relevance of these models are still under investigation. Models may be influenced by the datasets used to develop them.; Single-subject study, potential for confounding factors, limited data points for robust correlation analysis, healthy user bias.; Single-subject study; the PhenoAge model's inclusion of chronological age limits the maximum possible biological age reduction. The transcript does not detail which biomarkers besides hs-CRP were used.; Correlation does not equal causation. Potential confounding factors are not addressed. Relies on self-reported data.; Single subject, potential for bias, limited generalizability.; Single-person study, correlations do not imply causation, potential confounding factors.; Single-subject study, potential for bias, limited generalizability.
+    - Confidence: 2 ⭐⭐ | Tags: #observational #case-study #correlation #heart-rate #HRV #body-weight; 2 ⭐⭐ | Tags: #observational #self-tracking #epigenetics #diet #correlation #aging; 2 ⭐⭐ | Tags: #research #selfexperimentation #longitudinal #biomarkers #diet #supplements; 3 ⭐⭐⭐ | Tags: #self-experiment #observation #correlation #biomarkers #diet #epigenetics; 3 ⭐⭐⭐ | Tags: #expertopinion #biologicalage #calculators #biomarkers; 2 ⭐⭐ | Tags: #case-study #diet #glucose #crp #correlation; 3 ⭐⭐⭐ | Tags: #observational #case-study #telomere-length #diet #correlation #self-tracking; 2 ⭐⭐ | Tags: #case-study #n-of-1 #telomere #diet #intervention; 3 ⭐⭐⭐ | Tags: #self-tracking #biomarkers #correlation #t-test #casestudy; 4 ⭐⭐⭐⭐ | Tags: #cohort #NHANES #phenotypicage #validation; 3 ⭐⭐⭐ | Tags: #observational #self-tracking #correlation #biomarkers #whoop; 2 ⭐⭐ | Tags: #case-study #self-tracking #telomere-length #diet #statistics; 3 ⭐⭐⭐ | Tags: #self #experiment #case #study #diet #tracking #biomarkers #correlation #analysis; 4 ⭐⭐⭐⭐ | Tags: #RCT #calorierestriction #epigenetics #aging #dunedinPACE #horvath #phenoage #grimage; 3 ⭐⭐⭐ | Tags: #expert-opinion #biological-age #models #algorithms; 2 ⭐⭐ | Tags: #casestudy #epigenetics #correlation #self-experimentation; 2 ⭐⭐ | Tags: #self-study #longitudinal #biomarkers #aging #phenoage; 2 ⭐⭐ | Tags: #scientific\_methods #observational #case\_study #correlation #metabolomics #diet; 2 ⭐⭐ | Tags: #casestudy #self-experimentation #longitudinal #exercise #bodyweight; 3 ⭐⭐⭐ | Tags: #observational #diet #telomere #correlation #self-reported; 2 ⭐⭐ | Tags: #research #observational #diet #biomarkers #correlation; 5 ⭐⭐⭐⭐⭐ | Tags: #RCT #caloricrestriction #epigeneticclocks #methodology; 4 ⭐⭐⭐⭐ | Tags: #cohortstudy #nhanes #biologicalage #chronologicalage #allcausemortality #phenotypicage #agingai; 2 ⭐⭐ | Tags: #case-study #personal-data #biomarkers #diet; 2 ⭐⭐ | Tags: #casestudy #longitudinal #biomarkers #biologicalage #selfexperimentation; 2 ⭐⭐ | Tags: #casestudy #diet #VLDL #self-tracking; 3 ⭐⭐⭐ | Tags: #scientific-method #case-study #observational #self-tracking #chronometer; 3 ⭐⭐⭐ | Tags: #self-experimentation #longitudinal #correlation #biomarkers; 2 ⭐⭐ | Tags: #selfexperiment #casestudy #diettracking #correlations #methodology; 2 ⭐⭐ | Tags: #longitudinal #biomarkers #biologicalage #self-experimentation; 3 ⭐⭐⭐ | Tags: #RHR #HRV #diet #exercise #bodyweight #observational #self-tracking #personalized; 3 ⭐⭐⭐ | Tags: #scientific\_method #observational #case\_study #diet\_tracking #correlation #biomarkers; 4 ⭐⭐⭐⭐ | Tags: #RCT #calorierestriction #epigenetics #dunedinpace #anti-aging; 2 ⭐⭐ | Tags: #biological #age #longitudinal #analysis #self-reported; 2 ⭐⭐ | Tags: #methodology #selfexperimentation #longitudinal #correlation #diet #biomarkers; 3 ⭐⭐⭐ | Tags: #observational #correlation #biomarkers #diet #self-experimentation; 2 ⭐⭐ | Tags: #self-tracking #biomarkers #correlation #longitudinal; 2 ⭐⭐ | Tags: #casestudy #selfexperimentation #biohacking #biomarkers; 2 ⭐⭐ | Tags: #self-experiment #protein #biomarkers #correlation; 2 ⭐⭐ | Tags: #observational #longitudinal #biological-age #self-reported; 3 ⭐⭐⭐ | Tags: #observational #case-study #diet #biomarkers #correlation #self-tracking; 3 ⭐⭐⭐ | Tags: #observational #correlation #diet #biomarkers #self-experimentation; 2 ⭐⭐ | Tags: #observational #biomarkers #biological-age #at-home-testing; 2 ⭐⭐ | Tags: #RCT #epigenetic\_age #diet #lifestyle; 3 ⭐⭐⭐ | Tags: #self-tracking #biomarkers #correlation #longitudinal #diet; 3 ⭐⭐⭐ | Tags: #observational #cross-sectional #longitudinal #aging #biomarkers #mortality; 2 ⭐⭐ | Tags: #self-experiment #correlation #diet #blood-test #longitudinal; 2 ⭐⭐ | Tags: #casestudy #selfexperimentation #biomarkers #biologicalage; 2 ⭐⭐ | Tags: #selfexperimentation #observational #casestudy #biomarkers #correlation #diet #fitness; 3 ⭐⭐⭐ (for the review of existing literature, phenotypic age studies) | Tags: #observational #casestudy #biomarkers #mortality #phenotypicage #NHANES
 
-- **Study**: Consuming 1500 mg/day of calcium reduces oxalate absorption to 2%.
-    - Context: RCT on calcium and oxalate absorption.; Same RCT as above.
-    - Timeframe: Not specified, likely short-term.
-    - Limitations: Short-term study focusing on absorption, not long-term health outcomes.; Same as above.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #RCT #calcium #oxalate #absorption #kidney; 4 ⭐⭐⭐⭐ | Tags: #diet #calcium #oxalate #absorption #kidney; 4 ⭐⭐⭐⭐ | Tags: #healthmarker #oxalate #calcium #kidney
+- **Study**: RCT
+    - Methodology: Older adults with dementia were given bread enriched with wheat germ to increase spermidine intake. Cognitive performance was assessed over 3 months.; 829 individuals were followed for 20 years, with spermidine intake assessed at baseline and correlated with all-cause mortality and cognitive impairment.
+    - Key Findings: Higher spermidine intake was associated with lower all-cause mortality and reduced risk of cognitive impairment.; Increased spermidine intake improved cognitive performance compared to controls.
+    - Limitations: Small magnitude of spermidine increase.; Observational design, cannot establish causality.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #observational #spermidine #mortality #cognition #humans; 4 ⭐⭐⭐⭐ | Tags: #RCT #spermidine #cognition #dementia #wheatgerm
 
-- **Study**: Recombinant mouse serum albumin (rMSA), 20mg or 50mg, injected every three weeks.
-    - Effects: Increased lifespan, improved muscle strength, increased muscle mass, enhanced cognitive function, reduced phosphorylated tau levels in the brain, glossier and thicker fur.
-    - Context: C57BL/6 mice, starting at 12 months of age.
-    - Limitations: The study was conducted on mice, and the results may not be directly applicable to humans. The shorter lifespan of the control group compared to the typical lifespan of this mouse strain raises concerns about potential confounding factors. The sample sizes for some analyses were relatively small.; The study used a mouse model, and the results may not directly translate to humans. The control group had a shorter lifespan than typically observed in this mouse strain, raising questions about potential confounding factors.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #experimental #mice #albumin #injection #lifespan #healthspan #cognition #ptau #oxidativedamage #glycation; 4 ⭐⭐⭐⭐ | Tags: #albumin #rMSA #injection #longevity #healthspan #musclestrength #cognitivefunction #ptau
-
-- **Study**: *Lactiplantibacillus plantarum* (isolated from olympic athlete's fecal matter), 9 x 10^8 CFU/kg (1x), 1.8 x 10^9 CFU/kg (2x), and 4.5 x 10^9 CFU/kg (5x), orally once per day.
-    - Effects: Increased muscle mass, grip strength, and aerobic exercise capacity; decreased fat mass; altered cecum weight and gut microbiome composition.
-    - Context: RCT; young (6-week-old) male ICR mice; compared to the vehicle group.
-    - Limitations: Conducted in mice; may not translate directly to humans.; Only tested in mice; specific strain and source of *L. plantarum* may be unique.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #RCT #mice #probiotic #lactobacillus #muscle #exercise #gut #microbiome; 4 ⭐⭐⭐⭐ | Tags: #supplement #probiotic #lactobacillus #plantarum #muscle #exercise #gut #microbiome #mice
-
-- **Study**: Glycine + NAC (100 mg/kg body weight of each)
-    - Effects: Similar to the above, based on 100 mg/kg body weight.; Improved glutathione levels and various health markers in older adults.
-    - Context: RCT in older adults (61-80 years), 11 older adults, and 12 younger adults, 16 weeks.; RCT in older adults.; Derived from the dosage used in the RCT.; Mouse study.
-    - Limitations: Small sample size (16 mice per group), lack of food intake and body weight data.; Small sample size.; Individual needs may vary.; Small sample size (8 older adults).
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #cellular #senescence #glycine #NAC; 4 ⭐⭐⭐⭐ | Tags: #RCT #glycine #NAC #older #adults #health #markers; 4 ⭐⭐⭐⭐ | Tags: #glycine #NAC #dosage #health #markers; 4 ⭐⭐⭐⭐ | Tags: #glycine #NAC #dosage #example; 3 ⭐⭐⭐ | Tags: #animal #study #mice #glycine #NAC #lifespan #glutathione; 4 ⭐⭐⭐⭐ | Tags: #cognition #improvement #glycine #NAC; 4 ⭐⭐⭐⭐ | Tags: #oxidative #stress #reduction #glycine #NAC; 3 ⭐⭐⭐ | Tags: #glutathione #tissues #mice #glycine #NAC; 4 ⭐⭐⭐⭐ | Tags: #stem #cells #glycine #NAC; 4 ⭐⭐⭐⭐ | Tags: #exercise #capacity #increase #glycine #NAC
-
-- **Study**: *In vitro* cell culture
-    - Methodology: Self-experimentation with pre- and post-supplementation NAD+ level measurements. Blood samples were sent to Jinfiniti and IOB. NAD+ was measured over 20 tests from early 2023 to 2024. Metabolomic analysis is pending to measure plasma trigonelline levels, specifically looking for levels over 7 micromolar.; Serial blood tests measuring epigenetic age (DunedinPACE via TruDiagnostic) and intracellular NAD levels (via Jinfiniti). Correlation analysis between DunedinPACE and NAD levels.; Gavaged young mice with trigonelline and measured NAD+ and trigonelline levels in various tissues. Chronically supplemented aged mice with trigonelline and measured grip strength and muscle fatigue resistance.; The experimenter measured his intracellular NAD+ levels after consuming different amounts of clover sprouts for specific durations. He also tracked his intake of nicotinic acid. Blood samples were sent to Jinfiniti for analysis.; The individual tracked their NAD+ levels via blood tests (using Jinfiniti) after various supplement interventions. Baseline NAD+ was established first. Epigenetic age was also measured using the DunedinPACE test at one point.; Used HSMM (human skeletal muscle myotubes) cells treated with trigonelline, NR, and inhibitors of NAD+ biosynthesis pathways (2-hydroxynicotinic acid and FK866). Measured NAD+ levels and mitochondrial function.; Self-experimentation with tracking of diet (using Cronometer), supplement intake, and intracellular NAD levels (using blood tests from Gfinity).; Self-experimentation with tracked dietary intake (weighing all food) and blood tests for intracellular NAD+ levels. Supplementation with NMN and vitamin B6.; Daily supplementation with 6.1 grams of grape seed powder for 19 days. Blood NAD+ levels were measured using a home test kit from Jinfiniti.; The speaker tracked his daily dietary intake, including vitamin B6. He measured his NAD levels five times using at-home blood tests from a company called Infinity. He adjusted his average daily vitamin B6 intake between tests and observed the corresponding changes in NAD levels.
-    - Key Findings: Increased NMN dosage (1000 mg/day) significantly increased NAD+ levels. Increased vitamin B6 intake may have a small positive effect on NAD+ levels.; 121g of clover sprouts daily potentially increased NAD+ levels, while 271g daily decreased them. Prior nicotinic acid supplementation may have influenced results.; A significant negative correlation (r = 0.97, p < 0.05) was found between intracellular NAD levels and DunedinPACE, indicating higher NAD levels were associated with a faster epigenetic aging rate.; 500mg/day of trigonelline supplementation for 10 days did not increase NAD+ levels.; Increased vitamin B6 intake was associated with a decrease in NAD levels.; Trigonelline significantly increased NAD+ levels in multiple tissues after 2 hours. Chronic supplementation improved grip strength and fatigue resistance in aged mice.; No increase in NAD+ levels.; Low-dose nicotinic acid (45 mg/day) combined with trigonelline (51 mg/day) did not increase NAD levels.; Low-dose nicotinic acid (60 mg/day) was as effective at raising NAD+ levels as high-dose NMN (1000 mg/day). Vitamin B6 (9 mg/day) also increased NAD+ levels.; Trigonelline increased NAD+ levels in a dose-dependent manner, rescued NAD+ depletion caused by FK866, but not by 2-hydroxynicotinic acid, indicating its action through the Preiss-Handler pathway. Trigonelline also rescued mitochondrial dysfunction caused by FK866.
-    - Limitations: Single individual, limited details provided in this transcript.; Single subject, lack of control group, potential for measurement error, difficulty in isolating the effects of specific dietary components.; Acute study for NAD+ levels, long-term effects of high-dose gavage are unknown. Aged mice may not fully model human sarcopenia.; Potential impact on epigenetic aging (dN Pace); more research needed.; Single individual, effect of trigonelline alone not assessed.; Single subject (n=1), self-reported data, no control group, limited duration of interventions.; Single subject, self-reported data, no control group, potential for confounding factors, lack of blinding.; Very small sample size (n=5 blood tests from a single individual). Potential outlier (67 µM NAD test) may be driving the correlation.; Single individual, lack of control group, potential for confounding factors.; Dosage and timing of nicotinic acid supplementation are not specified.; Single individual, self-reported.; Single individual, short duration (21 days).; Single individual, short duration (7 days).; Super-physiological dose (300% increase). Potentially negative impact on biomarkers.; Single individual, self-reported data, limited control over variables.; Single individual, uncontrolled variables, potential dosage or bioavailability issues.; Did not raise NAD more than niacin alone in a previous test. Stopped after 19 days.; *In vitro* results may not fully translate to *in vivo* systems.; n=1, self-reported, potential for bias.
-    - Confidence: 2 ⭐⭐ | Tags: #supplements #NMN #NAD #intracellular; 3 ⭐⭐⭐ | Tags: #epigenetics #dunedinPACE #aging #biomarker #population #cross-sectional; 4 ⭐⭐⭐⭐ | Tags: #invivo #mice #NAD+ #muscle #aging; 3 ⭐⭐⭐ | Tags: #biomarkers #epigenetics #aging_rate #DunedinPACE; 4 ⭐⭐⭐⭐ | Tags: #epigenetics #dunedinpace #biomarker #agingrate; 4 ⭐⭐⭐⭐ | Tags: #plasma #trigonelline #mice #increase #acute; 2 ⭐⭐ | Tags: #research #epigenetics #NAD #correlation #case_study; 1 ⭐ | Tags: #self-experiment #NAD #measurement #casestudy; 4 ⭐⭐⭐⭐ | Tags: #invitro #cells #NAD+ #mitochondria #pathway; 4 ⭐⭐⭐⭐ | Tags: #urine #trigonelline #mice #excretion #acute; 2 ⭐⭐ | Tags: #supplement #tryptophan #NAD #potential-negative-impact; 2 ⭐⭐ | Tags: #nicotinic #acid #NAD #heart #rate #variability #epigenetic #aging; 4 ⭐⭐⭐⭐ | Tags: #NAD+ #trigonelline #cells #increase; 2 ⭐⭐ | Tags: #supplements #NAD #nicotinic_acid #biohacking; 3 ⭐⭐⭐ | Tags: #health-markers #NAD #intracellular #no-change #blood-test; 4 ⭐⭐⭐⭐ | Tags: #mitochondria #membrane #potential #trigonelline #rescue; 3 ⭐⭐⭐ | Tags: #supplements #NMN #NAD #intracellular; 1 ⭐ | Tags: #casestudy #selfexperimentation #NAD #epigenetics #bloodtesting; 2 ⭐⭐ | Tags: #self-experiment, #NAD, #trigonelline, #blood-test, #case-study, #metabolomics; 1 ⭐ | Tags: #self-experiment #case-study #NAD #vitaminB6 #diet; 2 ⭐⭐ | Tags: #casestudy #selfexperimentation #NAD #NMN #vitaminB6 #bloodtest; 2 ⭐⭐ | Tags: #self-experiment #case study #NAD+ #intracellular measurement #Jinfiniti; 3 ⭐⭐⭐ | Tags: #supplements #nicotinic-acid #NAD #effective-dose; 3 ⭐⭐⭐ | Tags: #research-methods #case-study #self-experimentation #NAD #quantification; 1 ⭐ | Tags: #supplement #niacin #nicotinicacid #tryptophan #NAD #longevity; 4 ⭐⭐⭐⭐ | Tags: #NAD+ #trigonelline #mice #increase #acute; 3 ⭐⭐⭐ | Tags: #supplements #trigonelline #NAD #synergy #ineffective; 2 ⭐⭐ | Tags: #health-marker #NAD #no-change; 2 ⭐⭐ | Tags: #supplement #niacin #NAD
-
-- **Study**: Glomerular Filtration Rate (GFR)
-    - Change: Declines with age in both men and women.; Increases with age.
-    - Context: Used to estimate GFR but may be less reliable in older adults due to variability related to muscle mass.; GFR is a measure of kidney function.
-    - Timeframe: Increase observed from 18 to 90 years old.; Progressive decline observed from 18 to 95 years old.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #kidneyfunction #gfr #aging; 3 ⭐⭐⭐ | Tags: #kidneyfunction #creatinine #aging #musclemass; 3 ⭐⭐⭐ | Tags: #kidneyfunction #creatinine #cystatinC #aging #musclemass; 3 ⭐⭐⭐ | Tags: #mortality #biomarkers #cystatinC #creatinine #glucose #HbA1c #rdw
-
-- **Study**: Meta-analysis
-    - Methodology: Examined the relationship between triglyceride levels and coronary heart disease mortality risk in almost 4.5 million people.; Pooled data from 14 studies (n > 330,000, average age 48) to examine the association between triglyceride levels and all-cause mortality.; Analysis of a large dataset (3.3 million subjects, 44-55 years old) to examine the relationship between total cholesterol and all-cause mortality.; Analyzed data to identify metabolites associated with reaching 85 years (longevity) and all-cause mortality risk.; The presenter is using the Iolo Atome metabolomics kit to track 241 triglyceride species, including those associated with longevity.; Analysis of data from nearly 42,000 CAD patients to investigate the non-HDL cholesterol paradox and the role of malnutrition. Various statistical adjustments were made for age, sex, comorbidities, and malnutrition markers.; Retrospective analysis of total cholesterol levels and all-cause mortality data from a large cohort of nearly 13 million subjects. Subjects were grouped by age and sex, and the association between total cholesterol levels and ACM risk was assessed for each group.; The study followed over 11,000 individuals with an average age of 54 for 28 years. It combined five lifestyle factors into a healthy lifestyle score, associated this score with 243 plasma metabolites, and then related these metabolites to mortality and longevity outcomes.; Analysis of total cholesterol, albumin, and HDL levels in relation to all-cause mortality in older adults. Data was collected from existing studies, including cohorts of centenarians and semi-super centenarians. The speaker's personal health data was also analyzed.; Analysis of data from 393 individuals aged 79 to assess the relationship between total cholesterol, albumin, HDL, and all-cause mortality.; Analyzed data from over 1.5 million people (average age 57) to investigate the link between triglyceride levels and all-cause mortality risk.
-    - Key Findings: Total cholesterol of 133 mg/dL associated with >2-fold increased all-cause mortality risk in the 44-55 age group.; Low total cholesterol (<160 mg/dL) with high albumin and HDL associated with 62% reduced all-cause mortality risk compared to low total cholesterol with low albumin and HDL.; Low total cholesterol (<160 mg/dL) is associated with increased all-cause mortality, especially when combined with low albumin and low or high HDL. However, low total cholesterol combined with high albumin (>38 g/L) and high HDL (>47 mg/dL) is associated with a similar survival rate to individuals with higher total cholesterol levels.; Optimal total cholesterol ranges vary by age and sex. Very low and very high cholesterol levels are associated with increased ACM risk in most age groups, except for the youngest (18-34) where lower cholesterol levels in women do not show increased risk.; Malnutrition, characterized by low albumin, lymphocytes, and HDL, drives the association between low non-HDL cholesterol and increased all-cause mortality in CAD patients.; Preliminary results suggest variability in the levels of longevity-associated triglycerides across tests. Ongoing analysis to explore correlations with diet.; Triglyceride levels above 80 mg/dL were significantly associated with increased coronary heart disease mortality risk.; Specific triglyceride species (C54:9, C56:6, C56:7, C56:8, C56:9) were associated with an increased probability of reaching 85 years and lower all-cause mortality risk.; Triglyceride levels above 150 mg/dL were significantly associated with increased all-cause mortality risk.; A healthy lifestyle score is associated with a lower risk of all-cause, cardiovascular, and cancer-related mortality, and an increased odds of living past 85 years. Specific metabolites, including cholesterol esters and certain triglycerides, are linked to these outcomes.
-    - Limitations: Observational nature, potential confounders.; Observational studies cannot establish causality. The optimal ranges for cholesterol, albumin, and HDL may vary depending on individual factors and health conditions. The speaker's analysis is based on limited data from a few studies.; Observational study, potential confounders not fully accounted for.; Small sample size, limited to older adults.; Observational study, potential for residual confounding. The study population was limited to CAD patients, predominantly men (80%), with an average age of 65.; Observational nature of the included studies.; Single-subject study, limited data points.; Observational studies can show associations but not prove causation. Confounding factors may influence the results.; Observational studies cannot establish causality. The study did not account for potential confounding factors, such as lifestyle, diet, or pre-existing health conditions.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #observational #triglycerides #longevity #metabolomics; 3 ⭐⭐⭐ | Tags: #observational #cohort #metabolomics #longevity #mortality; 4 ⭐⭐⭐⭐ | Tags: #observational #triglycerides #mortality; 3 ⭐⭐⭐ | Tags: #cholesterol #all-cause-mortality #observational #age-related #sex-differences; 4 ⭐⭐⭐⭐ | Tags: #triglycerides #mortality #heart\_disease; 3 ⭐⭐⭐ | Tags: #hdl #cholesterol #mortality #no #association; 2 ⭐⭐ | Tags: #cholesterol #albumin #HDL #mortality #observational; 4 ⭐⭐⭐⭐ | Tags: #triglycerides #lipids #mortality; 2 ⭐⭐ | Tags: #case\_study #self\_experimentation #metabolomics #triglycerides #longevity; 3 ⭐⭐⭐ | Tags: #cholesterol #albumin #hdl #mortality #observational; 3 ⭐⭐⭐ | Tags: #non-HDL #cholesterol #malnutrition #CAD #mortality #observational; 4 ⭐⭐⭐⭐ | Tags: #observational #triglycerides #heart\_disease #mortality; 3 ⭐⭐⭐ | Tags: #mortality #cholesterol #albumin #hdl; 4 ⭐⭐⭐⭐ | Tags: #meta\_analysis #triglycerides #mortality #observational; 3 ⭐⭐⭐ | Tags: #triglycerides #longevity #metabolomics; 3 ⭐⭐⭐ | Tags: #cholesterol #mortality #observational #large-study
-
-- **Study**: Observational, Meta-analysis
-    - Methodology: Pooled data from 17 prospective cohort studies, totaling 42,466 participants. Analyzed the association between circulating EPA and DHA levels (measured in blood) and all-cause mortality risk, using hazard ratios.
-    - Key Findings: Higher circulating levels of EPA and DHA were associated with a significantly reduced risk of all-cause mortality. The association was particularly strong for DHA levels above the 50th percentile.
-    - Limitations: Observational studies can only show correlation, not causation. Potential confounders may influence the results. The studies used in the meta-analysis may have different methodologies and populations.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #mortality #risk #omega-3 #EPA #DHA; 4 ⭐⭐⭐⭐ | Tags: #meta-analysis #observational #epidemiology #mortality #omega-3
+- **Study**: Animal study (mice)
+    - Methodology: Female C57BL/6J mice were given spermidine in drinking water (3mM) from 4 months of age. Lifespan was assessed.; Rats were given spermidine in drinking water from 18 months of age. Lifespan was assessed.
+    - Key Findings: Spermidine significantly increased median lifespan.; Spermidine did not increase lifespan in rats, despite an approximate doubling of blood spermidine concentration.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #animalstudy #rats #spermidine #lifespan; 4 ⭐⭐⭐⭐ | Tags: #animalstudy #mice #spermidine #lifespan
 
 - **Study**: Observational
-    - Methodology: The study analyzed data from the NHANES III and IV studies, which included more than 17,000 people. It compared the predictive power of AnthropoAge (both simplified and full versions) and PhenoAge for all-cause and cause-specific mortality using hazard ratios and 95% confidence intervals.
-    - Key Findings: Both AnthropoAge and PhenoAge were significantly associated with all-cause and cause-specific mortality, with hazard ratios and confidence intervals consistently above 1. This indicates that both measures can predict mortality risk.
-    - Limitations: Observational studies can establish correlation but not causation. The accuracy of AnthropoAge may depend on the precise measurement of body composition parameters.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #mortality #risk #NHANES; 4 ⭐⭐⭐⭐ | Tags: #mortality #cardiovascular #diabetes #stroke #cancer #respiratory #kidney #Alzheimers; 4 ⭐⭐⭐⭐ | Tags: #biological-age #blood-test #mortality-risk; 4 ⭐⭐⭐⭐ | Tags: #observational #mortality #biological-age #anthropometry #NHANES #PhenoAge #AnthropoAge
-
-- **Study**: *In vivo* nematode (*C. elegans*)
-    - Methodology: *C. elegans* were treated with different doses of ergothioneine (5 millimolar and 10 millimolar), and their survival was monitored.; Supplemented *C. elegans* with trigonelline and measured NAD+ levels, muscle integrity, mobility, and lifespan. Also used a strain with repressed *nprt* expression.
-    - Key Findings: 10 millimolar of ergothioneine significantly increased lifespan.; Trigonelline rescued age-related NAD+ decline, improved muscle integrity, reduced paralysis, and extended lifespan. These effects were dependent on *nprt*, confirming the role of the Preiss-Handler pathway.
-    - Limitations: Animal study.; Results may not directly translate to humans.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #invivo #worms #lifespan #muscle #pathway; 3 ⭐⭐⭐ | Tags: #experimental #worms #ergothioneine #lifespan; 4 ⭐⭐⭐⭐ | Tags: #lifespan #trigonelline #worms #extension; 4 ⭐⭐⭐⭐ | Tags: #muscle #fiber #trigonelline #worms #improvement; 4 ⭐⭐⭐⭐ | Tags: #paralysis #trigonelline #worms #reduction
-
-- **Study**: Randomized controlled trial (Pereira et al., 2023)
-    - Methodology: 30 inpatients with COVID-19 received either NIR light therapy (940nm) via a jacket for 15 minutes daily for 7 days or acted as a control.
-    - Key Findings: NIR group had improved oxygen saturation, respiratory rate, heart rate, lymphocyte counts, and were discharged 4 days earlier than the control group.
-    - Limitations: Small sample size, randomization slightly favored the control group.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #rct #covid19 #nir #therapy #hospital; 4 ⭐⭐⭐⭐ | Tags: #oxygensaturation #nir #covid19
-
-- **Study**: Observational (Cohort)
-    - Methodology: Pooled data from 23 studies to assess the association between telomere length and all-cause mortality.; Compared the correlation of telomere shortness, epigenetic clocks (353, 99, and 71 CpG), and Klemera/Dubal biological age with health-span-related metrics (physical function, cognitive function, subjective aging).; Evaluated the association between epigenetic clocks (DunedinPACE, an earlier iteration of DunedinPACE, Horvath, Hannum, PhenoAge, and GrimAge) and all-cause mortality risk in the Normative Aging Study and Framingham Offspring Study.; Compared the correlation of telomere length and other biological age metrics (epigenetic clocks, Klemera/Dubal biological age, cognitive function, FAI, FI, physiological age) with chronological age and all-cause mortality risk.
-    - Key Findings: Telomere length was not significantly associated with all-cause mortality risk in this study. Epigenetic clocks (DNAm Horvath, DNAm Hannum, DNAm GrimAge), cognitive function, FAI, and FI were significantly associated with all-cause mortality risk. Klemera/Dubal biological age had a stronger correlation with chronological age (r = 0.91) than telomere length (r = -0.42).; Telomere shortness was only significantly correlated with facial aging. The 71 CpG epigenetic clock and Klemera/Dubal biological age were significantly correlated with most health-span-related metrics.; DunedinPACE, its earlier iteration, PhenoAge, and GrimAge were significantly associated with increased all-cause mortality risk in both studies. Horvath was not associated in either study. Hannum was associated in Framingham Offspring but not in the Normative Aging Study.; Shorter telomeres were associated with a 26% increased risk of death for all causes, but this was not significant in 13 of the 23 studies.
-    - Limitations: Observational design, potential confounders not fully accounted for.; Heterogeneity between studies, potential confounding factors.; Observational design, potential confounding factors, specific populations studied not detailed.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #epigenetic clock #DNAm age #mortality; 3 ⭐⭐⭐ | Tags: #meta-analysis #telomere length #mortality; 3 ⭐⭐⭐ | Tags: #facial aging #telomere length; 4 ⭐⭐⭐⭐ | Tags: #observational #cohort #epigeneticclocks #mortality #methodology; 3 ⭐⭐⭐ | Tags: #observational #health span #epigenetic clocks #Klema/Dubal; 3 ⭐⭐⭐ | Tags: #observational #biological age #mortality #epigenetic clocks
-
-- **Study**: Meta-analysis of Randomized Controlled Trials (RCTs)
-    - Methodology: Pooled data from multiple RCTs comparing low vs. high AGE diets in humans. Outcomes included HOMA-IR and TNF-alpha.
-    - Key Findings: Low AGE diet improved insulin sensitivity (lower HOMA-IR) and reduced inflammation (lower TNF-alpha).
-    - Limitations: Limited number of studies included in each analysis.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #meta-analysis #RCT #humans #AGEs #insulin-sensitivity #inflammation; 4 ⭐⭐⭐⭐ | Tags: #HOMA-IR #AGEs #humans #insulin-sensitivity
+    - Methodology: Animals were divided into control and methionine-restricted groups. Diets were precisely formulated to control methionine content. Survival was tracked.; Comparing survival curves of mice fed different diets (methionine-restricted vs. control). Measuring median and maximum survival.; Analysis of lifespan data from multiple studies, comparing control group lifespans with intervention group lifespans. Examined the relationship between control lifespan and the magnitude of lifespan extension from interventions like caloric restriction. Corrected for regression to the mean.; 60-day study in mice comparing body weight and food intake on low, normal, and high methionine diets.
+    - Key Findings: Low methionine group had lower body weight and increased food intake.; Methionine restriction significantly increased lifespan.; Longer-lived control groups are associated with smaller lifespan extensions from interventions. The 900-day rule provides a benchmark for robust studies in black six and het3 mice.; Methionine restriction significantly extended both median and maximal survival in both mice and rats.
+    - Limitations: Animal models may not perfectly translate to humans.; Observational, potential confounding factors not fully controlled.; Short-term study, limited age range.; Observational nature limits causal inference. Strain-specific differences may exist.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #experimental #diet #methionine #body #weight #food #intake; 4 ⭐⭐⭐⭐ | Tags: #observational #lifespan #survival #mice; 4 ⭐⭐⭐⭐ | Tags: #controlled #diet #study #mice #rats; 4 ⭐⭐⭐⭐ | Tags: #observational #lifespan #mouse #regression #900-day #rule
 
 - **Study**: Meta-analysis
-    - Methodology: Analysis of 46 studies including over 2 million subjects, examining the relationship between eGFR and all-cause mortality risk.
-    - Key Findings: eGFR less than 45 was associated with a significantly increased risk of death from all causes compared to eGFR of 95.
-    - Limitations: The specific methodologies of the included studies are not detailed.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #eGFR #kidney-function #biomarker #mortality; 4 ⭐⭐⭐⭐ | Tags: #meta-analysis #eGFR #mortality #kidney-function
+    - Methodology: Examined the relationship between triglyceride levels and coronary heart disease mortality risk in almost 4.5 million people.; Analysis of total cholesterol, albumin, and HDL levels in relation to all-cause mortality in older adults. Data was collected from existing studies, including cohorts of centenarians and semi-super centenarians. The speaker's personal health data was also analyzed.; Analysis of data from nearly 42,000 CAD patients to investigate the non-HDL cholesterol paradox and the role of malnutrition. Various statistical adjustments were made for age, sex, comorbidities, and malnutrition markers.; Analysis of data from 393 individuals aged 79 to assess the relationship between total cholesterol, albumin, HDL, and all-cause mortality.; Analysis of a large dataset (3.3 million subjects, 44-55 years old) to examine the relationship between total cholesterol and all-cause mortality.; The study followed over 11,000 individuals with an average age of 54 for 28 years. It combined five lifestyle factors into a healthy lifestyle score, associated this score with 243 plasma metabolites, and then related these metabolites to mortality and longevity outcomes.; Analyzed data to identify metabolites associated with reaching 85 years (longevity) and all-cause mortality risk.; Retrospective analysis of total cholesterol levels and all-cause mortality data from a large cohort of nearly 13 million subjects. Subjects were grouped by age and sex, and the association between total cholesterol levels and ACM risk was assessed for each group.; Analyzed data from over 1.5 million people (average age 57) to investigate the link between triglyceride levels and all-cause mortality risk.; The presenter is using the Iolo Atome metabolomics kit to track 241 triglyceride species, including those associated with longevity.; Pooled data from 14 studies (n > 330,000, average age 48) to examine the association between triglyceride levels and all-cause mortality.
+    - Key Findings: Triglyceride levels above 80 mg/dL were significantly associated with increased coronary heart disease mortality risk.; Specific triglyceride species (C54:9, C56:6, C56:7, C56:8, C56:9) were associated with an increased probability of reaching 85 years and lower all-cause mortality risk.; Triglyceride levels above 150 mg/dL were significantly associated with increased all-cause mortality risk.; A healthy lifestyle score is associated with a lower risk of all-cause, cardiovascular, and cancer-related mortality, and an increased odds of living past 85 years. Specific metabolites, including cholesterol esters and certain triglycerides, are linked to these outcomes.; Low total cholesterol (<160 mg/dL) is associated with increased all-cause mortality, especially when combined with low albumin and low or high HDL. However, low total cholesterol combined with high albumin (>38 g/L) and high HDL (>47 mg/dL) is associated with a similar survival rate to individuals with higher total cholesterol levels.; Optimal total cholesterol ranges vary by age and sex. Very low and very high cholesterol levels are associated with increased ACM risk in most age groups, except for the youngest (18-34) where lower cholesterol levels in women do not show increased risk.; Low total cholesterol (<160 mg/dL) with high albumin and HDL associated with 62% reduced all-cause mortality risk compared to low total cholesterol with low albumin and HDL.; Total cholesterol of 133 mg/dL associated with >2-fold increased all-cause mortality risk in the 44-55 age group.; Malnutrition, characterized by low albumin, lymphocytes, and HDL, drives the association between low non-HDL cholesterol and increased all-cause mortality in CAD patients.; Preliminary results suggest variability in the levels of longevity-associated triglycerides across tests. Ongoing analysis to explore correlations with diet.
+    - Limitations: Observational studies can show associations but not prove causation. Confounding factors may influence the results.; Observational nature of the included studies.; Observational studies cannot establish causality. The optimal ranges for cholesterol, albumin, and HDL may vary depending on individual factors and health conditions. The speaker's analysis is based on limited data from a few studies.; Small sample size, limited to older adults.; Single-subject study, limited data points.; Observational nature, potential confounders.; Observational studies cannot establish causality. The study did not account for potential confounding factors, such as lifestyle, diet, or pre-existing health conditions.; Observational study, potential confounders not fully accounted for.; Observational study, potential for residual confounding. The study population was limited to CAD patients, predominantly men (80%), with an average age of 65.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #observational #triglycerides #longevity #metabolomics; 4 ⭐⭐⭐⭐ | Tags: #meta\_analysis #triglycerides #mortality #observational; 3 ⭐⭐⭐ | Tags: #cholesterol #all-cause-mortality #observational #age-related #sex-differences; 2 ⭐⭐ | Tags: #case\_study #self\_experimentation #metabolomics #triglycerides #longevity; 4 ⭐⭐⭐⭐ | Tags: #observational #triglycerides #mortality; 2 ⭐⭐ | Tags: #cholesterol #albumin #HDL #mortality #observational; 3 ⭐⭐⭐ | Tags: #cholesterol #mortality #observational #large-study; 3 ⭐⭐⭐ | Tags: #cholesterol #albumin #hdl #mortality #observational; 3 ⭐⭐⭐ | Tags: #observational #cohort #metabolomics #longevity #mortality; 4 ⭐⭐⭐⭐ | Tags: #observational #triglycerides #heart\_disease #mortality; 3 ⭐⭐⭐ | Tags: #non-HDL #cholesterol #malnutrition #CAD #mortality #observational
+
+- **Study**: Experimental (FGF21 transgenic mice).
+    - Methodology: Compared lifespan of C57 black 6j mice supplemented with alpha-ketoglutarate to wild-type mice.; Comparing lifespan of FGF21 overexpressing mice with wild-type mice.; Genetically engineered mice (C57 black 6j) to overexpress FGF21 (5-10 fold increase). Compared lifespan with wild-type mice.
+    - Key Findings: Alpha-ketoglutarate extended both average and maximal lifespan in female mice but not significantly in male mice.; FGF21 overexpression significantly extended average lifespan in male mice (28 to 36 months) and both average (30 to 40 months) and maximum lifespan in female mice.; FGF21 overexpression significantly increased lifespan.
+    - Limitations: Genetically modified mice, not directly applicable to humans without FGF21 manipulation.; Less effective than FGF21 overexpression in extending lifespan.; Mouse study, may not directly translate to humans
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #experimental #FGF21 #transgenic #lifespan #mice; 4 ⭐⭐⭐⭐ | Tags: #FGF21 #lifespan #mice #genetic-engineering; 3 ⭐⭐⭐ | Tags: #alpha-ketoglutarate #lifespan #mice
+
+- **Study**: Observational (Cohort)
+    - Methodology: Evaluated the association between epigenetic clocks (DunedinPACE, an earlier iteration of DunedinPACE, Horvath, Hannum, PhenoAge, and GrimAge) and all-cause mortality risk in the Normative Aging Study and Framingham Offspring Study.; Compared the correlation of telomere length and other biological age metrics (epigenetic clocks, Klemera/Dubal biological age, cognitive function, FAI, FI, physiological age) with chronological age and all-cause mortality risk.; Compared the correlation of telomere shortness, epigenetic clocks (353, 99, and 71 CpG), and Klemera/Dubal biological age with health-span-related metrics (physical function, cognitive function, subjective aging).; Pooled data from 23 studies to assess the association between telomere length and all-cause mortality.
+    - Key Findings: DunedinPACE, its earlier iteration, PhenoAge, and GrimAge were significantly associated with increased all-cause mortality risk in both studies. Horvath was not associated in either study. Hannum was associated in Framingham Offspring but not in the Normative Aging Study.; Telomere length was not significantly associated with all-cause mortality risk in this study. Epigenetic clocks (DNAm Horvath, DNAm Hannum, DNAm GrimAge), cognitive function, FAI, and FI were significantly associated with all-cause mortality risk. Klemera/Dubal biological age had a stronger correlation with chronological age (r = 0.91) than telomere length (r = -0.42).; Telomere shortness was only significantly correlated with facial aging. The 71 CpG epigenetic clock and Klemera/Dubal biological age were significantly correlated with most health-span-related metrics.; Shorter telomeres were associated with a 26% increased risk of death for all causes, but this was not significant in 13 of the 23 studies.
+    - Limitations: Observational design, potential confounding factors, specific populations studied not detailed.; Heterogeneity between studies, potential confounding factors.; Observational design, potential confounders not fully accounted for.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #observational #cohort #epigeneticclocks #mortality #methodology; 3 ⭐⭐⭐ | Tags: #observational #health span #epigenetic clocks #Klema/Dubal; 3 ⭐⭐⭐ | Tags: #meta-analysis #telomere length #mortality; 3 ⭐⭐⭐ | Tags: #observational #biological age #mortality #epigenetic clocks
+
+- **Study**: Observational
+    - Methodology: Using data from large cohort studies (NHANES III, NHANES IV) and meta-analysis to form conclusions about biomarker changes during aging and association with all-cause mortality. Also includes own n-of-1 analysis.; Data from 92,000 people on resting heart rate changes during aging.; Data on heart rate variability changes during aging, measured by RMSSD.
+    - Key Findings: Average resting heart rate increases from age 20 to 50 and then declines.; Resting heart rate increases with age until 50, then decreases. HRV decreases with age. Higher glucose, higher neutrophils, and lower lymphocyte percentage are associated with increased mortality risk.; Heart rate variability declines during aging from 20s to 60s.
+    - Limitations: Based on interpretation of existing literature, combined with personal data.; Observational study, may not show causation.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #mortality #aging #biomarkers #cardiovascular; 4 ⭐⭐⭐⭐ | Tags: #heartratevariability #aging #observational; 4 ⭐⭐⭐⭐ | Tags: #restingheartrate #aging #observational
+
+- **Study**: RCT
+    - Methodology: Mice supplemented with glycine + NAC from 65 weeks of age.; Older adults (71-80 years) supplemented with glycine + NAC for 24 weeks. Comparison with a young control group.
+    - Key Findings: Improved glutathione levels and various health markers in older adults.; Extended median lifespan by 24%, restored glutathione in multiple tissues.
+    - Limitations: Small sample size (16 mice per group), lack of food intake and body weight data.; Small sample size (8 older adults).
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #RCT #glycine #NAC #older #adults #health #markers; 3 ⭐⭐⭐ | Tags: #animal #study #mice #glycine #NAC #lifespan #glutathione
 
 - **Study**: Large population study referenced, assumed to be observational
-    - Methodology: Analysis of a large dataset (12.5 million subjects) to examine the relationship between age and glucose levels.; Analysis of fasting glucose levels in relation to age. 12.5 million subjects.; Analysing association of fasting glucose levels and all-cause mortality risk.
+    - Methodology: Analysis of a large dataset (12.5 million subjects) to examine the relationship between age and glucose levels.; Analysing association of fasting glucose levels and all-cause mortality risk.; Analysis of fasting glucose levels in relation to age. 12.5 million subjects.
     - Key Findings: Fasting glucose increases with age for both men and women, from approximately 85 mg/dL in youth.; Glucose levels increase with age, with men showing a plateau around 60 and women experiencing a more linear increase.; Lowest risk of all-cause mortality was observed when glucose was between 80 to 94 mg/dL.
-    - Limitations: Not explicitly stated in the transcript.; Not explicitly stated in the transcript, but this is population-level data that might not be generalizable to each individual.; Observational data cannot establish causation.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #observational #glucose #aging #mortality; 4 ⭐⭐⭐⭐ | Tags: #observational #population-study #glucose #aging; 4 ⭐⭐⭐⭐ | Tags: #cohort #glucose #mortality
-
-- **Study**: Alkaline Phosphatase
-    - Change: Lower levels are associated with lower all-cause mortality. Optimal: around 50 U/L. Paul Saladino's level: 89 U/L.
-    - Context: Data from 8.9 million subjects.
-    - Timeframe: Not specified.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #epidemiology #allcausemortality #globulin #alkalinephosphatase #cohortstudy; 4 ⭐⭐⭐⭐ | Tags: #alkalinephosphatase #mortality #longevity
-
-- **Study**: Albumin
-    - Change: Declines with age. Youthful levels (46 g/L) associated with lowest all-cause mortality risk.; Average of 49.4 g/L over 4 years for the speaker.; 46.4 g/L (high); Relatively higher levels associated with reduced all-cause mortality risk.; Higher levels are associated with lower all-cause mortality. Optimal range: ≥ 4.4-4.5 g/L. Paul Saladino's level: 4.1 g/L.
-    - Context: Data from 1.7 million subjects.; General population.; Analysis of 85+ year-olds, including centenarians and supercentenarians.; Centenarian woman; high albumin associated with biological youth and decreases with aging.; Personal data in relation to all-cause mortality risk.
-    - Timeframe: 4 years.; Not applicable (single measurement).; Lifetime.; Not specified.; Not specified, likely reflecting long-term health status.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #albumin #aging #longevity #youth; 4 ⭐⭐⭐⭐ | Tags: #albumin #aging #mortality; 4 ⭐⭐⭐⭐ | Tags: #albumin #longitudinal; 4 ⭐⭐⭐⭐ | Tags: #albumin #mortality #longevity; 3 ⭐⭐⭐ | Tags: #albumin #longevity #mortality #risk #reduction
-
-- **Study**: Body Weight
-    - Change: Decreased from 155.6 lbs to 155 lbs (statistically significant).
-    - Context: Measured daily; a slight but statistically significant decrease observed.; Average body weight measured daily over 42 days.
-    - Timeframe: 42 days.; 49 days
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #bodyweight #weightloss #correlation; 4 ⭐⭐⭐⭐ | Tags: #healthmarker #bodyweight
-
-- **Study**: Glutathione (GSH)
-    - Change: 50% reduction during aging (21 to 61+ years old); Not directly measured due to unavailability of individual GSH and GSSG tests in the US.
-    - Context: Observational data from multiple studies.; A high GSSG/GSH ratio is indicative of oxidative stress.
-    - Timeframe: Over decades.; N/A
-    - Confidence: N/A | Tags: #glutathione #oxidative-stress #aging; 4 ⭐⭐⭐⭐ | Tags: #glutathione #aging #decline
-
-- **Study**: Consuming about 30g of wheat germ per day can provide approximately 12 mg of spermidine.
-    - Context: Based on wheat germ containing 24.3 mg spermidine per 100g.
-    - Timeframe: Daily intake.
-    - Limitations: Individual absorption may vary.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #diet #spermidine #wheatgerm #dosage
-
-- **Study**: No alcohol consumption
-    - Context: Based on negative impact on heart rate variability, resting heart rate, and sleep quality.
-    - Timeframe: Ongoing.
-    - Limitations: Personal choice, may not apply to everyone.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #diet #alcohol #cardiovascular #sleep
-
-- **Study**: Canagliflozin (SGLT2 inhibitor)
-    - Effects: increased median lifespan in one study by 14% in mice who were already long-lived.
-    - Context: ITP studies mentioned in the transcript.
-    - Limitations: Only works in males, not females.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #canagliflozin #lifespan #mouse #ITP
-
-- **Study**: Trypsin inhibitor (not specified, but alpha-1-antitrypsin is mentioned as affordable and orally available) in drinking water.
-    - Effects: Reduced trypsin infiltration in organs, partial restoration of mucin density and collagen integrity in aged rats.
-    - Context: 2-week treatment in aged rats.
-    - Limitations: Specific trypsin inhibitor and dosage not provided. Long-term effects and optimal dosing unknown.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #supplement #trypsin-inhibitor #aging #rats
+    - Limitations: Not explicitly stated in the transcript, but this is population-level data that might not be generalizable to each individual.; Observational data cannot establish causation.; Not explicitly stated in the transcript.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #observational #population-study #glucose #aging; 4 ⭐⭐⭐⭐ | Tags: #cohort #glucose #mortality; 3 ⭐⭐⭐ | Tags: #observational #glucose #aging #mortality
 
 - **Study**: RCT
     - Methodology: Independent lifespan studies conducted at multiple test sites (Jackson Lab, University of Michigan, University of Texas) with data pooled for analysis (e.g., glycine and NR studies in mice). This is considered a gold standard for lifespan studies.
@@ -2236,17 +2018,65 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Observational nature limits establishing causality.
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #observational #mucin #aging #rats
 
+- **Study**: Experimental (SCFA measurement)
+    - Methodology: Measuring fecal and plasma SCFAs in mice on different diets, including methionine-restricted and a control. Also, measuring the same in mice treated with Acarbose.
+    - Key Findings: Methionine restriction and Acarbose treatment increased SCFA levels.
+    - Limitations: Mouse studies, human SCFA responses may differ.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #experimental #SCFAs #methionine #acarbose #mice
+
+- **Study**: Observational, Meta-analysis
+    - Methodology: Pooled data from 17 prospective cohort studies, totaling 42,466 participants. Analyzed the association between circulating EPA and DHA levels (measured in blood) and all-cause mortality risk, using hazard ratios.
+    - Key Findings: Higher circulating levels of EPA and DHA were associated with a significantly reduced risk of all-cause mortality. The association was particularly strong for DHA levels above the 50th percentile.
+    - Limitations: Observational studies can only show correlation, not causation. Potential confounders may influence the results. The studies used in the meta-analysis may have different methodologies and populations.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #meta-analysis #observational #epidemiology #mortality #omega-3
+
+- **Study**: Experimental
+    - Methodology: C57BL/6 mice were divided into two groups: one receiving rMSA injections and the other receiving saline injections as a control. Injections were administered every three weeks, starting at 12 months of age. Various physiological and cognitive assessments were performed, including grip strength tests, Barnes maze for spatial learning and memory, and biochemical analysis of brain tissue for phosphorylated tau levels. Blood albumin characteristics, including oxidative damage, glycation, and homocysteinylation, were also analyzed.
+    - Key Findings: rMSA injections significantly extended lifespan, improved muscle strength and mass, enhanced cognitive function, and reduced phosphorylated tau levels. The injected albumin was found to be less damaged than endogenous albumin in older mice.
+    - Limitations: The study was conducted on mice, and the results may not be directly applicable to humans. The shorter lifespan of the control group compared to the typical lifespan of this mouse strain raises concerns about potential confounding factors. The sample sizes for some analyses were relatively small.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #experimental #mice #albumin #injection #lifespan #healthspan #cognition #ptau #oxidativedamage #glycation
+
 - **Study**: Randomized Controlled Trial (RCT)
     - Methodology: 15 subjects were randomized to consume either 100g of dark chocolate or 90g of white chocolate daily for 15 days. Insulin sensitivity (HOMA-IR) and blood pressure were measured before and after the intervention.
     - Key Findings: Dark chocolate consumption improved insulin sensitivity and reduced blood pressure, while white chocolate did not.
     - Limitations: Small sample size, short duration.
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #rct #chocolate #insulin-sensitivity #blood-pressure
 
+- **Study**: Observational
+    - Methodology: The study analyzed data from the NHANES III and IV studies, which included more than 17,000 people. It compared the predictive power of AnthropoAge (both simplified and full versions) and PhenoAge for all-cause and cause-specific mortality using hazard ratios and 95% confidence intervals.
+    - Key Findings: Both AnthropoAge and PhenoAge were significantly associated with all-cause and cause-specific mortality, with hazard ratios and confidence intervals consistently above 1. This indicates that both measures can predict mortality risk.
+    - Limitations: Observational studies can establish correlation but not causation. The accuracy of AnthropoAge may depend on the precise measurement of body composition parameters.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #observational #mortality #biological-age #anthropometry #NHANES #PhenoAge #AnthropoAge
+
+- **Study**: *In vitro* cell culture
+    - Methodology: Used HSMM (human skeletal muscle myotubes) cells treated with trigonelline, NR, and inhibitors of NAD+ biosynthesis pathways (2-hydroxynicotinic acid and FK866). Measured NAD+ levels and mitochondrial function.
+    - Key Findings: Trigonelline increased NAD+ levels in a dose-dependent manner, rescued NAD+ depletion caused by FK866, but not by 2-hydroxynicotinic acid, indicating its action through the Preiss-Handler pathway. Trigonelline also rescued mitochondrial dysfunction caused by FK866.
+    - Limitations: *In vitro* results may not fully translate to *in vivo* systems.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #invitro #cells #NAD+ #mitochondria #pathway
+
+- **Study**: *In vivo* nematode (*C. elegans*)
+    - Methodology: Supplemented *C. elegans* with trigonelline and measured NAD+ levels, muscle integrity, mobility, and lifespan. Also used a strain with repressed *nprt* expression.
+    - Key Findings: Trigonelline rescued age-related NAD+ decline, improved muscle integrity, reduced paralysis, and extended lifespan. These effects were dependent on *nprt*, confirming the role of the Preiss-Handler pathway.
+    - Limitations: Results may not directly translate to humans.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #invivo #worms #lifespan #muscle #pathway
+
+- **Study**: *In vivo* mouse
+    - Methodology: Gavaged young mice with trigonelline and measured NAD+ and trigonelline levels in various tissues. Chronically supplemented aged mice with trigonelline and measured grip strength and muscle fatigue resistance.
+    - Key Findings: Trigonelline significantly increased NAD+ levels in multiple tissues after 2 hours. Chronic supplementation improved grip strength and fatigue resistance in aged mice.
+    - Limitations: Acute study for NAD+ levels, long-term effects of high-dose gavage are unknown. Aged mice may not fully model human sarcopenia.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #invivo #mice #NAD+ #muscle #aging
+
 - **Study**: Stability Assay
     - Methodology: Measured stability of trigonelline, NR, and NMN in human serum at 37°C over time.
     - Key Findings: Trigonelline was highly stable for over 24 hours, whereas NR and NMN degraded rapidly.
     - Limitations: *In vitro* conditions may not perfectly reflect *in vivo* degradation.
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #stability #trigonelline #NR #NMN #serum
+
+- **Study**: Randomized controlled trial (Pereira et al., 2023)
+    - Methodology: 30 inpatients with COVID-19 received either NIR light therapy (940nm) via a jacket for 15 minutes daily for 7 days or acted as a control.
+    - Key Findings: NIR group had improved oxygen saturation, respiratory rate, heart rate, lymphocyte counts, and were discharged 4 days earlier than the control group.
+    - Limitations: Small sample size, randomization slightly favored the control group.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #rct #covid19 #nir #therapy #hospital
 
 - **Study**: Meta-analysis (cited by speaker)
     - Methodology: Analysis of 46 studies (n > 1.2 million subjects) examining the relationship between resting heart rate and all-cause mortality.
@@ -2272,6 +2102,18 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Not specified in the transcript, but potential limitations of meta-analyses include heterogeneity between studies and publication bias.
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #meta-analysis #RCT #fiber #kidney #glucose
 
+- **Study**: Meta-analysis of Randomized Controlled Trials (RCTs)
+    - Methodology: Pooled data from multiple RCTs comparing low vs. high AGE diets in humans. Outcomes included HOMA-IR and TNF-alpha.
+    - Key Findings: Low AGE diet improved insulin sensitivity (lower HOMA-IR) and reduced inflammation (lower TNF-alpha).
+    - Limitations: Limited number of studies included in each analysis.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #meta-analysis #RCT #humans #AGEs #insulin-sensitivity #inflammation
+
+- **Study**: Randomized Controlled Trial (RCT)
+    - Methodology: Participants were fed oxalate with varying amounts of calcium (200-1800 mg/day). Oxalate absorption was measured from the intestine into the blood.
+    - Key Findings: A strong inverse linear correlation was found between calcium intake (200-1200 mg/day) and oxalate absorption. Further increasing calcium intake (1200-1800 mg/day) continued to reduce oxalate absorption, though the correlation was not as strong.
+    - Limitations: Short-term study focusing on absorption, not long-term health outcomes.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #RCT #calcium #oxalate #absorption #kidney
+
 - **Study**: Observational
     - Methodology: Large-scale study analyzing RHR data from 90,000+ individuals aged 20-85 years.
     - Key Findings: RHR increases until age 50, then decreases.
@@ -2284,130 +2126,34 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Animal study.
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #RCT #mice #ergothioneine #lifespan
 
-- **Study**: Speaker's Free T3/T4 Ratio
-    - Change: Decreased from 0.3 in October 2022 to 0.18 in April 2024.
-    - Context: Personal data of the speaker, who is taking 137.5 mcg/day of levothyroxine.
-    - Timeframe: 18-month period.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #thyroid #ratio #personaldata
+- **Study**: Meta-analysis
+    - Methodology: Analysis of 46 studies including over 2 million subjects, examining the relationship between eGFR and all-cause mortality risk.
+    - Key Findings: eGFR less than 45 was associated with a significantly increased risk of death from all causes compared to eGFR of 95.
+    - Limitations: The specific methodologies of the included studies are not detailed.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #meta-analysis #eGFR #mortality #kidney-function
 
-- **Study**: Trypsin in tissues.
-    - Change: Increased presence in liver, lung, heart, kidney, brain, and skin of aged rats.
-    - Context: Comparison between young (4 months) and old (24 months) rats.
-    - Timeframe: Observed in aged animals.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #biomarker #trypsin #aging #rats
-
-- **Study**: Elastase in tissues.
-    - Change: Increased presence in liver, lung, heart, kidney, and brain of aged rats.
-    - Context: Comparison between young and old rats.
-    - Timeframe: Observed in aged animals.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #biomarker #elastase #aging #rats
-
-- **Study**: Collagen breakdown.
-    - Change: Increased collagen breakdown in the intestine, liver, lung, heart, kidney, brain, and skin of aged rats.
-    - Context: Assessed using collagen hybridizing peptide.
-    - Timeframe: Observed in aged animals.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #biomarker #collagen #aging #rats
-
-- **Study**: Grip Strength
-    - Change: Higher levels of grip strength in albumin-injected mice.
-    - Context: Measured in female and male mice at 20 months of age after 8 months of rMSA or saline injections.
-    - Timeframe: 8 months
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #gripstrength #musclestrength #healthspan
-
-- **Study**: Muscle Mass (Gastrocnemius)
-    - Change: Significantly increased in combined male and female rMSA-treated mice. Trends for higher muscle mass in separate male and female groups, but not statistically significant.
-    - Context: Measured in mice at 20 months of age.
-    - Timeframe: 8 months
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #musclemass #gastrocnemius #healthspan
-
-- **Study**: Spatial Learning and Memory (Barnes Maze)
-    - Change: Improved ability to find the escape hole and faster escape times in rMSA-treated mice.
-    - Context: Assessed using the Barnes maze in mice at 20 months of age.
-    - Timeframe: 8 months
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #spatiallearning #memory #barnesmaze #cognitivefunction #healthspan
-
-- **Study**: Phosphorylated Tau (p-tau)
-    - Change: Significantly reduced levels in the brains of rMSA-treated mice (males and females combined). Significantly lower in male mice, trend in female mice.
-    - Context: Measured in brain tissue of mice at 20 months of age.
-    - Timeframe: 8 months
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #ptau #braintissue #alzheimers #neurofibrillarytangles
-
-- **Study**: Luminescence/Phosphorescence
-    - Change: Some artifacts glow under UV light and continue to emit light after the light source is removed.
-    - Context: Observed visually on various artifacts.
-    - Timeframe: Immediate effect under UV light; phosphorescence duration not specified.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #luminescence #phosphorescence #visual-marker
-
-- **Study**: Lymphocyte Count
-    - Change: Increased by 850 cells/mm³ in the NIR group.
-    - Context: Pereira et al. RCT on COVID-19 patients.
-    - Timeframe: Over 7 days.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #lymphocytes #nir #covid19
-
-- **Study**: Leukocyte Telomere Length (LTL)
-    - Change: Declines with age.
-    - Context: Observational studies in various populations, including European, US, and Israeli cohorts.
-    - Timeframe: Measured across the lifespan.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #telomere length #aging
-
-- **Study**: Cumulative Survival
-    - Change: People with the longest tiirs had a significantly reduced all-cause mortality risk when compared to people with the shortest tail length.
-    - Context: In this study, all-cause mortality risk was plotted against follow-up time of 14 years after initial assessment of tiir length.
-    - Timeframe: 14 years.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #cumulative-survival #mortality #telomere-length
-
-- **Study**: Globulin
-    - Change: 33.6 g/L (high)
-    - Context: Centenarian woman; \~25 g/L associated with reduced risk of death from all causes. Suggests potential underlying infectious issues.
-    - Timeframe: Not applicable (single measurement).
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #globulin #inflammation #infection #mortality
-
-- **Study**: Creatinine
-    - Change: 1.25 mg/dL (high)
-    - Context: Centenarian woman; indicates reduced kidney function, eGFR of 35 mL/min/1.73m².
-    - Timeframe: Not applicable (single measurement).
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #creatinine #kidney #eGFR #aging
-
-- **Study**: Creatinine
-    - Change: Higher than the average of 0.95 mg/dL since 2015.
-    - Context: Target for improvement.
-    - Timeframe: Recent tests in 2023.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #creatinine #healthmarker #improvement
-
-- **Study**: Consumption of approximately 18 grams of chocolate per week is associated with the lowest all-cause mortality risk in never-smokers.
-    - Context: Observational study, comparing mortality risks in individuals consuming varying amounts of chocolate.; Observational study analyzing hazard ratios for all-cause mortality based on chocolate consumption in a large population (over 47,000 non-smokers and a similar number of current or former smokers).
-    - Timeframe: Not specified in the transcript.
-    - Limitations: Association does not equal causation. Healthy user bias may be a factor, although the study attempted to control for it.; Observational study, association does not equal causation. Potential for unmeasured confounders.; Observational study, association does not equal causation.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #chocolate #all-cause-mortality #diet #observational-study #non-smokers; 3 ⭐⭐⭐ | Tags: #observational-study #chocolate #mortality #epidemiology; 3 ⭐⭐⭐ | Tags: #chocolate #alzheimers #mortality #diet #observational-study
-
-- **Study**: Melatonin, 39 mcg/day on average, taken as needed.
-    - Effects: The speaker is experimenting with melatonin, and the dosage was introduced before blood test number one and increased during the period of test number two.; Improved sleep quality.; Increased sleep duration (7.7 hours vs. 7.2 hours, p < 0.05), increased HRV (54.2 ms vs. 52 ms, p < 0.05), decreased RHR (45.6 bpm vs. 46.7 bpm, p < 0.05).; Sleep aid.
-    - Context: Case Study | Population: Individual experimenting with melatonin; Observational study, single individual, compared 26 days with melatonin to 136 days without.; Taken before bed or in the middle of the night when needed.; Case Study, single individual.
-    - Limitations: The long-term effects and optimal dosage are still under investigation.; Very low dose and infrequent use, individual response.; Low dosage, used intermittently.; Dosage not specified, single-subject study, potential placebo effect.; Single-subject study, potential for measurement error and self-reporting bias, dosage of melatonin not specified.
-    - Confidence: 2 ⭐⭐ | Tags: #observational #self-tracking #melatonin #sleep #HRV #RHR; 2 ⭐⭐ | Tags: #melatonin #sleep #HRV #RHR #supplementation; 2 ⭐⭐ | Tags: #melatonin #sleep #circadianrhythm #supplementation; 3 ⭐⭐⭐ | Tags: #supplement #melatonin #sleep
-
-- **Study**: Taurine (dosage not specified)
-    - Effects: Shown to extend lifespan in one study with long-lived mice; moderate evidence for blood pressure benefits in humans.
-    - Context: Mouse study passing the 900-day rule; some human data.
-    - Limitations: Observational nature limits causal inference; does not account for potential confounders.; Animal study; may not directly translate to humans. Optimal dosage for humans is unknown.; Limited data compared to rapamycin; mechanism not fully understood. Exact quantities not discussed.; Single individual; no control group; limited generalizability.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #observational #taurine #aging #humans #mice; 3 ⭐⭐⭐ | Tags: #interventional #taurine #mice #lifespan #supplementation; 3 ⭐⭐⭐ | Tags: #taurine #lifespan #blood #pressure #mouse #human; 1 ⭐ | Tags: #casestudy #taurine #metabolomics #self-monitoring
-
-- **Study**: Methyl B12, intermittently (once every three days)
-    - Effects: Aims to maintain reasonable homocysteine levels.
-    - Context: Future experiment.; Expert Opinion, Case Study | Population: Individual monitoring homocysteine; After introduction of oranges (proline betaine) and chickpeas (trigonelline).; Indicator of methylation status.
-    - Limitations: Effectiveness and optimal dosage may vary.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #homocysteine #methylation; 3 ⭐⭐⭐ | Tags: #methylB12 #homocysteine #bvitamin; 3 ⭐⭐⭐ | Tags: #homocysteine #methylation #cardiovascular #health; N/A | Tags: #health-marker #homocysteine #future-experiment
+- **Study**: RCT
+    - Methodology: Young (6-week-old) male ICR mice were divided into four groups: vehicle, and three groups receiving increasing concentrations of *L. plantarum* (1x, 2x, 5x) orally once per day for four weeks. Muscle mass, grip strength, aerobic capacity (swimming test), body weight, food and water intake, cecum weight, and gut microbiome composition were assessed.
+    - Key Findings: *L. plantarum* supplementation increased muscle mass, grip strength, and aerobic capacity, decreased fat mass, and altered cecum weight and gut microbiome composition.
+    - Limitations: Conducted in mice; may not translate directly to humans.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #RCT #mice #probiotic #lactobacillus #muscle #exercise #gut #microbiome
 
 - **Study**: Observational
-    - Methodology: 88,000 individuals from the UK Biobank were tracked for eight years using a device to measure light exposure at all hours. They analyzed the correlation between light exposure at different times of the day and mortality risk, categorized by percentiles of light exposure (50th-70th, 70th-90th, 90th-100th).; 88,000 individuals wearing light-measuring devices for eight years.
+    - Methodology: Measured serum creatinine levels and correlated them with age and muscle mass. Assessed the association between CysC and age in individuals with and without clinical risk factors.; Analyzed various demographic and biomarker data to determine their association with all-cause mortality risk.
+    - Key Findings: Creatinine increases with age but varies widely in people over 40, potentially due to changes in muscle mass. CysC increases with age regardless of clinical risk factors.; Chronological age and male sex were strongly associated with increased mortality risk. CysC was a stronger predictor of increased mortality risk than glucose or HbA1c. Creatinine was associated with reduced mortality risk, possibly due to its correlation with higher muscle mass.
+    - Limitations: Limited to the specific population studied; other factors influencing mortality were not controlled for.; Observational nature limits causal inference. Creatinine's accuracy as a kidney function biomarker is questionable in older adults due to muscle mass variability.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #mortality #biomarkers #cystatinC #creatinine #glucose #HbA1c #rdw; 3 ⭐⭐⭐ | Tags: #kidneyfunction #creatinine #cystatinC #aging #musclemass
+
+- **Study**: Observational
+    - Methodology: 88,000 individuals wearing light-measuring devices for eight years.; 88,000 individuals from the UK Biobank were tracked for eight years using a device to measure light exposure at all hours. They analyzed the correlation between light exposure at different times of the day and mortality risk, categorized by percentiles of light exposure (50th-70th, 70th-90th, 90th-100th).
     - Key Findings: Daytime light exposure correlated with reduced mortality, while nighttime light exposure, especially from midnight to 7:00 AM, correlated with increased mortality. A dose-response relationship was observed, with higher daytime light exposure linked to greater reductions in mortality.; Sunlight exposure at all hours of the day reduced mortality, except from midnight to 7 AM. A dose-response curve was observed, suggesting causation.
     - Limitations: Observational study.; Observational studies can show correlation but not necessarily causation. Confounding factors may influence the results, although the dose-response relationship strengthens the implication of causation.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #lightexposure #mortality #circadianrhythm #observationalstudy #UKBiobank; 3 ⭐⭐⭐ | Tags: #observational #lightexposure #mortality #circadianrhythm; 3 ⭐⭐⭐ | Tags: #mortality #lightexposure #circadianrhythm #doseresponse
+    - Confidence: 3 ⭐⭐⭐ | Tags: #observational #lightexposure #mortality #circadianrhythm; 3 ⭐⭐⭐ | Tags: #lightexposure #mortality #circadianrhythm #observationalstudy #UKBiobank
 
 - **Study**: Case Study
     - Methodology: A 4-square-mile area in South Louisville, Kentucky, was studied. CRP levels (a surrogate for cardiovascular disease) were measured initially. Then, 8,000 mature trees were planted in the area. CRP levels were measured again 2-3 years later.; 8,000 trees planted in a four-square-mile area; CRP levels measured before and 2-3 years after.
     - Key Findings: CRP levels were reduced by 133% after 2-3 years, which is comparable to the effect of regular exercise three times a week.; 133% reduction in CRP levels after tree planting.
-    - Limitations: No control group, other factors could contribute.; While the study controlled for some factors (e.g., no changes in income or other interventions), other unmeasured factors could have influenced the results. The specific mechanisms by which tree planting reduced CRP levels were not directly studied.
+    - Limitations: While the study controlled for some factors (e.g., no changes in income or other interventions), other unmeasured factors could have influenced the results. The specific mechanisms by which tree planting reduced CRP levels were not directly studied.; No control group, other factors could contribute.
     - Confidence: 2 ⭐⭐ | Tags: #observational #greenspace #crp #cardiovascular; 3 ⭐⭐⭐ | Tags: #greenspace #CRP #cardiovasculardisease #environmentalintervention #casestudy #SouthLouisville
 
 - **Study**: Meta-analysis
@@ -2417,76 +2163,58 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Confidence: 3 ⭐⭐⭐ | Tags: #metaanalysis #greenspace #diabetes #cardiovascular #mortality #sleep #stress; 3 ⭐⭐⭐ | Tags: #greenspace #healthbenefits #metaanalysis #diabetes #cardiovascular #mortality #stress #sleep
 
 - **Study**: Observational
-    - Methodology: Analysis of the association between the free T3/T4 ratio and all-cause mortality risk in a cohort with a larger sample size than the previous study. Confirms previous study.; Analysis of the association between the free T3/T4 ratio and all-cause mortality risk in a cohort of 6,200 people (average age 46 years) with a median follow-up of 12 years.; Analysis of the association between the free T3/T4 ratio and frailty index in 180 centenarians (average age 102 years).; Analysis of free T4, free T3, and their ratio in a cohort of 83,000+ individuals aged 20-90 years.; Analysis of survival time in relation to the free T3/T4 ratio in centenarians (average age 103 years).
-    - Key Findings: Free T4 decreases and then increases with age. Free T3 continuously declines with age. The free T3/T4 ratio declines with age.; Centenarians with a higher free T3/T4 ratio (0.24) lived significantly longer (median 400 days longer) than those with a lower ratio (0.18).; A relatively lower free T3/T4 ratio is associated with increased all-cause mortality risk.; A lower free T3/T4 ratio is associated with increased frailty.; A free T3/T4 ratio less than 0.45 is associated with increased all-cause mortality risk.
-    - Limitations: Observational nature; small sample size for specific clusters.; Observational nature; the average age of death was around 60 years.; Observational nature; frailty index is a surrogate marker.; Observational nature limits establishing causality.; Improper conversion of thyroid hormone units. Average age of death was around 60 years.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #observational #thyroid #aging; 3 ⭐⭐⭐ | Tags: #observational #survival #centenarians; 3 ⭐⭐⭐ | Tags: #observational #frailty #centenarians; 3 ⭐⭐⭐ | Tags: #thyroid #freet4 #aging; 3 ⭐⭐⭐ | Tags: #observational #mortality #cohort; 3 ⭐⭐⭐ | Tags: #thyroid #ratio #mortality #frailty
-
-- **Study**: In vitro study
-    - Methodology: Investigated the effect of apigenin and quercetin on CD38 activity and intracellular NAD+ levels in cultured cells. Cells were treated with varying concentrations of apigenin and quercetin, and CD38 activity and NAD+ levels were measured.
-    - Key Findings: Increasing concentrations of apigenin and quercetin resulted in decreased CD38 activity and increased intracellular NAD+ levels. Apigenin increased NAD levels by about 50% while quercetin also contributed to a significant increase in intracellular NAD+ levels.
-    - Limitations: In vitro studies may not directly translate to human physiology. The specific cell type used was not mentioned.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #invitro #CD38 #NAD+ #apigenin #quercetin; 3 ⭐⭐⭐ | Tags: #CD38 #apigenin #quercetin #NAD+
+    - Methodology: Analysis of the association between the free T3/T4 ratio and all-cause mortality risk in a cohort with a larger sample size than the previous study. Confirms previous study.; Analysis of the association between the free T3/T4 ratio and all-cause mortality risk in a cohort of 6,200 people (average age 46 years) with a median follow-up of 12 years.; Analysis of free T4, free T3, and their ratio in a cohort of 83,000+ individuals aged 20-90 years.
+    - Key Findings: Free T4 decreases and then increases with age. Free T3 continuously declines with age. The free T3/T4 ratio declines with age.; A relatively lower free T3/T4 ratio is associated with increased all-cause mortality risk.; A free T3/T4 ratio less than 0.45 is associated with increased all-cause mortality risk.
+    - Limitations: Improper conversion of thyroid hormone units. Average age of death was around 60 years.; Observational nature limits establishing causality.; Observational nature; the average age of death was around 60 years.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #observational #thyroid #aging; 3 ⭐⭐⭐ | Tags: #observational #mortality #cohort
 
 - **Study**: Observational
-    - Methodology: Analysis of data from 14.9 million people not taking lipid-lowering medication to assess the association between LDL levels and CVD mortality across different age groups.; Analyzed data from a cohort of 441,000 individuals to assess the association between LDL cholesterol and CHD risk.; Analysis of factors associated with premature heart attack risk, including remnant cholesterol and other lipid parameters.; Analysis of association between VLDL and cardiovascular disease risk using data from 6,900 subjects. Comparison of cardiovascular event rates between groups with different VLDL levels. Assessment of hazard ratios for cardiovascular events per 10 mg/dL increase in remnant cholesterol.; Analysis of association between remnant cholesterol quartiles and cardiovascular disease risk.
-    - Key Findings: LDL between 100-120 mg/dL associated with lowest CVD mortality risk; lower LDL linked to increased risk.; Elevated remnant cholesterol was associated with a 3.87-fold higher risk of premature heart attack. Other risk factors included elevated non-HDL cholesterol, triglycerides, and various cholesterol ratios.; LDL cholesterol was not significantly associated with CHD risk in this study.; Remnant cholesterol levels above 30.95 mg/dL were associated with a significantly increased risk of cardiovascular events compared to levels below 17.5 mg/dL.; Higher remnant cholesterol (likely mostly VLDL) was found in people who had a cardiovascular event. Each 10 mg/dL increase in remnant cholesterol was associated with a 21% increased risk of cardiovascular events.
-    - Limitations: Observational study, cannot establish causality.; Observational study, potential confounding factors not fully accounted for.; The confidence interval for LDL cholesterol overlapped with the hazard ratio of one, indicating a non-significant association.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #LDL #mortality #cardiovascular #observational; 3 ⭐⭐⭐ | Tags: #observational #heartattack #cholesterol #VLDL #risk; 3 ⭐⭐⭐ | Tags: #observational #cohort #ldl #chd; 3 ⭐⭐⭐ | Tags: #observational #cardiovascular #cholesterol #VLDL #risk
+    - Methodology: Analysis of the association between the free T3/T4 ratio and frailty index in 180 centenarians (average age 102 years).; Analysis of survival time in relation to the free T3/T4 ratio in centenarians (average age 103 years).
+    - Key Findings: A lower free T3/T4 ratio is associated with increased frailty.; Centenarians with a higher free T3/T4 ratio (0.24) lived significantly longer (median 400 days longer) than those with a lower ratio (0.18).
+    - Limitations: Observational nature; small sample size for specific clusters.; Observational nature; frailty index is a surrogate marker.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #observational #frailty #centenarians; 3 ⭐⭐⭐ | Tags: #observational #survival #centenarians
 
 - **Study**: Observational
-    - Methodology: Review of studies on hesperidin's effects on inflammatory molecules (IL-1β, IL-2, IL-6, IFN-γ, TNF-α).
-    - Key Findings: Hesperidin demonstrated inhibitory effects on these inflammatory molecules.
-    - Limitations: These studies were not conducted in the context of COVID-19.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #observational #hesperidin #inflammation #cytokine-storm; 3 ⭐⭐⭐ | Tags: #inflammation #cytokine #hesperidin
+    - Methodology: Analysis of data from 14.9 million people not taking lipid-lowering medication to assess the association between LDL levels and CVD mortality across different age groups.; Analysis of association between remnant cholesterol quartiles and cardiovascular disease risk.; Analysis of factors associated with premature heart attack risk, including remnant cholesterol and other lipid parameters.; Analyzed data from a cohort of 441,000 individuals to assess the association between LDL cholesterol and CHD risk.; Analysis of association between VLDL and cardiovascular disease risk using data from 6,900 subjects. Comparison of cardiovascular event rates between groups with different VLDL levels. Assessment of hazard ratios for cardiovascular events per 10 mg/dL increase in remnant cholesterol.
+    - Key Findings: Higher remnant cholesterol (likely mostly VLDL) was found in people who had a cardiovascular event. Each 10 mg/dL increase in remnant cholesterol was associated with a 21% increased risk of cardiovascular events.; Elevated remnant cholesterol was associated with a 3.87-fold higher risk of premature heart attack. Other risk factors included elevated non-HDL cholesterol, triglycerides, and various cholesterol ratios.; Remnant cholesterol levels above 30.95 mg/dL were associated with a significantly increased risk of cardiovascular events compared to levels below 17.5 mg/dL.; LDL between 100-120 mg/dL associated with lowest CVD mortality risk; lower LDL linked to increased risk.; LDL cholesterol was not significantly associated with CHD risk in this study.
+    - Limitations: The confidence interval for LDL cholesterol overlapped with the hazard ratio of one, indicating a non-significant association.; Observational study, cannot establish causality.; Observational study, potential confounding factors not fully accounted for.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #LDL #mortality #cardiovascular #observational; 3 ⭐⭐⭐ | Tags: #observational #heartattack #cholesterol #VLDL #risk; 3 ⭐⭐⭐ | Tags: #observational #cardiovascular #cholesterol #VLDL #risk; 3 ⭐⭐⭐ | Tags: #observational #cohort #ldl #chd
 
 - **Study**: Observational
-    - Methodology: Analyzed data from a cohort of 469,000 individuals to assess the association between ApoB, LDL cholesterol, and all-cause dementia risk.; Cohort studies analyzing the association between ApoB levels and health outcomes (CHD, dementia, mortality) in large populations.; Analyzed data from a cohort of 94,000 individuals, stratified by age group (39-59, 60-79, 80+), to assess the association between ApoB levels and cardiovascular/all-cause mortality risk.
+    - Methodology: Cohort studies analyzing the association between ApoB levels and health outcomes (CHD, dementia, mortality) in large populations.; Analyzed data from a cohort of 94,000 individuals, stratified by age group (39-59, 60-79, 80+), to assess the association between ApoB levels and cardiovascular/all-cause mortality risk.; Analyzed data from a cohort of 469,000 individuals to assess the association between ApoB, LDL cholesterol, and all-cause dementia risk.
     - Key Findings: Higher ApoB is associated with increased risk of CHD and dementia. The association with all-cause mortality is age-dependent, with very low ApoB potentially increasing risk in older individuals.; Higher ApoB was significantly associated with an increased risk of all-cause dementia, while LDL cholesterol was not.; In 39-59 year-olds, higher ApoB (>1.4 g/L) was associated with increased cardiovascular and all-cause mortality risk. In 60-79 year-olds, very low ApoB (<1.06 g/L) was associated with increased all-cause mortality risk. In 80+ year-olds, neither high nor low ApoB was significantly associated with cardiovascular mortality risk, but very low ApoB was associated with increased all-cause mortality risk.
-    - Limitations: Observational studies cannot establish causation.; Potential confounders may influence the observed associations.; Observational studies cannot establish causation. Potential confounders may influence the observed associations.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #mortality #apob #age; 3 ⭐⭐⭐ | Tags: #observational #cohort #apob #ldl #dementia; 3 ⭐⭐⭐ | Tags: #observational #cohort #apob #chd #dementia #mortality; 3 ⭐⭐⭐ | Tags: #mortality #cardiovascular #apob #age; 3 ⭐⭐⭐ | Tags: #observational #cohort #apob #mortality #age
+    - Limitations: Observational studies cannot establish causation.; Observational studies cannot establish causation. Potential confounders may influence the observed associations.; Potential confounders may influence the observed associations.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #observational #cohort #apob #chd #dementia #mortality; 3 ⭐⭐⭐ | Tags: #observational #cohort #apob #ldl #dementia; 3 ⭐⭐⭐ | Tags: #observational #cohort #apob #mortality #age
 
 - **Study**: Observational
-    - Methodology: 27-year follow-up study of a cohort to assess the relationship between DHEA sulfate levels and survival rate.; Analysis of DHEA sulfate levels across different age groups in a study of approximately 4,700 people.
+    - Methodology: Analysis of DHEA sulfate levels across different age groups in a study of approximately 4,700 people.; 27-year follow-up study of a cohort to assess the relationship between DHEA sulfate levels and survival rate.
     - Key Findings: DHEA sulfate peaks around age 20 and declines steadily with age.; Lowest DHEA sulfate group (≤129 µg/dL) had the worst survival rate.
     - Limitations: Specifics of the study population are not detailed.; Relatively small study, specific population not detailed.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #DHEA #mortality #longitudinal #observational; 3 ⭐⭐⭐ | Tags: #DHEA #aging #observational #large-study
+    - Confidence: 3 ⭐⭐⭐ | Tags: #DHEA #aging #observational #large-study; 3 ⭐⭐⭐ | Tags: #DHEA #mortality #longitudinal #observational
 
 - **Study**: Animal Study (Rat)
-    - Methodology: Rats were given grape seed proanthocyanidin extract at various dosages, including 50 mg/kg. Liver NAD+ levels were measured.; 18-month-old mice were given grape seed proanthocyanidin extract. Plasma NAD+ levels were measured.
+    - Methodology: 18-month-old mice were given grape seed proanthocyanidin extract. Plasma NAD+ levels were measured.; Rats were given grape seed proanthocyanidin extract at various dosages, including 50 mg/kg. Liver NAD+ levels were measured.
     - Key Findings: The highest dosage (50 mg/kg) increased liver NAD+ levels by approximately four-fold.; Grape seed proanthocyanidin extract increased plasma NAD+ levels by approximately three-fold.
-    - Limitations: Animal study, may not directly translate to humans, the specific dosage used was not mentioned.; Animal study, may not directly translate to humans.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #ratstudy #NAD #proanthocyanidins; 3 ⭐⭐⭐ | Tags: #mousestudy #NAD #proanthocyanidins
-
-- **Study**: Case Study (N=1)
-    - Methodology: Analysis of personal data, including 17 blood tests over 3+ years, correlated with daily cocoa bean intake.
-    - Key Findings: Higher cocoa bean intake was associated with improvements in several biomarkers, including AST, RBC, and MCV. There was only one negative correlation, with the percentage of lymphocytes.
-    - Limitations: N=1, individual variation may exist. Potential for false positives due to multiple comparisons.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #lymphocytes #immune-cells #cocoa-beans #n=1; 3 ⭐⭐⭐ | Tags: #n=1 #case-study #cocoa-beans #biomarkers #personalized-nutrition
-
-- **Study**: Observational
-    - Methodology: Compared muscle biopsies from elderly Singaporean males with and without sarcopenia, assessed mitochondrial pathways and NAD+ levels.
-    - Key Findings: Downregulation of mitochondrial pathways and lower NAD+ levels in sarcopenic individuals. Positive correlation between muscle NAD+ and muscle function.
-    - Limitations: Small sample size, observational nature limits causal inference.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #observational #sarcopenia #mitochondria #NAD+ #correlation; 3 ⭐⭐⭐ | Tags: #mitochondria #oxphos #sarcopenia #downregulation; 3 ⭐⭐⭐ | Tags: #NAD+ #sarcopenia #muscle #decline
+    - Limitations: Animal study, may not directly translate to humans.; Animal study, may not directly translate to humans, the specific dosage used was not mentioned.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #mousestudy #NAD #proanthocyanidins; 3 ⭐⭐⭐ | Tags: #ratstudy #NAD #proanthocyanidins
 
 - **Study**: Observational (epidemiological, Southern Sweden Study)
-    - Methodology: 300,000 individuals (men and women) tracked for sun exposure and mortality.; 30,000 Swedish women tracked for sun exposure habits and mortality.
+    - Methodology: 30,000 Swedish women tracked for sun exposure habits and mortality.; 300,000 individuals (men and women) tracked for sun exposure and mortality.
     - Key Findings: Replicated Southern Sweden Study results, showing reduced mortality with increased sun exposure.; Sun avoidance correlated with higher total, cardiovascular, cancer, and non-cardiovascular mortality. Dose-response relationship observed.
     - Limitations: Observational, potential confounders.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #observational #sunlight #mortality #cardiovascular #cancer; 3 ⭐⭐⭐ | Tags: #mortality #sunlight
+    - Confidence: 3 ⭐⭐⭐ | Tags: #observational #sunlight #mortality #cardiovascular #cancer
 
-- **Study**: Observational
-    - Methodology: Examined the relationship between neutrophil count and all-cause mortality risk. The reference group had neutrophil counts between 2,000 and 3,000 per microliter. All-cause mortality risk was compared between the reference group and those with neutrophil counts above 3,000 and below 2,000.
-    - Key Findings: Both neutrophil counts above 3,000 and below 2,000 per microliter were associated with a significantly increased risk of all-cause mortality compared to the reference group (2,000-3,000).
-    - Limitations: The specific causes of death were not analyzed.
-    - Confidence: 2 ⭐⭐ | Tags: #lymphocytes #protein #aging; 3 ⭐⭐⭐ | Tags: #neutrophils #inflammation #aging #mortality; 3 ⭐⭐⭐ | Tags: #neutrophils #biomarker #aging #all-cause-mortality #B12; 3 ⭐⭐⭐ | Tags: #neutrophils #all-cause #mortality; 3 ⭐⭐⭐ | Tags: #platelets #mortality #aging; 3 ⭐⭐⭐ | Tags: #platelets #biomarker #aging #B12 #omega-6; 3 ⭐⭐⭐ | Tags: #neutrophils #optimal #range; 3 ⭐⭐⭐ | Tags: #lymphocytes #biomarker #aging #B12; 2 ⭐⭐ | Tags: #platelets #protein #aging
+- **Study**: Case Study
+    - Methodology: Self-experimentation with pre- and post-supplementation NAD+ level measurements. Blood samples were sent to Jinfiniti and IOB. NAD+ was measured over 20 tests from early 2023 to 2024. Metabolomic analysis is pending to measure plasma trigonelline levels, specifically looking for levels over 7 micromolar.; The individual tracked their NAD+ levels via blood tests (using Jinfiniti) after various supplement interventions. Baseline NAD+ was established first. Epigenetic age was also measured using the DunedinPACE test at one point.; The speaker tracked his daily dietary intake, including vitamin B6. He measured his NAD levels five times using at-home blood tests from a company called Infinity. He adjusted his average daily vitamin B6 intake between tests and observed the corresponding changes in NAD levels.; The experimenter measured his intracellular NAD+ levels after consuming different amounts of clover sprouts for specific durations. He also tracked his intake of nicotinic acid. Blood samples were sent to Jinfiniti for analysis.; Self-experimentation with tracking of diet (using Cronometer), supplement intake, and intracellular NAD levels (using blood tests from Gfinity).; Daily supplementation with 6.1 grams of grape seed powder for 19 days. Blood NAD+ levels were measured using a home test kit from Jinfiniti.; Self-experimentation with tracked dietary intake (weighing all food) and blood tests for intracellular NAD+ levels. Supplementation with NMN and vitamin B6.; Serial blood tests measuring epigenetic age (DunedinPACE via TruDiagnostic) and intracellular NAD levels (via Jinfiniti). Correlation analysis between DunedinPACE and NAD levels.
+    - Key Findings: Increased vitamin B6 intake was associated with a decrease in NAD levels.; Low-dose nicotinic acid (45 mg/day) combined with trigonelline (51 mg/day) did not increase NAD levels.; No increase in NAD+ levels.; A significant negative correlation (r = 0.97, p < 0.05) was found between intracellular NAD levels and DunedinPACE, indicating higher NAD levels were associated with a faster epigenetic aging rate.; Low-dose nicotinic acid (60 mg/day) was as effective at raising NAD+ levels as high-dose NMN (1000 mg/day). Vitamin B6 (9 mg/day) also increased NAD+ levels.; 500mg/day of trigonelline supplementation for 10 days did not increase NAD+ levels.; 121g of clover sprouts daily potentially increased NAD+ levels, while 271g daily decreased them. Prior nicotinic acid supplementation may have influenced results.; Increased NMN dosage (1000 mg/day) significantly increased NAD+ levels. Increased vitamin B6 intake may have a small positive effect on NAD+ levels.
+    - Limitations: Single individual, self-reported data, limited control over variables.; Single subject, lack of control group, potential for measurement error, difficulty in isolating the effects of specific dietary components.; Single subject (n=1), self-reported data, no control group, limited duration of interventions.; n=1, self-reported, potential for bias.; Single subject, self-reported data, no control group, potential for confounding factors, lack of blinding.; Very small sample size (n=5 blood tests from a single individual). Potential outlier (67 µM NAD test) may be driving the correlation.; Single individual, lack of control group, potential for confounding factors.; Single individual, uncontrolled variables, potential dosage or bioavailability issues.
+    - Confidence: 1 ⭐ | Tags: #self-experiment #case-study #NAD #vitaminB6 #diet; 3 ⭐⭐⭐ | Tags: #research-methods #case-study #self-experimentation #NAD #quantification; 2 ⭐⭐ | Tags: #self-experiment #case study #NAD+ #intracellular measurement #Jinfiniti; 2 ⭐⭐ | Tags: #research #epigenetics #NAD #correlation #case_study; 1 ⭐ | Tags: #casestudy #selfexperimentation #NAD #epigenetics #bloodtesting; 1 ⭐ | Tags: #self-experiment #NAD #measurement #casestudy; 2 ⭐⭐ | Tags: #casestudy #selfexperimentation #NAD #NMN #vitaminB6 #bloodtest; 2 ⭐⭐ | Tags: #self-experiment, #NAD, #trigonelline, #blood-test, #case-study, #metabolomics
 
 - **Study**: Observational
     - Methodology: Comparison of Enterobacteria levels and mortality rates in a cohort study.; Comparison of Enterobacteria levels in older adults (average age 75) versus younger subjects (average age 35).
     - Key Findings: Higher Enterobacteria levels are associated with increased all-cause mortality, particularly from gastrointestinal, cancer, and respiratory causes.; Enterobacteria levels were 1.7-fold higher in older adults.
-    - Limitations: Observational nature limits causal inference. Confounding factors may exist.; Observational nature, potential confounding factors related to aging.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #health-marker #mortality #Enterobacteria #risk; 3 ⭐⭐⭐ (moderate evidence due to observational design) | Tags: #research-methods #observational-study #mortality #Enterobacteria; 3 ⭐⭐⭐ (moderate evidence due to observational design) | Tags: #research-methods #observational-study #aging #Enterobacteria
+    - Limitations: Observational nature, potential confounding factors related to aging.; Observational nature limits causal inference. Confounding factors may exist.
+    - Confidence: 3 ⭐⭐⭐ (moderate evidence due to observational design) | Tags: #research-methods #observational-study #aging #Enterobacteria; 3 ⭐⭐⭐ (moderate evidence due to observational design) | Tags: #research-methods #observational-study #mortality #Enterobacteria
 
 - **Study**: Observational Study
     - Methodology: Assessed the association between dietary CML intake and all-cause, cancer, CVD, and non-cancer non-CVD mortality in men and women.; Assessed the association between dietary CML intake and incidence of pancreatic cancer in men and breast cancer in women.
@@ -2494,53 +2222,29 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Only one study to date, contradicts other findings on AGEs and health, observational design.; Observational design, potential for confounding factors.
     - Confidence: 2 ⭐⭐ | Tags: #observational #CML #mortality #men #women; 3 ⭐⭐⭐ | Tags: #observational #CML #cancer #men #women
 
-- **Study**: Observational, Human study
-    - Methodology: Data on RDW and lymphocyte levels were analyzed in relation to age and mortality risk in a human population.
-    - Key Findings: RDW increases with age, and higher RDW is associated with increased all-cause mortality. Lymphocytes decline with age, and higher levels are associated with reduced mortality risk.
-    - Limitations: Observational, correlation does not equal causation.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #humans #RDW #lymphocytes #aging #mortality; 3 ⭐⭐⭐ | Tags: #lymphocytes #all-cause-mortality #human #biomarker
-
-- **Study**: Observational
-    - Methodology: Used the data from a study of more than 425,000 people to show the relationship between uric acid and all-cause mortality.
-    - Key Findings: Higher uric acid levels are associated with an increased risk of all-cause mortality.
-    - Limitations: The speaker did not provide specific details of the study.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #uric-acid #mortality; 3 ⭐⭐⭐ | Tags: #uric-acid #fructose #mortality
-
 - **Study**: Observational (cross-sectional)
-    - Methodology: Measurement of ergothioneine levels in plasma and correlation with age.; Measurement of blood ergothioneine levels and assessment of the risk of coronary artery disease (CAD), cardiovascular disease (CVD) mortality, and all-cause mortality. Hazard ratios (HR) calculated.; Plasma metabolite levels, including ergothioneine, were measured in a cohort of people with an average age of 58. The association between metabolite levels and all-cause mortality was assessed over a 22-year follow-up period.
-    - Key Findings: Higher plasma ergothioneine levels were associated with a reduced risk of death from all causes.; Plasma ergothioneine levels decline with age.; Higher ergothioneine levels were associated with a lower incidence of CAD and reduced risk of CVD and all-cause mortality (HR and confidence intervals below 1).
-    - Limitations: Correlation does not imply causation; other age-related factors could be involved.; Correlation, not causation.; Observational design; potential confounders not fully accounted for.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #ergothioneine #aging #observational-study; 3 ⭐⭐⭐ | Tags: #ergothioneine #cardiovascular-disease #mortality #observational-study; 3 ⭐⭐⭐ | Tags: #ergothioneine #aging #biomarker; 3 ⭐⭐⭐ | Tags: #marker #ergothioneine #plasma #mortality #longevity; 3 ⭐⭐⭐ | Tags: #observational #human #ergothioneine #mortality #plasma
+    - Methodology: Measurement of blood ergothioneine levels and assessment of the risk of coronary artery disease (CAD), cardiovascular disease (CVD) mortality, and all-cause mortality. Hazard ratios (HR) calculated.; Plasma metabolite levels, including ergothioneine, were measured in a cohort of people with an average age of 58. The association between metabolite levels and all-cause mortality was assessed over a 22-year follow-up period.; Measurement of ergothioneine levels in plasma and correlation with age.
+    - Key Findings: Plasma ergothioneine levels decline with age.; Higher plasma ergothioneine levels were associated with a reduced risk of death from all causes.; Higher ergothioneine levels were associated with a lower incidence of CAD and reduced risk of CVD and all-cause mortality (HR and confidence intervals below 1).
+    - Limitations: Correlation, not causation.; Observational design; potential confounders not fully accounted for.; Correlation does not imply causation; other age-related factors could be involved.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #observational #human #ergothioneine #mortality #plasma; 3 ⭐⭐⭐ | Tags: #ergothioneine #aging #observational-study; 3 ⭐⭐⭐ | Tags: #ergothioneine #cardiovascular-disease #mortality #observational-study
 
 - **Study**: Observational
-    - Methodology: Measurement of ergothioneine content in various foods, including 15 different species of mushrooms using dry weight.; Comparison of self-reported mushroom intake between individuals with and without mild cognitive impairment (MCI).; Correlation of self-reported mushroom consumption with whole blood ergothioneine levels.
-    - Key Findings: Mushrooms are a rich source of ergothioneine, with significant variability between species.; No significant difference in mushroom intake between the two groups.; Higher mushroom intake was associated with higher blood ergothioneine levels.
-    - Limitations: Dry weight measurements; ergothioneine content in fresh mushrooms may differ.; Self-reported data; small sample size may have limited statistical power.; Self-reported dietary data; potential for recall bias.
-    - Confidence: 2 ⭐⭐ | Tags: #ergothioneine #mushrooms #MCI #observational-study; 3 ⭐⭐⭐ | Tags: #ergothioneine #mushrooms #food-analysis #observational-study; 2 ⭐⭐ | Tags: #ergothioneine #mushrooms #diet #observational-study
+    - Methodology: Measurement of ergothioneine content in various foods, including 15 different species of mushrooms using dry weight.; Correlation of self-reported mushroom consumption with whole blood ergothioneine levels.; Comparison of self-reported mushroom intake between individuals with and without mild cognitive impairment (MCI).
+    - Key Findings: No significant difference in mushroom intake between the two groups.; Higher mushroom intake was associated with higher blood ergothioneine levels.; Mushrooms are a rich source of ergothioneine, with significant variability between species.
+    - Limitations: Self-reported data; small sample size may have limited statistical power.; Self-reported dietary data; potential for recall bias.; Dry weight measurements; ergothioneine content in fresh mushrooms may differ.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #ergothioneine #mushrooms #food-analysis #observational-study; 2 ⭐⭐ | Tags: #ergothioneine #mushrooms #diet #observational-study; 2 ⭐⭐ | Tags: #ergothioneine #mushrooms #MCI #observational-study
+
+- **Study**: Observational
+    - Methodology: Supplementation of taurine in the diet of mice and measurement of survival.; At-home metabolomics testing to measure serum taurine levels in the video presenter.; Measurement of serum taurine levels in humans and mice of different ages.
+    - Key Findings: Presenter's taurine level was 173.1 micromolar in April 2023, which he considers relatively youthful.; Taurine levels decline significantly with age in both species.; Taurine supplementation extended median lifespan in both male and female mice.
+    - Limitations: Animal study; may not directly translate to humans. Optimal dosage for humans is unknown.; Observational nature limits causal inference; does not account for potential confounders.; Single individual; no control group; limited generalizability.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #observational #taurine #aging #humans #mice; 1 ⭐ | Tags: #casestudy #taurine #metabolomics #self-monitoring; 3 ⭐⭐⭐ | Tags: #interventional #taurine #mice #lifespan #supplementation
 
 - **Study**: Observational
     - Methodology: Examined the association between blood lead levels and all-cause mortality in a cohort of nearly 26,000 individuals. Measured blood levels of lead, cadmium, and mercury. Used Cox proportional hazards models to estimate hazard ratios (HRs) and 95% confidence intervals (CIs).; Investigated the relationship between blood lead concentration and all-cause mortality in a cohort of over 14,000 people. Used similar statistical methods as the first study.
     - Key Findings: Higher blood lead levels significantly associated with increased all-cause mortality risk (HR 1.48 for women, 1.22 for men). Higher cadmium levels also associated with increased risk (HR 1.28 for women, 1.39 for men). Mercury levels not significantly associated with all-cause mortality.; Lowest all-cause mortality associated with blood lead levels < 8 µg/dL. Levels above this threshold linked to significantly increased risk.
-    - Limitations: Relatively young cohort (average age 46) with a short median follow-up (7 years). Association with all-cause mortality, but the video doesn't explain if this is causal.; Observational design.
+    - Limitations: Observational design.; Relatively young cohort (average age 46) with a short median follow-up (7 years). Association with all-cause mortality, but the video doesn't explain if this is causal.
     - Confidence: 3 ⭐⭐⭐ | Tags: #observational #mortality #lead; 3 ⭐⭐⭐ | Tags: #observational #mortality #lead #cadmium #mercury
-
-- **Study**: Risk of type 2 diabetes
-    - Change: Increased; 28% reduction; 16% reduction; Reduced; 31% reduction
-    - Context: Living closer to nature; Living in or close to green spaces.
-    - Timeframe: Not specified
-    - Confidence: 3 ⭐⭐⭐ | Tags: #type2diabetes #greenspace #riskreduction; 3 ⭐⭐⭐ | Tags: #mortality #greenspace #riskreduction; 3 ⭐⭐⭐ | Tags: #heartrate #greenspace #reduction; 3 ⭐⭐⭐ | Tags: #sleep #greenspace #increase; 3 ⭐⭐⭐ | Tags: #cardiovascular #mortality #greenspace #riskreduction
-
-- **Study**: Ferritin
-    - Change: Mangan suggests that serum iron is less important than ferritin as a marker of iron status.; Mangan advocates for maintaining low-normal ferritin levels.
-    - Context: High ferritin is associated with increased iron stores, which may be detrimental to health.; Free iron, not bound by ferritin, is implicated in cellular damage.
-    - Timeframe: Ongoing monitoring may be needed in conjunction with ferritin.; Ongoing monitoring recommended.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #health-marker #ferritin #iron; 3 ⭐⭐⭐ | Tags: #health-marker #iron #ferritin
-
-- **Study**: N-Acetyl-L-Cysteine (NAC)
-    - Effects: increased median lifespan in one study by 19.6% in mice who were already long-lived.
-    - Context: ITP studies mentioned in the transcript.
-    - Limitations: Failed in a second ITP test.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #NAC #lifespan #mouse #ITP
 
 - **Study**: Observational
     - Methodology: Measured CysC levels and tracked survival probability over 18 years.
@@ -2560,6 +2264,12 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Observational studies can show associations but not causation. The specific mechanisms linking these markers to mortality are not detailed. Further research is needed to confirm these findings and investigate potential interventions.
     - Confidence: 3 ⭐⭐⭐ | Tags: #observational #study #mortality #risk #health #markers
 
+- **Study**: Observational (All-cause mortality studies)
+    - Methodology: Large cohort studies investigating the association between globulin/alkaline phosphatase levels and all-cause mortality risk.
+    - Key Findings: Globulin levels below 2.8 were not significantly associated with increased all-cause mortality risk in a study with >12,000 people. Alkaline phosphatase levels below 48 were not significantly associated with increased all-cause mortality risk in a study with >8.9 million people.
+    - Limitations: Observational studies can only show correlation, not causation.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #epidemiology #allcausemortality #globulin #alkalinephosphatase #cohortstudy
+
 - **Study**: Observational
     - Methodology: Comparing blood levels of various compounds (glycine, ergothioneine, NR, bile acids) in long-lived individuals (average age 97) versus their offspring (average age 67).
     - Key Findings: Higher glycine (10%) and NR (1%) levels, but lower ergothioneine (40%) levels in the long-lived group. Numerous bile acids were significantly elevated in the long-lived group, with increases ranging from 16% to over 700%.
@@ -2572,23 +2282,35 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Animal model of extended longevity.
     - Confidence: 3 ⭐⭐⭐ | Tags: #observational #mice #dwarf #bile #acids #longevity
 
+- **Study**: In vitro study
+    - Methodology: Investigated the effect of apigenin and quercetin on CD38 activity and intracellular NAD+ levels in cultured cells. Cells were treated with varying concentrations of apigenin and quercetin, and CD38 activity and NAD+ levels were measured.
+    - Key Findings: Increasing concentrations of apigenin and quercetin resulted in decreased CD38 activity and increased intracellular NAD+ levels. Apigenin increased NAD levels by about 50% while quercetin also contributed to a significant increase in intracellular NAD+ levels.
+    - Limitations: In vitro studies may not directly translate to human physiology. The specific cell type used was not mentioned.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #invitro #CD38 #NAD+ #apigenin #quercetin
+
 - **Study**: In Vitro
     - Methodology: Investigating the effect of hesperidin on the interferon map kinase pathway in cells infected with influenza A virus.
     - Key Findings: Hesperidin upregulated the interferon map kinase pathway, enhancing cellular immunity.
     - Limitations: Results are from studies on influenza A virus, not SARS-CoV-2.
     - Confidence: 3 ⭐⭐⭐ | Tags: #in-vitro #hesperidin #influenza-A #immunity #map-kinase
 
-- **Study**: Meta-analysis
-    - Methodology: Pooling data from multiple studies to assess the overall effectiveness of interventions and identify robust compounds.
-    - Key Findings: Identified interventions like rapamycin and dwarfism that consistently extend lifespan in long-lived controls. Highlighted the limitations of metformin in lifespan extension.
-    - Limitations: Heterogeneity between studies can make it difficult to draw definitive conclusions.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #meta-analysis #lifespan #intervention #mouse
+- **Study**: Observational
+    - Methodology: Review of studies on hesperidin's effects on inflammatory molecules (IL-1β, IL-2, IL-6, IFN-γ, TNF-α).
+    - Key Findings: Hesperidin demonstrated inhibitory effects on these inflammatory molecules.
+    - Limitations: These studies were not conducted in the context of COVID-19.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #observational #hesperidin #inflammation #cytokine-storm
 
 - **Study**: Case Study
     - Methodology: Measurement of trypsin and elastase activity in plasma of students after a high-fat meal using fluorescent substrates.
     - Key Findings: Transient increase in enzyme activity after the meal.
     - Limitations: Small sample size, limited to trypsin and elastase.
     - Confidence: 3 ⭐⭐⭐ | Tags: #case-study #high-fat-meal #enzyme-activity
+
+- **Study**: Observational
+    - Methodology: Measuring metabolite ratios (cystine/cysteine and methionine sulfoxide/methionine) in blood samples to assess oxidative stress levels. Comparing these ratios across different age groups to establish age-related changes.
+    - Key Findings: Cystine/cysteine ratio increases with age, indicating higher oxidative stress in older individuals. Methionine sulfoxide levels are higher in centenarians compared to younger individuals, suggesting an age-related increase in oxidative stress.
+    - Limitations: Limited data available specifically on the methionine sulfoxide/methionine ratio changes during aging. Cross-sectional study design (comparing different age groups at one point in time) rather than longitudinal.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #metabolomics #oxidative-stress #aging #observational
 
 - **Study**: Observational
     - Methodology: Compared lifespan of C57 black 6j mice supplemented with berberine to wild-type mice.
@@ -2644,6 +2366,18 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Observational study, potential for confounding factors.
     - Confidence: 3 ⭐⭐⭐ | Tags: #scientific\_methods #observational #mortality #PCS #IS #hazard\_ratio
 
+- **Study**: Observational
+    - Methodology: Analysis of chocolate consumption and its association with all-cause and cause-specific mortality. Participants were categorized based on their weekly chocolate intake. Hazard ratios were calculated to assess mortality risk.
+    - Key Findings: Chocolate consumption, particularly around 18g/week, was associated with reduced all-cause mortality risk, as well as reduced cardiovascular and Alzheimer's disease mortality risk.
+    - Limitations: Association does not equal causation. Healthy user bias may be a factor, although the study attempted to control for it.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #observational-study #chocolate #mortality #epidemiology
+
+- **Study**: Case Study (N=1)
+    - Methodology: Analysis of personal data, including 17 blood tests over 3+ years, correlated with daily cocoa bean intake.
+    - Key Findings: Higher cocoa bean intake was associated with improvements in several biomarkers, including AST, RBC, and MCV. There was only one negative correlation, with the percentage of lymphocytes.
+    - Limitations: N=1, individual variation may exist. Potential for false positives due to multiple comparisons.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #n=1 #case-study #cocoa-beans #biomarkers #personalized-nutrition
+
 - **Study**: Animal Study (Mice)
     - Methodology: Epicatechin was administered in the drinking water of 20-month-old mice for 37 weeks. Survival rates were compared to a control group.
     - Key Findings: Epicatechin supplementation significantly extended lifespan in mice.
@@ -2661,6 +2395,12 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Key Findings: Lower CRP levels are associated with reduced all-cause mortality, with levels <0.33 mg/dL being optimal.
     - Limitations: Observational data, varying study populations and methodologies.
     - Confidence: 3 ⭐⭐⭐ | Tags: #observational #crp #mortality
+
+- **Study**: Observational
+    - Methodology: Compared muscle biopsies from elderly Singaporean males with and without sarcopenia, assessed mitochondrial pathways and NAD+ levels.
+    - Key Findings: Downregulation of mitochondrial pathways and lower NAD+ levels in sarcopenic individuals. Positive correlation between muscle NAD+ and muscle function.
+    - Limitations: Small sample size, observational nature limits causal inference.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #observational #sarcopenia #mitochondria #NAD+ #correlation
 
 - **Study**: Metabolomics analysis
     - Methodology: Analyzed serum samples from the same cohort as above to identify metabolites associated with sarcopenia.
@@ -2699,6 +2439,12 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Confidence: 3 ⭐⭐⭐ | Tags: #white #blood #cells #survival #mortality
 
 - **Study**: Observational
+    - Methodology: Examined the relationship between neutrophil count and all-cause mortality risk. The reference group had neutrophil counts between 2,000 and 3,000 per microliter. All-cause mortality risk was compared between the reference group and those with neutrophil counts above 3,000 and below 2,000.
+    - Key Findings: Both neutrophil counts above 3,000 and below 2,000 per microliter were associated with a significantly increased risk of all-cause mortality compared to the reference group (2,000-3,000).
+    - Limitations: The specific causes of death were not analyzed.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #neutrophils #all-cause #mortality
+
+- **Study**: Observational
     - Methodology: Comparison of SCFA levels across different age groups.
     - Key Findings: SCFA levels (acetate, propionate, butyrate) decreased by approximately 50% in individuals over 80 compared to those under 50.
     - Limitations: Observational nature, potential confounding factors.
@@ -2716,11 +2462,23 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Observational nature, potential confounding factors (diet, lifestyle).
     - Confidence: 3 ⭐⭐⭐ (moderate evidence due to observational design) | Tags: #research-methods #observational-study #exercise #SCFA #athletes
 
+- **Study**: Observational, Human study
+    - Methodology: Data on RDW and lymphocyte levels were analyzed in relation to age and mortality risk in a human population.
+    - Key Findings: RDW increases with age, and higher RDW is associated with increased all-cause mortality. Lymphocytes decline with age, and higher levels are associated with reduced mortality risk.
+    - Limitations: Observational, correlation does not equal causation.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #humans #RDW #lymphocytes #aging #mortality
+
 - **Study**: Observational
     - Methodology: Used the data from a study of about 6,000 people to compare the speaker's CRP levels with the general population.
     - Key Findings: The speaker's CRP levels are lower than the median for his age group.
     - Limitations: The speaker did not provide specific details of the study.
     - Confidence: 3 ⭐⭐⭐ | Tags: #CRP #population-comparison
+
+- **Study**: Observational
+    - Methodology: Used the data from a study of more than 425,000 people to show the relationship between uric acid and all-cause mortality.
+    - Key Findings: Higher uric acid levels are associated with an increased risk of all-cause mortality.
+    - Limitations: The speaker did not provide specific details of the study.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #uric-acid #mortality
 
 - **Study**: Observational (case-control)
     - Methodology: Comparison of blood ergothioneine levels between individuals with and without mild cognitive impairment (MCI).
@@ -2746,6 +2504,12 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: In vitro results may not directly translate to in vivo effects in humans.
     - Confidence: 3 ⭐⭐⭐ | Tags: #ergothioneine #Lactobacillus-reuteri #in-vitro #cell-culture
 
+- **Study**: Experimental Study
+    - Methodology: *C. elegans* were treated with different doses of ergothioneine (5 millimolar and 10 millimolar), and their survival was monitored.
+    - Key Findings: 10 millimolar of ergothioneine significantly increased lifespan.
+    - Limitations: Animal study.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #experimental #worms #ergothioneine #lifespan
+
 - **Study**: Observational
     - Methodology: Case-control study examining factors associated with the presence of significant coronary atherosclerosis in 134 people with LDL cholesterol less than 70 mg/dL, most of whom were taking statins.
     - Key Findings: Low HDL (< 39 mg/dL) and high remnant cholesterol were significantly associated with coronary atherosclerosis in this population.
@@ -2758,240 +2522,11 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Observational nature limits causal inference.
     - Confidence: 3 ⭐⭐⭐ | Tags: #observational #centenarians #glutathione #longevity
 
-- **Study**: Average Daily Heart Rate (ADHR)
-    - Change: Used as an index of physical activity; titrated down purposefully after active days.
-    - Context: Significantly correlated with next day's RHR and HRV.
-    - Timeframe: Daily measurements
-    - Confidence: 3 ⭐⭐⭐ | Tags: #physical-activity #heart-rate #recovery
-
-- **Study**: Aβ42/Aβ40 ratio
-    - Change: Plasma levels are a biomarker of amyloid plaques found in the brain.
-    - Context: Not directly measured by the speaker due to high cost.
-    - Timeframe: Not applicable
-    - Confidence: 3 ⭐⭐⭐ | Tags: #abeta42 #abeta40 #amyloidplaques #alzheimers #biomarker
-
-- **Study**: Creatinine
-    - Change: Optimal range: around 0.8 mg/dL. Paul Saladino's level: 0.98 mg/dL (considered near-optimal due to higher muscle mass).
-    - Context: Data from 30,000 subjects.
-    - Timeframe: Not specified.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #creatinine #mortality #kidneyfunction #musclemass
-
-- **Study**: Lymphocyte Percentage
-    - Change: Optimal range: around 28% in youth. Paul Saladino's level: 26.8%.
-    - Context: Data from 378,000 subjects.
-    - Timeframe: Not specified.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #lymphocytes #aging #immunesystem
-
-- **Study**: Mean Corpuscular Volume (MCV)
-    - Change: Lower levels in the youthful range associated with lower all-cause mortality. Reference range: 89.2-91.6. Paul Saladino's level: 83.7.
-    - Context: Data from 36,000 subjects.
-    - Timeframe: Not specified.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #MCV #redbloodcells #mortality
-
-- **Study**: Body Weight.
-    - Change: Significantly reduced in mice on a low-methionine diet (0.17%) compared to normal (0.86%) and high (2.58%) methionine diets.
-    - Context: 60-day study in 8-week-old male mice.
-    - Timeframe: 60 days.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #body #weight #methionine #diet
-
-- **Study**: All-cause mortality, cancer-related mortality, cardiovascular disease-related mortality
-    - Change: 62%, 71%, and 85% reduction, respectively, in centenarian offspring compared to controls.
-    - Context: Observational study
-    - Timeframe: Not specified
-    - Confidence: 3 ⭐⭐⭐ | Tags: #mortality #centenarians #human
-
-- **Study**: EPA (eicosapentaenoic acid)
-    - Change: 23% lower in centenarians compared to their offspring.
-    - Context: Observational study comparing centenarians and their offspring.
-    - Timeframe: Represents a snapshot at a single time point.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #biomarker #omega-3 #EPA #aging
-
-- **Study**: Skin pH
-    - Change: Increases with age. Optimal skin pH is around 5.
-    - Context: Maintaining a slightly acidic skin pH is important for skin barrier function and microbiome balance. Soaps and cleansers with a high pH (e.g., 8) can disrupt skin pH.
-    - Timeframe: Not specified.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #healthmarker #skinpH #skinhealth #aging
-
-- **Study**: Oral pH
-    - Change: Should be close to physiological pH (7.3-7.4). Acidic mouthwashes (pH below 5.5) can accelerate cavity formation.
-    - Context: Maintaining a neutral oral pH is important for oral health and microbiome balance.
-    - Timeframe: Not specified.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #healthmarker #oralpH #oralhealth
-
-- **Study**: Lymphocyte Percentage
-    - Change: Lower levels associated with higher red bell pepper intake (unfavorable). Higher levels associated with higher beet intake (favorable).
-    - Context: Immune cell, declines with aging.
-    - Timeframe: Observed over 63 days.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #healthmarker #lymphocytes #immunity
-
-- **Study**: Triglycerides
-    - Change: Improved from previous tests in the 60s and 70s mg/dL to 57 mg/dL.
-    - Context: Ongoing effort to lower triglycerides to <40 mg/dL.
-    - Timeframe: Recent improvement, timeframe not precisely specified.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #triglycerides #cardiovascular #lipids
-
-- **Study**: AST (Aspartate Aminotransferase)
-    - Change: Lower levels associated with higher cocoa bean intake
-    - Context: Personal data (N=1) analysis over 3+ years.
-    - Timeframe: 3+ years
-    - Confidence: 3 ⭐⭐⭐ | Tags: #ast #liver-enzyme #cocoa-beans #n=1
-
-- **Study**: Electromagnetic Field (EMF)
-    - Change: Fluctuations from 0 to over 180 milligauss, varying between artifacts and over time. Background is 0 when not near the artifacts, and the phone does not cause an increase when placed near the reader.
-    - Context: Measured using a TriField meter near artifacts.
-    - Timeframe: Changes observed over short periods (hours, days).
-    - Confidence: 3 ⭐⭐⭐ | Tags: #emf #fluctuation #health-marker
-
-- **Study**: Serum Trigonelline
-    - Change: Significantly lower in sarcopenic individuals compared to age-matched controls.
-    - Context: Observational study using serum samples from the same Singaporean cohort.
-    - Timeframe: Not specified.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #trigonelline #sarcopenia #serum #decline
-
-- **Study**: Grip Strength
-    - Change: Positively correlated with serum trigonelline levels.
-    - Context: Observational study in the Singaporean cohort and replicated in an Iranian cohort.
-    - Timeframe: Not specified.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #grip #strength #trigonelline #correlation
-
-- **Study**: Appendicular Lean Mass
-    - Change: Positively correlated with serum trigonelline levels.
-    - Context: Observational study in the Singaporean cohort.
-    - Timeframe: Not specified.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #lean #mass #trigonelline #correlation
-
-- **Study**: GOT (AST)
-    - Change: Average of 29 U/L
-    - Context: Associated with increased all-cause mortality risk.
-    - Timeframe: Measured at ages 111.5, 113.3, and 115.7.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #GOT #AST #liverfunction #mortality
-
-- **Study**: Functional Aging Index (FAI)
-    - Change: Lower FAI (better function) associated with lower all-cause mortality risk.
-    - Context: Includes vision, hearing, pulmonary function, grip strength, and gait speed.
-    - Timeframe: Not specified.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #functional aging #mortality
-
-- **Study**: Frailty Index (FI)
-    - Change: Lower FI (less frailty) associated with lower all-cause mortality risk.
-    - Context: Includes 42 different frailty measures.
-    - Timeframe: Not specified.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #frailty #mortality
-
-- **Study**: ApoB
-    - Change: A marker of small, dense LDL particles.
-    - Context: Associated with poor metabolic health and metabolic syndrome.
-    - Timeframe: Not specified
-    - Confidence: 3 ⭐⭐⭐ | Tags: #health-marker #ApoB #LDL #metabolic-health
-
-- **Study**: Hemoglobin A1c (HbA1c)
-    - Change: Ideally closer to 5 in metabolically healthy individuals on a low-carb diet, according to Mangan.
-    - Context: Higher values may indicate poor metabolic health.
-    - Timeframe: Not specified, but typically measured every few months to a year.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #health-marker #HbA1c #glucose #metabolic-health
-
-- **Study**: Visual Function
-    - Change: Improvement in visual function.
-    - Context: Following exposure to 850nm light.
-    - Timeframe: Not explicitly stated but implied to be a relatively short timeframe.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #vision #nearinfrared #healthmarker
-
-- **Study**: Hemoglobin
-    - Change: Not specified, but mentioned as "high"
-    - Context: Centenarian woman; good news, as hemoglobin carries oxygen.
-    - Timeframe: Not applicable (single measurement).
-    - Confidence: 3 ⭐⭐⭐ | Tags: #hemoglobin #oxygen #aging
-
-- **Study**: Neutrophil-to-Lymphocyte Ratio (NLR)
-    - Change: \~1.8 (not bad, closer to 1 is ideal)
-    - Context: Centenarian woman.
-    - Timeframe: Not applicable (single measurement)
-    - Confidence: 3 ⭐⭐⭐ | Tags: #NLR #inflammation #aging
-
-- **Study**: Creatinine
-    - Change: Implied to remain within a healthy range if oxalate intake is not negatively impacting kidney function.
-    - Context: Expert opinion on monitoring kidney health in relation to oxalate.
-    - Timeframe: Ongoing monitoring suggested.
-    - Limitations: Other factors can affect creatinine levels.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #healthmarker #creatinine #kidney #oxalate
-
-- **Study**: hs-CRP
-    - Change: Range from 0.2 to 1.0 mg/L over three years, with a recent value of 0.57 mg/L and an average of 0.53 mg/L.
-    - Context: Self-experiment, aiming to reduce hs-CRP to potentially slow aging and reduce all-cause mortality risk.
-    - Timeframe: Measured over 16 blood tests spanning 3 years.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #hs-CRP #inflammation #biological-age
-
-- **Study**: Cytomegalovirus (CMV)
-    - Change: Prevalence near 100% in all groups over 70.
-    - Context: Observational study; CMV is a herpesvirus that may impact aging through various mechanisms, including reduced sirtuin 1.
-    - Timeframe: Prevalence increases with age, reaching over 90% in those over 80.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #cmv #virus #aging #sirtuin1
-
-- **Study**: Aspartate Aminotransferase (AST)
-    - Change: Higher B12 correlated with lower AST (positive), higher omega-6 correlated with higher AST (negative).
-    - Context: Personal data. Higher AST is associated with increased all-cause mortality risk.
-    - Timeframe: Ongoing monitoring.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #AST #liver-enzyme #biomarker #all-cause-mortality #B12 #omega-6
-
-- **Study**: Mean Corpuscular Volume (MCV)
-    - Change: Higher omega-6 correlated with higher MCV (negative).
-    - Context: Personal data.
-    - Timeframe: Ongoing monitoring
-    - Confidence: 3 ⭐⭐⭐ | Tags: #MCV #biomarker #omega-6
-
-- **Study**: Xylitol (in mouthwash)
-    - Effects: No significant impact on *Serratia* (96%).; *Serratia* at 41%, lower than some tests but not zero.; May reduce *Streptococcus mutans* (associated with cavities) and *Serratia marcescens*. The speaker uses a 10% xylitol solution in a homemade mouthwash.
-    - Context: Part of the speaker's personalized oral microbiome optimization strategy.; Case Study, individual experimenting on themselves. Used 3-5 times daily.; Case Study, individual experimenting on themselves. Used 3-5 times daily. Based on in vitro study showing *Serratia* reduction with 5% xylitol.
-    - Limitations: Not a controlled study. In vitro results may not translate to in vivo.; Based on in vitro studies and personal experimentation.; Single-subject study, lacking a control group. Many confounding factors may influence results.; Not a controlled study. Results may not be generalizable.
-    - Confidence: 1 ⭐ | Tags: #supplement #oralmicrobiome #serratia #xylitol; 2 ⭐⭐ | Tags: #supplement #oralmicrobiome #serratia #potassiumnitrate; 2 ⭐⭐ | Tags: #supplement #xylitol #oralhealth #mouthwash; 2 ⭐⭐ | Tags: #casestudy #oralmicrobiome #serratia #selfexperimentation #t-test #bristle
-
 - **Study**: Observational
-    - Methodology: Cross-sectional study correlating plasma KTR with biomarkers of neurodegeneration (p-tau, NfL, GFAP).
-    - Key Findings: Higher KTR is significantly associated with higher levels of p-tau, NfL, and GFAP.
-    - Limitations: Small sample size (n=30); only included 78-year-olds; establishes correlation, not causation.
-    - Confidence: 2 ⭐⭐ | Tags: #ptau #nfl #gfap #ktr #correlation; 2 ⭐⭐ | Tags: #observational #ktr #neurodegeneration #biomarkers #correlation
-
-- **Study**: Kynurenine-to-tryptophan ratio (KTR)
-    - Change: Optimal range for lowest all-cause mortality risk identified as 15-23.; Reduced from 24 to 22.5
-    - Context: Speaker's personal data, tracked over approximately one year.; Based on an earlier video by the speaker, not detailed in the transcript.
-    - Timeframe: Not specified.; Approximately one year.
-    - Confidence: 2 ⭐⭐ | Tags: #ktr #allcausemortality #optimalrange; 2 ⭐⭐ | Tags: #ktr #longitudinal #personaldata
-
-- **Study**: Added oysters (165g can per week, equivalent to 5g per day).
-    - Context: Oysters are a rich source of zinc (59mg/can), which may impact candida antibodies and taurine. Study Type: Case Study. Population: Single individual.
-    - Timeframe: 49 days.
-    - Limitations: New addition to the diet, early-stage observation.
-    - Confidence: 2 ⭐⭐ | Tags: #diet #oysters #zinc #candida #taurine
-
-- **Study**: Consuming 100g of fresh peppermint leaves provides approximately 120mg of hesperidin.
-    - Context: Based on data from Phenol Explorer, extrapolated from dried peppermint's hesperidin content (481mg/100g).
-    - Timeframe: Not specified, likely ongoing for potential prophylactic and therapeutic effects.
-    - Limitations: The study cited is not a randomized controlled trial, and the calculation assumes a direct conversion from dried to fresh peppermint.
-    - Confidence: 2 ⭐⭐ | Tags: #hesperidin #peppermint #diet #COVID-19 #prevention #treatment
-
-- **Study**: Metformin (dosage not specified)
-    - Effects: Limited, non-significant lifespan extension in mice; does not pass the 900-day rule. May normalize lifespan in pre-diabetic humans.
-    - Context: Multiple mouse studies, including those failing the 900-day rule; human studies in pre-diabetics.
-    - Limitations: Not effective for lifespan extension in healthy mice; human benefits limited to specific populations.
-    - Confidence: 2 ⭐⭐ | Tags: #metformin #lifespan #mouse #human #pre-diabetes
-
-- **Study**: Probiotics (e.g., *Lactobacillus*, *Bifidobacteria*)
-    - Effects: May improve gut health and potentially address specific microbial imbalances. For example, *Lactobacillus* supplementation increased muscle mass in a cachexia mouse model.
-    - Context: The speaker mentions personal experimentation with *Bifidobacteria*. Probiotic effectiveness can depend on the strain, dosage, and individual microbiome composition. Some probiotics may not survive stomach acidity.
-    - Limitations: Highly individualized. Effectiveness depends on proper formulation and targeted approach based on microbiome analysis.
-    - Confidence: 2 ⭐⭐ | Tags: #supplement #probiotics #guthealth #personalizedmedicine
-
-- **Study**: Prebiotics, such as inulin or fructooligosaccharides, which can increase SCFA production.
-    - Effects: Potential increase in SCFA levels, potentially reducing Enterobacteria.
-    - Context: These are types of soluble fiber that can be fermented by gut bacteria. No specific dosage or timing is provided in the transcript.
-    - Limitations: No direct evidence is provided for prebiotic supplementation.
-    - Confidence: 2 ⭐⭐ (based on mechanistic understanding and indirect evidence) | Tags: #supplements #prebiotics #SCFAs #gut-microbiome
-
-- **Study**: Daily *Lactobacillus plantarum* probiotic.
-    - Effects: Potential increase in folate synthesis, which may impact methylation and epigenetic age.
-    - Context: RCT, 38 men, average age 59.
-    - Limitations: Dosage not specified, adherence not reported.
-    - Confidence: 2 ⭐⭐ | Tags: #supplement #probiotics #folate #methylation
+    - Methodology: Self-tracking of sleep duration, HRV, RHR, physical activity (average daily heart rate), and calorie intake over 162 days. Comparison of data between days with and without middle-of-the-night melatonin supplementation using two-sample t-tests and multivariate linear regression models.
+    - Key Findings: Melatonin supplementation was associated with increased sleep duration, increased HRV, and decreased RHR. These associations remained significant after controlling for sleep duration, physical activity, and calorie intake.
+    - Limitations: Single-subject study, potential for measurement error and self-reporting bias, dosage of melatonin not specified.
+    - Confidence: 2 ⭐⭐ | Tags: #observational #self-tracking #melatonin #sleep #HRV #RHR
 
 - **Study**: Case Study
     - Methodology: The presenter conducted a self-experiment using "The Breather Fit" lung training device. FEV1 was measured using a home spirometer, with measurements taken three times a week, nine times each session, recording the best attempt. The study involved a baseline period (pre-training), a seven-week training period, and a seven-week post-training period.
@@ -3004,6 +2539,12 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Key Findings: The feasibility of using personal data, including epigenetic testing, to guide and validate health interventions.
     - Limitations: Limited sample size (n=1), potential for bias, and the need for broader validation.
     - Confidence: 2 ⭐⭐ | Tags: #epigenetics #dna-methylation #self-experimentation #proof-of-concept #personalized-health
+
+- **Study**: Observational
+    - Methodology: Cross-sectional study correlating plasma KTR with biomarkers of neurodegeneration (p-tau, NfL, GFAP).
+    - Key Findings: Higher KTR is significantly associated with higher levels of p-tau, NfL, and GFAP.
+    - Limitations: Small sample size (n=30); only included 78-year-olds; establishes correlation, not causation.
+    - Confidence: 2 ⭐⭐ | Tags: #observational #ktr #neurodegeneration #biomarkers #correlation
 
 - **Study**: Observational
     - Methodology: Longitudinal tracking of personal KTR levels using a metabolomics kit (Viome).
@@ -3028,6 +2569,12 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Key Findings: Provided insights into potential mechanisms of action, such as the prebiotic effect of nitrates on oral bacteria or the inhibitory effect of SCFAs on pathogenic bacteria.
     - Limitations: In vitro studies may not accurately reflect in vivo effects in humans.
     - Confidence: 2 ⭐⭐ | Tags: #invitro #mechanism #prebiotics #antibacterial
+
+- **Study**: Case Study
+    - Methodology: Self-experimentation with multiple oral microbiome tests (10 in total) using Bristle, a commercial oral microbiome testing service. Diet and supplement (mouthwash) interventions were tracked and compared to *Serratia* levels. Statistical analysis (two-sample t-test) was used to compare *Serratia* levels between periods with and without the homemade mouthwash.
+    - Key Findings: Dietary changes had no significant impact. Homemade mouthwash containing xylitol, sodium bicarbonate, and peppermint oil showed potential for reducing *Serratia* levels, especially when comparing the first five tests (with mouthwash) to the last four tests (without mouthwash or with 5% xylitol mouthwash).
+    - Limitations: Single-subject study, lacking a control group. Many confounding factors may influence results.
+    - Confidence: 2 ⭐⭐ | Tags: #casestudy #oralmicrobiome #serratia #selfexperimentation #t-test #bristle
 
 - **Study**: Observational
     - Methodology: Analysis of food intake data to identify correlations with *Serratia* levels and other bacteria.
@@ -3071,59 +2618,11 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: Relies on observational data and individual interpretation of literature.
     - Confidence: 2 ⭐⭐ | Tags: #expert-opinion #data-driven #intervention #personalized-health
 
-- **Study**: Albumin
-    - Change: 4.9 g/dL
-    - Context: Optimal range is suggested to be 4.6-4.8 g/dL in previous videos by the speaker.
-    - Timeframe: Single blood test.
-    - Confidence: 2 ⭐⭐ | Tags: #albumin #liverfunction #nutrition
-
-- **Study**: Arginine-containing peptides
-    - Change: Hypothesized increase in blood due to trypsin activity.
-    - Context: Based on trypsin's cleavage specificity for arginine.
-    - Timeframe: Potentially chronic in relation to autodigestion.
-    - Confidence: 2 ⭐⭐ | Tags: #biomarker #arginine #peptides #trypsin #hypothesis
-
-- **Study**: Oxidized LDL
-    - Change: Mentioned as potentially more important than total LDL.
-    - Context: If LDL is not oxidized, it might not be as significant a risk factor.
-    - Timeframe: Not specified.
-    - Confidence: 2 ⭐⭐ | Tags: #health-marker #LDL #cholesterol #oxidation
-
-- **Study**: Erythrocyte Sedimentation Rate (ESR)
-    - Change: Grounding may improve ESR by increasing zeta potential of red blood cells.
-    - Context: High ESR is associated with higher mortality.
-    - Timeframe: Not specified.
-    - Confidence: 2 ⭐⭐ | Tags: #health-marker #ESR #grounding #zeta-potential
-
-- **Study**: Tumor Necrosis Factor-alpha (TNF-alpha)
-    - Change: Increased with age across all groups.
-    - Context: Observational study; association with mortality risk is less clear than CRP and IL-6.
-    - Timeframe: Not specified.
-    - Confidence: 2 ⭐⭐ | Tags: #inflammation #tnf-alpha #mortality #aging
-
 - **Study**: Expert Opinion
     - Methodology: The transcript is based on the personal experience and interpretation of data by the speaker, who presents himself as knowledgeable about biohacking and aging research. He makes recommendations based on his own experimental results and understanding of the scientific literature.; The speaker interprets the data based on their own expertise and understanding of aging and biomarkers.
     - Key Findings: Insights into diet, supplement protocols, and their potential effects on aging and health markers.; Aging and disease are biochemical processes that can be tracked and optimized through biomarker monitoring.
-    - Limitations: Subject to individual bias and interpretation.; Subjective interpretation, potential for bias, and lack of rigorous scientific validation. The presented information should not be taken as medical advice without consulting qualified healthcare professionals.
-    - Confidence: 1 ⭐ | Tags: #expertopinion #biohacking #longevity; 1 ⭐ | Tags: #expert-opinion #aging #biomarkers
-
-- **Study**: Methyl B12, dosage not specified, taken every third day.
-    - Effects: Not directly measured in this study.
-    - Context: Expert opinion based on the speaker's approach.
-    - Limitations: No data provided.
-    - Confidence: 1 ⭐ | Tags: #B12 #methylB12 #supplementation
-
-- **Study**: 40% Urea Cream
-    - Effects: Urea has antimicrobial effects and is a keratolytic agent. The speaker plans to use it topically for seborrheic keratosis (a benign skin tumor).
-    - Context: Based on PubMed research, the speaker is experimenting with a high concentration of urea as an alternative to laser treatment.
-    - Limitations: Experimental and based on personal use.
-    - Confidence: 1 ⭐ | Tags: #supplement #urea #skinhealth #topical
-
-- **Study**: Homemade mouthwash with added berberine.
-    - Effects: No significant impact on *Serratia* (95%).
-    - Context: Case Study, individual experimenting on themselves. Used 3-5 times daily.
-    - Limitations: Not a controlled study. Specific dosage not mentioned.
-    - Confidence: 1 ⭐ | Tags: #supplement #oralmicrobiome #serratia #berberine
+    - Limitations: Subjective interpretation, potential for bias, and lack of rigorous scientific validation. The presented information should not be taken as medical advice without consulting qualified healthcare professionals.; Subject to individual bias and interpretation.
+    - Confidence: 1 ⭐ | Tags: #expert-opinion #aging #biomarkers; 1 ⭐ | Tags: #expertopinion #biohacking #longevity
 
 - **Study**: Expert Opinion
     - Methodology: Discussion and emphasis on self-experimentation and data tracking, contrasting with traditional reliance on RCTs and animal studies.
@@ -3143,38 +2642,38 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Limitations: This is based on one individual's experience and self-experimentation, not a controlled study.
     - Confidence: 1 ⭐ | Tags: #methodology #expert-opinion #case-study
 
-- **Study**: Metabolites
-    - Change: Many metabolites change with aging; normalizing them individually or globally may impact lifespan.
-    - Context: Discussion of a theoretical approach.
-    - Timeframe: Not specified.
-    - Confidence: 1 ⭐ | Tags: #metabolites #aging #lifespan #normalization
-
-- **Study**: Methyl groups
-    - Change: Not assessed for change in this video.
-    - Context: Tracked for potential impact on epigenetic age.
-    - Timeframe: N/A
-    - Confidence: N/A | Tags: #methylation #epigenetic-age
-
 
 ## Health Markers
 
-- **Marker**: Intervention Testing Program (ITP)
-    - Methodology: Rigorous, multi-center program testing the lifespan effects of various compounds in genetically heterogeneous mice.
-    - Key Findings: Validated the effectiveness of rapamycin and identified other promising interventions. Demonstrated the importance of long-lived controls for robust results.
-    - Limitations: Expensive and time-consuming. Not all compounds that work in other studies replicate in the ITP.; Potential side effects like immunosuppression; human data limited. Exact dosage for humans unclear.
-    - Confidence: 5 ⭐⭐⭐⭐⭐ | Tags: #ITP #lifespan #mouse #intervention #rapamycin; 4 ⭐⭐⭐⭐ | Tags: #rapamycin #lifespan #extension #mouse #ITP #marmoset
+- **Marker**: Resting Heart Rate (RHR)
+    - Change: Increased slightly from previous test (statistically significant).; Increased from 47 ms (2018) to 52 ms (2021).; Increases until age 50, then decreases. Increases with higher physical activity, body weight, and calorie intake. Decreases with higher monounsaturated and omega-6 fatty acid intake.; Decreased by 17% from 51 bpm in 2018 to 42 bpm in 2024.; Decreased from an average of 51 bpm in 2018 to 44 bpm in the first six months of 2023 (14% decrease).; Decreased from 51 bpm (2018) to 47 bpm (2021).; Increased by 2.2 ms (from 52 to 54.2 ms); Average of 47 bpm.; Declines significantly with age from 20-60 years. Decreases with higher physical activity, body weight, and calorie intake. Increases with higher monounsaturated fatty acid, omega-6 fatty acid, and protein intake. Decreases with higher fructose, saturated fatty acid, and fiber intake.; Average of 53 ms between two blood tests, 58 ms in the most recent month.; Increased by 43% from 47 ms in 2018 to 68 ms in 2024.; Decreased by 1.1 bpm (from 46.7 to 45.6 bpm); No significant change (57.5 bpm vs 57.3 bpm)
+    - Context: Correlated with lower body weight and modulated physical activity.; HRV declines with age. Higher HRV indicates better cardiovascular function.; Measured daily, average taken between blood tests. Indicative of good cardiovascular health and younger biological age.; Measured daily, average taken between blood tests. Associated with lower all-cause mortality risk.; Measured as the root mean squared of successive differences in heartbeats.; Comparison between two periods in 2022, measured using a fitness tracker.; Comparison between days with and without melatonin supplementation.; Inversely correlated with body weight and previous day's ADHR.; Resting heart rate increases with age until 50, then declines. Lower resting heart rate (around 45 bpm) associated with lowest all-cause mortality.; Middle-of-the-night melatonin supplementation, adjusted for sleep, physical activity, and calorie intake.; Correlated with lower body weight and balanced exercise.; Measured in beats per minute (bpm).; Average RHR measured over 42 days.
+    - Timeframe: Daily fluctuations, long-term age-related changes.; Significant increase each year since 2018, except for a dip in 2021.; Ongoing monitoring.; Changes observed over 6 years (2018-2024).; Changes observed over several years.; 162 days; 49 days; Significant reduction each year since 2018.; 42 days.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #resting-heart-rate #cardiovascular #aging #mortality; 2 ⭐⭐ | Tags: #RHR #melatonin #cardiovascular; 2 ⭐⭐ | Tags: #HRV #RMSSD #melatonin #cardiovascular; 3 ⭐⭐⭐ | Tags: #heart-rate #cardiovascular #fitness; 4 ⭐⭐⭐⭐ | Tags: #rhr #restingheartrate #cardiovascular #allcausemortality; 4 ⭐⭐⭐⭐ | Tags: #HRV #cardiovascular #aging; 2 ⭐⭐ | Tags: #physical #activity #melatonin; 4 ⭐⭐⭐⭐ | Tags: #hrv #heartratevariability #cardiovascular #biologicalage; 4 ⭐⭐⭐⭐ | Tags: #healthmarker #rhr #cardiovascular; 4 ⭐⭐⭐⭐ (large-scale studies), 3 ⭐⭐⭐ (personal data) | Tags: #HRV #cardiovascular #aging; 4 ⭐⭐⭐⭐ | Tags: #HRV #cardiovascular #improvement; 3 ⭐⭐⭐ | Tags: #HRV #cardiovascular #fitness; 3 ⭐⭐⭐ | Tags: #rhr #hearthealth #cardiovascular; 4 ⭐⭐⭐⭐ (large-scale studies), 3 ⭐⭐⭐ (personal data) | Tags: #RHR #cardiovascular #aging
 
 - **Marker**: Cystatin C (CysC) - Personal Data
-    - Change: 0.72 mg/L (measured on January 15, 2024); Implied to remain within a healthy range if oxalate intake is not negatively impacting kidney function.; Increases with age; values >1.08 mg/L associated with increased all-cause mortality.
-    - Context: Expert opinion on monitoring kidney health in relation to oxalate. Considered a potentially better marker than creatinine.; First-time measurement, considered youthful and better than age-expected.; Potentially a better biomarker of kidney function than creatinine, especially in older adults.
+    - Change: Implied to remain within a healthy range if oxalate intake is not negatively impacting kidney function.; Increases with age; values >1.08 mg/L associated with increased all-cause mortality.; 0.72 mg/L (measured on January 15, 2024)
+    - Context: First-time measurement, considered youthful and better than age-expected.; Expert opinion on monitoring kidney health in relation to oxalate.; Expert opinion on monitoring kidney health in relation to oxalate. Considered a potentially better marker than creatinine.; Potentially a better biomarker of kidney function than creatinine, especially in older adults.
     - Timeframe: Ongoing monitoring suggested.; Single measurement.; Increase observed from 30 to 100 years old. Mortality risk assessed over 18 years.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #healthmarker #cystatinC #kidney #oxalate; 4 ⭐⭐⭐⭐ | Tags: #kidneyfunction #cystatinC #mortality #aging; 5 ⭐⭐⭐⭐⭐ | Tags: #cystatinC #personaldata #kidneyfunction
+    - Confidence: 3 ⭐⭐⭐ | Tags: #healthmarker #cystatinC #kidney #oxalate; 4 ⭐⭐⭐⭐ | Tags: #kidneyfunction #cystatinC #mortality #aging; 3 ⭐⭐⭐ | Tags: #healthmarker #creatinine #kidney #oxalate; 5 ⭐⭐⭐⭐⭐ | Tags: #cystatinC #personaldata #kidneyfunction
 
 - **Marker**: Speaker's cystine level
-    - Change: 0.05 micromolar (50 nanomolar); 0.79 micromolar; 9.5 micromolar
-    - Context: Used to calculate the cystine/cysteine ratio.; Relatively low level, considered baseline.; Relatively higher than cystine, considered baseline. The goal is to reduce this level.
-    - Timeframe: April 2023
-    - Confidence: 5 ⭐⭐⭐⭐⭐ | Tags: #personal-data #oxidative-stress #baseline
+    - Change: 0.79 micromolar; 0.05 micromolar (50 nanomolar); 0.06; 9.5 micromolar; Increases with age (positive age beta coefficient)
+    - Context: Indicative of increased oxidative stress during aging.; Relatively higher than cystine, considered baseline. The goal is to reduce this level.; Relatively low ratio, considered baseline. The goal is to avoid an age-related increase.; Used to calculate the cystine/cysteine ratio.; Relatively low level, considered baseline.
+    - Timeframe: April 2023; Observed in a cross-sectional study comparing different age groups.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #oxidative-stress #aging #cystine #cysteine; 5 ⭐⭐⭐⭐⭐ | Tags: #personal-data #oxidative-stress #baseline
+
+- **Marker**: Average Lifespan (Male Flies)
+    - Change: Doubling of lifespan.; Increased by 68%
+    - Context: Experimental evolution study with delayed reproduction.; Achieved through experimental evolution by selecting for late reproduction.
+    - Timeframe: Approximately 80 generations.
+    - Confidence: 5 ⭐⭐⭐⭐⭐ | Tags: #lifespan #fruitflies #experimentalevoultion; 5 ⭐⭐⭐⭐⭐ | Tags: #lifespan #fruitflies #experimental #evolution
+
+- **Marker**: Indoxyl Sulfate (IS)
+    - Change: Increased from 1.22 to 1.55 micromolar in individuals older than 65 years compared to those younger. Also, personal data shows an increasing trend over 15 months.
+    - Context: Age-related increase, associated with kidney, heart, and endothelial damage. Personal data tracked using at-home metabolomics.
+    - Timeframe: Cross-sectional study for age-related increase; 15 months for personal data.
+    - Confidence: 3 ⭐⭐⭐ (age-related increase) | 2 ⭐⭐ (personal data) | Tags: #health\_markers #indoxyl\_sulfate #aging #kidney\_health #heart\_health #endothelial\_health #mortality
 
 - **Marker**: Cotinine
     - Change: Higher levels associated with increased all-cause mortality.
@@ -3182,95 +2681,197 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: 22 years.
     - Confidence: 5 ⭐⭐⭐⭐⭐ | Tags: #marker #cotinine #smoking #mortality
 
-- **Marker**: Methionine restriction increases median lifespan by 6.6% and maximum lifespan in mice.
-    - Context: Observational study in progeria mice (G609G model). Methionine restriction also increased cholic acid levels.; Observational study in mice; control mice had a median lifespan of 30 months. Methionine restriction also increased cholic acid levels in the liver.
-    - Timeframe: Not specified, but lifespan studies typically observe effects over the entire lifespan of the animals.; Not specified, but effects were observed over the lifespan of the mice.
-    - Limitations: Study only looked at liver levels of cholic acid.; The p-value for maximum lifespan increase was 0.08, which is not statistically significant.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #methionine #restriction #lifespan #mice #cholic #acid; 3 ⭐⭐⭐ | Tags: #methionine #restriction #progeria #lifespan #cholic #acid
-
-- **Marker**: Consumption of 100g of dark chocolate daily for 15 days improved insulin sensitivity and lowered blood pressure in comparison to 90g of white chocolate daily.
-    - Context: RCT comparing the effects of dark vs. white chocolate consumption in 15 subjects.; 100g/day dark chocolate consumption for 15 days in an RCT.
-    - Timeframe: 15 days
-    - Limitations: Small sample size (n=15), short duration.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #blood-pressure #dark-chocolate #rct; 4 ⭐⭐⭐⭐ | Tags: #dark-chocolate #insulin-sensitivity #blood-pressure #rct #diet; 4 ⭐⭐⭐⭐ | Tags: #homa-ir #insulin-sensitivity #dark-chocolate #rct
-
-- **Marker**: 75g glucose bolus led to a smaller increase in blood glucose levels in subjects exposed to 670nm red light.
-    - Context: Study by Glen Jeffery, University College London, on human subjects. Red light exposure enhanced mitochondrial function, leading to increased glucose utilization.; Participants fasted overnight, received a glucose load, and were exposed to red light on their back.; Red light exposure (670nm) in Glen Jeffery's study.
-    - Timeframe: Increase in CO2 levels observed during the period of blood glucose monitoring.; Acute effect observed during the study.; Acute effect.; Reduction in blood glucose spike observed within the first hour after glucose consumption.
-    - Limitations: Study focused on red light, not specifically NIR.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #bloodglucose #redlight #mitochondria; 4 ⭐⭐⭐⭐ | Tags: #glucose #metabolism #redlight #mitochondria #diabetes; 4 ⭐⭐⭐⭐ | Tags: #CO2 #metabolism #redlight #healthmarker; 4 ⭐⭐⭐⭐ | Tags: #bloodglucose #healthmarker #redlight
-
-- **Marker**: Consuming a very large glucose load results in a significant spike in blood glucose levels.
-    - Context: Study involved participants who fasted overnight and were then given a large glucose load orally in a control group.; Mangan suggests a non-fasting glucose test might be more informative in some cases.
-    - Timeframe: Not specified, but typically measured in conjunction with HbA1c.; Blood glucose peaked and then slowly decreased over approximately one hour.
-    - Limitations: The exact quantity of the glucose load is not specified. The glucose tolerance test is described as unpleasant, potentially affecting participant behavior and response.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #glucose #metabolism #diet #fasting; 3 ⭐⭐⭐ | Tags: #health-marker #glucose #dawn-effect
+- **Marker**: Glomerular Filtration Rate (GFR)
+    - Change: Increases with age.; Declines with age in both men and women.; Relatively stable across age groups, slightly increasing and then decreasing, but remaining within the reference range.
+    - Context: Used to estimate GFR but may be less reliable in older adults due to variability related to muscle mass.; Observational study; stable levels may be due to counteracting effects of decreased kidney function and decreased muscle mass.; GFR is a measure of kidney function.
+    - Timeframe: Progressive decline observed from 18 to 95 years old.; Not specified.; Increase observed from 18 to 90 years old.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #kidneyfunction #creatinine #aging #musclemass; 2 ⭐⭐ | Tags: #creatinine #kidneyfunction #musclemass #aging; 4 ⭐⭐⭐⭐ | Tags: #kidneyfunction #gfr #aging
 
 - **Marker**: Red Blood Cell Distribution Width (RDW)
-    - Change: Lower levels are associated with improved survival. Optimal: < 12.5%. Paul Saladino's level: 13.4%.; RDW values greater than 13.7% are associated with an increased risk of all-cause mortality, while values between 11.4-12.5% are associated with the lowest risk.; Higher fructose intake correlated with higher RDW.; 3.9 (not bad, closer to 4.5 found in biological youth); Significant inverse correlation with age in the speaker's data, resisting the typical age-related increase.; 7.55 (slightly elevated, optimal is 3.5-6); Higher fructose intake correlated with lower RBC count.; Stable at 12%.; 17.4% (high); Higher levels associated with increased all-cause mortality risk.
-    - Context: Data from up to 3.2 million subjects.; Centenarian woman; values closer to 12.5% associated with reduced mortality risk.; Self-experiment, RBC count declines with age.; A top predictor of biological age.; Centenarian woman.; Marker of variation in red blood cell size, contributes significantly to PhenoAge calculation.; Speaker's personal data over 9 years, with 51 measurements.; Self-experiment, RDW increases with age and is associated with increased all-cause mortality risk.; Based on human observational studies. RDW tends to increase with age. Exception: values below 11.4% are rare and associated with increased risk.
-    - Timeframe: Not applicable (single measurement); Adults, values increasing with age.; Long-term trend over 9 years.; Not specified.; Based on correlation analysis with dietary data over 6 years.; Not applicable (single measurement).
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #rdw #mortality #biologicalage; 4 ⭐⭐⭐⭐ | Tags: #RDW #redbloodcells #mortality #longevity; 3 ⭐⭐⭐ | Tags: #RBC #fructose #aging; 3 ⭐⭐⭐ | Tags: #RDW #red-blood-cells #aging #mortality; 3 ⭐⭐⭐ | Tags: #RDW #fructose #aging #mortality; 3 ⭐⭐⭐ | Tags: #RBC #aging; 3 ⭐⭐⭐ | Tags: #WBC #aging; 3 ⭐⭐⭐ | Tags: #rdw #hematology #red-blood-cells #phenoage; 4 ⭐⭐⭐⭐ | Tags: #RDW #RBC #aging #mortality; 3 ⭐⭐⭐ | Tags: #RDW #all-cause-mortality #human #biomarker
+    - Change: Higher levels associated with increased all-cause mortality risk.; Significant inverse correlation with age in the speaker's data, resisting the typical age-related increase.; 7.55 (slightly elevated, optimal is 3.5-6); RDW values greater than 13.7% are associated with an increased risk of all-cause mortality, while values between 11.4-12.5% are associated with the lowest risk.; Stable at 12%.; Higher RDW at 10 months was significantly correlated with a shorter lifespan.; Higher fructose intake correlated with higher RDW.; Lower levels are associated with improved survival. Optimal: < 12.5%. Paul Saladino's level: 13.4%.; 3.9 (not bad, closer to 4.5 found in biological youth); 17.4% (high); Higher fructose intake correlated with lower RBC count.
+    - Context: Based on human observational studies. RDW tends to increase with age. Exception: values below 11.4% are rare and associated with increased risk.; Centenarian woman.; Centenarian woman; values closer to 12.5% associated with reduced mortality risk.; Data from up to 3.2 million subjects.; Marker of variation in red blood cell size, contributes significantly to PhenoAge calculation.; Self-experiment, RBC count declines with age.; Speaker's personal data over 9 years, with 51 measurements.; A top predictor of biological age.; Observed in mice across all dietary groups. RDW measures variability in red blood cell size.; Self-experiment, RDW increases with age and is associated with increased all-cause mortality risk.
+    - Timeframe: Measured at 10 months of age in mice.; Not applicable (single measurement).; Not specified.; Adults, values increasing with age.; Long-term trend over 9 years.; Based on correlation analysis with dietary data over 6 years.; Not applicable (single measurement)
+    - Confidence: 3 ⭐⭐⭐ | Tags: #rdw #hematology #red-blood-cells #phenoage; 4 ⭐⭐⭐⭐ | Tags: #RDW #lifespan #mice #biomarker; 3 ⭐⭐⭐ | Tags: #RDW #fructose #aging #mortality; 3 ⭐⭐⭐ | Tags: #RDW #all-cause-mortality #human #biomarker; 4 ⭐⭐⭐⭐ | Tags: #RDW #redbloodcells #mortality #longevity; 3 ⭐⭐⭐ | Tags: #WBC #aging; 3 ⭐⭐⭐ | Tags: #RBC #aging; 3 ⭐⭐⭐ | Tags: #RDW #red-blood-cells #aging #mortality; 4 ⭐⭐⭐⭐ | Tags: #rdw #mortality #biologicalage; 3 ⭐⭐⭐ | Tags: #RBC #fructose #aging; 4 ⭐⭐⭐⭐ | Tags: #RDW #RBC #aging #mortality
+
+- **Marker**: Cognition
+    - Change: Improved with glycine + NAC supplementation; Improved markers with glycine + NAC supplementation; Reduced with glycine + NAC supplementation; Restored in old mice with glycine + NAC supplementation; Increased with glycine + NAC supplementation; Restored to youthful levels with glycine + NAC supplementation
+    - Context: Mouse study.; RCT in older adults.; RCT in older adults, glycine + NAC supplementation.
+    - Timeframe: 16 weeks.; Supplementation started at 65 weeks.; 16-24 weeks.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #cognition #improvement #glycine #NAC; 4 ⭐⭐⭐⭐ | Tags: #glutathione #restoration #glycine #NAC; 4 ⭐⭐⭐⭐ | Tags: #oxidative #stress #reduction #glycine #NAC; 3 ⭐⭐⭐ | Tags: #glutathione #tissues #mice #glycine #NAC; 4 ⭐⭐⭐⭐ | Tags: #stem #cells #glycine #NAC; 4 ⭐⭐⭐⭐ | Tags: #cellular #senescence #glycine #NAC; 4 ⭐⭐⭐⭐ | Tags: #exercise #capacity #increase #glycine #NAC; 4 ⭐⭐⭐⭐ | Tags: #insulin #resistance #improvement #glycine #NAC
+
+- **Marker**: High-sensitivity C-reactive protein (hs-CRP)
+    - Change: Elevated levels indicate inflammation, potentially in response to infection or microbial burden.; Range from 0.2 to 1.0 mg/L over three years, with a recent value of 0.57 mg/L and an average of 0.53 mg/L.; 1.13 mg/L (good, but closer to zero is optimal); Not specified in the presentation.; <0.2 mg/L (at-home test), <0.3 mg/L (lab test); Consistently less than 0.3 mg/L for 11 consecutive tests.; <0.3 mg/L (latest measurement). Note that this is the limit of detection for the test used.; Consistently less than 0.3 mg/L for 10 consecutive tests.; Lower levels are associated with lower all-cause mortality. Optimal: < 0.33 mg/L. Paul Saladino's level: 1.7 mg/L.; Increases with age (more than fivefold in men, threefold in women). The speaker's CRP decreased with higher saturated fat intake.; Increased to 1.01 mg/L in the most recent test, 2.5-fold higher than previous measurements. Average of 0.67 and 0.53 in June and July in previous years.; Less than 0.2 mg/L (at-home test), less than 0.3 mg/L (venipuncture).; Increased with age across all groups.; The speaker aims to decrease hs-CRP levels. His current level is 1.01 mg/L, up from 0.27 mg/L in the previous test.; Consistently maintained at <0.3 mg/dL.
+    - Context: Indicator of inflammation. Lower levels suggest reduced inflammation.; hs-CRP is an inflammatory marker. Lower levels are generally associated with better health outcomes. The speaker is trying to lower it by increasing his HDL levels.; Measured as part of a blood test.; Multiple observational studies and personal data.; Marker of inflammation.; Multiple studies with varying sample sizes.; 20 consecutive tests showing hs-CRP below the lab's limit of detection.; Seasonal allergies (late May to early August).; Measured by Quest Diagnostics.; Observational study; higher levels associated with increased mortality risk.; Comparison of at-home finger-prick test with lab-based venipuncture; both tests fasted.; Self-experiment, aiming to reduce hs-CRP to potentially slow aging and reduce all-cause mortality risk.; Centenarian woman; marker of inflammation; values close to zero associated with reduced risk of death from all causes.; Measured to assess inflammation and validate at-home testing method. Lower values are favorable.; hs-CRP is a marker of systemic inflammation.
+    - Timeframe: Measured over 12 blood tests since 2018.; Not applicable (single measurement).; Over multiple tests in 2023.; At least the duration of 20 tests, timeframe not precisely specified.; Not specified, but the speaker aims to assess changes in his next blood test.; Measurements taken in June and July show consistently higher CRP.; Lifetime; personal data over approximately 1 year.; Recent measurement.; Over a period of at least 11 tests; Single measurement, validated against historical data.; Single measurement on July 11, 2022.; Measured over 16 blood tests spanning 3 years.; Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #healthmarker #hsCRP #inflammation #infection; 4 ⭐⭐⭐⭐ | Tags: #CRP #inflammation #mortality #aging; 4 ⭐⭐⭐⭐ | Tags: #CRP #inflammation #healthmarker; 3 ⭐⭐⭐ | Tags: #inflammation #crp #mortality #aging; 3 ⭐⭐⭐ | Tags: #CRP #inflammation; 4 ⭐⭐⭐⭐ | Tags: #CRP #allergies #inflammation #seasonal; 4 ⭐⭐⭐⭐ | Tags: #CRP #inflammation #biomarker; 3 ⭐⭐⭐ | Tags: #hs-CRP #inflammation #biological-age; 3 ⭐⭐⭐ | Tags: #biomarker #inflammation #crp; 3 ⭐⭐⭐ | Tags: #crp #aging #mortality; 4 ⭐⭐⭐⭐ | Tags: #hs-crp #inflammation #biomarker; 3 ⭐⭐⭐ | Tags: #hsCRP #inflammation; 4 ⭐⭐⭐⭐ | Tags: #CRP #inflammation #mortality #longevity; 4 ⭐⭐⭐⭐ | Tags: #healthmarker #hscrp #inflammation; 4 ⭐⭐⭐⭐ | Tags: #hs-CRP #inflammation #biomarker #at-home-testing
+
+- **Marker**: Blood spermidine levels
+    - Change: Improved in older adults with dementia after 3 months of increased spermidine intake.; Increased by about 40% (from 42 to 58 ng/mL) after 3 months of increased dietary spermidine intake.; Improved in older adults at risk for dementia after 3 months of spermidine supplementation (1.2 mg/day).; Increased by approximately 50% (from non-reported baseline) after 26 weeks on a high polyamine diet.
+    - Context: Mice fed a high polyamine diet.; Older adults with dementia consuming wheat germ-enriched bread.; RCT with spermidine supplement intervention.; RCT with wheat germ-enriched bread intervention.
+    - Timeframe: 3 months.; 26 weeks.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #biomarker #spermidine #bloodlevels #mice; 4 ⭐⭐⭐⭐ | Tags: #biomarker #spermidine #bloodlevels #humans #dementia; 3 ⭐⭐⭐ | Tags: #cognition #dementia #spermidine #RCT; 4 ⭐⭐⭐⭐ | Tags: #cognition #dementia #spermidine #RCT
 
 - **Marker**: LDL Cholesterol
-    - Change: 62 mg/dL (good); Increase associated with higher odds of premature heart attack (3.87-fold higher risk).; 44 mg/dL (most recent test).; Decreased with age from 200-210 in younger groups to 156-172 in centenarians.; Range from 34 to 56 mg/dL, with levels above 50 mg/dL associated with lower hs-CRP.; 215 mg/dL (may seem high, but context-dependent); Increased from an average of 44.7 mg/dL (43 tests) to ≥50 mg/dL (12 consecutive tests); Higher protein intake significantly correlated with higher LDL.; Increase during aging until the 50s, then declines.; Average of 153 mg/dL; 133 mg/dL (elevated, but may be beneficial in this age group); Varies by age and sex.; Average of 144 mg/dL over 15 years (range: 114-185 mg/dL) for the speaker. Levels in centenarians decline with age (201 mg/dL at 85-99 years, down to 156 mg/dL in supercentenarians).; Increase associated with increased cardiovascular disease risk.; Targeted increase from the current level of 82 mg/dL to 85-90 mg/dL or higher.; Declines with age. Levels less than 45 mg/dL (men) and 55 mg/dL (women) associated with increased all-cause mortality.; Decreased slightly from 49 mg/dL to an unmentioned value.; 133 mg/dL (most recent test).; 100-120 mg/dL associated with the lowest risk of CVD-related mortality.; 48 g/L (most recent test).; Remained relatively stable (around 50s) until 105, then decreased to 44-45 in semi-supercentenarians and supercentenarians.; 155-193 mg/dL (4-5 mmol/L) associated with lowest all-cause mortality risk.; Increase with age (from < 20 mg/dL in youth to ~30 mg/dL in older adults).; Less than 20 mg/dL associated with the lowest risk for cardiovascular events.
-    - Context: Self-experiment, HDL levels significantly negatively correlated with hs-CRP.; Observational data showing age-related changes in VLDL levels in men and women.; Observational study analyzing factors associated with premature heart attack.; Implementation of interventions (not specified in this transcript). Current value is 63 mg/dL.; Associated with >2-fold increased all-cause mortality risk in the general population but potentially mitigated by high albumin and HDL in this individual.; Centenarian woman; higher levels may be beneficial in older adults.; Observational studies analyzing association between remnant cholesterol and cardiovascular events (heart attack, stroke, cardiovascular death).; Slightly below the "youthful" phenotype threshold (47 mg/dL) when combined with low total cholesterol and high albumin.; Observational study comparing VLDL levels to risk of acute myocardial infarction, sudden coronary death, and other coronary death. Reference group: VLDL < 20 mg/dL.; Patients with coronary artery disease.; Observational study; age-related decrease is consistent with other studies; lower levels in older age may increase mortality risk.; Coronary artery disease patients.; The speaker was trying to increase HDL to potentially reduce hs-CRP.; Observational study; decrease from 50s to 40s is associated with a small increase in mortality risk in women but not men.; Self-experiment; LDL increases with age, but lower LDL may be optimal in this individual based on biomarker vs. biomarker analysis.; Intervention based on a significant inverse correlation with DunedinPACE.; Association with all-cause mortality risk in a large observational study.; Centenarian woman; higher LDL associated with lower all-cause mortality in adults over 75-80.; Low levels may be associated with increased risk, especially with low albumin.; Individuals not taking lipid-lowering medication.; General population.; Personal data and data from studies on aging populations.; Centenarian woman; high HDL is generally considered beneficial.; Within the "close to youthful" phenotype when combined with low total cholesterol, potentially protective against mortality.
-    - Timeframe: Based on the current blood test results.; Improvement observed over approximately 2 years.; Measured over 32 blood tests spanning 6 years.; 7 years; Lifetime.; Ongoing, with the next test scheduled for April 29th, 2024.; Not specified.; Not specified, as this is an observational study assessing association at a given time.; 15 years for personal data; cross-sectional data for centenarian studies.; Single measurement.; Measured at ages 111.5, 113.3, and 115.7.; Across all age groups from 18 to 99.; Changes observed across the lifespan, from 15 to 79 years old.; Not applicable (single measurement).
-    - Confidence: 3 ⭐⭐⭐ | Tags: #remnantcholesterol #VLDL #heartattack #risk; 3 ⭐⭐⭐ | Tags: #cholesterol #lipids #aging #mortality; 4 ⭐⭐⭐⭐ | Tags: #HDL #cholesterol #CRP; 3 ⭐⭐⭐ | Tags: #VLDL #aging #cholesterol; 3 ⭐⭐⭐ | Tags: #non-HDL #cholesterol #mortality #CAD; 3 ⭐⭐⭐ | Tags: #hdl #mortality #aging; 4 ⭐⭐⭐⭐ | Tags: #hdl #cholesterol #cardiovascular #lipids; 3 ⭐⭐⭐ | Tags: #ldl #cholesterol #healthmarker #intervention; 3 ⭐⭐⭐ | Tags: #HDL #youthful-phenotype #protective; 3 ⭐⭐⭐ | Tags: #cholesterol #total-cholesterol #health-marker #mortality-risk #age-dependent; 3 ⭐⭐⭐ | Tags: #albumin #youthful-phenotype #protective; 3 ⭐⭐⭐ | Tags: #remnantcholesterol #VLDL #cardiovascular #risk; 4 ⭐⭐⭐⭐ | Tags: #HDL #cholesterol #lipids #aging; 3 ⭐⭐⭐ | Tags: #HDL #cholesterol #hs-CRP; 4 ⭐⭐⭐⭐ | Tags: #HDL #aging #mortality; 4 ⭐⭐⭐⭐ | Tags: #LDL #aging #cholesterol; 3 ⭐⭐⭐ | Tags: #totalcholesterol #mortality #HDL #albumin; 2 ⭐⭐ | Tags: #LDL #protein #aging; 3 ⭐⭐⭐ | Tags: #VLDL #cardiovascular #risk; 3 ⭐⭐⭐ | Tags: #LDL #cholesterol #lipids #aging #mortality; 4 ⭐⭐⭐⭐ | Tags: #cholesterol #longitudinal #aging; 3 ⭐⭐⭐ | Tags: #LDL #mortality #cardiovascular #optimal-range; 3 ⭐⭐⭐ | Tags: #cholesterol #mortality #risk-factor; 3 ⭐⭐⭐ | Tags: #cholesterol #mortality #aging
+    - Change: 17.12 years younger than chronological age.; Used in the calculation of Aging.AI 3.0; Not specified in the presentation; Declines with age. Levels less than 45 mg/dL (men) and 55 mg/dL (women) associated with increased all-cause mortality.; 32.2 years (most recent), average 33.9 years in 2022, 35.6 in 2020 and 2021.; Increased from an average of 44.7 mg/dL (43 tests) to ≥50 mg/dL (12 consecutive tests); Used in the calculation of Levine's Phenotypic Age; 62 mg/dL (good); Average of 49.4 g/L over 4 years for the speaker.; 16 years younger than chronological age.; Relatively higher levels associated with reduced all-cause mortality risk.; -2.5 years (average of 36.1 years from 2018-2019 reduced to an average of 33.6 years in 2023).; Average of 7.07 g/dL; Higher levels are associated with lower all-cause mortality. Optimal range: ≥ 4.4-4.5 g/L. Paul Saladino's level: 4.1 g/L.; Average of 144 mg/dL over 15 years (range: 114-185 mg/dL) for the speaker. Levels in centenarians decline with age (201 mg/dL at 85-99 years, down to 156 mg/dL in supercentenarians).; Less than 20 mg/dL associated with the lowest risk for cardiovascular events.; Higher protein intake significantly correlated with higher LDL.; Varies by age and sex.; Average of 153 mg/dL; Average of 33.3 years in 2023 (chronological age is 50.2).; Stable at an average of 29.8 years.; 155-193 mg/dL (4-5 mmol/L) associated with lowest all-cause mortality risk.; 15.2 years younger than chronological age.; 48 g/L (most recent test).; Decreased with age from 200-210 in younger groups to 156-172 in centenarians.; Increase associated with higher odds of premature heart attack (3.87-fold higher risk).; Increase with age (from < 20 mg/dL in youth to ~30 mg/dL in older adults).; Less than 85 mg/dL associated with reduced all-cause mortality risk. Greater than 85 mg/dL associated with increased risk.; Average 33.9 in 2022 (over four tests), compared to 35.6 in 2020 and 2021 (over six tests each year). Average reduction of 15.2 years in 2022 relative to chronological age.; Decreased with age from 4.2 in younger groups to 3.2 in supercentenarians.; 28 years (most recent), average 28.5 years in 2022, 29.9 years (2016-2021), 32 years (2009-2013).; 46.4 g/L (high); Average 28.5 in 2022 (over four tests), compared to 29.9 from 2016-2021 (over 27 tests) and 32 from 2009-2013 (over three tests).; 34.5 years (15.2 years younger than chronological age).; Remained relatively stable around 30 years (29.7 years average in 2022, 29.9 years average from 2016-2021, 32 years average from 2009-2013).; Lowest risk observed with total cholesterol between 210-240 mg/dL in older adults (75-99 years). Significantly increased risk with total cholesterol around 160 mg/dL in centenarians. However, high albumin and HDL mitigate this risk.; 133 mg/dL (most recent test).; 98 mg/dL (close to optimal); Increase during aging until the 50s, then declines.; No significant association with all-cause mortality risk.; Declines with age. Youthful levels (46 g/L) associated with lowest all-cause mortality risk.; Range from 34 to 56 mg/dL, with levels above 50 mg/dL associated with lower hs-CRP.; Maintained at high youthful levels, targeting 4.8-4.9 g/dL.; 12 and 20 years younger than chronological age, respectively in the most recent test; similar to previous test.; 33 years (17 years younger than chronological age); 133 mg/dL (elevated, but may be beneficial in this age group); Hypothesized decrease in blood during aging due to protease activity.; These markers are within the range associated with reduced all-cause mortality risk.; 100-120 mg/dL associated with the lowest risk of CVD-related mortality.; Decreased slightly from 49 mg/dL to an unmentioned value.; Increase associated with increased cardiovascular disease risk.; Levels above 150 mg/dL associated with increased all-cause mortality risk. Levels above 80 mg/dL associated with increased coronary heart disease mortality risk.; Targeted increase from the current level of 82 mg/dL to 85-90 mg/dL or higher.; Reduced from an average of 36.1 years (2018-2019) to 34.0 years (2022). Statistically significant reduction from 35.6 (average for 2020 and 2021) to 34.0 (2022) with p=0.04.; Stable at 5.0 g/dL.; 28 years (22 years younger than chronological age); 215 mg/dL (may seem high, but context-dependent); 44 mg/dL (most recent test).; 15.6 years younger (Levine) and 18.6 years younger (aging.ai) than chronological age. Omega-3 intake was significantly correlated with a younger Levine's PhenoAge.; Remained relatively stable (around 50s) until 105, then decreased to 44-45 in semi-supercentenarians and supercentenarians.; ~5 years worse than the previous 8-test average.
+    - Context: Multiple observational studies.; Ongoing tracking of biological age markers.; Analysis of 85+ year-olds, including centenarians and supercentenarians.; Centenarian woman; higher levels may be beneficial in older adults.; Calculated using the Aging.ai 3.0 model, which does not include chronological age.; Coronary artery disease patients.; The speaker was trying to increase HDL to potentially reduce hs-CRP.; Appears relatively youthful but masks unhealthy albumin and globulin levels.; Blood test number six in 2022.; Marker of liver health and function.; Observational study analyzing factors associated with premature heart attack.; Inputted into the Levine's Phenotypic Age calculator.; Intervention based on a significant inverse correlation with DunedinPACE.; Calculated using Aging.ai 3.0, based on blood test data.; Calculated using 19 biomarkers. Lower biological age relative to chronological age is favorable.; Based on albumin being the most abundant circulating protein and a potential target for proteases.; General population.; Calculated using Dr. Morgan Levine's PhenoAge calculator based on blood test results. Intervention: Comprehensive diet and supplement regimen.; Individuals not taking lipid-lowering medication.; Calculated using 19 biomarkers. Average of 32 years (2009-2013), 29.9 years (2016-2022).; Calculated using the Levine model, which includes chronological age and nine biomarkers.; Centenarian woman; values less than 90 mg/dL associated with reduced all-cause mortality risk.; Coronary artery disease patients, adjusted for albumin, lymphocytes, and total cholesterol.; Observational studies analyzing association between remnant cholesterol and cardiovascular events (heart attack, stroke, cardiovascular death).; Important protein declining with age, associated with mortality and physical function.; Personal data in relation to all-cause mortality risk.; Observational study; decrease from 50s to 40s is associated with a small increase in mortality risk in women but not men.; Self-experiment; LDL increases with age, but lower LDL may be optimal in this individual based on biomarker vs. biomarker analysis.; Observational study; lower levels associated with higher all-cause mortality risk; levels are malleable with diet.; Observational study comparing VLDL levels to risk of acute myocardial infarction, sudden coronary death, and other coronary death. Reference group: VLDL < 20 mg/dL.; Patients with coronary artery disease.; These markers are part of Levine's phenotypic age calculation.; Calculated using the Levine phenotypic age calculator, based on blood test data.; Associated with >2-fold increased all-cause mortality risk in the general population but potentially mitigated by high albumin and HDL in this individual.; Centenarian woman; high HDL is generally considered beneficial.; Centenarian woman; higher LDL associated with lower all-cause mortality in adults over 75-80.; Implementation of interventions (not specified in this transcript). Current value is 63 mg/dL.; Low levels may be associated with increased risk, especially with low albumin.; Observational study; age-related decrease is consistent with other studies; lower levels in older age may increase mortality risk.; Association with all-cause mortality risk in a large observational study.; Centenarian woman; high albumin associated with biological youth and decreases with aging.; Data from observational studies on older adults.; Within the "close to youthful" phenotype when combined with low total cholesterol, potentially protective against mortality.; Observational data showing age-related changes in VLDL levels in men and women.; Calculated using blood test results.; Calculated from a panel of biomarkers.; Personal data and data from studies on aging populations.; Measured using Dr. Morgan Levine's PhenoAge calculator.; Self-experiment, HDL levels significantly negatively correlated with hs-CRP.; Calculated using Dr. Morgan Levine's PhenoAge calculator.; Calculated using 9 biomarkers. Average of 36.1 years (2018-2019), 35.6 years (2020-2021), and 33.8 years (2022).; Blood test #5 in 2023 using Dr. Morgan Levine's PhenoAge calculator. Intervention: Diet and supplement changes as described above.; One of the 9 biomarkers used in Levine's phenotypic age calculation. Included in many of the discussed blood panels.; Inputted into the Aging.AI 3.0 calculator; Calculated using Dr. Morgan Levine's PhenoAge calculator. Intervention: Comprehensive diet and supplement protocol.; Based on the speaker's blood test data.; Calculated using 9 biomarkers. Lower biological age relative to chronological age is favorable.; Data from 1.7 million subjects.; Slightly below the "youthful" phenotype threshold (47 mg/dL) when combined with low total cholesterol and high albumin.
+    - Timeframe: Stable over the past 8 years (2016-2023).; Based on the current blood test results.; Reduction observed over approximately 5 years.; Snapshot at the time of the blood test (Test #4).; 49 days.; Measured on October 24th, 2022.; Not specified, as this is an observational study assessing association at a given time.; Blood test #3 in 2023.; 7 years; Not specified, likely long-term.; Not specified, likely reflecting long-term health status.; Current and previous blood test comparison.; Single measurement.; 47 days between blood test #4 and #5.; Ongoing.; Changes observed across the lifespan, from 15 to 79 years old.; Measured over 15 blood tests since 2018.; Measured at ages 111.5, 113.3, and 115.7.; Up to 6 years of follow-up in one study.; Not applicable (single measurement).; Consistent results over a 13-year period.; Measured over 38 blood tests since 2009.; Multiple measurements from 2009 to 2022.; Measured in 2022.; Lifetime.; 4 years.; Average over three tests in 2023, with historical data since 2018.; Improvement observed over several years, with the most significant change in 2022.; Measured over 22 blood tests since 2018.; Potentially chronic in relation to autodigestion and aging.; Measured over 32 blood tests spanning 6 years.; Ongoing monitoring and adjustment.; Improvement observed over approximately 2 years.; 15 years for personal data; cross-sectional data for centenarian studies.; Multiple measurements from 2020 to 2022.; Across all age groups from 18 to 99.; Measured over multiple years, showing a consistent reduction.; Ongoing, with the next test scheduled for April 29th, 2024.; Not specified.; Measured at each blood test.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #HDL #aging #mortality; 3 ⭐⭐⭐ | Tags: #biomarker #biologicalage #aging; 3 ⭐⭐⭐ | Tags: #cholesterol #total-cholesterol #health-marker #mortality-risk #age-dependent; 3 ⭐⭐⭐ | Tags: #HDL #youthful-phenotype #protective; 3 ⭐⭐⭐ | Tags: #mortality #cholesterol #albumin #hdl; 4 ⭐⭐⭐⭐ | Tags: #albumin #aging #mortality; 4 ⭐⭐⭐⭐ | Tags: #triglycerides #mortality #heart\_disease; 3 ⭐⭐⭐ | Tags: #albumin #longevity #mortality #risk #reduction; 3 ⭐⭐⭐ | Tags: #albumin #youthful-phenotype #protective; 3 ⭐⭐⭐ | Tags: #HDL #cholesterol #hs-CRP; 3 ⭐⭐⭐ | Tags: #remnantcholesterol #VLDL #heartattack #risk; 2 ⭐⭐ | Tags: #LDL #protein #aging; 3 ⭐⭐⭐ | Tags: #biological #age #phenoage #aging #biomarker; 2 ⭐⭐ | Tags: #biomarker #albumin #aging #proteases #hypothesis; 3 ⭐⭐⭐ | Tags: #albumin #phenotypic-age; 4 ⭐⭐⭐⭐ | Tags: #hdl #cholesterol #cardiovascular #lipids; 4 ⭐⭐⭐⭐ | Tags: #albumin #aging #longevity #youth; 3 ⭐⭐⭐ | Tags: #biological-age #levine #phenotypic-age #longitudinal; 4 ⭐⭐⭐⭐ | Tags: #LDL #aging #cholesterol; 3 ⭐⭐⭐ | Tags: #hdl #cholesterol #mortality #no #association; 4 ⭐⭐⭐⭐ | Tags: #HDL #cholesterol #CRP; 4 ⭐⭐⭐⭐ | Tags: #albumin #mortality #longevity; 3 ⭐⭐⭐ | Tags: #cholesterol #lipids #aging #mortality; 3 ⭐⭐⭐ | Tags: #hdl #mortality #aging; 4 ⭐⭐⭐⭐ | Tags: #healthmarker #biologicalage #agingai; 3 ⭐⭐⭐ | Tags: #non-HDL #cholesterol #mortality #CAD; 3 ⭐⭐⭐ | Tags: #albumin #mortality #aging #diet; 3 ⭐⭐⭐ | Tags: #LDL #mortality #cardiovascular #optimal-range; 3 ⭐⭐⭐ | Tags: #cholesterol #mortality #risk-factor; 4 ⭐⭐⭐⭐ | Tags: #HDL #cholesterol #lipids #aging; 3 ⭐⭐⭐ | Tags: #totalcholesterol #mortality #HDL #albumin; 3 ⭐⭐⭐ | Tags: #VLDL #cardiovascular #risk; 4 ⭐⭐⭐⭐ | Tags: #healthmarker #biologicalage #phenotypicage #levine; 3 ⭐⭐⭐ | Tags: #biomarkers #biologicalage #phenoage #aging; 3 ⭐⭐⭐ | Tags: #VLDL #aging #cholesterol; 3 ⭐⭐⭐ | Tags: #cholesterol #mortality #aging; 4 ⭐⭐⭐⭐ | Tags: #health\_marker #biological\_age #Levine\_test; 3 ⭐⭐⭐ | Tags: #biologicalage #phenoage #aging; 4 ⭐⭐⭐⭐ | Tags: #healthmarker #albumin; 3 ⭐⭐⭐ | Tags: #biologicalage #aging.ai #aging; 3 ⭐⭐⭐ | Tags: #biomarkers #agingai #biologicalage; 3 ⭐⭐⭐ | Tags: #phenotypicage #biologicalage #healthmarker; 3 ⭐⭐⭐ | Tags: #health-marker #biological-age #phenoage #worsening; 3 ⭐⭐⭐ | Tags: #totalprotein #albumin #globulin #aging; 3 ⭐⭐⭐ | Tags: #biomarker #biological-age #levine #longitudinal; 3 ⭐⭐⭐ | Tags: #non-HDL #cholesterol #mortality #CAD #malnutrition; 3 ⭐⭐⭐ | Tags: #biological-age #aging-ai #longitudinal; 3 ⭐⭐⭐ | Tags: #phenoage #biologicalage #aging; 3 ⭐⭐⭐ | Tags: #albumin #liver; 3 ⭐⭐⭐ | Tags: #remnantcholesterol #VLDL #cardiovascular #risk; 4 ⭐⭐⭐⭐ | Tags: #biomarkers #levinesphenotypicage #biologicalage; 3 ⭐⭐⭐ | Tags: #biomarker #biologicalage #phenoage #aging; 2 ⭐⭐ | Tags: #biological #age #reduction; 3 ⭐⭐⭐ | Tags: #LDL #cholesterol #lipids #aging #mortality; 4 ⭐⭐⭐⭐ | Tags: #biomarkers #all-cause-mortality #biological-age; 4 ⭐⭐⭐⭐ | Tags: #triglycerides #lipids #mortality; 4 ⭐⭐⭐⭐ | Tags: #healthmarker #biologicalage #phenotypicage #agingai; 3 ⭐⭐⭐ | Tags: #biomarker #biological-age #aging-ai #longitudinal; 3 ⭐⭐⭐ | Tags: #ldl #cholesterol #healthmarker #intervention; 2 ⭐⭐ | Tags: #biological #age #stable; 4 ⭐⭐⭐⭐ | Tags: #cholesterol #longitudinal #aging; 4 ⭐⭐⭐⭐ | Tags: #albumin #longitudinal
+
+- **Marker**: Alkaline Phosphatase
+    - Change: Levels above 48 U/L may indicate higher LPS levels or other issues. Optimal levels are associated with the lowest all-cause mortality risk.; 34 U/L; Lower levels are associated with lower all-cause mortality. Optimal: around 50 U/L. Paul Saladino's level: 89 U/L.
+    - Context: ALP in the blood can dephosphorylate and inactivate LPS. A meta-analysis of 9 million people found the lowest all-cause mortality risk at around 48 U/L.; Data from 8.9 million subjects.; Levels below 48 U/L not associated with increased all-cause mortality.
+    - Timeframe: Single blood test.; Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #alkalinephosphatase #bonehealth #liverhealth #allcausemortality; 4 ⭐⭐⭐⭐ | Tags: #healthmarker #ALP #LPS #mortality; 4 ⭐⭐⭐⭐ | Tags: #alkalinephosphatase #mortality #longevity
 
 - **Marker**: White Blood Cells
     - Change: Optimal range: 3,500-6,000 cells/µL associated with longest life expectancy. Paul Saladino's level: 5,100 cells/µL.; Remained relatively stable across age groups (5,500-6,000/µL), except for supercentenarians (6,300/µL).
-    - Context: Baltimore Longitudinal Study on Aging.; Observational study; optimal range (3,500-6,000/µL) associated with greater life expectancy based on BLSA data.
+    - Context: Observational study; optimal range (3,500-6,000/µL) associated with greater life expectancy based on BLSA data.; Baltimore Longitudinal Study on Aging.
     - Timeframe: Longitudinal data from BLSA suggests optimal range is associated with an 8-year increase in life expectancy compared to higher levels.; Up to 30 years of follow-up.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #whitebloodcells #lifespan #aging; 4 ⭐⭐⭐⭐ | Tags: #whitebloodcells #longevity #immunesystem
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #whitebloodcells #longevity #immunesystem; 4 ⭐⭐⭐⭐ | Tags: #whitebloodcells #lifespan #aging
 
-- **Marker**: Alkaline Phosphatase (ALP)
-    - Change: Levels above 48 U/L may indicate higher LPS levels or other issues. Optimal levels are associated with the lowest all-cause mortality risk.; 34 U/L
-    - Context: ALP in the blood can dephosphorylate and inactivate LPS. A meta-analysis of 9 million people found the lowest all-cause mortality risk at around 48 U/L.; Levels below 48 U/L not associated with increased all-cause mortality.
-    - Timeframe: Single blood test.; Not specified.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #healthmarker #ALP #LPS #mortality; 3 ⭐⭐⭐ | Tags: #alkalinephosphatase #bonehealth #liverhealth #allcausemortality
+- **Marker**: Fecal Short-Chain Fatty Acids (Acetate, Propionate, Butyrate).
+    - Change: Significantly reduced in mice on a low-methionine diet (0.17%) compared to normal (0.86%) and high (2.58%) methionine diets.; Significantly increased in male and female mice on a methionine restricted diet (0.15% vs 0.43%).; Significantly increased in mice on a methionine-restricted diet (0.15-0.17%).; Significantly increased (about two-fold) in mice on a low-methionine diet (0.17%).; Increased
+    - Context: 60-day study in 8-week-old male mice.; Studies on mice fed low-methionine diets.; Study comparing restricted and control methionine diets in mice.; Study comparing low, normal, and high methionine diets in mice.; Observational study in mice on a methionine-restricted diet.
+    - Timeframe: 60 days.; Lifespan; Not specified, likely throughout the diet.; Not specified.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #FGF21 #methionine #plasma; 3 ⭐⭐⭐ | Tags: #body #weight #methionine #diet; 4 ⭐⭐⭐⭐ | Tags: #SCFAs #acetate #propionate #butyrate #methionine #fecal; 4 ⭐⭐⭐⭐ | Tags: #survival #lifespan #methionine; 3 ⭐⭐⭐ | Tags: #cholic #acid #liver #methionine #restriction #mice
 
-- **Marker**: Phenotypic Age (Levine's model)
-    - Change: 32.2 years (most recent), average 33.9 years in 2022, 35.6 in 2020 and 2021.; -2.5 years (average of 36.1 years from 2018-2019 reduced to an average of 33.6 years in 2023).; 28 years (22 years younger than chronological age); 28 years (most recent), average 28.5 years in 2022, 29.9 years (2016-2021), 32 years (2009-2013).; 34.5 years (15.2 years younger than chronological age).; Used in the calculation of Aging.AI 3.0; These markers are within the range associated with reduced all-cause mortality risk.; Average 33.9 in 2022 (over four tests), compared to 35.6 in 2020 and 2021 (over six tests each year). Average reduction of 15.2 years in 2022 relative to chronological age.; 12 and 20 years younger than chronological age, respectively in the most recent test; similar to previous test.; Stable at an average of 29.8 years.; 15.6 years younger (Levine) and 18.6 years younger (aging.ai) than chronological age. Omega-3 intake was significantly correlated with a younger Levine's PhenoAge.; Reduced from an average of 36.1 years (2018-2019) to 34.0 years (2022). Statistically significant reduction from 35.6 (average for 2020 and 2021) to 34.0 (2022) with p=0.04.; Average of 33.3 years in 2023 (chronological age is 50.2).; 33 years (17 years younger than chronological age); Remained relatively stable around 30 years (29.7 years average in 2022, 29.9 years average from 2016-2021, 32 years average from 2009-2013).; Not specified in the presentation
-    - Context: Calculated using 19 biomarkers. Average of 32 years (2009-2013), 29.9 years (2016-2022).; Calculated using 19 biomarkers. Lower biological age relative to chronological age is favorable.; These markers are part of Levine's phenotypic age calculation.; Based on the speaker's blood test data.; One of the 9 biomarkers used in Levine's phenotypic age calculation. Included in many of the discussed blood panels.; Calculated using Aging.ai 3.0, based on blood test data.; Calculated using blood test results.; Blood test number six in 2022.; Calculated using the Levine model, which includes chronological age and nine biomarkers.; Ongoing tracking of biological age markers.; Inputted into the Aging.AI 3.0 calculator; Calculated from a panel of biomarkers.; Calculated using 9 biomarkers. Lower biological age relative to chronological age is favorable.; Calculated using 9 biomarkers. Average of 36.1 years (2018-2019), 35.6 years (2020-2021), and 33.8 years (2022).; Calculated using the Levine phenotypic age calculator, based on blood test data.
-    - Timeframe: Measured on October 24th, 2022.; Improvement observed over several years, with the most significant change in 2022.; Average over three tests in 2023, with historical data since 2018.; Current and previous blood test comparison.; Multiple measurements from 2020 to 2022.; Measured over 22 blood tests since 2018.; Measured over multiple years, showing a consistent reduction.; Measured in 2022.; Measured over 38 blood tests since 2009.; Reduction observed over approximately 5 years.; Stable over the past 8 years (2016-2023).; Measured at each blood test.; Measured over 15 blood tests since 2018.; Based on the current blood test results.; Consistent results over a 13-year period.
-    - Confidence: 2 ⭐⭐ | Tags: #biological #age #stable; 4 ⭐⭐⭐⭐ | Tags: #health\_marker #biological\_age #Levine\_test; 4 ⭐⭐⭐⭐ | Tags: #healthmarker #biologicalage #phenotypicage #agingai; 4 ⭐⭐⭐⭐ | Tags: #biomarkers #all-cause-mortality #biological-age; 4 ⭐⭐⭐⭐ | Tags: #healthmarker #biologicalage #agingai; 3 ⭐⭐⭐ | Tags: #biomarker #biological-age #aging-ai #longitudinal; 4 ⭐⭐⭐⭐ | Tags: #healthmarker #biologicalage #phenotypicage #levine; 3 ⭐⭐⭐ | Tags: #biomarkers #agingai #biologicalage; 3 ⭐⭐⭐ | Tags: #albumin #phenotypic-age; 2 ⭐⭐ | Tags: #biological #age #reduction; 3 ⭐⭐⭐ | Tags: #biologicalage #phenoage #aging; 3 ⭐⭐⭐ | Tags: #phenotypicage #biologicalage #healthmarker; 3 ⭐⭐⭐ | Tags: #biological-age #levine #phenotypic-age #longitudinal; 3 ⭐⭐⭐ | Tags: #biologicalage #aging.ai #aging; 3 ⭐⭐⭐ | Tags: #biomarker #biological-age #levine #longitudinal; 3 ⭐⭐⭐ | Tags: #biomarker #biologicalage #aging
+- **Marker**: DHEA Sulfate
+    - Change: 129 µg/dL (venipuncture), 119.8 µg/dL (average of 12 finger prick tests over 7 weeks). 300 µg/dL (average of two test in 2005).; Not quantified, but stated to be low.; Stable at 126 µg/dL, similar to the 17-test average over 26 months.
+    - Context: Androgen that declines with age. Past levels were 300 µg/dL, potentially due to DHEA supplementation.; The speaker hypothesizes that low NAD levels may be limiting DHEA production.; Low for chronological age, associated with increased all-cause mortality risk, declining since 2005.
+    - Timeframe: 26 months.; Multiple measurements, including historical data.; Single blood test.
+    - Confidence: 2 ⭐⭐ | Tags: #dhea #androgens #hormones; 2 ⭐⭐ | Tags: #dhea #hormones #nad #aging; 4 ⭐⭐⭐⭐ | Tags: #DHEA #aging #mortality #biomarker
+
+- **Marker**: Lymphocytes
+    - Change: Increase from <1600 to 1877 (closer to the youthful average of 2000); Higher lymphocyte counts at 16 months were significantly correlated with a longer lifespan.
+    - Context: Observed in mice across all dietary groups, regardless of calorie restriction or fasting.; Associated with a slight increase in calorie intake from 2080 to 2150 kcal/day in the speaker's personal data.
+    - Timeframe: Measured at 16 months of age in mice.; Observed over several months.
+    - Confidence: 2 ⭐⭐ | Tags: #lymphocytes #immune-system #aging #diet; 4 ⭐⭐⭐⭐ | Tags: #lymphocytes #lifespan #mice #biomarker
+
+- **Marker**: Body Weight
+    - Change: Decreased from 155.6 lbs to 155 lbs (statistically significant).
+    - Context: Average body weight measured daily over 42 days.; Measured daily; a slight but statistically significant decrease observed.
+    - Timeframe: 49 days; 42 days.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #healthmarker #bodyweight; 4 ⭐⭐⭐⭐ | Tags: #bodyweight #weightloss #correlation
 
 - **Marker**: Fasting Glucose
-    - Change: Stable at 90 mg/dL, close to the long-term average of 89.6 mg/dL.; Increasing trend over 6.5 years, but decreased in the most recent test after dietary changes (from above 90 mg/dL to a lower, unspecified value).; Higher than the average since 2015, currently in the 90s mg/dL.
-    - Context: Measured as part of a comprehensive blood panel.; 53 tests since 2015.; Target for improvement.
-    - Timeframe: Recent tests in 2023.; 6.5 years, with a notable change in the last 42 days.; 9 years.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #healthmarker #glucose #insulinsensitivity; 4 ⭐⭐⭐⭐ | Tags: #glucose #metabolic #blood-sugar; 4 ⭐⭐⭐⭐ | Tags: #glucose #healthmarker #improvement
+    - Change: Decreased from ~100 mg/dL to ~91 mg/dL after reducing fat intake.; Higher than the average since 2015, currently in the 90s mg/dL.; Current level is 95 mg/dL, trending upwards over 6 years. Goal is to reduce to around 85 mg/dL.; Increases with age. Men's levels plateau around 60, while women's increase more linearly. The speaker maintained a stable average of 89 mg/dL from 2005-2015 and 87.7 mg/dL more recently.; Increasing trend over 6.5 years, but decreased in the most recent test after dietary changes (from above 90 mg/dL to a lower, unspecified value).; Stable at 90 mg/dL, close to the long-term average of 89.6 mg/dL.
+    - Context: Higher glucose correlated with higher fat intake. Glucose increases with age and is associated with increased all-cause mortality.; Personal data correlated with dietary factors. Published research shows an association between higher glucose and increased all-cause mortality risk.; 53 tests since 2015.; Large observational study (12.5 million subjects) and personal data.; Measured as part of a comprehensive blood panel.; Target for improvement.
+    - Timeframe: Recent tests in 2023.; 6.5 years, with a notable change in the last 42 days.; Lifetime; personal data over 10+ years.; 9 years.; Reduction observed over 42-day period. Long-term trend of increasing glucose since 2015.; 6 years of data, ongoing monitoring.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #glucose #healthmarker #improvement; 4 ⭐⭐⭐⭐ | Tags: #healthmarker #glucose #insulinsensitivity; 3 ⭐⭐⭐ | Tags: #glucose #insulin-resistance #mortality #aging; 4 ⭐⭐⭐⭐ | Tags: #glucose #aging #mortality; 4 ⭐⭐⭐⭐ | Tags: #glucose #biomarker #all-cause-mortality #aging; 4 ⭐⭐⭐⭐ | Tags: #glucose #metabolic #blood-sugar
+
+- **Marker**: Phosphorylated Tau (p-tau)
+    - Change: Significantly reduced levels in the brains of rMSA-treated mice (males and females combined). Significantly lower in male mice, trend in female mice.; Plasma levels are a biomarker of tau tangles found in the brain.
+    - Context: Not commercially available for testing in the US.; Measured in brain tissue of mice at 20 months of age.
+    - Timeframe: Not applicable; 8 months
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #ptau #braintissue #alzheimers #neurofibrillarytangles; 3 ⭐⭐⭐ | Tags: #ptau #tautangles #alzheimers #huntingtons #biomarker
 
 - **Marker**: Free Thiols in Albumin
     - Change: Higher levels in injected rMSA compared to endogenous albumin in older mice, indicating less oxidative damage. No significant difference between rMSA-treated and saline-treated mice at 20 months.; Lower levels in injected rMSA compared to endogenous albumin in older mice. Lower levels in albumin from rMSA-treated mice compared to saline-treated mice at 20 months.
     - Context: Measured in blood samples.
     - Timeframe: Over 21 days post injection.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #homocysteine #albumin #homocysteinylation; 4 ⭐⭐⭐⭐ | Tags: #freethiols #albumin #oxidativedamage #oxidativestress
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #freethiols #albumin #oxidativedamage #oxidativestress; 4 ⭐⭐⭐⭐ | Tags: #homocysteine #albumin #homocysteinylation
 
-- **Marker**: Mean Corpuscular Volume (MCV)
-    - Change: 100.8 fL (high); Decreased slightly from 94.7 fL to 93.5 fL, potentially due to increased cocoa bean intake.
-    - Context: Centenarian woman; indicates big red blood cells; values around 88 fL found in biological youth, higher values associated with increased mortality risk.; Marker of red blood cell size, which increases with age. Goal is to lower it.
-    - Timeframe: Recent change.; Not applicable (single measurement).
-    - Confidence: 2 ⭐⭐ | Tags: #mcv #hematology #red-blood-cells; 4 ⭐⭐⭐⭐ | Tags: #MCV #RBC #aging #mortality
+- **Marker**: HOMA-IR (Homeostasis Model Assessment of Insulin Resistance)
+    - Change: Reduced; Reduced (improved insulin sensitivity)
+    - Context: 100g/day dark chocolate consumption for 15 days in an RCT.
+    - Timeframe: 15 days
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #blood-pressure #dark-chocolate #rct; 4 ⭐⭐⭐⭐ | Tags: #homa-ir #insulin-sensitivity #dark-chocolate #rct
+
+- **Marker**: Median lifespan
+    - Change: Increased by 20% with 30% CR and 22-hour daytime fast.; Increased with 30% CR and fasting, especially with circadian alignment. No significant change with CR spread across nine meals.
+    - Context: Compared to ad libitum feeding in C57 black 6J male mice.
+    - Timeframe: Lifetime study.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #lifespan #mice #calorie-restriction #fasting; 4 ⭐⭐⭐⭐ | Tags: #lifespan #mice #calorie-restriction #fasting #circadian-alignment
+
+- **Marker**: All-cause mortality risk
+    - Change: Higher PhenoAge is associated with higher all-cause and cause-specific mortality.; Increased risk associated with higher AnthropoAge and PhenoAge values.
+    - Context: Comparison with AnthropoAge for predictive power of mortality risk.; Analysis of NHANES III and IV data.
+    - Timeframe: 10-year mortality risk assessment.; Not specified, likely long-term.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #mortality #risk #NHANES; 4 ⭐⭐⭐⭐ | Tags: #mortality #cardiovascular #diabetes #stroke #cancer #respiratory #kidney #Alzheimers; 4 ⭐⭐⭐⭐ | Tags: #biological-age #blood-test #mortality-risk
+
+- **Marker**: NAD+ (intracellular)
+    - Change: Baseline: 25.6 micromolar (without supplementation). Increased to 38 micromolar with 60 mg/day nicotinic acid (10 days) and 1000mg NMN. Increased to 67 micromolar with 600 mg/day nicotinic acid. Increased above 25 micromolar with 9 mg/day vitamin B6.; Increased from 21.1 to 31.7 micromolar.; Decreased from 30.1 µM to 22.3 µM after increasing average daily vitamin B6 intake from 11.3 mg/day to 37.2 mg/day. Other measured levels were 25.6 µM and 25.3 µM while intaking 3.2 mg/day of vitamin B6.; Baseline 20-25 µM, increased to 67 µM after nicotinic acid supplementation, returned to 22 µM without supplementation.; Increase from baseline (18.5-26.6 µM) to 29.6 µM after consuming 121g of clover sprouts daily for 9 days.; No significant change observed (26.3 µM with intervention vs. 18.5-26.6 µM baseline range).; From 25.6 micromolar (baseline) to 39.3 micromolar (with 1000 mg/day NMN supplementation for 7 days).; Four-fold increase in liver NAD+ levels; From 25.6 micromolar (baseline) to 30.1 micromolar (with increased vitamin B6 intake).; No change observed; remained at 19.9 micromolar, the lowest reading across six tests.; Huge excretion of trigonelline in urine after gavage in mice.; Significantly increased in liver, muscle, kidney, and blood of mice 2 hours after trigonelline gavage.; No increase; the lowest value of 17.1 µM was observed.; Not measured yet, video on results to come.; Decrease to 19 µM after consuming 271g of clover sprouts daily for 11 days.; Increased dose-dependently with trigonelline supplementation in human muscle cells.; Increased significantly in mice 2 hours after trigonelline gavage, reaching 100-250 μM.
+    - Context: Supplement interventions with NMN, nicotinic acid, and vitamin B6.; Case study, single individual, NMN supplementation.; After being fed 50mg/kg of grape seed proanthocyanidin extract.; Measured after 10 days of 500mg/day trigonelline supplementation. Baseline established with 20 measurements from early 2023 to 2024.; Intervention with 45 mg/day nicotinic acid and 51 mg/day trigonelline.; Interventions included increased trigonelline intake through diet (alfalfa sprouts, green peas, snow peas, fenugreek seeds) aiming to increase NAD levels.; Self-experiment with one participant. NAD levels were measured using blood tests from Infinity.; Follow-up self-experiment with a higher dose of trigonelline.; *In vitro* study using HSMM cells.; Case study, single individual tracking their NAD levels.; Measured on the same day as blood test number 7. Intervention: Nicotinic Acid supplementation (50-60 mg/day for 36 of 49 days).; Case study, single individual, increased vitamin B6 intake.; *In vivo* study in young mice.; After 19 days of daily supplementation with 6.1 grams of grape seed powder.; Self-experiment with trigonelline-rich foods.
+    - Timeframe: 9 days; 7 days.; 11 days; 49 days (11.3mg), 14 days (15.6mg); Unspecified.; 2 hours.; Baseline established over 7 tests; intervention tested on March 4th after varying nicotinic acid intake (27-45 mg/day) and one week of 51 mg/day of trigonelline.; Tests conducted in July and August 2023.; 32 days for the period of 37.2 mg/day vitamin B6 intake.; 49 days.; 10 days.; 19 days; 10 days for low-dose nicotinic acid. Other timeframes not specified.; Not specified.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #urine #trigonelline #mice #excretion #acute; 3 ⭐⭐⭐ | Tags: #biomarkers #NAD #supplementation #intracellular; 1 ⭐ | Tags: #healthmarker #NAD #biomarker; 3 ⭐⭐⭐ | Tags: #healthmarker #NAD #intracellular #NMN; 2 ⭐⭐ | Tags: #healthmarker #NAD #intracellular #vitaminB6; 4 ⭐⭐⭐⭐ | Tags: #NAD+ #trigonelline #cells #increase; 1 ⭐ | Tags: #NAD #biomarker #self-experiment; 1 ⭐ | Tags: #health-marker #NAD #aging #biomarker; N/A | Tags: #NAD #trigonelline #diet #observation; 3 ⭐⭐⭐ | Tags: #health-markers #NAD #intracellular #no-change #blood-test; 2 ⭐⭐ | Tags: #NAD+ #health marker #intracellular; 3 ⭐⭐⭐ | Tags: #biomarker #nad #nicotinicacid; 4 ⭐⭐⭐⭐ | Tags: #NAD+ #trigonelline #mice #increase #acute; 4 ⭐⭐⭐⭐ | Tags: #plasma #trigonelline #mice #increase #acute; 3 ⭐⭐⭐ | Tags: #NAD #biomarker #ratstudy; 2 ⭐⭐ | Tags: #NAD, #biomarker, #trigonelline, #supplementation, #health-marker
+
+- **Marker**: Muscle Fiber Integrity
+    - Change: Reduced with trigonelline supplementation.; Improved with trigonelline supplementation in *C. elegans*.; Extended by approximately 17.4% with trigonelline supplementation.
+    - Context: *In vivo* study using a nematode model of aging.
+    - Timeframe: Observed at two time points during aging.; Median lifespan.; 10 days.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #paralysis #trigonelline #worms #reduction; 4 ⭐⭐⭐⭐ | Tags: #muscle #fiber #trigonelline #worms #improvement; 4 ⭐⭐⭐⭐ | Tags: #lifespan #trigonelline #worms #extension
+
+- **Marker**: Blood Glucose
+    - Change: Reduced increase after 75g glucose load.; Increased CO2 production following red light (670nm) exposure in conjunction with a glucose load.; Reduced peak in blood glucose after a large glucose load following red light (670nm) exposure.
+    - Context: Participants fasted overnight, received a glucose load, and were exposed to red light on their back.; Red light exposure (670nm) in Glen Jeffery's study.
+    - Timeframe: Acute effect.; Increase in CO2 levels observed during the period of blood glucose monitoring.; Reduction in blood glucose spike observed within the first hour after glucose consumption.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #CO2 #metabolism #redlight #healthmarker; 4 ⭐⭐⭐⭐ | Tags: #bloodglucose #healthmarker #redlight; 4 ⭐⭐⭐⭐ | Tags: #bloodglucose #redlight #mitochondria
 
 - **Marker**: Leukocyte Telomere Length (LTL)
-    - Change: Average LTL was 7.05 kilobases (kb) in 2022 (3 tests), 7.13 kb in 2023 (8 tests), and 7.12 kb in 2024 (data up to May). Recent tests (3 of the last 5) showed declines to 7.06-7.08 kb.; Increased from an average of 7.04 kilobases in 2022 (3 tests) to 7.14 kilobases in 2023 (7 tests). Significant increase (p < 0.05).; Increase from 7.04 kilobases (average of 3 tests in 2022) to 7.14 kilobases (average of tests in 2023).
-    - Context: Measured by True Diagnostic using blood samples.; Self-experimentation by the individual, tracking telomere length over time.; Measured via "a simple true diagnostic test". The goal is to approach youthful levels (around 7.75 kb).
-    - Timeframe: Data from 2022 to May 28, 2024. Ongoing monitoring with the next test in approximately two weeks from the video's creation, and an update expected in September.; Measured over approximately one year (2022-2023).; Observed over one year (2022-2023).
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #telomere-length #aging #biomarker #longitudinal; 3 ⭐⭐⭐ | Tags: #telomere-length #biomarker #aging; 4 ⭐⭐⭐⭐ | Tags: #telomere #biomarker #aging #longitudinal
+    - Change: Increased from an average of 7.04 kilobases in 2022 (3 tests) to 7.14 kilobases in 2023 (7 tests). Significant increase (p < 0.05).; Average LTL was 7.05 kilobases (kb) in 2022 (3 tests), 7.13 kb in 2023 (8 tests), and 7.12 kb in 2024 (data up to May). Recent tests (3 of the last 5) showed declines to 7.06-7.08 kb.; Increase from 7.04 kilobases (average of 3 tests in 2022) to 7.14 kilobases (average of tests in 2023).; Declines with age.
+    - Context: Measured by True Diagnostic using blood samples.; Self-experimentation by the individual, tracking telomere length over time.; Observational studies in various populations, including European, US, and Israeli cohorts.; Measured via "a simple true diagnostic test". The goal is to approach youthful levels (around 7.75 kb).
+    - Timeframe: Observed over one year (2022-2023).; Data from 2022 to May 28, 2024. Ongoing monitoring with the next test in approximately two weeks from the video's creation, and an update expected in September.; Measured across the lifespan.; Measured over approximately one year (2022-2023).
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #telomere-length #aging #biomarker #longitudinal; 4 ⭐⭐⭐⭐ | Tags: #telomere #biomarker #aging #longitudinal; 4 ⭐⭐⭐⭐ | Tags: #telomere length #aging; 3 ⭐⭐⭐ | Tags: #telomere-length #biomarker #aging
 
-- **Marker**: 17-a-estradiol (17aE2; non-feminizing estrogen)
-    - Effects: Shown to robustly increase the lifespan of male mice.
-    - Context: ITP studies mentioned in the transcript.
-    - Limitations: Does not work in females.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #17aE2 #lifespan #mouse #ITP
+- **Marker**: Globulin
+    - Change: 1.9 g/dL; Average of 3.73 g/dL; 33.6 g/L (high)
+    - Context: Reference range in the cited study was 2.8-3.0 g/dL. Levels below 2.8 were not associated with increased all-cause mortality.; High levels associated with increased all-cause mortality.; Centenarian woman; \~25 g/L associated with reduced risk of death from all causes. Suggests potential underlying infectious issues.
+    - Timeframe: Not applicable (single measurement).; Single blood test.; Measured at ages 111.5, 113.3, and 115.7.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #globulin #inflammation #infection #mortality; 3 ⭐⭐⭐ | Tags: #globulin #gammagap #mortality #inflammation; 3 ⭐⭐⭐ | Tags: #globulin #immunity #allcausemortality
 
-- **Marker**: Experimental (SCFA measurement)
-    - Methodology: Measuring fecal and plasma SCFAs in mice on different diets, including methionine-restricted and a control. Also, measuring the same in mice treated with Acarbose.
-    - Key Findings: Methionine restriction and Acarbose treatment increased SCFA levels.
-    - Limitations: Mouse studies, human SCFA responses may differ.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #experimental #SCFAs #methionine #acarbose #mice
+- **Marker**: Creatinine
+    - Change: Higher than the average of 0.95 mg/dL since 2015.; 0.98 mg/dL, slightly higher than the lowest value of 0.82 mg/dL in 2024 but close to the average of 0.95 mg/dL since 2015.; Reduced from 1.04 to 0.98 mg/dL. Aiming for 0.9 mg/dL. Average since 2015 is 0.95 mg/dL.; 1.25 mg/dL (high)
+    - Context: Marker of kidney function. Other kidney markers (BUN, uric acid) suggest no significant impairment.; Centenarian woman; indicates reduced kidney function, eGFR of 35 mL/min/1.73m².; Increased flaxseed intake may be a contributing factor. From test 5 to test 6.; Target for improvement.
+    - Timeframe: Data since 2015.; Recent tests in 2023.; Not applicable (single measurement).; From August 22nd to October 24th, 2022
+    - Confidence: 3 ⭐⭐⭐ | Tags: #creatinine #kidney #renal; 3 ⭐⭐⭐ | Tags: #health\_marker #creatinine #flaxseed; 4 ⭐⭐⭐⭐ | Tags: #creatinine #kidney #eGFR #aging; 4 ⭐⭐⭐⭐ | Tags: #creatinine #healthmarker #improvement
+
+- **Marker**: Mean Corpuscular Volume (MCV)
+    - Change: Decreased slightly from 94.7 fL to 93.5 fL, potentially due to increased cocoa bean intake.; Moved towards more youthful values.; Lower levels in the youthful range associated with lower all-cause mortality. Reference range: 89.2-91.6. Paul Saladino's level: 83.7.; 100.8 fL (high)
+    - Context: Potentially linked to increased cocoa bean intake, which is significantly correlated with lower MCV.; Centenarian woman; indicates big red blood cells; values around 88 fL found in biological youth, higher values associated with increased mortality risk.; Marker of red blood cell size, which increases with age. Goal is to lower it.; Data from 36,000 subjects.
+    - Timeframe: 49 days.; Not applicable (single measurement).; Not specified.; Recent change.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #MCV #RBC #aging #mortality; 3 ⭐⭐⭐ | Tags: #MCV #cocoa-beans #diet #observation; 3 ⭐⭐⭐ | Tags: #MCV #redbloodcells #mortality; 2 ⭐⭐ | Tags: #mcv #hematology #red-blood-cells
+
+- **Marker**: Horvath Epigenetic Age (Intrinsic Epigenetic Age Acceleration - IEEA)
+    - Change: 50.78 years (0.55 years older than chronological age but lowest over six tests)
+    - Context: Diet and lifestyle intervention including modified paleo diet, pre/probiotics, exercise, sleep, and stress management.; Blood test in April 2023. This represents the speaker's epigenetic age as measured by the Horvath clock.
+    - Timeframe: Snapshot in time, but part of a series of tests over two years.; 8 weeks
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #epigenetics #horvath #biomarker #aging; 2 ⭐⭐ | Tags: #epigenetic\_age #Horvath\_clock #intervention
+
+- **Marker**: Dunedin Pace
+    - Change: 0.76 (Current test), 0.837 (Average of three tests in 2022), 0.777 (Average of three tests in 2023); 0.98 (worst score observed) after 600 mg/day nicotinic acid.; 0.98 (faster aging) with 67 µM NAD, 0.75 (slower aging) with 22 µM NAD, average of 0.777 over three tests (excluding the high NAD outlier).; Remained relatively stable (0.84 in 2022, 0.80 in 2023, 0.81 in 2024) instead of showing age-related increase.; Reduced from an average of 0.84 in 2022 to 0.80 in 2023 and 0.81 in 2024 (so far). The current average over the past six months (five tests) is 0.787.; Increases with chronological age.
+    - Context: Data from TrueDiagnostic, potentially subject to healthy user bias.; Case study, single individual tracking their epigenetic aging.; Potentially negative effect of high-dose nicotinic acid.; Personal data from the speaker, tracked over multiple tests. The goal is to further reduce DunedinPACE.; The speaker's personal data over 14 tests. A slower DunedinPACE indicates a slower speed of epigenetic aging.; This represents the speaker's rate of epigenetic aging, where a lower number indicates a slower pace. The difference between 2022 and 2023 averages is nearly statistically significant (p=0.052).
+    - Timeframe: 2022-2024; Measured over 13 tests from 2022 to 2024.; Tests conducted over several months in 2023.; Current test represents a snapshot, while averages cover periods in 2022 and 2023.; Cross-sectional data across different age groups.; Not specified.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #epigenetics #dunedinpace #biomarker #agingrate; 1 ⭐ | Tags: #healthmarker #epigenetics #aging #DunedinPACE; 3 ⭐⭐⭐ | Tags: #epigenetics #dunedinPACE #aging #biomarker #population #cross-sectional; 3 ⭐⭐⭐ | Tags: #biomarkers #epigenetics #aging_rate #DunedinPACE; 3 ⭐⭐⭐ | Tags: #dunedinpace #epigeneticage #healthmarker #longitudinal; 3 ⭐⭐⭐ | Tags: #epigenetics #dunedinPACE #aging #biomarker #longitudinal
+
+- **Marker**: Median Survival (NIA Diet)
+    - Change: Significant increase (exact percentage not provided in the transcript); 7% increase; Significant increase (exact percentage not provided in the transcript, but stated as 137 weeks vs 108 for ad lib); 18.5% increase
+    - Context: Single-meal feeding group (12.9 kcal/day, 12-hour fast) compared to ad libitum (13.1 kcal/day).; Single-meal feeding group compared to ad libitum.; Calorie-restricted group (9.2 kcal/day, 23-hour fast) compared to ad libitum (13.1 kcal/day).; Single-meal feeding group (13.2 kcal/day, 9-hour fast) compared to ad libitum (14 kcal/day).
+    - Timeframe: 75% survival was significantly extended in the single-meal feeding group.; Median survival increased from 104 weeks (ad libitum) to approximately 123 weeks (single-meal feeding).; Median survival was significantly increased in the calorie-restricted group.; Median survival increased from 108 weeks (ad libitum) to approximately 116 weeks (single-meal feeding).
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #survival #lifespan #fasting; 4 ⭐⭐⭐⭐ | Tags: #survival #lifespan #calorie-restriction #fasting
+
+- **Marker**: Estimated Glomerular Filtration Rate (eGFR)
+    - Change: Increase from an average of 86 (2006-2013) to 97 (2015-2020) in the speaker.; eGFR less than 45 is associated with a significantly increased risk of death for all causes.
+    - Context: A meta-analysis of 46 studies that included more than 2 million subjects.; Personal data tracked over 15 years, with dietary changes implemented around 2015.
+    - Timeframe: Not specified in the transcript.; Improvement observed over approximately 5 years.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #eGFR #kidney-function #biomarker #mortality; 3 ⭐⭐⭐ | Tags: #eGFR #kidney-function #biomarker #longitudinal
+
+- **Marker**: Relative muscle weight
+    - Change: Increased from 0.95% (vehicle) to 0.99% (1x), 0.99% (2x), and 1.04% (5x).; Significantly increased in all *L. plantarum* groups compared to vehicle, with a plateau at 2x and 5x.; Significantly increased in all *L. plantarum* groups compared to vehicle.; Increased from 2.66% (vehicle) to a higher, but unspecified percentage in the 5x group.
+    - Context: *L. plantarum* supplementation in young mice for 4 weeks.
+    - Timeframe: 4 weeks
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #grip #strength #muscle #mice #probiotic; 4 ⭐⭐⭐⭐ | Tags: #aerobic #capacity #exercise #mice #probiotic; 4 ⭐⭐⭐⭐ | Tags: #cecum #gut #microbiome #mice #probiotic; 4 ⭐⭐⭐⭐ | Tags: #muscle #mass #mice #probiotic
+
+- **Marker**: Glutathione (GSH)
+    - Change: Not directly measured due to unavailability of individual GSH and GSSG tests in the US.; 50% reduction during aging (21 to 61+ years old); About 50% higher in centenarians compared to 67-year-olds
+    - Context: Observational data from multiple studies.; Observational study.; A high GSSG/GSH ratio is indicative of oxidative stress.
+    - Timeframe: N/A; Over decades.
+    - Confidence: N/A | Tags: #glutathione #oxidative-stress #aging; 3 ⭐⭐⭐ | Tags: #glutathione #centenarians #longevity; 4 ⭐⭐⭐⭐ | Tags: #glutathione #aging #decline
+
+- **Marker**: Speaker's Free T3/T4 Ratio
+    - Change: Decreased from 0.3 in October 2022 to 0.18 in April 2024.
+    - Context: Personal data of the speaker, who is taking 137.5 mcg/day of levothyroxine.
+    - Timeframe: 18-month period.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #thyroid #ratio #personaldata
 
 - **Marker**: Glucose
     - Change: Optimal range: 80-94 mg/dL. Paul Saladino's level: 87 mg/dL.
@@ -3278,11 +2879,35 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Not specified.
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #glucose #mortality #longevity
 
+- **Marker**: Trypsin in tissues.
+    - Change: Increased presence in liver, lung, heart, kidney, brain, and skin of aged rats.
+    - Context: Comparison between young (4 months) and old (24 months) rats.
+    - Timeframe: Observed in aged animals.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #biomarker #trypsin #aging #rats
+
+- **Marker**: Elastase in tissues.
+    - Change: Increased presence in liver, lung, heart, kidney, and brain of aged rats.
+    - Context: Comparison between young and old rats.
+    - Timeframe: Observed in aged animals.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #biomarker #elastase #aging #rats
+
+- **Marker**: Collagen breakdown.
+    - Change: Increased collagen breakdown in the intestine, liver, lung, heart, kidney, brain, and skin of aged rats.
+    - Context: Assessed using collagen hybridizing peptide.
+    - Timeframe: Observed in aged animals.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #biomarker #collagen #aging #rats
+
 - **Marker**: Intestinal mucin content.
     - Change: Reduced density in aged rats.
     - Context: Comparison between young and old rats using immunohistochemistry.
     - Timeframe: Observed in aged animals.
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #biomarker #mucin #aging #rats
+
+- **Marker**: Plasma protein degradation.
+    - Change: Increased low molecular weight peptides in plasma after shock and in aged animals.
+    - Context: Assessed using mass spectrometry.
+    - Timeframe: Observed after shock and in aged animals.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #biomarker #plasma-proteins #degradation #aging
 
 - **Marker**: FGF21 levels
     - Change: 5-10 fold increase in FGF21 transgenic mice
@@ -3290,23 +2915,71 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Lifespan
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #FGF21 #mice #genetic-engineering
 
+- **Marker**: All-cause mortality risk
+    - Change: Reduced with higher circulating EPA and DHA levels, particularly DHA levels above the 50th percentile.
+    - Context: Meta-analysis of 17 studies.
+    - Timeframe: Long-term risk assessment.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #mortality #risk #omega-3 #EPA #DHA
+
 - **Marker**: Speaker's EPA Level
     - Change: 2.6 micromolar
     - Context: At-home metabolomics test
     - Timeframe: May and April
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #biomarker #omega-3 #EPA
 
-- **Marker**: hsCRP
-    - Change: Less than 0.2 mg/L (at-home test), less than 0.3 mg/L (venipuncture).
-    - Context: Measured to assess inflammation and validate at-home testing method. Lower values are favorable.
-    - Timeframe: Single measurement, validated against historical data.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #healthmarker #hscrp #inflammation
+- **Marker**: Grip Strength
+    - Change: Higher levels of grip strength in albumin-injected mice.
+    - Context: Measured in female and male mice at 20 months of age after 8 months of rMSA or saline injections.
+    - Timeframe: 8 months
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #gripstrength #musclestrength #healthspan
 
-- **Marker**: Glucose
-    - Change: Increases with age. Men's levels plateau around 60, while women's increase more linearly. The speaker maintained a stable average of 89 mg/dL from 2005-2015 and 87.7 mg/dL more recently.
-    - Context: Large observational study (12.5 million subjects) and personal data.
-    - Timeframe: Lifetime; personal data over 10+ years.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #glucose #aging #mortality
+- **Marker**: Muscle Mass (Gastrocnemius)
+    - Change: Significantly increased in combined male and female rMSA-treated mice. Trends for higher muscle mass in separate male and female groups, but not statistically significant.
+    - Context: Measured in mice at 20 months of age.
+    - Timeframe: 8 months
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #musclemass #gastrocnemius #healthspan
+
+- **Marker**: Spatial Learning and Memory (Barnes Maze)
+    - Change: Improved ability to find the escape hole and faster escape times in rMSA-treated mice.
+    - Context: Assessed using the Barnes maze in mice at 20 months of age.
+    - Timeframe: 8 months
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #spatiallearning #memory #barnesmaze #cognitivefunction #healthspan
+
+- **Marker**: *Serratia marcescens* in oral microbiome
+    - Change: Varied significantly across tests, ranging from 0% to 96%. Average of 45% in the first five tests (with mouthwash) and 95.5% in the last four tests (without mouthwash or with modifications).
+    - Context: Measured via oral microbiome testing (Bristle). Changes associated with dietary interventions and mouthwash use.
+    - Timeframe: Changes observed over 10 tests conducted over several months.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #healthmarker #oralmicrobiome #serratia #bristle
+
+- **Marker**: Luminescence/Phosphorescence
+    - Change: Some artifacts glow under UV light and continue to emit light after the light source is removed.
+    - Context: Observed visually on various artifacts.
+    - Timeframe: Immediate effect under UV light; phosphorescence duration not specified.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #luminescence #phosphorescence #visual-marker
+
+- **Marker**: Mitochondrial Membrane Potential
+    - Change: Decreased by FK866 (inhibition of salvage pathway), rescued by trigonelline or NR unless Preiss-Handler pathway was also blocked.
+    - Context: *In vitro* study using HSMM cells.
+    - Timeframe: Not specified.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #mitochondria #membrane #potential #trigonelline #rescue
+
+- **Marker**: Resistance to Muscle Fatigue
+    - Change: Improved with chronic trigonelline supplementation in aged mice.
+    - Context: *In vivo* study in aged mice.
+    - Timeframe: 3 months.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #muscle #fatigue #trigonelline #mice #improvement
+
+- **Marker**: Oxygen Saturation
+    - Change: Improved faster in the NIR group.
+    - Context: Pereira et al. RCT on COVID-19 patients.
+    - Timeframe: Over 7 days.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #oxygensaturation #nir #covid19
+
+- **Marker**: Lymphocyte Count
+    - Change: Increased by 850 cells/mm³ in the NIR group.
+    - Context: Pereira et al. RCT on COVID-19 patients.
+    - Timeframe: Over 7 days.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #lymphocytes #nir #covid19
 
 - **Marker**: Klemera/Dubal Biological Age
     - Change: Increases with age, younger biological age observed with calorie restriction.
@@ -3314,17 +2987,29 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: 2 years (for calorie restriction effect).
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #biological age #Klema/Dubal #biomarkers
 
-- **Marker**: Resting Heart Rate (RHR)
-    - Change: Average of 47 bpm.
-    - Context: Measured daily, average taken between blood tests. Associated with lower all-cause mortality risk.
-    - Timeframe: Ongoing monitoring.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #rhr #restingheartrate #cardiovascular #allcausemortality
+- **Marker**: Red Blood Cell Count (RBC)
+    - Change: Increased from a range of 4.45-4.8 (without yogurt) to consistently above 5 (with yogurt).
+    - Context: Dietary intervention (yogurt consumption, approximately 440g/day).
+    - Timeframe: Several years of data, with 6 measurements during yogurt consumption.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #RBC #yogurt #diet #biomarker
 
-- **Marker**: Heart Rate Variability (HRV)
-    - Change: Average of 53 ms between two blood tests, 58 ms in the most recent month.
-    - Context: Measured daily, average taken between blood tests. Indicative of good cardiovascular health and younger biological age.
-    - Timeframe: Ongoing monitoring.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #hrv #heartratevariability #cardiovascular #biologicalage
+- **Marker**: Cumulative Survival
+    - Change: People with the longest tiirs had a significantly reduced all-cause mortality risk when compared to people with the shortest tail length.
+    - Context: In this study, all-cause mortality risk was plotted against follow-up time of 14 years after initial assessment of tiir length.
+    - Timeframe: 14 years.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #cumulative-survival #mortality #telomere-length
+
+- **Marker**: Body Weight
+    - Change: Used as a primary indicator of overall health and eating habits. Mangan mentions weighing 1-2 pounds more the day after a workout due to increased food intake.
+    - Context: Mangan weighs himself daily and adjusts his diet based on weight fluctuations.
+    - Timeframe: Daily monitoring.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #health-marker #body-weight #self-monitoring
+
+- **Marker**: Vitamin D (25-hydroxy)
+    - Change: Average 64 ng/mL over 10 at-home tests during the 42-day period.
+    - Context: No vitamin D supplementation, regular sun exposure.
+    - Timeframe: 42 days.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #biomarker #vitaminD #deficiency
 
 - **Marker**: Creatinine, Glucose
     - Change: Lower levels, which is considered a positive trend.
@@ -3350,17 +3035,47 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Not applicable (single measurement)
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #lymphocytes #immune #aging #coronavirus
 
-- **Marker**: Horvath Epigenetic Age (Intrinsic Epigenetic Age Acceleration - IEEA)
-    - Change: 50.78 years (0.55 years older than chronological age but lowest over six tests)
-    - Context: Blood test in April 2023. This represents the speaker's epigenetic age as measured by the Horvath clock.
-    - Timeframe: Snapshot in time, but part of a series of tests over two years.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #epigenetics #horvath #biomarker #aging
+- **Marker**: Insulin
+    - Change: 50% lower in mice on a low AGE diet vs. regular AGE diet.
+    - Context: 24-month-old mice fed a low or high AGE diet for their lifespan.
+    - Timeframe: Lifetime.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #insulin #AGEs #mice #insulin-resistance
 
-- **Marker**: Insulin Resistance
-    - Change: Improved with glycine + NAC supplementation
-    - Context: RCT in older adults.
-    - Timeframe: 16-24 weeks.
-    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #insulin #resistance #improvement #glycine #NAC
+- **Marker**: HOMA-IR
+    - Change: Lower in humans on a low AGE diet vs. high AGE diet.
+    - Context: Meta-analysis of 5 RCTs.
+    - Timeframe: Not specified in the transcript.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #HOMA-IR #AGEs #humans #insulin-sensitivity
+
+- **Marker**: Body Weight
+    - Change: Lower in mice on a low AGE diet vs. regular AGE diet, despite similar food intake.
+    - Context: RCT in mice.
+    - Timeframe: Became statistically significant at 96 weeks.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #body-weight #AGEs #mice #metabolism
+
+- **Marker**: Plasma oxalate
+    - Change: Reduced with increased dietary calcium intake.
+    - Context: RCT on calcium and oxalate absorption.
+    - Timeframe: Not specified, likely short-term.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #healthmarker #oxalate #calcium #kidney
+
+- **Marker**: Fasting Interval
+    - Change: Varied between 9 to 23 hours
+    - Context: Different fasting intervals were observed in the single-meal feeding and calorie-restricted groups across both diets.
+    - Timeframe: Daily fasting interval.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #fasting #duration #mice
+
+- **Marker**: Calorie Intake
+    - Change: Average intake around 2100 calories per day. Aiming to reduce to around 2050 to assess impact on telomere length.
+    - Context: Tracked using food scale and chronometer.
+    - Timeframe: Ongoing.
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #calories #diet #biomarker
+
+- **Marker**: Gut microbiome composition (Bacteroidetes)
+    - Change: Increased relative abundance in the 2x and 5x groups.
+    - Context: *L. plantarum* supplementation in young mice for 4 weeks.
+    - Timeframe: 4 weeks
+    - Confidence: 4 ⭐⭐⭐⭐ | Tags: #gut #microbiome #bacteroidetes #mice #probiotic
 
 - **Marker**: Red Blood Cells
     - Change: Lower than the average of 4.85 since 2015.
@@ -3368,95 +3083,122 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Recent tests in 2023.
     - Confidence: 4 ⭐⭐⭐⭐ | Tags: #redbloodcells #healthmarker #improvement
 
-- **Marker**: Consuming 15g or more of pickled dill can contribute to increased NAD+ levels.
-    - Context: Dill is a good source of quercetin (55.5mg/100g), which inhibits CD38. Pickling dill in leftover pickle juice is suggested as a consumption method.; Red/purple onions are a good source of quercetin, which inhibits CD38, leading to increased NAD+ levels.
-    - Timeframe: Not explicitly stated, but the effect of inhibiting CD38 on NAD+ levels is expected to be relatively rapid.
-    - Limitations: The specific amount of red/purple onions needed and the corresponding NAD+ increase are not quantified.; The exact timeframe and magnitude of NAD+ increase from this specific dill intake are not detailed. The quercetin content might vary depending on the pickling process.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #NAD+ #quercetin #onions #CD38; 3 ⭐⭐⭐ | Tags: #diet #NAD+ #quercetin #dill #CD38
+- **Marker**: CRP (C-reactive protein)
+    - Change: 133% reduction.; Reduced by 133%
+    - Context: South Louisville tree planting study.; Planting 8,000 trees in South Louisville, KY.
+    - Timeframe: 2-3 years; 2-3 years.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #CRP #cardiovasculardisease #greenspace #environmentalintervention; 2 ⭐⭐ | Tags: #crp #greenspace #cardiovascular
 
-- **Marker**: Methyl B12, 1000 mcg every 3 days.
-    - Effects: Experimenting with dosage to assess impact on homocysteine.; Aiming to reduce homocysteine levels.; Aimed to reduce homocysteine levels.; Expected to potentially reduce homocysteine.; Reduced homocysteine by 20%.
-    - Context: Used to manage homocysteine levels.; Experiment to assess the impact on homocysteine levels.; Taken between April and July blood tests. Population: Single individual (speaker).; Case study, n=1, exploring potential effects on homocysteine levels.; 49-day period leading up to blood test #3. Dosage planned to be increased to 4g/day for the next testing period.; Personal biohacking experiment, included in the recent blood test.
-    - Limitations: Early stage; long-term effects and dosage optimization needed.; No dramatic improvement or worsening of Levine's biological age data was observed with this dosage. Individual responses may vary.; Short-term supplementation, specific to the speaker's goal.; Effects on homocysteine not yet confirmed in this individual.; Inconsistent usage, no clear effect on homocysteine observed yet.; Individual response; may not be necessary for everyone.
-    - Confidence: 2 ⭐⭐ | Tags: #supplement #methylb12 #homocysteine #methylation; 3 ⭐⭐⭐ | Tags: #supplement #B12 #homocysteine; 1 ⭐ | Tags: #supplement #methylb12 #homocysteine #shortterm; 2 ⭐⭐ | Tags: #oranges #proline #betaine #homocysteine #methylation; 2 ⭐⭐ | Tags: #supplement #methyl-B12 #homocysteine #experiment; 2 ⭐⭐ | Tags: #serine #homocysteine #aminoacid #supplementation
+- **Marker**: Risk of type 2 diabetes
+    - Change: 28% reduction; Reduced; 31% reduction; 16% reduction; Increased
+    - Context: Living closer to nature; Living in or close to green spaces.
+    - Timeframe: Not specified
+    - Confidence: 3 ⭐⭐⭐ | Tags: #bloodpressure #greenspace #reduction; 3 ⭐⭐⭐ | Tags: #sleep #greenspace #increase; 3 ⭐⭐⭐ | Tags: #type2diabetes #greenspace #riskreduction; 3 ⭐⭐⭐ | Tags: #cardiovascular #mortality #greenspace #riskreduction; 3 ⭐⭐⭐ | Tags: #heartrate #greenspace #reduction; 3 ⭐⭐⭐ | Tags: #mortality #greenspace #riskreduction
 
-- **Marker**: Nicotinic Acid, 45 mg/day
-    - Effects: No significant change in NAD+ levels from baseline.; Experimenting with dosage and alternatives for potentially increasing NAD.; The speaker took these supplements to target NAD-related pathways. The speaker experienced a negative effect on the Dunedin Pace of Aging test after taking both, and potentially a worse effect after doubling the tryptophan dose, after removing niacin.; Increased NAD+ levels to 38 micromolar, comparable to 1000 mg/day of NMN.; No increase in NAD levels (26.3 µM); Potential increase in NAD+ levels, although the effect may not have been fully washed out during the first clover sprout experiment.; No increase in NAD levels (26.3 µM compared to baseline range of 18.5-26.6 µM).; Increased NAD+ levels to 67 micromolar.
-    - Context: Case study, n=1, exploring strategies to increase NAD levels.; Case Study, n=1, healthy individual aiming to optimize NAD+ levels; Taken in the one-week period prior to the first clover sprout experiment but eliminated 4 days before testing.; Case study, single individual tracking their NAD levels.; The speaker's NAD levels were low.; Case Study, n=1, healthy individual aiming to optimize NAD+ levels.; Self-experiment with one participant. NAD levels were measured using blood tests from Infinity.; Case Study, single individual, NAD measured via intracellular blood test by Gfinity.; Case Study, single individual, blood test on March 4th
-    - Limitations: Potential confounding factor in the first experiment, dosage was relatively low.; Single individual, self-reported. Impact on DunedinPACE with this dose is unknown.; Personal anecdote with a negative outcome. Further research is needed to understand the effects of these supplements on aging biomarkers.; Single individual, short duration, possibly below the effective threshold.; Single individual, varying dosage, possibly below the effective threshold.; Single individual, self-reported. Correlated with worst epigenetic pace of aging (DunedinPACE 0.98).; Single individual, self-reported.; Inconsistent usage, exploring alternatives like fenugreek seeds and chickpeas.
-    - Confidence: 1 ⭐ | Tags: #supplement #niacin #tryptophan #NAD #aging; 1 ⭐ | Tags: #supplement #NMN #NAD #longevity; 2 ⭐⭐ | Tags: #supplement #nicotinic-acid #NAD #experiment; 2 ⭐⭐ | Tags: #supplements #nicotinic acid #NAD+; 1 ⭐ | Tags: #supplement #niacin #nicotinicacid #NAD #longevity #epigenetics; 3 ⭐⭐⭐ | Tags: #supplements #nicotinic-acid #NAD #low-dose #ineffective; 3 ⭐⭐⭐ | Tags: #biomarkers #NAD #supplementation #intracellular; 1 ⭐ | Tags: #supplement #niacin #nicotinicacid #NAD #longevity; 1 ⭐ | Tags: #health-marker #NAD #aging #biomarker
+- **Marker**: Average Daily Heart Rate (ADHR)
+    - Change: Used as an index of physical activity; titrated down purposefully after active days.; Used as an index of physical activity. Higher ADHR correlated with higher RHR and lower HRV.; Higher average daily heart rate is correlated with a higher next-day RHR and a lower next-day HRV.
+    - Context: The speaker uses a fitness tracker to monitor this metric, in beats per minute (bpm).; Used as an index of daily physical activity; no significant change observed between test periods.; Significantly correlated with next day's RHR and HRV.; Indicator of daily activity levels and their impact on cardiovascular health.
+    - Timeframe: Daily; Daily measurements; 49 days; Daily fluctuations observed.
+    - Confidence: 3 ⭐⭐⭐ (personal data) | Tags: #heartrate #physicalactivity; 3 ⭐⭐⭐ | Tags: #adhr #activity #exercise; 3 ⭐⭐⭐ | Tags: #ADHR #activity #physicalactivity; 3 ⭐⭐⭐ | Tags: #physical-activity #heart-rate #recovery
 
-- **Marker**: Globulin
-    - Change: Average of 3.73 g/dL; 1.9 g/dL
-    - Context: High levels associated with increased all-cause mortality.; Reference range in the cited study was 2.8-3.0 g/dL. Levels below 2.8 were not associated with increased all-cause mortality.
-    - Timeframe: Measured at ages 111.5, 113.3, and 115.7.; Single blood test.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #globulin #immunity #allcausemortality; 3 ⭐⭐⭐ | Tags: #globulin #gammagap #mortality #inflammation
+- **Marker**: Body Weight
+    - Change: Higher body weight is significantly correlated with a higher RHR and lower HRV. The speaker's data suggests an optimal body weight around 151 lbs for minimizing RHR and maximizing HRV.; Not specified, but trends show periods of increase and decrease. Current weight approaches 139 pounds.; Fluctuations in body weight were analyzed. Approaching 144 pounds correlated with an RHR of 43 bpm and an HRV of 75 ms.
+    - Context: The speaker has measured their body weight daily since 2015.; Significantly correlated with RHR and HRV.; Lower body weight associated with improved RHR and HRV.
+    - Timeframe: Daily; Effects observed over months to years.; Daily measurements since 2015, monthly averages presented.
+    - Confidence: 3 ⭐⭐⭐ (personal data) | Tags: #bodyweight #RHR #HRV; 3 ⭐⭐⭐ | Tags: #body-weight #correlation #health; 3 ⭐⭐⭐ | Tags: #bodyweight #weightloss #bmi
 
 - **Marker**: Bile Acids (various, blood levels)
     - Change: 16% to over 700% higher (e.g., Glycocholic acid 16% higher, Ursodeoxycholic acid over 700% higher, median increase around 200%); Significantly higher (e.g., Deoxycholic acid 3.7x, Cholic acid 3.5x, Ursodeoxycholic acid 2.8x, total bile acids 4.2x)
-    - Context: Observational study comparing dwarf mice (lit/lit model) to wild-type mice.; Observational study comparing long-lived individuals (average age 97) to their offspring (average age 67).
+    - Context: Observational study comparing long-lived individuals (average age 97) to their offspring (average age 67).; Observational study comparing dwarf mice (lit/lit model) to wild-type mice.
     - Timeframe: Not specified.; Cross-sectional comparison.
     - Confidence: 3 ⭐⭐⭐ | Tags: #bile #acids #blood #longevity #human; 3 ⭐⭐⭐ | Tags: #bile #acids #blood #longevity #mice #dwarf
 
+- **Marker**: Cholesterol Esters (specifically C16:0-CE, C18:0-CE, C18:1-CE, C18:2-CE, C22:6-CE)
+    - Change: Lower levels are associated with a higher healthy lifestyle score.; Higher levels associated with an increased probability of reaching 85 years.; Higher levels are associated with a higher healthy lifestyle score. For example, the average of five tests for the presenter was 271 micromolar. Test number six showed a decrease to 180 micromolar.
+    - Context: Identified as part of a metabolite signature associated with a healthy lifestyle and longevity.; Observational study and self-experimentation.; Part of a 5-factor healthy lifestyle metabolite signature associated with lower all-cause mortality and increased longevity.
+    - Timeframe: The study's follow-up was 28 years, suggesting long-term associations.; The study's follow-up was 28 years, suggesting long-term associations. The presenter's data spans several months to a year.; Not specified, likely long-term.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #triglycerides #lipids #metabolites #biomarkers #longevity; 3 ⭐⭐⭐ | Tags: #triglycerides #longevity #metabolomics; 3 ⭐⭐⭐ | Tags: #cholesterol #esters #metabolites #biomarkers #longevity
+
+- **Marker**: NAD+ levels
+    - Change: Decreased with increasing concentrations of apigenin and quercetin.; Increased by approximately 50% with apigenin treatment. A smaller but still significant increase was observed with quercetin.
+    - Context: In vitro study examining the effect of apigenin and quercetin on CD38 activity in cells.; In vitro study using apigenin and quercetin. The increase in NAD+ levels was intracellular.
+    - Timeframe: Not specified, likely acute effects observed in cell culture.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #NAD+ #apigenin #quercetin #CD38; 3 ⭐⭐⭐ | Tags: #CD38 #apigenin #quercetin #NAD+
+
+- **Marker**: Apolipoprotein B (ApoB)
+    - Change: Higher levels (>1.4 g/L) associated with increased CHD and all-cause dementia risk in the general population, and increased cardiovascular and all-cause mortality risk in 39-59 year-olds. Very low levels (<1.06 g/L) associated with increased all-cause mortality risk in individuals over 60.; Increased risk associated with higher ApoB (>1.4 g/L) in individuals aged 39-59 and 60-79. No significant association with ApoB levels in individuals over 80.; Increased risk associated with very low ApoB (<1.06 g/L) in individuals over 60. Increased risk associated with higher ApoB (>1.4 g/L) in individuals aged 39-59.
+    - Context: Observational study, population of 94,000, stratified by age.; Observational studies on large populations.
+    - Timeframe: Not specified, likely long-term associations.; Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #mortality #apob #age; 3 ⭐⭐⭐ | Tags: #mortality #cardiovascular #apob #age; 3 ⭐⭐⭐ | Tags: #apob #chd #dementia #mortality #cardiovascular
+
+- **Marker**: Methionine sulfoxide
+    - Change: Higher levels found in centenarians (average age 97) compared to their offspring (average age 67).; Likely increases with age (based on higher methionine sulfoxide levels in older individuals).
+    - Context: Increased oxidative stress associated with aging.; Indicative of increased oxidative stress during aging.
+    - Timeframe: Baseline data presented; changes over time need to be assessed.; N/A
+    - Confidence: 2 ⭐⭐ | Tags: #oxidative-stress #aging #methionine-sulfoxide #methionine; 3 ⭐⭐⭐ | Tags: #oxidative-stress #aging #methionine
+
 - **Marker**: FGF21 levels
     - Change: Approximately doubled (156 to 358.5 pg/mL) from age 5 to 80 in humans.; Higher in obese individuals (positive correlation with BMI)
-    - Context: Observational study across a wide age range; Observational study in healthy controls and type 2 diabetics
+    - Context: Observational study in healthy controls and type 2 diabetics; Observational study across a wide age range
     - Timeframe: Cross-sectional
     - Confidence: 3 ⭐⭐⭐ | Tags: #FGF21 #obesity #BMI #human; 3 ⭐⭐⭐ | Tags: #FGF21 #aging #human
 
-- **Marker**: Average Daily Heart Rate (ADHR)
-    - Change: Used as an index of physical activity. Higher ADHR correlated with higher RHR and lower HRV.
-    - Context: Used as an index of daily physical activity; no significant change observed between test periods.; Indicator of daily activity levels and their impact on cardiovascular health.
-    - Timeframe: Daily fluctuations observed.; 49 days
-    - Confidence: 3 ⭐⭐⭐ | Tags: #ADHR #activity #physicalactivity; 3 ⭐⭐⭐ | Tags: #adhr #activity #exercise
+- **Marker**: Homocysteine
+    - Change: Lower levels associated with higher carrot intake (favorable, but not followed due to beta-carotene concerns). Higher levels associated with higher mushroom intake (unfavorable).; Increased to 11 µmol/L (average of previous 15 tests was 10.4 µmol/L).; Aiming for reduction with serine and B6 supplementation.; Trending upwards. Goal is to lower by limiting omega-6 intake and monitoring the effect of B12 removal.; Not explicitly quantified, but targeted for reduction.; Increased to the highest level in 3 years during this test period. Negatively correlated with B12 intake (r = -0.65, p < 0.05, n = 20) and date intake (r = -0.85, n = 13).; Increased from 10 to 10.8 µmol/L; Reduced by approximately 20% with methyl B12 supplementation.; Not impacted by BCAA supplementation.
+    - Context: After introduction of oranges (proline betaine) and chickpeas (trigonelline).; Amino acid, increases with age, associated with increased all-cause mortality risk.; Future experiment.; Personal data correlated with B12 and omega-6 intake. Higher homocysteine is associated with increased all-cause mortality risk.; Indicator of methylation status.; Serine and Vitamin B6 supplementation were implemented to potentially reduce homocysteine levels.; Attempt to lower homocysteine with high-dose BCAAs.; Intervention was increasing sardine intake (source of B12).; After at least 39 days of 2g/day glycine supplementation.; Despite increasing dietary methyl donors, homocysteine levels went in the wrong direction.
+    - Timeframe: Observed over 63 days.; Ongoing monitoring; Ongoing intervention.; To be measured in the future.; 14 days.; 49 days.; Multiple tests.; Single blood test after supplementation.; 49-day period.; 42 days.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #homocysteine #methyl-donors #diet #observation; 3 ⭐⭐⭐ | Tags: #biomarker #homocysteine #cardiovascular; 3 ⭐⭐⭐ | Tags: #homocysteine #methylation; 3 ⭐⭐⭐ | Tags: #homocysteine #methylation #cardiovascular #health; N/A | Tags: #health-marker #homocysteine #future-experiment; 2 ⭐⭐ | Tags: #biomarkers #homocysteine #bcaas; 2 ⭐⭐ | Tags: #homocysteine #cardiovascularrisk #aminoacids; 3 ⭐⭐⭐ | Tags: #healthmarker #homocysteine; 3 ⭐⭐⭐ | Tags: #homocysteine #biomarker #all-cause-mortality #B12 #omega-6; 2 ⭐⭐ | Tags: #homocysteine #serine #vitaminb6
 
-- **Marker**: DunedinPACE (epigenetic clock for speed of aging)
-    - Change: Remained relatively stable (0.84 in 2022, 0.80 in 2023, 0.81 in 2024) instead of showing age-related increase.; Reduced from an average of 0.84 in 2022 to 0.80 in 2023 and 0.81 in 2024 (so far). The current average over the past six months (five tests) is 0.787.
-    - Context: The speaker's personal data over 14 tests. A slower DunedinPACE indicates a slower speed of epigenetic aging.; Personal data from the speaker, tracked over multiple tests. The goal is to further reduce DunedinPACE.
-    - Timeframe: Measured over 13 tests from 2022 to 2024.; 2022-2024
-    - Confidence: 3 ⭐⭐⭐ | Tags: #epigenetics #dunedinPACE #aging #biomarker #longitudinal; 3 ⭐⭐⭐ | Tags: #dunedinpace #epigeneticage #healthmarker #longitudinal
+- **Marker**: Liver enzymes (ALT and AST)
+    - Change: Lower levels associated with higher strawberry and mushroom intake.; Moved in the right direction relative to higher values in test number one.
+    - Context: Potentially linked to increased peanut intake, which is inversely correlated with the sum of ALT and AST.; Liver enzyme, lower levels generally favorable within the healthy range.
+    - Timeframe: 49 days.; Observed over 63 days.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #healthmarker #ast #liver; 3 ⭐⭐⭐ | Tags: #liver-enzymes #ALT #AST #peanuts #diet #observation
+
+- **Marker**: Ferritin
+    - Change: Mangan suggests that serum iron is less important than ferritin as a marker of iron status.; Mangan advocates for maintaining low-normal ferritin levels.
+    - Context: High ferritin is associated with increased iron stores, which may be detrimental to health.; Free iron, not bound by ferritin, is implicated in cellular damage.
+    - Timeframe: Ongoing monitoring may be needed in conjunction with ferritin.; Ongoing monitoring recommended.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #health-marker #ferritin #iron; 3 ⭐⭐⭐ | Tags: #health-marker #iron #ferritin
+
+- **Marker**: Short-chain fatty acids (acetate, propionate, butyrate)
+    - Change: Approximately 50% reduction in individuals over 80 compared to those under 50.; Increased after 6 weeks of endurance exercise (3 times/week) in lean individuals.
+    - Acetate: 49 mmol/L to 19 mmol/L
+    - Propionate: 16 mmol/L to 8 mmol/L
+    - Butyrate: Approaching 50% reduction
+    - Context: Intervention study in previously sedentary individuals (20-45 years old). No change observed in obese individuals.; Observational study comparing SCFA levels across age groups.
+    - Timeframe: 6 weeks.; Cross-sectional comparison.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #health-marker #SCFA #aging; 3 ⭐⭐⭐ | Tags: #health-marker #SCFA #exercise #BMI
 
 - **Marker**: Glucose
-    - Change: Higher fructose intake correlated with lower glucose levels.; Higher protein intake significantly correlated with higher glucose.
-    - Context: Self-experiment. Population: Single individual, male.; Self-experiment; glucose increases with age.
-    - Timeframe: 7 years; Based on correlation analysis with dietary data over 6 years.
-    - Confidence: 2 ⭐⭐ | Tags: #glucose #protein #aging; 3 ⭐⭐⭐ | Tags: #glucose #fructose
+    - Change: Higher B12 correlated with higher platelets (positive), higher omega-6 correlated with lower platelets (negative).; Higher fructose intake correlated with lower glucose levels.; Higher protein intake significantly correlated with higher glucose.; Higher B12 correlated with higher neutrophils (negative).; Not quantified, but higher fat intake correlated with higher neutrophils.; Slightly decreased with age from 215-219 (x 10³/µL) in the 70s age group to 189-193 (x 10³/µL) in centenarians.; Higher B12 correlated with lower lymphocyte percentage (negative).; Higher protein intake significantly correlated with lower lymphocyte percentage.; Higher protein intake significantly correlated with higher platelets.
+    - Context: Self-experiment; lymphocyte percentage decreases with age.; Personal data. Neutrophils increase during aging and are associated with increased all-cause mortality risk.; Self-experiment; platelets decrease with age, but a u-shaped relationship with all-cause mortality exists. Lower end of the 200-300 range may be optimal for this individual.; Observational study; optimal range (200-300 x 10³/µL) associated with lowest all-cause mortality risk.; Self-experiment; glucose increases with age.; Personal data. Platelets decrease during aging.; Neutrophils increase with age and are associated with increased all-cause mortality.; Self-experiment. Population: Single individual, male.; Personal data. Lymphocyte percentage decreases during aging.
+    - Timeframe: Ongoing monitoring; Based on correlation analysis with dietary data over 6 years.; Correlation observed over multiple blood tests.; Not specified.; 7 years
+    - Confidence: 3 ⭐⭐⭐ | Tags: #glucose #fructose; 3 ⭐⭐⭐ | Tags: #platelets #mortality #aging; 3 ⭐⭐⭐ | Tags: #lymphocytes #biomarker #aging #B12; 2 ⭐⭐ | Tags: #platelets #protein #aging; 3 ⭐⭐⭐ | Tags: #neutrophils #biomarker #aging #all-cause-mortality #B12; 2 ⭐⭐ | Tags: #glucose #protein #aging; 2 ⭐⭐ | Tags: #lymphocytes #protein #aging; 3 ⭐⭐⭐ | Tags: #neutrophils #inflammation #aging #mortality; 3 ⭐⭐⭐ | Tags: #platelets #biomarker #aging #B12 #omega-6
 
-- **Marker**: Blood Ergothioneine
-    - Change: Higher levels associated with lower incidence of coronary artery disease (CAD).; Higher levels associated with reduced risk of cardiovascular disease (CVD) mortality.
-    - Context: Cohort study; hazard ratio (HR) and confidence interval (CI) both below 1.; Cohort study; HR and CI below 1.
-    - Timeframe: Longitudinal observation, duration not specified.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #ergothioneine #cardiovascular-disease #mortality; 3 ⭐⭐⭐ | Tags: #ergothioneine #cardiovascular-disease #risk-reduction
+- **Marker**: Plasma Ergothioneine
+    - Change: Higher levels associated with reduced risk of cardiovascular disease (CVD) mortality.; Decline with age.; Higher levels associated with lower incidence of coronary artery disease (CAD).; Lower in frail older adults.; Higher levels associated with reduced all-cause mortality.
+    - Context: Observational study; exact rate of decline not specified.; Case-control study; magnitude of difference not quantified.; Cohort study; hazard ratio (HR) and confidence interval (CI) both below 1.; Cohort study; HR and CI below 1.; Observational study in humans with an average age of 58, 22-year follow-up.
+    - Timeframe: Measured across different age groups.; Longitudinal observation, duration not specified.; 22 years.; Cross-sectional comparison.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #ergothioneine #cardiovascular-disease #mortality; 3 ⭐⭐⭐ | Tags: #ergothioneine #aging #biomarker; 3 ⭐⭐⭐ | Tags: #ergothioneine #frailty #aging; 3 ⭐⭐⭐ | Tags: #ergothioneine #cardiovascular-disease #risk-reduction; 3 ⭐⭐⭐ | Tags: #marker #ergothioneine #plasma #mortality #longevity
 
 - **Marker**: Blood lead levels
-    - Change: 48% increased risk in women, 22% in men; Significantly increased risk for blood lead levels > 8 µg/dL; One standard deviation increase in blood lead levels.
+    - Change: Significantly increased risk for blood lead levels > 8 µg/dL; One standard deviation increase in blood lead levels.; 48% increased risk in women, 22% in men
     - Context: Associated with a nearly 5-year older biological age.; Compared to blood lead levels < 8 µg/dL; Associated with relatively higher blood lead levels.
-    - Timeframe: Median follow-up of 19 years; Median follow-up of 7 years (first study), 19 years (second study); Not specified
+    - Timeframe: Not specified; Median follow-up of 7 years (first study), 19 years (second study); Median follow-up of 19 years
     - Confidence: 3 ⭐⭐⭐ | Tags: #mortality #lead; 3 ⭐⭐⭐ | Tags: #biomarker #aging #lead
 
 - **Marker**: Red Blood Cells
     - Change: Decreased with age from 4.44 in the 70s age group to 3.61-3.77 in centenarians.; Decreased with age from 13.8-13.3 in the 70s age group to 11.1-11.5 in centenarians.
-    - Context: Observational study; levels below 13 in men and below 11 in women are associated with increased all-cause mortality risk.; Observational study; age-related decrease is consistent with other studies.
+    - Context: Observational study; age-related decrease is consistent with other studies.; Observational study; levels below 13 in men and below 11 in women are associated with increased all-cause mortality risk.
     - Timeframe: Not specified.
     - Confidence: 3 ⭐⭐⭐ | Tags: #redbloodcells #aging; 3 ⭐⭐⭐ | Tags: #hemoglobin #mortality #aging
 
-- **Marker**: Consuming 40g of parsley every other day can increase NAD+ levels.
-    - Context: Parsley is a concentrated source of apigenin (4500mg/100g), which inhibits CD38, leading to increased NAD+ levels. Parsley consumption is suggested to be added to a smoothie.
-    - Timeframe: Not explicitly stated, but the effect of inhibiting CD38 on NAD+ levels is expected to be relatively rapid.
-    - Limitations: The exact timeframe and magnitude of NAD+ increase from this specific parsley intake are not detailed. Individual absorption and metabolism of apigenin may vary.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #NAD+ #apigenin #parsley #CD38
-
-- **Marker**: Consuming three to four cups of coffee per day leads to approximately 8-10 μM of trigonelline in plasma.
-    - Context: Observational study used trigonelline as a biomarker for coffee exposure.
-    - Timeframe: Not specified.
-    - Limitations: This plasma concentration may not be sufficient to significantly modulate NAD+ levels or impact health outcomes.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #diet #trigonelline #coffee #dosage #plasma #levels
-
-- **Marker**: Diastolic blood pressure
-    - Change: Reduced
-    - Context: Living closer to nature
-    - Timeframe: Not specified
-    - Confidence: 3 ⭐⭐⭐ | Tags: #bloodpressure #greenspace #reduction
+- **Marker**: All-cause mortality, cardiometabolic activity, and other-cause mortality
+    - Change: Reduced with daytime light exposure, increased with nighttime light exposure (midnight to 7:00 AM). The effect showed a dose-response curve, meaning higher daytime light exposure led to greater reductions in mortality.
+    - Context: Observational study with 88,000 UK Biobank participants, tracked for 8 years.
+    - Timeframe: 8 years
+    - Confidence: 3 ⭐⭐⭐ | Tags: #mortality #lightexposure #circadianrhythm #doseresponse
 
 - **Marker**: Salivary cortisol
     - Change: Significantly reduced
@@ -3482,17 +3224,17 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Cross-sectional comparison.
     - Confidence: 3 ⭐⭐⭐ | Tags: #glycine #blood #longevity #human
 
-- **Marker**: Cholesterol Esters (specifically C16:0-CE, C18:0-CE, C18:1-CE, C18:2-CE, C22:6-CE)
-    - Change: Higher levels are associated with a higher healthy lifestyle score. For example, the average of five tests for the presenter was 271 micromolar. Test number six showed a decrease to 180 micromolar.
-    - Context: Part of a 5-factor healthy lifestyle metabolite signature associated with lower all-cause mortality and increased longevity.
-    - Timeframe: The study's follow-up was 28 years, suggesting long-term associations. The presenter's data spans several months to a year.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #cholesterol #esters #metabolites #biomarkers #longevity
+- **Marker**: Aβ42/Aβ40 ratio
+    - Change: Plasma levels are a biomarker of amyloid plaques found in the brain.
+    - Context: Not directly measured by the speaker due to high cost.
+    - Timeframe: Not applicable
+    - Confidence: 3 ⭐⭐⭐ | Tags: #abeta42 #abeta40 #amyloidplaques #alzheimers #biomarker
 
-- **Marker**: Phosphorylated tau (p-tau)
-    - Change: Plasma levels are a biomarker of tau tangles found in the brain.
+- **Marker**: Glial fibrillary acidic protein (GFAP)
+    - Change: Plasma levels are a biomarker of neuroinflammation.
     - Context: Not commercially available for testing in the US.
     - Timeframe: Not applicable
-    - Confidence: 3 ⭐⭐⭐ | Tags: #ptau #tautangles #alzheimers #huntingtons #biomarker
+    - Confidence: 3 ⭐⭐⭐ | Tags: #gfap #neuroinflammation #biomarker
 
 - **Marker**: Neurofilament light chain (NfL)
     - Change: Plasma levels are a biomarker of neurodegeneration.
@@ -3500,17 +3242,59 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Not applicable
     - Confidence: 3 ⭐⭐⭐ | Tags: #nfl #neurodegeneration #biomarker
 
-- **Marker**: NAD+ levels
-    - Change: Increased by approximately 50% with apigenin treatment. A smaller but still significant increase was observed with quercetin.
-    - Context: In vitro study using apigenin and quercetin. The increase in NAD+ levels was intracellular.
-    - Timeframe: Not specified, likely acute effects observed in cell culture.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #NAD+ #apigenin #quercetin #CD38
+- **Marker**: All-cause mortality
+    - Change: Lowest incidence in individuals with the highest spermidine intake (>11.6 mg/day).
+    - Context: Observational study over 20 years.
+    - Timeframe: 20 years.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #mortality #spermidine #observational
+
+- **Marker**: Free T4 (thyroxine)
+    - Change: Decreases from approximately 13.25-13.5 pmol/L in youth to 12.5 pmol/L around age 50-60, then increases to around original levels by age 90.
+    - Context: Observational study of 83,000+ individuals.
+    - Timeframe: Changes observed over decades.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #thyroid #freet4 #aging
+
+- **Marker**: Free T3/T4 Ratio
+    - Change: Decreases from approximately 0.35-0.38 in youth to 0.31-0.32 by age 90, and further to 0.2 in centenarians. A ratio below 0.45 is associated with increased mortality risk. In centenarians, a ratio of 0.18 was associated with shorter survival compared to 0.24.
+    - Context: Multiple observational studies.
+    - Timeframe: Changes observed over decades.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #thyroid #ratio #mortality #frailty
+
+- **Marker**: Interleukin-1 beta (IL-1β)
+    - Change: Reduction (inhibition)
+    - Context: Hesperidin's effect in various studies, not specific to COVID-19.
+    - Timeframe: Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #inflammation #cytokine #hesperidin
+
+- **Marker**: Creatinine
+    - Change: Optimal range: around 0.8 mg/dL. Paul Saladino's level: 0.98 mg/dL (considered near-optimal due to higher muscle mass).
+    - Context: Data from 30,000 subjects.
+    - Timeframe: Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #creatinine #mortality #kidneyfunction #musclemass
+
+- **Marker**: Lymphocyte Percentage
+    - Change: Optimal range: around 28% in youth. Paul Saladino's level: 26.8%.
+    - Context: Data from 378,000 subjects.
+    - Timeframe: Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #lymphocytes #aging #immunesystem
 
 - **Marker**: LDL Cholesterol
     - Change: No significant association with CHD risk or all-cause dementia risk in the analyzed studies.
     - Context: Observational studies on large populations.
     - Timeframe: Not specified.
     - Confidence: 3 ⭐⭐⭐ | Tags: #ldl #chd #dementia
+
+- **Marker**: Body fat percentage
+    - Change: Higher body fat percentage associated with better survival in some mouse models (e.g., dwarves, ILS cross), but may be specific to subcutaneous fat.
+    - Context: Observational studies in mice.
+    - Timeframe: Observed over the lifespan of the animals.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #body #fat #survival #mouse #subcutaneous
+
+- **Marker**: Visceral fat
+    - Change: Rapamycin may reduce visceral fat in humans.
+    - Context: Pearl trial (human study).
+    - Timeframe: Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #visceral #fat #rapamycin #human
 
 - **Marker**: Insulin receptor density on cell surfaces.
     - Change: Reduced density after exposure to plasma from individuals who consumed a high-fat meal, especially in pre-diabetic and diabetic individuals.
@@ -3530,6 +3314,12 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Cross-sectional in humans, lifespan in mice.
     - Confidence: 3 ⭐⭐⭐ | Tags: #glucose #insulin #centenarians #FGF21 #mice
 
+- **Marker**: All-cause mortality, cancer-related mortality, cardiovascular disease-related mortality
+    - Change: 62%, 71%, and 85% reduction, respectively, in centenarian offspring compared to controls.
+    - Context: Observational study
+    - Timeframe: Not specified
+    - Confidence: 3 ⭐⭐⭐ | Tags: #mortality #centenarians #human
+
 - **Marker**: Cortisol
     - Change: 12.5 µg/dL (average of 12 finger prick tests). 18.35 µg/dL (average of two test in 2005)
     - Context: Within the midpoint range for chronological age, but showing a decline since 2005.
@@ -3542,11 +3332,41 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Multiple measurements, including historical data.
     - Confidence: 3 ⭐⭐⭐ | Tags: #testosterone #aging #biomarker
 
+- **Marker**: EPA (eicosapentaenoic acid)
+    - Change: 23% lower in centenarians compared to their offspring.
+    - Context: Observational study comparing centenarians and their offspring.
+    - Timeframe: Represents a snapshot at a single time point.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #biomarker #omega-3 #EPA #aging
+
+- **Marker**: Creatinine
+    - Change: Trended towards below average.
+    - Context: Potentially linked to chickpea intake, which is inversely correlated with creatinine.
+    - Timeframe: Over the past few tests.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #creatinine #chickpeas #diet #observation
+
 - **Marker**: White Blood Cells (WBCs), Neutrophils, Lymphocytes, Monocytes
     - Change: Alterations in total count or distribution may reflect immune activation or infection.
     - Context: These immune cells play a role in responding to microbial challenges.
     - Timeframe: Not specified.
     - Confidence: 3 ⭐⭐⭐ | Tags: #healthmarker #WBC #immunity #infection
+
+- **Marker**: Skin pH
+    - Change: Increases with age. Optimal skin pH is around 5.
+    - Context: Maintaining a slightly acidic skin pH is important for skin barrier function and microbiome balance. Soaps and cleansers with a high pH (e.g., 8) can disrupt skin pH.
+    - Timeframe: Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #healthmarker #skinpH #skinhealth #aging
+
+- **Marker**: Oral pH
+    - Change: Should be close to physiological pH (7.3-7.4). Acidic mouthwashes (pH below 5.5) can accelerate cavity formation.
+    - Context: Maintaining a neutral oral pH is important for oral health and microbiome balance.
+    - Timeframe: Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #healthmarker #oralpH #oralhealth
+
+- **Marker**: LDL
+    - Change: Lower levels associated with higher strawberry, mushroom, collard green, and beet intake.
+    - Context: Lipoprotein, lower levels generally favorable.
+    - Timeframe: Observed over 63 days.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #healthmarker #ldl #cholesterol
 
 - **Marker**: Platelets
     - Change: Lower levels associated with higher strawberry and mushroom intake. Also lower with higher beet intake.
@@ -3554,17 +3374,23 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Observed over 63 days.
     - Confidence: 3 ⭐⭐⭐ | Tags: #healthmarker #platelets
 
-- **Marker**: Creatinine
-    - Change: 0.98 mg/dL, slightly higher than the lowest value of 0.82 mg/dL in 2024 but close to the average of 0.95 mg/dL since 2015.
-    - Context: Marker of kidney function. Other kidney markers (BUN, uric acid) suggest no significant impairment.
-    - Timeframe: Data since 2015.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #creatinine #kidney #renal
+- **Marker**: Lymphocyte Percentage
+    - Change: Lower levels associated with higher red bell pepper intake (unfavorable). Higher levels associated with higher beet intake (favorable).
+    - Context: Immune cell, declines with aging.
+    - Timeframe: Observed over 63 days.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #healthmarker #lymphocytes #immunity
 
-- **Marker**: Albumin
-    - Change: Stable at 5.0 g/dL.
-    - Context: Marker of liver health and function.
-    - Timeframe: Not specified.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #albumin #liver
+- **Marker**: Lymphocytes (Human)
+    - Change: Lymphocyte counts around 2,000 cells/µL (2 x 10^9 cells/L) are associated with the lowest risk of all-cause mortality.
+    - Context: Based on human observational studies. Lymphocyte counts tend to decline with age.
+    - Timeframe: Adults, values declining with age.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #lymphocytes #all-cause-mortality #human #biomarker
+
+- **Marker**: Triglycerides
+    - Change: Improved from previous tests in the 60s and 70s mg/dL to 57 mg/dL.
+    - Context: Ongoing effort to lower triglycerides to <40 mg/dL.
+    - Timeframe: Recent improvement, timeframe not precisely specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #triglycerides #cardiovascular #lipids
 
 - **Marker**: Lymphocytes
     - Change: Increased from <1600 (3 tests) to around 1900 (2 consecutive tests), moving closer to the optimal 2000.
@@ -3572,17 +3398,71 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Recent improvement.
     - Confidence: 3 ⭐⭐⭐ | Tags: #lymphocytes #immune #aging
 
+- **Marker**: AST (Aspartate Aminotransferase)
+    - Change: Lower levels associated with higher cocoa bean intake
+    - Context: Personal data (N=1) analysis over 3+ years.
+    - Timeframe: 3+ years
+    - Confidence: 3 ⭐⭐⭐ | Tags: #ast #liver-enzyme #cocoa-beans #n=1
+
+- **Marker**: Lymphocyte Percentage
+    - Change: Lower levels associated with higher cocoa bean intake (negative correlation)
+    - Context: Personal data (N=1) analysis over 3+ years.
+    - Timeframe: 3+ years
+    - Confidence: 3 ⭐⭐⭐ | Tags: #lymphocytes #immune-cells #cocoa-beans #n=1
+
+- **Marker**: Electromagnetic Field (EMF)
+    - Change: Fluctuations from 0 to over 180 milligauss, varying between artifacts and over time. Background is 0 when not near the artifacts, and the phone does not cause an increase when placed near the reader.
+    - Context: Measured using a TriField meter near artifacts.
+    - Timeframe: Changes observed over short periods (hours, days).
+    - Confidence: 3 ⭐⭐⭐ | Tags: #emf #fluctuation #health-marker
+
 - **Marker**: AnthropoAge
     - Change: A value lower than chronological age is considered "non-accelerated" and associated with a lower 10-year mortality risk.
     - Context: Calculated using body composition measurements. The presenter's AnthropoAge was 48.73 (simplified) and 47.88 (full), lower than their chronological age of 50.2.
     - Timeframe: Represents current biological age estimation.
     - Confidence: 3 ⭐⭐⭐ | Tags: #biological-age #anthropometry #mortality-risk
 
+- **Marker**: NAD+ (intracellular)
+    - Change: Significantly lower in muscle tissue of sarcopenic individuals compared to age-matched controls.
+    - Context: Observational study in elderly Singaporean males.
+    - Timeframe: Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #NAD+ #sarcopenia #muscle #decline
+
+- **Marker**: Serum Trigonelline
+    - Change: Significantly lower in sarcopenic individuals compared to age-matched controls.
+    - Context: Observational study using serum samples from the same Singaporean cohort.
+    - Timeframe: Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #trigonelline #sarcopenia #serum #decline
+
+- **Marker**: Grip Strength
+    - Change: Positively correlated with serum trigonelline levels.
+    - Context: Observational study in the Singaporean cohort and replicated in an Iranian cohort.
+    - Timeframe: Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #grip #strength #trigonelline #correlation
+
+- **Marker**: Appendicular Lean Mass
+    - Change: Positively correlated with serum trigonelline levels.
+    - Context: Observational study in the Singaporean cohort.
+    - Timeframe: Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #lean #mass #trigonelline #correlation
+
+- **Marker**: Mitochondrial OxPhos (Oxidative Phosphorylation) Pathway
+    - Change: Downregulated in muscle tissue of sarcopenic individuals.
+    - Context: Observational study using muscle biopsies from the Singaporean cohort.
+    - Timeframe: Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #mitochondria #oxphos #sarcopenia #downregulation
+
 - **Marker**: Uric Acid
     - Change: Average of 4.43 mg/dL
     - Context: Close to the level associated with lowest all-cause mortality (5.09 mg/dL).
     - Timeframe: Measured at ages 111.5, 113.3, and 115.7.
     - Confidence: 3 ⭐⭐⭐ | Tags: #uricacid #mortality #kidneyfunction
+
+- **Marker**: GOT (AST)
+    - Change: Average of 29 U/L
+    - Context: Associated with increased all-cause mortality risk.
+    - Timeframe: Measured at ages 111.5, 113.3, and 115.7.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #GOT #AST #liverfunction #mortality
 
 - **Marker**: Cholinesterase
     - Change: Average of 199 IU/L
@@ -3596,11 +3476,53 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Within 7 days preceding the blood draw.
     - Confidence: 3 ⭐⭐⭐ | Tags: #insulinsensitivity #sunlight
 
+- **Marker**: All-Cause Mortality
+    - Change: Reduced with increased sunlight exposure.
+    - Context: Southern Sweden and UK Biobank studies.
+    - Timeframe: Over several years of follow-up.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #mortality #sunlight
+
+- **Marker**: DNA Methylation (DNAm) Age (Horvath, Hannum, GrimAge)
+    - Change: Older epigenetic age associated with increased all-cause mortality risk.
+    - Context: Observational study, specific populations not detailed.
+    - Timeframe: Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #epigenetic clock #DNAm age #mortality
+
 - **Marker**: Cognitive Function
     - Change: Better cognitive function associated with lower all-cause mortality risk.
     - Context: Observational study, specific cognitive tests not detailed.
     - Timeframe: Not specified.
     - Confidence: 3 ⭐⭐⭐ | Tags: #cognitive function #mortality
+
+- **Marker**: Functional Aging Index (FAI)
+    - Change: Lower FAI (better function) associated with lower all-cause mortality risk.
+    - Context: Includes vision, hearing, pulmonary function, grip strength, and gait speed.
+    - Timeframe: Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #functional aging #mortality
+
+- **Marker**: Frailty Index (FI)
+    - Change: Lower FI (less frailty) associated with lower all-cause mortality risk.
+    - Context: Includes 42 different frailty measures.
+    - Timeframe: Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #frailty #mortality
+
+- **Marker**: Facial Aging
+    - Change: Significantly correlated with telomere shortness.
+    - Context: Observational study.
+    - Timeframe: Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #facial aging #telomere length
+
+- **Marker**: Plasma Glucose
+    - Change: Increased from an average of 87 mg/dL (without yogurt) to 95 mg/dL (with yogurt).
+    - Context: Dietary intervention (yogurt consumption); long-term self-tracking.
+    - Timeframe: Several years of data, with 6 measurements during yogurt consumption.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #glucose #yogurt #diet #biomarker
+
+- **Marker**: Phenotypic Age
+    - Change: Increased to 37.65 years in the most recent test, the worst reading in seven tests.
+    - Context: After implementing dietary changes (reducing fat, increasing fiber and broccoli).
+    - Timeframe: Measured four times in 2020, with the most recent test after dietary changes.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #biological-age #diet #intervention #phenotypic-age
 
 - **Marker**: Free Testosterone
     - Change: Mangan's free testosterone was out of range, on the high side, during a test done over a year ago.
@@ -3608,11 +3530,53 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Last measured over a year ago.
     - Confidence: 3 ⭐⭐⭐ | Tags: #health-marker #testosterone #hormones
 
+- **Marker**: ApoB
+    - Change: A marker of small, dense LDL particles.
+    - Context: Associated with poor metabolic health and metabolic syndrome.
+    - Timeframe: Not specified
+    - Confidence: 3 ⭐⭐⭐ | Tags: #health-marker #ApoB #LDL #metabolic-health
+
+- **Marker**: Hemoglobin A1c (HbA1c)
+    - Change: Ideally closer to 5 in metabolically healthy individuals on a low-carb diet, according to Mangan.
+    - Context: Higher values may indicate poor metabolic health.
+    - Timeframe: Not specified, but typically measured every few months to a year.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #health-marker #HbA1c #glucose #metabolic-health
+
+- **Marker**: Fasting Glucose
+    - Change: Can be influenced by the "dawn effect," especially under stress.
+    - Context: Mangan suggests a non-fasting glucose test might be more informative in some cases.
+    - Timeframe: Not specified, but typically measured in conjunction with HbA1c.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #health-marker #glucose #dawn-effect
+
+- **Marker**: Lipofuscin
+    - Change: Accumulation of lipofuscin, an "age pigment," is linked to cellular damage.
+    - Context: Formed by a combination of polyunsaturated fats and iron.
+    - Timeframe: Accumulates over a lifetime.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #health-marker #lipofuscin #aging #polyunsaturated-fats #iron
+
+- **Marker**: Visual Function
+    - Change: Improvement in visual function.
+    - Context: Following exposure to 850nm light.
+    - Timeframe: Not explicitly stated but implied to be a relatively short timeframe.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #vision #nearinfrared #healthmarker
+
 - **Marker**: White Blood Cell Count
     - Change: Current test result is 3.6 thousand per microliter; average since 2015 is 4.6 thousand per microliter.
     - Context: Compared to Quest Diagnostics reference range (3.8-10.8) and an observational study on white blood cell count and survival.
     - Timeframe: Single test result and average over 8 years.
     - Confidence: 3 ⭐⭐⭐ | Tags: #white #blood #cells #optimal #range
+
+- **Marker**: Neutrophil Count
+    - Change: Current test result is 1519 per microliter; average since 2015 is 2299 per microliter.
+    - Context: Compared to Quest Diagnostics reference range (1500-7800) and an observational study on neutrophil count and all-cause mortality.
+    - Timeframe: Single test result and average over 8 years.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #neutrophils #optimal #range
+
+- **Marker**: Triglyceride level, Glycogen, Trehalose, and Water
+    - Change: Curvilinear relationship with lifespan extension (tuning them predicted 30% of the early extension of lifespan, but further tuning led to a downward trend in longevity).
+    - Context: Experiments where these metabolites were specifically tuned in fruit flies.
+    - Timeframe: Not specified.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #metabolites #fruitflies #lifespan #triglyceride #glycogen #trehalose #water
 
 - **Marker**: Enterobacteria (gut microbiome)
     - Change: 1.7-fold increase in older adults (average age 75) compared to younger adults (average age 35).
@@ -3620,11 +3584,29 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Cross-sectional comparison, not a longitudinal change.
     - Confidence: 3 ⭐⭐⭐ | Tags: #health-marker #Enterobacteria #aging #gut-microbiome
 
+- **Marker**: All-cause mortality
+    - Change: Increased risk associated with higher Enterobacteria levels.
+    - Context: Observational study, hazard ratio above 1 indicates increased risk.
+    - Timeframe: Not specified, likely years of follow-up.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #health-marker #mortality #Enterobacteria #risk
+
 - **Marker**: Uric Acid
     - Change: Not specified, but mentioned as "good"
     - Context: Centenarian woman; marker of kidney function.
     - Timeframe: Not applicable (single measurement).
     - Confidence: 3 ⭐⭐⭐ | Tags: #uric-acid #kidney #aging
+
+- **Marker**: Hemoglobin
+    - Change: Not specified, but mentioned as "high"
+    - Context: Centenarian woman; good news, as hemoglobin carries oxygen.
+    - Timeframe: Not applicable (single measurement).
+    - Confidence: 3 ⭐⭐⭐ | Tags: #hemoglobin #oxygen #aging
+
+- **Marker**: Neutrophil-to-Lymphocyte Ratio (NLR)
+    - Change: \~1.8 (not bad, closer to 1 is ideal)
+    - Context: Centenarian woman.
+    - Timeframe: Not applicable (single measurement)
+    - Confidence: 3 ⭐⭐⭐ | Tags: #NLR #inflammation #aging
 
 - **Marker**: Lymphocytes
     - Change: Significant age-related decline over 9 years in the speaker's data.
@@ -3632,17 +3614,29 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Long-term trend over 9 years.
     - Confidence: 3 ⭐⭐⭐ | Tags: #lymphocytes #aging #decline
 
+- **Marker**: Alkaline phosphatase, Aspartate aminotransferase, DHEA-sulfate, HDL, LDL, hsCRP, Neutrophils+Monocytes, Platelets, Systolic Blood Pressure, Uric Acid
+    - Change: Significant correlations with calorie intake, with most showing changes associated with increased aging or mortality risk (except for platelets).
+    - Context: Speaker's personal data, analyzing correlations between various biomarkers and calorie intake.
+    - Timeframe: Based on long-term data.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #biomarkers #calories #aging #mortality
+
+- **Marker**: Uric Acid
+    - Change: Higher fructose intake correlated with higher uric acid levels.
+    - Context: Self-experiment, higher uric acid associated with increased all-cause mortality risk in a separate study of 425,000+ people.
+    - Timeframe: Based on correlation analysis with dietary data over 6 years.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #uric-acid #fructose #mortality
+
 - **Marker**: Blood Ergothioneine
     - Change: Lower in individuals with mild cognitive impairment (MCI).
     - Context: Case-control study; magnitude of difference not quantified in the provided transcript.
     - Timeframe: Cross-sectional comparison.
     - Confidence: 3 ⭐⭐⭐ | Tags: #ergothioneine #MCI #cognitive-impairment
 
-- **Marker**: Blood Ergothioneine
-    - Change: Lower in frail older adults.
-    - Context: Case-control study; magnitude of difference not quantified.
-    - Timeframe: Cross-sectional comparison.
-    - Confidence: 3 ⭐⭐⭐ | Tags: #ergothioneine #frailty #aging
+- **Marker**: Body Weight
+    - Change: Current weight is around 151 pounds, with a goal to reduce to 145 pounds or lower.
+    - Context: Significantly positively correlated with Horvath epigenetic age in the speaker. Current body fat percentage is estimated at 9%, with a target of 6%.
+    - Timeframe: Average daily body weight is tracked and correlated with each epigenetic test over two years.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #bodyweight #bodyfat #epigenetics #horvath
 
 - **Marker**: Serum Taurine
     - Change: Significant decline with age.
@@ -3650,40 +3644,116 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Decline observed over the lifespan in both species. The presenter's single measurement was taken in April 2023.
     - Confidence: 3 ⭐⭐⭐ | Tags: #healthmarker #taurine #aging #serumlevels #biomarker
 
-- **Marker**: Glutathione (blood)
-    - Change: About 50% higher in centenarians compared to 67-year-olds
-    - Context: Observational study.
-    - Timeframe: N/A
-    - Confidence: 3 ⭐⭐⭐ | Tags: #glutathione #centenarians #longevity
+- **Marker**: Cytomegalovirus (CMV)
+    - Change: Prevalence near 100% in all groups over 70.
+    - Context: Observational study; CMV is a herpesvirus that may impact aging through various mechanisms, including reduced sirtuin 1.
+    - Timeframe: Prevalence increases with age, reaching over 90% in those over 80.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #cmv #virus #aging #sirtuin1
 
-- **Marker**: Consumed 132g/day of alfalfa sprouts for 8 days leading up to the test, providing 24mg/day of trigonelline.
-    - Context: Observational, self-experiment, n=1, exploring trigonelline's impact on NAD levels.; Self-experiment by an individual (n=1) to test the effects of trigonelline on NAD+.
-    - Timeframe: 8 days prior to the test.
-    - Limitations: Single individual, self-reported, short duration.; Short duration, impact on NAD not yet confirmed.
-    - Confidence: 2 ⭐⭐ | Tags: #supplement, #trigonelline, #NAD, #self-experiment; 2 ⭐⭐ | Tags: #diet #alfalfa-sprouts #trigonelline #NAD #observation
+- **Marker**: Aspartate Aminotransferase (AST)
+    - Change: Higher B12 correlated with lower AST (positive), higher omega-6 correlated with higher AST (negative).
+    - Context: Personal data. Higher AST is associated with increased all-cause mortality risk.
+    - Timeframe: Ongoing monitoring.
+    - Confidence: 3 ⭐⭐⭐ | Tags: #AST #liver-enzyme #biomarker #all-cause-mortality #B12 #omega-6
 
-- **Marker**: Addition of chickpeas as a source of trigonelline.
-    - Context: Experiment to potentially impact NAD levels and methylation.
-    - Timeframe: 49-day period.
-    - Limitations: Early stage; impact on NAD levels to be determined.
-    - Confidence: 2 ⭐⭐ | Tags: #chickpeas #trigonelline #NAD #methylation
+- **Marker**: Very Low-Density Lipoprotein (VLDL)
+    - Change: Higher omega-6 correlated with lower VLDL (positive).
+    - Context: Personal data. VLDL increases during aging and is associated with increased cardiovascular disease risk.
+    - Timeframe: Ongoing monitoring
+    - Confidence: 3 ⭐⭐⭐ | Tags: #VLDL #biomarker #aging #cardiovascular-disease #omega-6
 
-- **Marker**: The transcript mentions that tested resin samples from a pipe artifact contained majority tobacco, with some other roots, but no cannabis or ayahuasca.
-    - Context: Analysis of organic material found within an artifact purported to be a pipe. The population is unknown. The people using this pipe are thought to be ancient and possibly non-human.
-    - Timeframe: Not applicable, as this is a compositional analysis.
-    - Limitations: Limited sample size (one pipe), unclear if the residue represents typical usage.
-    - Confidence: 2 ⭐⭐ | Tags: #ancient #diet #tobacco #no-cannabis #no-ayahuasca
+- **Marker**: Mean Corpuscular Volume (MCV)
+    - Change: Higher omega-6 correlated with higher MCV (negative).
+    - Context: Personal data.
+    - Timeframe: Ongoing monitoring
+    - Confidence: 3 ⭐⭐⭐ | Tags: #MCV #biomarker #omega-6
+
+- **Marker**: NAD (Not directly measured in this section)
+    - Change: No further increase with combined niacin and tryptophan.; The speaker had low NAD+ levels. Supplementation with niacin and tryptophan led to a negative outcome on the Dunedin Pace of Aging test.
+    - Context: NAD+ is a crucial coenzyme involved in various cellular processes.; Previous experiment.
+    - Timeframe: Not specified.
+    - Confidence: 2 ⭐⭐ | Tags: #health-marker #NAD #no-change; 1 ⭐ (based on personal experience) | Tags: #healthmarker #NAD #aging #supplementation
+
+- **Marker**: Kynurenine-to-tryptophan ratio (KTR)
+    - Change: Reduced from 24 to 22.5; Optimal range for lowest all-cause mortality risk identified as 15-23.
+    - Context: Speaker's personal data, tracked over approximately one year.; Based on an earlier video by the speaker, not detailed in the transcript.
+    - Timeframe: Not specified.; Approximately one year.
+    - Confidence: 2 ⭐⭐ | Tags: #ktr #longitudinal #personaldata; 2 ⭐⭐ | Tags: #ktr #allcausemortality #optimalrange
+
+- **Marker**: Lipopolysaccharide (LPS)
+    - Change: Elevated levels in blood suggest increased intestinal permeability and bacterial translocation.; Elevated levels may indicate high LPS levels.
+    - Context: LBP circulates in the blood and binds to LPS.; LPS is a component of the outer membrane of Gram-negative bacteria. Measurement can be challenging due to variability in the assay and binding to lipoproteins.
+    - Timeframe: Not specified.; Not specified, but can be acutely elevated after events like ultra-endurance exercise or a high-fat meal.
+    - Confidence: 2 ⭐⭐ | Tags: #healthmarker #LPS #guthealth #bacterialtranslocation; 2 ⭐⭐ | Tags: #healthmarker #LBP #LPS #bacterialtranslocation
+
+- **Marker**: Free T3 to Free T4 Ratio
+    - Change: Increased from 1.64 to 2.92.; Goal to increase the ratio. No change observed with increased selenium, but the experiment is ongoing.
+    - Context: Intervention: Increased dietary selenium to 400 mcg/day.; Potentially related to increased selenium intake from Brazil nuts. Measured on October 3rd and October 18th, 2022.
+    - Timeframe: Ongoing.; Two weeks.
+    - Confidence: 2 ⭐⭐ | Tags: #biomarkers #thyroid #freet3 #freet4 #selenium; 2 ⭐⭐ | Tags: #health\_marker #T3 #T4 #thyroid #selenium
+
+- **Marker**: Sleep Duration
+    - Change: Increased by 0.5 hours (from 7.2 to 7.7 hours)
+    - Context: Middle-of-the-night melatonin supplementation.
+    - Timeframe: 162 days
+    - Confidence: 2 ⭐⭐ | Tags: #sleep #duration #melatonin
+
+- **Marker**: FEV1 (Forced Expiratory Volume in one second)
+    - Change: Baseline average of 3.25 L decreased to 2.98 L during the seven-week lung training period. Post-training, FEV1 recovered to 3.09 L.
+    - Context: The decrease was observed during the use of "The Breather Fit" lung training device for six days a week, 5-8 minutes a day, at the highest resistance settings.
+    - Timeframe: Seven weeks of training led to a significant decline; seven weeks post-training led to partial recovery.
+    - Confidence: 2 ⭐⭐ | Tags: #FEV1 #lungfunction #respiratoryhealth #healthmarker
+
+- **Marker**: Nighttime Respiratory Rate
+    - Context: Used as a marker for immune activation. Intervention: Increased low-fat yogurt intake.
+    - Timeframe: 49 days.
+    - Confidence: 2 ⭐⭐ | Tags: #biomarker #respiratoryrate #immune
+
+- **Marker**: Lipoprotein(a)
+    - Context: Targeted for reduction due to its role in cardiovascular health and the Donan Pace algorithm. Intervention: Increased cacao bean intake, reduced flax seed intake.
+    - Timeframe: 49 days.
+    - Confidence: 2 ⭐⭐ | Tags: #biomarker #lipoproteina #cardiovascular
 
 - **Marker**: Candida IgG Antibodies
     - Context: Elevated levels observed. Intervention: Trial of Rapamycin (1mg/day for 7 days, followed by a one-month washout). Oysters added for zinc.
     - Timeframe: 49 days + 7 days of Rapamycin, one month washout.
     - Confidence: 2 ⭐⭐ | Tags: #biomarker #candida #rapamycin #zinc
 
+- **Marker**: Albumin
+    - Change: 4.9 g/dL
+    - Context: Optimal range is suggested to be 4.6-4.8 g/dL in previous videos by the speaker.
+    - Timeframe: Single blood test.
+    - Confidence: 2 ⭐⭐ | Tags: #albumin #liverfunction #nutrition
+
+- **Marker**: P-tau, NfL, GFAP
+    - Change: Positively correlated with KTR.
+    - Context: Observational study of 30 78-year-olds.
+    - Timeframe: Not specified.
+    - Confidence: 2 ⭐⭐ | Tags: #ptau #nfl #gfap #ktr #correlation
+
 - **Marker**: Horvath's Epigenetic Age
     - Change: Identified as an area for improvement.
     - Context: The subject is working on improving this marker. Specific interventions or changes are not mentioned in this transcript.
     - Timeframe: Ongoing.
     - Confidence: 2 ⭐⭐ | Tags: #epigenetics #horvathclock #aging
+
+- **Marker**: CRP (C-reactive protein)
+    - Change: May be reduced by rapamycin in larger human studies.
+    - Context: Discussion of potential biomarkers for rapamycin.
+    - Timeframe: Not specified.
+    - Confidence: 2 ⭐⭐ | Tags: #CRP #inflammation #rapamycin #human
+
+- **Marker**: Arginine-containing peptides
+    - Change: Hypothesized increase in blood due to trypsin activity.
+    - Context: Based on trypsin's cleavage specificity for arginine.
+    - Timeframe: Potentially chronic in relation to autodigestion.
+    - Confidence: 2 ⭐⭐ | Tags: #biomarker #arginine #peptides #trypsin #hypothesis
+
+- **Marker**: Zonulin
+    - Change: Elevated levels may indicate increased intestinal permeability or immune activation.
+    - Context: Traditionally considered a marker of gut barrier function, but recent research suggests it may be a complement protein involved in immune responses.
+    - Timeframe: Not specified.
+    - Confidence: 2 ⭐⭐ | Tags: #healthmarker #zonulin #guthealth #intestinalpermeability
 
 - **Marker**: Aspartate Aminotransferase (AST) and Alanine Aminotransferase (ALT)
     - Change: AST at 15 U/L (lower than usual), ALT at 29 U/L (higher than usual).
@@ -3697,11 +3767,29 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: 2024.
     - Confidence: 2 ⭐⭐ | Tags: #thyroid #t3 #t4 #hormones
 
+- **Marker**: Horvath Epigenetic Age
+    - Change: Inversely correlated with coconut butter intake (higher intake associated with younger epigenetic age).
+    - Context: Personal data analysis.
+    - Timeframe: Not specified.
+    - Confidence: 2 ⭐⭐ | Tags: #health\_markers #epigenetics #horvath\_clock #coconut\_butter #aging
+
 - **Marker**: White Blood Cell Count
     - Change: Decreased from 20 to 13.7 in the case study.
     - Context: 15-year-old with lymphoma and mucormycosis after sunlight exposure.
     - Timeframe: Over 4 days.
     - Confidence: 2 ⭐⭐ | Tags: #whitebloodcells #sunlight #casestudy
+
+- **Marker**: Oxidized LDL
+    - Change: Mentioned as potentially more important than total LDL.
+    - Context: If LDL is not oxidized, it might not be as significant a risk factor.
+    - Timeframe: Not specified.
+    - Confidence: 2 ⭐⭐ | Tags: #health-marker #LDL #cholesterol #oxidation
+
+- **Marker**: Erythrocyte Sedimentation Rate (ESR)
+    - Change: Grounding may improve ESR by increasing zeta potential of red blood cells.
+    - Context: High ESR is associated with higher mortality.
+    - Timeframe: Not specified.
+    - Confidence: 2 ⭐⭐ | Tags: #health-marker #ESR #grounding #zeta-potential
 
 - **Marker**: Glucose
     - Change: Lower levels correlated with higher dietary CD38 inhibitor intake.
@@ -3709,11 +3797,47 @@ The speaker presents his personal journey of tracking and optimizing biomarkers 
     - Timeframe: Since July 2018.
     - Confidence: 2 ⭐⭐ | Tags: #glucose #cd38 #diet #correlation
 
-- **Marker**: Creatinine
-    - Change: Relatively stable across age groups, slightly increasing and then decreasing, but remaining within the reference range.
-    - Context: Observational study; stable levels may be due to counteracting effects of decreased kidney function and decreased muscle mass.
+- **Marker**: Tumor Necrosis Factor-alpha (TNF-alpha)
+    - Change: Increased with age across all groups.
+    - Context: Observational study; association with mortality risk is less clear than CRP and IL-6.
     - Timeframe: Not specified.
-    - Confidence: 2 ⭐⭐ | Tags: #creatinine #kidneyfunction #musclemass #aging
+    - Confidence: 2 ⭐⭐ | Tags: #inflammation #tnf-alpha #mortality #aging
+
+- **Marker**: VLDL
+    - Change: Decrease from 13.2 mg/dL to 11 mg/dL with diet tracking. Increase to 13.3 mg/dL in the last six measurements.
+    - Context: The speaker's personal data over several years. Significant difference between pre-diet tracking and diet tracking periods.
+    - Timeframe: 2005-2013 (pre-diet tracking), 2015-present (diet tracking).
+    - Confidence: 2 ⭐⭐ | Tags: #VLDL #diet #self-tracking
+
+- **Marker**: Metabolites
+    - Change: Many metabolites change with aging; normalizing them individually or globally may impact lifespan.
+    - Context: Discussion of a theoretical approach.
+    - Timeframe: Not specified.
+    - Confidence: 1 ⭐ | Tags: #metabolites #aging #lifespan #normalization
+
+- **Marker**: Plasma Trigonelline
+    - Change: Not yet measured, pending results.
+    - Context: Testing the hypothesis of whether or not plasma trigonelline levels were greater than 7 micromolar, which, if not, suggests the dose of 500 mg wasn't high enough.
+    - Timeframe: N/A
+    - Confidence: N/A | Tags: #Plasma #Trigonelline #biomarker #supplementation #health-marker
+
+- **Marker**: DHEA Sulfate (Not directly measured in this section)
+    - Change: Aiming for an increase with increased almond and vitamin E intake
+    - Context: Observation about a correlation in the data.
+    - Timeframe: To be measured in the future.
+    - Confidence: N/A | Tags: #health-marker #DHEA-Sulfate #future-experiment
+
+- **Marker**: Epigenetic Age (Horvath)
+    - Change: Not yet measured, results expected at the end of March.
+    - Context: Garlic intake was increased to test its correlation with epigenetic age. The strength of the correlation will depend on the results.
+    - Timeframe: 49 days.
+    - Confidence: N/A | Tags: #epigenetic-age #garlic #correlation #observation
+
+- **Marker**: Methyl groups
+    - Change: Not assessed for change in this video.
+    - Context: Tracked for potential impact on epigenetic age.
+    - Timeframe: N/A
+    - Confidence: N/A | Tags: #methylation #epigenetic-age
 
 ## Sources
 
