@@ -19,9 +19,10 @@ class Insight:
 
 class InsightParser:
     def __init__(self):
-        # Match both top-level and nested findings
-        self.insight_pattern = r"(?:^|\n)- \*\*(?:Finding|Protocol|Marker|Study|Study Type)\*\*: (.*?)(?=(?:\n- \*\*(?:Finding|Protocol|Marker|Study|Study Type)\*\*:|\Z))"
-        self.nested_finding_pattern = r"(?:^|\n)\s+\*\*(?:Finding|Protocol|Marker|Study|Study Type)\*\*: (.*?)(?=(?:\n\s+\*\*(?:Finding|Protocol|Marker|Study|Study Type)\*\*:|\n- |\Z))"
+        # More flexible patterns that handle variable spacing and formats
+        self.insight_pattern = r"(?:^|\n)\s*-\s*\*\*([^*]+)\*\*:\s*(.*?)(?=(?:\n\s*-\s*\*\*[^*]+\*\*:|\Z))"
+        self.metadata_pattern = r"(?:^|\n)\s*-\s*([\w\s]+):\s*(.*?)(?=(?:\n\s*-|$))"
+        self.tag_pattern = r"#(\w+(?:-\w+)*)"
         
     def parse_report(self, report_path: str) -> List[Insight]:
         with open(report_path, 'r', encoding='utf-8') as f:
@@ -29,126 +30,65 @@ class InsightParser:
             
         insights = []
         
-        # Process top-level insights
-        for match in re.finditer(self.insight_pattern, content, re.DOTALL):
-            insight_text = match.group(1)
-            # Also look for nested findings within this insight
-            nested_matches = re.finditer(self.nested_finding_pattern, insight_text, re.DOTALL)
-            
-            # First process the main insight
-            main_insight = self._parse_insight(insight_text)
-            if main_insight:
-                insights.append(main_insight)
-            
-            # Then process any nested findings
-            for nested_match in nested_matches:
-                nested_text = nested_match.group(1)
-                nested_insight = self._parse_insight(nested_text)
-                if nested_insight:
-                    insights.append(nested_insight)
+        # Process all insights
+        for match in re.finditer(self.insight_pattern, content, re.DOTALL | re.MULTILINE):
+            try:
+                insight_type = match.group(1).strip()
+                insight_text = match.group(2).strip()
+                
+                # Extract metadata from the insight text
+                metadata = {}
+                confidence = 0
+                tags = []
+                
+                # Process metadata sections
+                for meta_match in re.finditer(self.metadata_pattern, insight_text, re.MULTILINE):
+                    key = meta_match.group(1).strip()
+                    value = meta_match.group(2).strip()
                     
+                    if key == 'Confidence':
+                        confidence = value.count('⭐')
+                    elif key == 'Tags':
+                        tags = [tag.strip() for tag in re.findall(self.tag_pattern, value)]
+                    else:
+                        metadata[key] = value
+                
+                # Create insight object
+                insight = Insight(
+                    type='Marker' if insight_type == 'Marker' else 'Finding',
+                    content=insight_text.split('\n')[0].strip(),  # First line is the main content
+                    metadata=metadata,
+                    confidence=confidence,
+                    sources=[],
+                    section=self._determine_section(insight_type, tags, metadata),
+                    tags=tags
+                )
+                
+                insights.append(insight)
+                
+            except Exception as e:
+                print(f"Error parsing insight: {e}")
+                continue
+                
         return insights
         
-    def _parse_insight(self, text: str) -> Optional[Insight]:
-        # Split into lines and clean up
-        lines = []
-        current_line = ""
+    def _determine_section(self, insight_type: str, tags: List[str], metadata: Dict[str, str]) -> str:
+        """Determine the section based on insight type, tags, and metadata"""
+        if insight_type == 'Marker':
+            return 'Health Markers'
         
-        # Handle multi-line content more carefully
-        for line in text.split('\n'):
-            line = line.strip()
-            if not line:
-                if current_line:
-                    lines.append(current_line)
-                    current_line = ""
-            elif line.startswith('- '):
-                if current_line:
-                    lines.append(current_line)
-                current_line = line[2:]  # Remove the "- " prefix
-            else:
-                if current_line:
-                    current_line += " " + line
-                else:
-                    current_line = line
-                    
-        if current_line:
-            lines.append(current_line)
+        # Check tags and metadata for section hints
+        all_text = ' '.join([insight_type] + tags + list(metadata.values())).lower()
+        
+        if any(word in all_text for word in ['diet', 'food', 'nutrition', 'eating']):
+            return 'Diet Insights'
+        elif any(word in all_text for word in ['supplement', 'vitamin', 'mineral']):
+            return 'Supplements'
+        elif any(word in all_text for word in ['study', 'research', 'trial']):
+            return 'Scientific Methods'
             
-        if not lines:
-            return None
-            
-        # Extract main content
-        main_content = lines[0].strip()
-        
-        # Extract metadata
-        metadata = {}
-        for line in lines[1:]:
-            if ':' in line:
-                key_value = line.split(':', 1)
-                if len(key_value) == 2:
-                    key, value = key_value
-                    metadata[key.strip()] = value.strip()
-                    
-        # Extract confidence
-        confidence = 0
-        confidence_text = metadata.get('Confidence', '')
-        if confidence_text:
-            confidence = confidence_text.count('⭐')
-            
-        # Extract tags
-        tags = []
-        tags_text = metadata.get('Tags', '')
-        if tags_text:
-            tags = [tag.strip() for tag in tags_text.split('#') if tag.strip()]
-            
-        # Determine type and section
-        type_and_section = self._determine_type_and_section(main_content, tags, metadata)
-        
-        return Insight(
-            type=type_and_section['type'],
-            content=main_content,
-            metadata=metadata,
-            confidence=confidence,
-            sources=[],
-            section=type_and_section['section'],
-            tags=tags
-        )
-        
-    def _determine_type_and_section(self, content: str, tags: List[str], metadata: Dict[str, str]) -> Dict[str, str]:
-        # Keywords for classification
-        diet_keywords = {
-            'diet', 'calorie', 'food', 'nutrition', 'intake', 'eating', 'meal',
-            'protein', 'carb', 'fat', 'fish', 'meat', 'vegetable', 'fruit',
-            'dairy', 'egg', 'oil', 'nut', 'seed', 'grain', 'bread', 'sugar'
-        }
-        supplement_keywords = {
-            'supplement', 'vitamin', 'mineral', 'compound', 'capsule', 'tablet',
-            'dose', 'supplementation', 'nutrient', 'amino acid', 'enzyme'
-        }
-        marker_keywords = {
-            'marker', 'measurement', 'level', 'test', 'score', 'blood',
-            'biomarker', 'hormone', 'enzyme', 'cholesterol', 'glucose',
-            'insulin', 'cortisol', 'testosterone', 'estrogen'
-        }
-        
-        content_lower = content.lower()
-        tags_lower = {tag.lower() for tag in tags}
-        
-        # Check context in metadata
-        context = metadata.get('Context', '').lower()
-        
-        # Combine all text for keyword matching
-        all_text = f"{content_lower} {context} {' '.join(tags_lower)}"
-        
-        # Determine type and section
-        if any(keyword in all_text for keyword in diet_keywords):
-            return {'type': 'Finding', 'section': 'Diet Insights'}
-        elif any(keyword in all_text for keyword in supplement_keywords):
-            return {'type': 'Protocol', 'section': 'Supplements'}
-        elif any(keyword in all_text for keyword in marker_keywords):
-            return {'type': 'Marker', 'section': 'Health Markers'}
-        else:
-            return {'type': 'Study', 'section': 'Scientific Methods'}
+        # Default to Health Markers if no other match
+        return 'Health Markers'
 
 class SimilarityDetector:
     def __init__(self):
@@ -239,22 +179,23 @@ class ReportProcessor:
             processed_insights.extend(non_clustered)
             
         # Generate new report
-        self._generate_report(processed_insights, output_path)
+        self._generate_report(processed_insights, output_path, input_path)
         
-    def _generate_report(self, insights: List[Insight], output_path: str):
-        sections = ["Diet Insights", "Supplements", "Scientific Methods", "Health Markers"]
+    def _generate_report(self, insights: List[Insight], output_path: str, input_path: str):
+        # Read original report
+        with open(input_path, 'r', encoding='utf-8') as f:
+            original_content = f.read()
         
-        report = ["# Processed Health and Longevity Insights Report\n"]
-        report.append(f"Generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        # Split content at key sections
+        header_content = original_content.split('## Diet Insights')[0]
+        sources_section = original_content[original_content.find('## Sources'):]
         
-        # Add table of contents
-        report.append("## Table of Contents\n")
-        for section in sections:
-            report.append(f"- [{section}](#{section.lower().replace(' ', '-')})")
-        report.append("\n---\n")
+        # Start with original header
+        report = [header_content.strip()]
         
-        # Add each section
-        for section in sections:
+        # Add main sections with processed insights
+        main_sections = ["Diet Insights", "Supplements", "Scientific Methods", "Health Markers"]
+        for section in main_sections:
             report.append(f"\n## {section}\n")
             section_insights = [i for i in insights if i.section == section]
             section_insights.sort(key=lambda x: x.confidence, reverse=True)
@@ -266,7 +207,21 @@ class ReportProcessor:
                 if insight.sources:
                     report.append(f"    _(Sources: {'; '.join(insight.sources)})_")
                 report.append("")
-                
+        
+        # Add original Sources section
+        report.append(sources_section)
+        
         # Write report
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write("\n".join(report))
+            
+    def _generate_source_summary(self, insights: List[Insight]) -> str:
+        """Generate a summary for insights from a single source."""
+        # Combine all insight content and metadata
+        all_text = " ".join([
+            f"{insight.content} {' '.join(insight.metadata.values())}"
+            for insight in insights
+        ])
+        # Return first few sentences as summary
+        sentences = all_text.split('. ')
+        return ". ".join(sentences[:3]) + "."
