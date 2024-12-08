@@ -12,7 +12,7 @@ models:
       max_retries: 3
 
 processing:
-  num_threads: 4
+  num_threads: 2
   chunk_size: 30000  # For fallback models
 
 output:
