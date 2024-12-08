@@ -2,8 +2,9 @@ from pathlib import Path
 import re
 import yaml
 import logging
-from typing import List, Dict, Optional
+from typing import List, Dict
 from ..models.gemini_client import GeminiClient
+
 
 class TranscriptProcessor:
     def __init__(self):
@@ -11,10 +12,10 @@ class TranscriptProcessor:
         config_path = Path("config/config.yaml")
         with open(config_path) as f:
             self.config = yaml.safe_load(f)
-            
+
         self.logger = logging.getLogger(__name__)
         self.client = GeminiClient()
-        
+
         # Improved system prompt focusing on extracting meaningful insights
         self.system_prompt = """You are an expert research scientist analyzing health and longevity data.
 Your task is to extract detailed insights about diet, supplements, and health interventions.
@@ -85,49 +86,51 @@ Focus on practical, actionable information that could be implemented.
 
 Transcript:
 {text}"""
-        
+
     def preprocess_text(self, text: str) -> str:
         """Clean and preprocess transcript text."""
         # Remove markdown headers
-        text = re.sub(r'^#.*$', '', text, flags=re.MULTILINE)
-        
+        text = re.sub(r"^#.*$", "", text, flags=re.MULTILINE)
+
         # Clean whitespace
-        text = re.sub(r'\s+', ' ', text)
-        text = text.replace('\u00a0', ' ')
-        
+        text = re.sub(r"\s+", " ", text)
+        text = text.replace("\u00a0", " ")
+
         # Break into sentences
-        text = re.sub(r'([.!?])\s+', r'\1\n', text)
-        
+        text = re.sub(r"([.!?])\s+", r"\1\n", text)
+
         # Remove markdown formatting
-        text = re.sub(r'[*_`#]', '', text)
-        
+        text = re.sub(r"[*_`#]", "", text)
+
         return text.strip()
-        
+
     def process_transcript(self, transcript_path: Path) -> Dict[str, List[str]]:
         """Process a single transcript and return structured insights."""
         self.logger.info(f"Processing transcript: {transcript_path}")
-        
+
         try:
             # Read transcript
-            with open(transcript_path, 'r', encoding='utf-8') as f:
+            with open(transcript_path, "r", encoding="utf-8") as f:
                 text = f.read()
-                
+
             # Preprocess text
             text = self.preprocess_text(text)
-            
+
             # Get model response
             prompt = self.user_prompt.format(text=text)
-            response, model_used = self.client.get_completion(prompt, self.system_prompt)
-            
+            response, model_used = self.client.get_completion(
+                prompt, self.system_prompt
+            )
+
             self.logger.info(f"Successfully processed with model: {model_used}")
-            
+
             # The response is already in markdown format with sections
             return {
                 "content": response,
                 "source": transcript_path.stem,
-                "model": model_used
+                "model": model_used,
             }
-            
+
         except Exception as e:
             self.logger.error(f"Error processing {transcript_path}: {str(e)}")
-            return None 
+            return None

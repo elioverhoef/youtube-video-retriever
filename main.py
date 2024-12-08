@@ -1,60 +1,98 @@
-from pathlib import Path
 import logging
-from src.processors.transcript_processor import TranscriptProcessor
-from src.processors.parallel_processor import ParallelProcessor
-from src.output.report_builder import ReportBuilder
-import yaml
+from typing import List, Optional
+from enum import Enum, auto
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
+
+
+class Step(Enum):
+    DOWNLOAD = auto()
+    BUILD = auto()
+    PROCESS = auto()
+
+
+def run_download() -> bool:
+    """Run the transcript download step"""
+    try:
+        from download_transcipts import main as download_main
+
+        download_main()
+        return True
+    except Exception as e:
+        logging.error(f"Failed to download transcripts: {e}")
+        return False
+
+
+def run_build() -> bool:
+    """Run the report building step"""
+    try:
+        from build_report import main as build_main
+
+        build_main()
+        return True
+    except Exception as e:
+        logging.error(f"Failed to build report: {e}")
+        return False
+
+
+def run_process() -> bool:
+    """Run the report processing step"""
+    try:
+        from process_report import main as process_main
+
+        process_main()
+        return True
+    except Exception as e:
+        logging.error(f"Failed to process report: {e}")
+        return False
+
+
+def run_pipeline(steps: Optional[List[Step]] = None) -> bool:
+    """Run specified steps or all steps if none specified"""
+    steps = steps or [Step.DOWNLOAD, Step.BUILD, Step.PROCESS]
+
+    step_functions = {
+        Step.DOWNLOAD: run_download,
+        Step.BUILD: run_build,
+        Step.PROCESS: run_process,
+    }
+
+    for step in steps:
+        logging.info(f"Starting step: {step.name}")
+        if not step_functions[step]():
+            logging.error(f"Pipeline failed at step: {step.name}")
+            return False
+        logging.info(f"Completed step: {step.name}")
+
+    return True
+
 
 def main():
-    # Load config
-    with open("config/config.yaml") as f:
-        config = yaml.safe_load(f)
-        
-    # Configure logging
-    logging.basicConfig(
-        level=config["logging"]["level"],
-        format='%(asctime)s�� %(name)s 📝 %(levelname)s 💬 %(message)s'
-    )
-    logger = logging.getLogger(__name__)
-    
-    try:
-        # Initialize components
-        processor = TranscriptProcessor()
-        parallel_processor = ParallelProcessor()
-        report_builder = ReportBuilder()
-        
-        # Get all transcript files
-        transcript_dir = Path("transcripts")
-        transcripts = list(transcript_dir.glob("*.md"))
-        
-        if not transcripts:
-            logger.error("❌ No transcript files found in ./transcripts directory")
+    import sys
+
+    # Parse command line arguments
+    if len(sys.argv) > 1:
+        try:
+            steps = [Step[arg.upper()] for arg in sys.argv[1:]]
+        except KeyError as e:
+            print(f"Invalid step: {e}")
+            print("Valid steps: download, build, process")
             return
-            
-        logger.info(f"📁 Found {len(transcripts)} transcript files")
-        
-        # Process transcripts in parallel
-        results = parallel_processor.process_transcripts(
-            transcripts=transcripts,
-            process_func=processor.process_transcript
-        )
-        
-        # Filter out None results from failed processing
-        results = [r for r in results if r is not None]
-        
-        if not results:
-            logger.error("❌ No successful results from transcript processing")
-            return
-            
-        # Build and save report
-        report = report_builder.build_report(results)
-        report_builder.save_report(report)
-        
-        logger.info("✅ Processing completed successfully!")
-        
-    except Exception as e:
-        logger.error(f"❌ Error in main process: {str(e)}")
-        raise
+    else:
+        steps = None
+
+    # Run pipeline
+    success = run_pipeline(steps)
+
+    if success:
+        logging.info("Pipeline completed successfully!")
+    else:
+        logging.error("Pipeline failed")
+        sys.exit(1)
+
 
 if __name__ == "__main__":
-    main() 
+    main()
