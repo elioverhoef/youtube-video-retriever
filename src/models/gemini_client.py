@@ -5,6 +5,7 @@ from pathlib import Path
 import yaml
 import logging
 import time
+import re
 
 class GeminiClient:
     def __init__(self):
@@ -26,21 +27,44 @@ class GeminiClient:
         # Suppress GRPC warnings
         os.environ["GRPC_VERBOSITY"] = "ERROR"
         
+    def clean_json_string(self, json_str: str) -> str:
+        """Clean JSON string by removing trailing commas and formatting issues."""
+        # Remove code blocks if present
+        json_str = json_str.replace("```json", "").replace("```", "").strip()
+        
+        # Remove trailing commas before closing braces/brackets
+        json_str = re.sub(r',(\s*[}\]])', r'\1', json_str)
+        
+        return json_str
+
     def get_completion(self, prompt: str, system_prompt: Optional[str] = None) -> Tuple[str, str]:
         """Get completion with automatic model fallback.
         Returns: (response_text, model_used)
         """
+        # Add explicit JSON formatting instruction if prompt contains JSON
+        if '"format"' in prompt or '"type"' in prompt:
+            if system_prompt:
+                system_prompt += "\nIMPORTANT: Ensure the JSON output is valid with NO trailing commas."
+            else:
+                system_prompt = "IMPORTANT: Ensure the JSON output is valid with NO trailing commas."
+        
         full_prompt = f"{system_prompt}\n\n{prompt}" if system_prompt else prompt
         
         # Try primary model first
         primary = self.config["models"]["primary"]
         response = self._try_model(primary["name"], full_prompt, primary["max_retries"])
+        if response and ('"format"' in prompt or '"type"' in prompt):
+            response = self.clean_json_string(response)
+        
         if response:
             return response, primary["name"]
             
         # Try fallback models
         for fallback in self.config["models"]["fallbacks"]:
             response = self._try_model(fallback["name"], full_prompt, fallback["max_retries"])
+            if response and ('"format"' in prompt or '"type"' in prompt):
+                response = self.clean_json_string(response)
+            
             if response:
                 return response, fallback["name"]
                 

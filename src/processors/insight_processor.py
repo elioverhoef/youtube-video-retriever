@@ -9,6 +9,8 @@ from datetime import datetime
 import json
 import logging
 from ..models.gemini_client import GeminiClient
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import threading
 
 @dataclass
 class Insight:
@@ -125,6 +127,8 @@ class InsightMerger:
 Given these similar insights, merge them into a single comprehensive insight that preserves ALL information while avoiding redundancy.
 Combine semantically identical information but ensure no unique details are lost.
 
+IMPORTANT: The output must be valid JSON with NO trailing commas.
+
 Input Insights:
 {insights_json}
 
@@ -222,6 +226,7 @@ class ReportProcessor:
         self.parser = InsightParser()
         self.detector = SimilarityDetector()
         self.merger = InsightMerger(gemini_client)
+        self.executor = ThreadPoolExecutor(max_workers=4)
         
     def process_report(self, input_path: str, output_path: str):
         # Parse insights
@@ -229,24 +234,40 @@ class ReportProcessor:
         
         # Process each section separately
         processed_insights = []
+        futures = []
+        
         for section in set(insight.section for insight in insights):
             section_insights = [i for i in insights if i.section == section]
             
             # Find similar insights
             clusters = self.detector.find_similar_insights(section_insights)
             
-            # Merge similar insights
+            # Submit merge tasks to thread pool
             for cluster in clusters:
-                merged = self.merger.merge_cluster(cluster)
-                processed_insights.append(merged)
-                
+                if len(cluster) > 1:  # Only submit if actually needs merging
+                    future = self.executor.submit(self.merger.merge_cluster, cluster)
+                    futures.append(future)
+                else:
+                    processed_insights.append(cluster[0])
+                    
             # Add non-clustered insights
             clustered_ids = {id(insight) for cluster in clusters for insight in cluster}
             non_clustered = [i for i in section_insights if id(i) not in clustered_ids]
             processed_insights.extend(non_clustered)
+        
+        # Collect results from futures
+        for future in as_completed(futures):
+            try:
+                merged_insight = future.result()
+                processed_insights.append(merged_insight)
+            except Exception as e:
+                logging.error(f"Error in merge task: {str(e)}")
             
         # Generate new report
         self._generate_report(processed_insights, output_path, input_path)
+        
+    def __del__(self):
+        self.executor.shutdown(wait=True)
         
     def _generate_report(self, insights: List[Insight], output_path: str, input_path: str):
         # Read original report
