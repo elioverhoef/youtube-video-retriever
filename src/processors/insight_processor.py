@@ -233,7 +233,7 @@ class ReportProcessor:
         self.parser = InsightParser()
         self.detector = SimilarityDetector()
         self.merger = InsightMerger(gemini_client)
-        self.executor = ThreadPoolExecutor(max_workers=4)
+        self.executor = ThreadPoolExecutor(max_workers=8)
 
     def process_report(self, input_path: str, output_path: str):
         # Parse insights
