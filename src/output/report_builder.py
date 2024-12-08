@@ -91,12 +91,14 @@ class ReportBuilder:
                 if section_text:
                     # Process and format the content
                     formatted_text = self._format_content(section_text, source)
-                    insights.extend(formatted_text.split("\n\n"))
+                    # Split by double newline to separate individual insights
+                    insights.extend([insight.strip() for insight in formatted_text.split("\n\n") if insight.strip()])
                     
         # Merge similar insights and sort by confidence
         merged_insights = self._merge_similar_insights(insights)
         sorted_insights = self._sort_by_confidence(merged_insights)
         
+        # Add insights without any code block formatting
         section_content.extend(sorted_insights)
         return section_content
         
@@ -124,12 +126,14 @@ class ReportBuilder:
         
         # Process each section
         for section in sections:
-            report.extend(self._build_section(section, results))
+            section_content = self._build_section(section, results)
+            report.extend(section_content)
             
         # Add sources section
         report.extend(self._build_sources_section(results))
         
-        return "\n".join(report)
+        # Join with newlines and ensure no accidental code blocks
+        return "\n".join(report).replace("```", "")
         
     def _build_legend(self) -> List[str]:
         """Build a legend explaining the confidence scores."""

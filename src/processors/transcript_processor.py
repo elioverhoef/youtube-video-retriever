@@ -35,7 +35,7 @@ For each insight, include:
 - Tags: #relevant #categories #for #filtering
 - Confidence: [Score with stars] (1⭐ to 5⭐⭐⭐⭐⭐ based on study quality, sample size, and replication)
 
-Format your response with consistent indentation in clear markdown sections:
+Format your response with consistent indentation in clear markdown sections, without backticks:
 
 ## Executive Summary
 [Key findings and patterns across all sections]
@@ -44,28 +44,28 @@ Format your response with consistent indentation in clear markdown sections:
 [Most actionable insights in bullet points]
 
 ## Diet Insights
-- Finding: [Details with measurements]
+- **Finding**: [Details with measurements]
     - Context: [Study details, population]
     - Timeframe: [Duration needed to see effects]
     - Limitations: [Any caveats or constraints]
     - Confidence: [Score with stars] | Tags: [#tags]
 
 ## Supplements
-- Protocol: [Name, dosage, timing]
+- **Protocol**: [Name, dosage, timing]
     - Effects: [Observed outcomes]
     - Context: [Study details, population]
     - Limitations: [Any caveats]
     - Confidence: [Score with stars] | Tags: [#tags]
 
 ## Scientific Methods
-- Study Type: [Type]
+- **Study Type**: [Type]
     - Methodology: [Details]
     - Key Findings: [Results]
     - Limitations: [Caveats]
     - Confidence: [Score with stars] | Tags: [#tags]
 
 ## Health Markers
-- Marker: [Name]
+- **Marker**: [Name]
     - Change: [Quantified change]
     - Context: [Intervention details]
     - Timeframe: [Duration]

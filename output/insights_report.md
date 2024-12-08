@@ -1,19 +1,14 @@
 # Health and Longevity Insights Report
-Generated on: 2024-12-07 18:00:39
+Generated on: 2024-12-08 10:33:20
 
 ## Table of Contents
 
-- [Health and Longevity Insights Report](#health-and-longevity-insights-report)
-  - [Table of Contents](#table-of-contents)
-  - [Legend](#legend)
-    - [Confidence Scores](#confidence-scores)
-  - [Executive Summary](#executive-summary)
-  - [Quick Reference](#quick-reference)
-  - [Diet Insights](#diet-insights)
-  - [Supplements](#supplements)
-  - [Scientific Methods](#scientific-methods)
-  - [Health Markers](#health-markers)
-  - [Sources](#sources)
+- [Executive Summary](#executive-summary)
+- [Quick Reference](#quick-reference)
+- [Diet Insights](#diet-insights)
+- [Supplements](#supplements)
+- [Scientific Methods](#scientific-methods)
+- [Health Markers](#health-markers)
 
 ---
 
@@ -32,183 +27,267 @@ Higher scores indicate stronger evidence:
 
 ## Executive Summary
 
-This transcript analyzes the blood test data of supercentenarian Jirahiman, focusing on biomarkers tracked between ages 112 and 116. The analysis reveals a complex picture: while some markers like uric acid were near optimal, many others, including liver function markers, hemoglobin, hematocrit, platelets, and total cholesterol, indicated elevated all-cause mortality risk. Notably, Jirahiman's low total cholesterol, combined with low albumin, suggests increased risk rather than a youthful profile. However, his good glucose, HbA1c, HDL, triglycerides, and some inflammatory markers may have played a protective role, highlighting their potential importance for longevity. The analysis largely relies on observational studies comparing Jirahiman's data to established all-cause mortality risk associations. _(Source: (Part_II)_Supercentenarian_(112_-_116y)_Blood_Test_Analysis)_
+This analysis examines the blood biomarkers of supercentenarian Jirahiman, focusing on data from ages 112-116. While his uric acid levels were near optimal, most other markers, including liver function markers, hemoglobin, hematocrit, platelets, and total cholesterol, indicated increased all-cause mortality risk. Notably, his low total cholesterol, combined with low albumin, suggests a higher risk rather than a youthful profile. These findings highlight the complexity of interpreting biomarkers in extreme aging and suggest that certain markers, like glucose, HbA1c, HDL, and triglycerides (covered in Part 1), might play crucial roles in longevity despite unfavorable levels in other areas. _(Source: (Part_II)_Supercentenarian_(112_-_116y)_Blood_Test_Analysis)_
 
-This transcript details a personal experiment aimed at increasing Nicotinamide Adenine Dinucleotide (NAD+) levels through dietary intake of trigonelline-rich foods, specifically clover sprouts. The experiment involves self-testing NAD+ levels after consuming varying amounts of clover sprouts over several days. The main finding is that doubling the intake of clover sprouts from 12.1g to 27.1g per day did not increase, but rather decreased NAD+ levels from 29.6 µM to 19 µM. This unexpected result raises questions about the optimal dose of trigonelline for boosting NAD+ and suggests that a lower dose might be more effective or that the initial increase might have been due to random variation or residual effects of prior nicotinic acid supplementation. The individual is a slow caffeine metabolizer and is considering a future experiment with coffee, another source of trigonelline. _(Source: 2x_Trigonelline_Increase_Impact_on_NAD)_
+The transcript explores the impact of trigonelline-rich foods, specifically clover sprouts, on NAD+ levels. The experimenter doubled the intake of clover sprouts from 12.1g/day to 27.1g/day but observed a decrease in NAD+ levels from 29.6 µM to 19 µM. This raises questions about the optimal dosage of trigonelline for NAD+ increase and suggests that a lower dose might be more effective, or the initial increase was due to random variation or residual effects of prior nicotinic acid supplementation. The experimenter also considers coffee as a potential source of trigonelline but expresses hesitation due to the need to eliminate green tea to maintain caffeine neutrality. The experiment highlights the complexity of NAD+ metabolism and the need for further research to understand the effects of dietary trigonelline. _(Source: 2x_Trigonelline_Increase_Impact_on_NAD)_
 
-This transcript features Dr. Michael Lustgarten, a scientist with a personal mission to achieve exceptional longevity, meticulously tracking and optimizing his health. He employs a comprehensive approach involving diet, exercise, sleep, and biomarker monitoring, including advanced metrics like epigenetics and oral microbiome. His dietary strategy focuses on macronutrient balance tailored to his individual biomarker responses, while his fitness regimen emphasizes compound movements, flexibility, and careful monitoring of recovery metrics. Notably, he uses his biomarker data to fine-tune his lifestyle, adjusting his diet and exercise based on correlative data. He identifies sleep optimization as crucial but challenging, despite implementing rigorous sleep hygiene practices. He regrets not tracking hormone levels earlier, especially DHEA sulfate, which shows a declining trend. His approach highlights the potential for individual malleability in biomarkers, even those considered genetically determined, like lipoprotein(a). _(Source: @everythingepigenetics_Podcast_Dr._Michael_Lustgarten)_
+Michael Lustgarten, a scientist and longevity enthusiast, has meticulously tracked his health and biological data since 2008, with the goal of living longer than anyone in history. His approach, summarized as "Conquer Aging or Die Trying," involves optimizing diet, physical activity, sleep, and body weight to influence a wide range of biomarkers, including epigenetic clocks. He uses a data-driven, iterative method to adjust his lifestyle, aiming for a holistic improvement in health markers rather than focusing on isolated parameters. His current diet is approximately 40% fat, 40% net carbs, and 18% protein. He is also aiming for a body fat percentage of around 6%. He uses fitness metrics to optimize training intensity and frequency. He prioritizes sleep hygiene, aiming for consistent sleep times, a dark, quiet environment, and an early eating window. His most surprising finding was the malleability of lipoprotein(a), which he significantly reduced through dietary changes. He believes that all biomarkers are malleable and aims to optimize them through a personalized, data-driven approach. _(Source: @everythingepigenetics_Podcast_Dr._Michael_Lustgarten)_
 
 
 ## Quick Reference
 
-*   **Elevated Mortality Risk:** Low albumin, low total cholesterol, low hemoglobin, low hematocrit, low platelets, high AST/ALT ratio, high gamma-glutamyl transferase (GGT), and low cholinesterase.
-*   **Near Optimal:** Uric acid levels were close to optimal for lowest all-cause mortality risk.
-*   **Potential Protective Factors:** Good glucose, HbA1c, HDL, triglycerides, and some inflammatory markers (from Part 1) may have mitigated some risks.
-*   **Liver Function:** Four markers (GOT, GPT, GGT, cholinesterase) collectively suggested suboptimal liver health.
-*   **Kidney Function:** Suboptimal kidney function was noted in Part 1, potentially linked to uric acid levels. _(Source: (Part_II)_Supercentenarian_(112_-_116y)_Blood_Test_Analysis)_
+-   **Low total cholesterol (153 mg/dL) combined with low albumin (3.3 g/dL) in Jirahiman was associated with increased mortality risk.**
+-   **Jirahiman's liver function was likely suboptimal,** evidenced by elevated GOT, GPT, and GGT, alongside low cholinesterase.
+-   **Hematocrit (37.7%) and hemoglobin (12.1 g/dL) were suboptimal,** indicating increased mortality risk.
+-   **Uric acid levels (4.43 mg/dL) were close to optimal,** despite potential kidney dysfunction.
+-   **Platelet count (173.7k/µL) was low,** correlating with increased mortality risk. _(Source: (Part_II)_Supercentenarian_(112_-_116y)_Blood_Test_Analysis)_
 
-*   **Clover sprout intake (27.1g/day) decreased NAD+ levels to 19 µM.**
-*   **Lower dose of clover sprouts (12.1g/day) potentially increased NAD+ to 29.6 µM, but this could be due to other factors.**
-*   **Nicotinic acid was completely removed 9 days before the second test to eliminate its potential influence.**
-*   **Coffee is being considered as an alternative source of trigonelline for a future experiment.** _(Source: 2x_Trigonelline_Increase_Impact_on_NAD)_
+*   **Clover sprouts** at 12.1g/day showed a potential (but not confirmed) increase in NAD+ levels to 29.6 µM.
+*   **Doubling clover sprout intake** to 27.1g/day resulted in a significant decrease in NAD+ levels to 19 µM.
+*   **Nicotinic acid** was removed 9 days before the second test to eliminate its potential impact on NAD+ levels.
+*   **Coffee** is considered a potential source of trigonelline for future experiments but requires eliminating green tea intake.
+*   Measuring NAD+ levels can be done via blood testing. _(Source: 2x_Trigonelline_Increase_Impact_on_NAD)_
 
-*   **Diet:** 40% fat (including fiber-derived short-chain fatty acids), 40% net carbs, 18% protein.
-*   **Body Fat:** Aiming for 6%, currently at 8-9%.
-*   **Exercise:** 80-minute workouts with compound movements, calisthenics, Taekwondo, mobility, and flexibility.
-*   **Sleep:** Strict sleep hygiene, early eating window (ending at 1-3 PM), aiming for 20-25% deep sleep.
-*   **Key Biomarker Tracking:** Standard chem panel, CBC, hs-CRP, epigenetic clocks (Horvath, Hannum, PhenoAge, DunedinPACE), telomeres, oral microbiome.
-*   **Most Malleable Biomarker:** Lipoprotein(a) reduced by 50% through dietary adjustments.
-*   **Goal:** To live longer than anyone ever has, using data-driven self-experimentation. _(Source: @everythingepigenetics_Podcast_Dr._Michael_Lustgarten)_
+-   **Diet:** 40% fat, 40% net carbs, 18% protein.
+-   **Body Weight:** Aiming for 6% body fat (currently 8-9%).
+-   **Exercise:** 80-minute workouts with compound movements, calisthenics, taekwondo, mobility, balance, and flexibility, optimized using fitness metrics like HRV and resting heart rate.
+-   **Sleep:** Consistent bedtime, dark and quiet environment, early eating window (ending around 1-3 PM).
+-   **Key Strategy:** Track everything, calculate correlations between diet/lifestyle and biomarkers, iteratively adjust to improve overall health profile.
+-   **Goal:** Optimize all biomarkers for maximal health and longevity. _(Source: @everythingepigenetics_Podcast_Dr._Michael_Lustgarten)_
 
 
 ## Diet Insights
 
-*   **Finding:** Optimal diet composition associated with the most youthful biomarker profile is 40% fat (including fiber), 40% net carbs, and 18% protein.
-    - **Context:** Study Type: Case Study | Population: Dr. Michael Lustgarten | Timeframe: Ongoing since 2015 | Limitations: Individual-specific, based on correlative analysis.
-    - **Confidence:** 3⭐⭐⭐ | Tags: #diet #macronutrients #biomarkers #personalized
-*   **Finding:** Increasing dietary fat above 40% leads to negative changes in multiple blood biomarkers.
-    - **Context:** Study Type: Case Study | Population: Dr. Michael Lustgarten | Timeframe: Ongoing since 2015 | Limitations: Individual-specific, based on correlative analysis.
-    - **Confidence:** 3⭐⭐⭐ | Tags: #diet #fat #biomarkers #negative-correlation
-*   **Finding:** Specific dietary changes, guided by correlation analysis with biomarkers, resulted in a 50% reduction in lipoprotein(a).
-    - **Context:** Study Type: Case Study | Population: Dr. Michael Lustgarten | Timeframe: Ongoing since 2015 | Limitations: Individual-specific, exact dietary changes not specified in the transcript.
-    - **Confidence:** 3⭐⭐⭐ | Tags: #diet #lipoproteina #cardiovascular #biomarkers
-*   **Finding:** Consuming 27.1g of clover sprouts daily for 11 days resulted in a decrease in NAD+ levels to 19 µM.
-    *   **Context:** This was part of a self-experiment to test the effects of trigonelline-rich foods on NAD+ levels. The individual's baseline NAD+ range without precursors is 18.5-26.6 µM.
-    *   **Confidence:** 2⭐⭐ | Tags: #diet #NAD+ #trigonelline #clover sprouts #self-experiment
-*   **Finding:** Consuming 12.1g of clover sprouts daily for 9 days potentially increased NAD+ levels to 29.6 µM.
-    *   **Context:** This was an earlier part of the same self-experiment. However, the individual had also been consuming 20mg/day of nicotinic acid, which could have influenced the results.
-    *   **Confidence:** 2⭐⭐ | Tags: #diet #NAD+ #trigonelline #clover sprouts #nicotinic acid #self-experiment
-*   **Finding:**  There is a hypothesis that lower doses of trigonelline may be more effective for increasing NAD+ levels, but this is not yet confirmed.
-    *   **Context:** Based on the contradictory results of the two clover sprout experiments. It suggests that higher amounts are not necessarily better.
-    *   **Confidence:** 1⭐ | Tags: #diet #NAD+ #trigonelline #dosage #hypothesis
-*   **Finding:** Coffee is a potential source of trigonelline, but the experimenter is hesitant due to being a slow caffeine metabolizer and needing to eliminate green tea intake.
-    *   **Context:** Coffee is being considered for future experiments based on the list of foods high in trigonelline.
-    *   **Confidence:** 1⭐ | Tags: #diet #NAD+ #trigonelline #coffee #caffeine #green tea
-*   **Finding:** No specific dietary data is available for Jirahiman.
-*   **Context:** A hypothesis is presented that Jirahiman may have had a relatively low intake of dietary precursors that can be degraded to form uric acid. This could explain why his uric acid was not correspondingly elevated despite signs of suboptimal kidney function in Part 1 of the series.
-*   **Limitations:** No published studies exist on Jirahiman's diet to verify this hypothesis.
-*   **Confidence:** 1⭐ (Expert Opinion, based on hypothesis) | Tags: #diet #uricacid #kidneyfunction #hypothesis
+-   Finding: A diet comprising 40% fat, 40% net carbs, and 18% protein is associated with the most favorable biomarker profile.
+    -   Context: Based on personal data tracked since 2015, with dietary composition averaged for each blood test period.
+    -   Timeframe: Ongoing since 2015, with continuous adjustments.
+    -   Limitations: Individual-specific; may not be universally applicable. Results are correlative, not necessarily causative.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #diet #macronutrients #personalized #biomarkers #correlative
+-   Finding: Fiber is included in the fat category, as it is converted into short-chain fatty acids.
+    -   Context: Part of the overall dietary strategy to optimize biomarkers.
+    -   Timeframe: Ongoing.
+    -   Limitations: The specific types and amounts of fiber are not detailed.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #fiber #fat #shortchainfattyacids #diet
+-   Finding: High fat intake (above 40%) is associated with negative changes in multiple blood biomarkers.
+    -   Context: Based on personal data analysis.
+    -   Timeframe: Observed over multiple testing periods.
+    -   Limitations: Specific biomarkers negatively affected are not mentioned. The exact threshold for "high fat" is not clearly defined beyond 40%.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #fat #highfat #biomarkers #negative #diet
+-   Finding: Early time-restricted feeding (eTRF), with the last meal between 1-3 PM, is associated with better sleep quality.
+    -   Context: Implemented as part of a comprehensive sleep optimization strategy.
+    -   Timeframe: Ongoing.
+    -   Limitations: The specific impact of eTRF on biomarkers other than sleep is not mentioned.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #eTRF #timerestrictedfeeding #sleep #diet
+-   Finding: Increasing clover sprout intake from 12.1g/day to 27.1g/day led to a decrease in NAD+ levels from 29.6 µM to 19 µM.
+    -   Context: The individual was attempting to increase NAD+ levels by consuming trigonelline-rich foods, specifically clover sprouts. Baseline NAD+ levels without precursors ranged from 18.5 to 26.6 µM across 7 tests. Nicotinic acid was removed from the diet 9 days before the second test.
+    -   Timeframe: 11 days of increased clover sprout intake.
+    -   Limitations: Single individual, potential impact of prior nicotinic acid supplementation not fully ruled out, unclear if the initial increase was random variation.
+    -   Confidence: 2 ⭐⭐ | Tags: #diet #NAD+ #trigonelline #clover\_sprouts #dosage
+-   Finding: Crimson clover seeds have high levels of trigonelline.
+    -   Context: Based on a list of foods, crimson clover seeds were identified as having amongst the highest levels of trigonelline.
+    -   Timeframe: Not specified.
+    -   Limitations: The exact amount of trigonelline is not mentioned. The study is not cited, making it impossible to verify.
+    -   Confidence: 2 ⭐⭐ | Tags: #diet #trigonelline #clover\_seeds #food\_sources
+-   Finding: Jirahiman may have had a relatively low intake of dietary precursors that can be degraded to form uric acid.
+    -   Context:  This is hypothesized based on his near-optimal uric acid levels (4.43 mg/dL) despite potential kidney dysfunction, which typically elevates uric acid. No published studies exist on his dietary intake.
+    -   Timeframe: N/A (Hypothetical)
+    -   Limitations: No dietary data available for confirmation. This is a hypothesis based on indirect evidence.
+    -   Confidence: 1 ⭐ | Tags: #diet #uricacid #kidneyfunction #purine #hypothesis
 
 ## Supplements
 
-*   **Protocol:** No explicit supplement protocol mentioned in this transcript. Prior nicotinic acid supplementation (20 mg/day) was mentioned but removed 9 days prior to the main test.
-    *   **Effects:**  Prior nicotinic acid supplementation might have influenced the initial NAD+ level of 29.6 µM.
-    *   **Context:** Part of the self-experiment, but not the focus of the current analysis.
-    *   **Confidence:** 2⭐⭐ | Tags: #supplements #nicotinic acid #NAD+ #washout period
-*   **Protocol:** No supplement data is available for Jirahiman.
-*   **Context:** N/A
-*   **Limitations:** N/A
-*   **Confidence:** N/A | Tags: #supplements
-*   **Protocol:** No specific supplement protocol mentioned in the transcript, other than the standard of care for low DHEA-S is DHEA supplementation. Dr. Lustgarten is attempting dietary/lifestyle interventions to increase DHEA-S.
-    - **Effects:** Not applicable.
-    - **Context:** Study Type: N/A | Population: N/A | Timeframe: N/A | Limitations: N/A
-    - **Confidence:** N/A | Tags: #supplements #dhea #hormones
+-   Protocol: Nicotinic acid (previous use, not during the main experiment)
+    -   Effects: Potential impact on NAD+ levels, even at a relatively small amount of 20mg/day.
+    -   Context: Used in the period prior to the experiment but removed 4 days before the first test and 9 days before the second test.
+    -   Limitations: It is difficult to fully ascertain the washout period of nicotinic acid.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #supplements #nicotinic\_acid #NAD+ #washout
+-   Protocol: DHEA supplementation is considered a standard of care for low DHEA-sulfate levels.
+    -   Effects: Potentially increase DHEA-sulfate levels.
+    -   Context: Acknowledged but not currently used. Michael aims to address low DHEA-sulfate through diet and lifestyle.
+    -   Limitations: No RCTs on using lifestyle to reverse low DHEA-sulfate.
+    -   Confidence: 2 ⭐⭐ | Tags: #DHEA #DHEAsulfate #supplement #hormone
+No supplement protocols were mentioned in the transcript.
+-   Protocol: No specific supplement regimen mentioned.
+    -   Effects: N/A
+    -   Context: Focus is on optimizing diet and lifestyle rather than relying on supplements.
+    -   Limitations: N/A
+    -   Confidence: N/A | Tags: #supplements #none
 
 ## Scientific Methods
 
-*   **Study Type:** Observational
-*   **Methodology:** Jirahiman's blood test data (3 data points at ages 111.5, 113.3, and 115.7) was compared to data from various observational studies, predominantly those reporting hazard ratios for all-cause mortality based on biomarker levels. The largest and most representative studies for each biomarker were selected.
-*   **Key Findings:** Jirahiman's biomarker profile showed a mix of near-optimal (uric acid) and suboptimal (liver function markers, hemoglobin, hematocrit, platelets, total cholesterol) values associated with increased all-cause mortality risk.
-*   **Limitations:** Observational studies can demonstrate associations but not causation. The analysis relies on comparing Jirahiman's data to averages from other populations, which may not perfectly reflect his individual physiology.
-*   **Confidence:** 3⭐⭐⭐ (Mainly observational studies) | Tags: #observational #biomarkers #allcausemortality #methodology
-*   **Study Type:** Case Study
-    - **Methodology:** Continuous self-tracking of diet (since 2015), fitness metrics (since \~2018), sleep, and blood biomarkers (since 2008, more frequently in recent years). Calculation of correlations between dietary components (macro and micronutrients, individual foods) and blood biomarkers after each test. Adjustment of diet to optimize biomarker profile based on correlation data.
-    - **Key Findings:** Identification of individual-specific dietary composition associated with optimal biomarker profile. Demonstration of biomarker malleability, including lipoprotein(a).
-    - **Limitations:** Single-subject study, potential for confounding factors, reliance on correlation rather than causation.
-    - **Confidence:** 3⭐⭐⭐ | Tags: #casestudy #self-experimentation #biomarkers #correlation #diet #longitudinal
-*   **Study Type:** Case Study (Self-Experimentation)
-    *   **Methodology:** The individual measured their intracellular NAD+ levels using blood tests after consuming different amounts of clover sprouts for a set number of days. They controlled for other potential NAD+ influencing factors like nicotinic acid supplementation.
-    *   **Key Findings:** Increased intake of clover sprouts did not lead to increased NAD+ levels.
-    *   **Limitations:** Single subject, potential for random variation, difficulty in isolating the effect of clover sprouts from other dietary factors, no control group. The experiment lacks a standardized protocol for measuring and controlling dietary intake.
-    *   **Confidence:** 2⭐⭐ | Tags: #self-experimentation #case study #NAD+ measurement #blood test #dietary intervention
+-   Study Type: Observational
+    -   Methodology: Investigation of total cholesterol changes during aging in a large population (over 12.8 million).
+    -   Key Findings: Total cholesterol increases until age 50, then declines.
+    -   Limitations: Data only up to age 88.
+    -   Confidence: 4 ⭐⭐⭐⭐ | Tags: #observational #totalcholesterol #aging #largescale
+-   Study Type: Observational
+    -   Methodology: Analysis of blood test data from a supercentenarian (Jirahiman) over the last four years of his life (112-116 years old). Comparison of biomarker levels with existing all-cause mortality data from various studies, predominantly cohort studies, with adjustment models.
+    -   Key Findings: Jirahiman's blood test data revealed several markers associated with increased all-cause mortality risk, including markers of liver function, hematological markers, and total cholesterol. Uric acid was the only marker near optimal levels.
+    -   Limitations: Single subject; reliance on observational data for comparison; no data on diet or lifestyle factors. Limited data points for some markers.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #observational #biomarkers #allcausemortality #supercentenarian #aging
+-   Study Type: Observational
+    -   Methodology: Examination of the relationship between globulin levels (gamma gap) and survival probability in a cohort with an average age of 94 years.
+    -   Key Findings: Higher globulin levels (>3.2 g/dL) were associated with significantly shorter survival compared to lower levels (<3.2 g/dL).
+    -   Limitations:  The study population's average age was slightly younger than Jirahiman's.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #observational #globulin #gammagap #survival #mortality
+-   Study Type: Observational
+    -   Methodology: Analysis of all-cause mortality risk in relation to quartiles of GOT (AST) levels.
+    -   Key Findings:  The lowest risk was observed in the 21-23 range, while Jirahiman's average of 29 placed him in the highest quartile, indicating increased risk.
+    -   Limitations:  Observational study, potential confounders not fully addressed.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #observational #got #ast #liverfunction #mortality
+-   Study Type: Observational
+    -   Methodology:  Analysis of all-cause mortality risk in relation to quartiles of GPT (ALT) levels.
+    -   Key Findings:  Jirahiman's average GPT of 14.7 placed him in the reference group (median 15), but higher quartiles (18-22) showed a reduced risk, suggesting his levels were not optimal.
+    -   Limitations:  Observational study, potential confounders not fully addressed.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #observational #gpt #alt #liverfunction #mortality
+-   Study Type: Observational
+    -   Methodology: Analysis of survival rates based on AST/ALT ratios.
+    -   Key Findings: A lower AST/ALT ratio (average 1.02) was associated with a lower risk of all-cause mortality compared to a higher ratio (average 1.83). Jirahiman's average ratio was 2.0.
+    -   Limitations: Observational study, potential confounders not fully addressed.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #observational #ast #alt #ratio #liverfunction #mortality
+-   Study Type: Observational
+    -   Methodology:  Analysis of all-cause mortality risk in relation to quartiles of GGT levels.
+    -   Key Findings:  Lower GGT levels were associated with the lowest risk, and risk increased with increasing GGT. Jirahiman's average of 41 placed him between the third and fourth quartiles.
+    -   Limitations: Observational study, potential confounders not fully addressed.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #observational #ggt #liverfunction #mortality
+-   Study Type: Observational
+    -   Methodology: Investigation of cholinesterase levels across different age groups and their association with all-cause mortality risk.
+    -   Key Findings: Cholinesterase declines with age. Higher cholinesterase levels were associated with reduced all-cause mortality risk. Jirahiman's levels were consistent with his age but associated with increased risk.
+    -   Limitations: Observational study.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #observational #cholinesterase #aging #mortality #liverfunction
+-   Study Type: Observational
+    -   Methodology: Analysis of all-cause mortality risk based on hemoglobin levels in men.
+    -   Key Findings: Compared to the reference range of 14-14.9 g/dL, Jirahiman's average of 12.1 g/dL indicated a significantly increased risk.
+    -   Limitations: Observational study.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #observational #hemoglobin #mortality #men
+-   Study Type: Observational
+    -   Methodology:  Analysis of all-cause mortality risk in relation to hematocrit percentage.
+    -   Key Findings: The lowest risk was associated with 43.5% hematocrit. Jirahiman's average of 37.7% was suboptimal.
+    -   Limitations: Observational study.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #observational #hematocrit #mortality
+-   Study Type: Observational
+    -   Methodology: Investigation of platelet count decline with age and its association with all-cause mortality risk.
+    -   Key Findings: Platelets decline with age. Compared to the reference range (200-300k/µL), Jirahiman's average of 173.7k/µL was associated with increased risk.
+    -   Limitations: Observational study.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #observational #platelets #aging #mortality
+-   Study Type: Observational
+    -   Methodology: Analysis of all-cause mortality risk in relation to total cholesterol levels in individuals aged 75-99.
+    -   Key Findings:  Compared to the lowest risk range (200-229 mg/dL), Jirahiman's average of 153 mg/dL was associated with a significantly increased risk.
+    -   Limitations: Observational study, specific age group.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #observational #totalcholesterol #mortality #elderly
+-   Study Type: Observational (Self-Experimentation)
+    -   Methodology: Continuous tracking of diet (since 2015), fitness metrics (since ~2018), sleep, and blood biomarkers (since 2008). Calculation of correlations between dietary/lifestyle factors and biomarkers. Iterative adjustments to diet and lifestyle based on correlation analysis, aiming for a net positive effect on all biomarkers.
+    -   Key Findings: Identification of a personalized dietary composition associated with optimal biomarker profile. Observation of the malleability of lipoprotein(a). Correlation between body fat percentage and Dunedin Pace of Aging.
+    -   Limitations: Single-subject study; findings may not be generalizable. Difficulty in isolating the effects of individual variables.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #selfexperimentation #observational #biomarkers #correlation #iterative #data-driven #personalized #N-of-1
+-   Study Type: Observational
+    -   Methodology: Analysis of all-cause mortality risk based on albumin and HDL levels in individuals with total cholesterol <160 mg/dL.
+    -   Key Findings: In this group, low albumin was associated with the highest risk, regardless of HDL levels. High albumin with low HDL conferred intermediate risk, while high albumin with high HDL had the lowest risk.
+    -   Limitations: Small sample size (393 subjects).
+    -   Confidence: 2 ⭐⭐ | Tags: #observational #totalcholesterol #albumin #hdl #mortality #lowcholesterol
+-   Study Type: Case Study
+    -   Methodology: The individual measured his own NAD+ levels after manipulating his diet, specifically his intake of clover sprouts. He compared his NAD+ levels after consuming 12.1g/day of clover sprouts for 9 days to his levels after consuming 27.1g/day for 11 days. Nicotinic acid was removed from the diet before testing.
+    -   Key Findings: Doubling the intake of clover sprouts resulted in a decrease in NAD+ levels.
+    -   Limitations: Single-subject study, potential for confounding factors, limited control over variables.
+    -   Confidence: 2 ⭐⭐ | Tags: #research\_methods #case\_study #NAD+ #self\_experimentation
 
 ## Health Markers
 
-*   **Marker:** Lipoprotein(a)
-    - **Change:** 50% reduction from peak levels.
-    - **Context:** Dietary intervention guided by correlation analysis.
-    - **Timeframe:** Over several years, since starting detailed dietary tracking in 2015.
-    - **Confidence:** 3⭐⭐⭐ | Tags: #lipoproteina #cardiovascular #diet #biomarkers
-*   **Marker:** DunedinPACE (epigenetic clock)
-    - **Change:** Reduction over time, potentially linked to body weight/fat loss.
-    - **Context:** Observation of a trend of decreasing DunedinPACE scores alongside intentional body weight and body fat reduction.
-    - **Timeframe:** Over multiple tests, timeframe not specified in transcript.
-    - **Confidence:** 2⭐⭐ | Tags: #epigenetics #dunedinpace #aging #bodyfat #weightloss
-*   **Marker:** DHEA sulfate
-    - **Change:** Decline over time, currently at levels lower than youthful levels.
-    - **Context:** Tracked since last summer (as of transcript date), 20+ tests showing consistently low levels compared to personal baseline and youthful ranges.
-    - **Timeframe:** Over 20+ tests since last summer (as of transcript date).
-    - **Confidence:** 3⭐⭐⭐ | Tags: #dhea #hormones #aging #adrenal
-*   **Marker:** Deep Sleep
-    -   **Change:** Increased from 5% (measured by polysomnography 10-12 years ago) to 20-25% (measured by Whoop).
-    -   **Context:** Implementation of sleep hygiene practices, including consistent sleep schedule, blackout curtains, earplugs, and early eating window.
-    -   **Timeframe:** Over 10-12 years
-    -   **Confidence:** 3⭐⭐⭐ | Tags: #sleep #deepsleep #sleepoptimization #whoop
-*   **Marker:** Heart Rate Variability
-    -   **Change:** Improved to 81 ms, comparable to elite endurance athletes.
-    -   **Context:** Titration of exercise intensity, frequency, and timing based on heart rate variability and resting heart rate data from Whoop.
-    -   **Timeframe:** Over several years of tracking fitness metrics.
-    -   **Confidence:** 3⭐⭐⭐ | Tags: #fitness #hrv #heartratevariability #whoop #exercise
-    *   **Marker:** Horvath DNAmAge
-        *   **Change:** Currently at chronological age, but has fluctuated between tests. Highest recorded value was 56, indicating a potential reduction of 6 years over 3-4 tests.
-        *   **Context:** Self-experimentation with diet, exercise, and lifestyle interventions.
-        *   **Timeframe:** Over multiple tests, timeframe not specified in the transcript.
-        *   **Confidence:** 2⭐⭐ | Tags: #epigenetics #horvath #DNAmAge #aging
-*   **Marker:** Uric Acid
-*   **Change:** Average 263.5 µmol/L (4.43 mg/dL) over three measurements.
-*   **Context:** Close to the level associated with the lowest all-cause mortality risk (303 µmol/L or 5.09 mg/dL).
-*   **Timeframe:** Three measurements over 4 years.
-*   **Confidence:** 4⭐⭐⭐⭐ (Large observational studies) | Tags: #uricacid #allcausemortality #kidneyfunction
-*   **Marker:** Hemoglobin
-*   **Change:** Average 12.1 g/dL over three measurements.
-*   **Context:** Associated with significantly increased all-cause mortality risk in men.
-*   **Timeframe:** Three measurements over 4 years.
-*   **Confidence:** 4⭐⭐⭐⭐ (Large observational studies in men) | Tags: #hemoglobin #allcausemortality #redbloodcells
-*   **Marker:** Hematocrit
-*   **Change:** Average 37.7% over three measurements.
-*   **Context:** Suboptimal, associated with increased all-cause mortality risk, though not as severe as levels around 30%.
-*   **Timeframe:** Three measurements over 4 years.
-*   **Confidence:** 4⭐⭐⭐⭐ (Large observational studies) | Tags: #hematocrit #allcausemortality #redbloodcells
-*   **Marker:** Intracellular NAD+
-    *   **Change:** Decreased from 29.6 µM to 19 µM after increasing clover sprout intake from 12.1g/day to 27.1g/day.
-    *   **Context:** This was the primary outcome measure of the self-experiment.
-    *   **Timeframe:** 11 days for the higher dose, 9 days for the lower dose.
-    *   **Confidence:** 2⭐⭐ | Tags: #health marker #NAD+ #intracellular #blood test #change
-*   **Marker:** Baseline NAD+ levels
-    *   **Change:** Ranged from 18.5 µM to 26.6 µM across 7 tests without NAD+ precursors.
-    *   **Context:** This provides context for interpreting the changes observed during the clover sprout experiment.
-    *   **Timeframe:** Not specified, but presumably over a longer period.
-    *   **Confidence:** 2⭐⭐ | Tags: #health marker #NAD+ #baseline #range
-*   **Marker:** Total Protein
-*   **Change:** Average 7.07 g/dL over three measurements.
-*   **Context:** Appears to reflect a younger age (~60 years old) based on population averages, but this is misleading due to low albumin.
-*   **Timeframe:** Three measurements over 4 years.
-*   **Confidence:** 3⭐⭐⭐ (Observational data) | Tags: #totalprotein #albumin #globulin #gammagap
-*   **Marker:** Globulin (Gamma Gap)
-*   **Change:** Average 3.73 g/dL (calculated from total protein minus albumin).
-*   **Context:** Associated with increased all-cause mortality risk in older adults. Jirahiman's level fell within the high-risk group in a study of 94-year-olds.
-*   **Timeframe:** Three measurements over 4 years.
-*   **Confidence:** 3⭐⭐⭐ (Observational data) | Tags: #globulin #gammagap #allcausemortality
-*   **Marker:** GOT (AST)
-*   **Change:** Average 29 U/L over three measurements.
-*   **Context:** Associated with increased all-cause mortality risk (Quartile 4 in the referenced study).
-*   **Timeframe:** Three measurements over 4 years.
-*   **Confidence:** 3⭐⭐⭐ (Observational data) | Tags: #GOT #AST #liverfunction #allcausemortality
-*   **Marker:** Cholinesterase
-*   **Change:** Average 199 IU/L over three measurements.
-*   **Context:**  Indicates aged and not youthful levels, associated with increased all-cause mortality risk.
-*   **Timeframe:** Three measurements over 4 years.
-*   **Confidence:** 3⭐⭐⭐ (Observational data) | Tags: #cholinesterase #liverfunction #allcausemortality #aging
-*   **Marker:** Resting Heart Rate
-    -   **Change:** Improved to 41 bpm, comparable to elite endurance athletes.
-    -   **Context:** Titration of exercise intensity, frequency, and timing based on heart rate variability and resting heart rate data from Whoop.
-    -   **Timeframe:** Over several years of tracking fitness metrics.
-    -   **Confidence:** 3⭐⭐⭐ | Tags: #fitness #rhr #heartratevariability #whoop #exercise
-*   **Marker:** Total Cholesterol, Albumin, and HDL
-*   **Change:** Total cholesterol average 153 mg/dL, albumin average 3.3 g/dL (low), HDL high (from Part 1).
-*   **Context:** Low total cholesterol combined with low albumin, even with high HDL, is associated with the highest risk for all-cause mortality, suggesting it is not indicative of youth but rather increased risk.
-*   **Timeframe:** Three measurements over 4 years.
-*   **Confidence:** 2⭐⭐ (Limited data on this specific combination) | Tags: #totalcholesterol #albumin #HDL #allcausemortality #riskstratification
+-   Marker: Uric Acid
+    -   Change: Average 263.5 µmol/L (4.43 mg/dL) over three measurements.
+    -   Context: Near optimal levels associated with the lowest all-cause mortality risk (5.09 mg/dL).
+    -   Timeframe: Measured at 111.5, 113.3, and 115.7 years old.
+    -   Confidence: 4 ⭐⭐⭐⭐ | Tags: #uricacid #mortality #kidneyfunction
+-   Marker: Lipoprotein(a)
+    -   Change: 50% reduction from peak levels.
+    -   Context: Achieved through dietary modifications based on correlation analysis.
+    -   Timeframe: Observed over multiple years of tracking and adjustments.
+    -   Confidence: 4 ⭐⭐⭐⭐ | Tags: #lipoproteina #biomarker #diet #reduction #cardiovascular
+-   Marker: Resting Heart Rate (RHR)
+    -   Change: Improved to 41 bpm.
+    -   Context: Optimized through adjustments in training based on fitness metrics.
+    -   Timeframe: Ongoing improvement.
+    -   Confidence: 4 ⭐⭐⭐⭐ | Tags: #RHR #heartrate #fitness #cardiovascular
+-   Marker: Total Protein
+    -   Change: Average 7.07 g/dL over three measurements.
+    -   Context: Superficially appears 50 years younger but driven by high globulin and low albumin, indicating increased risk.
+    -   Timeframe: Measured at 111.5, 113.3, and 115.7 years old.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #totalprotein #albumin #globulin #gammagap #aging
+-   Marker: Globulin (Gamma Gap)
+    -   Change: Average 3.73 g/dL over three measurements (calculated).
+    -   Context: Higher than 3.2 g/dL, associated with significantly shorter survival in individuals with an average age of 94.
+    -   Timeframe: Calculated from data measured at 111.5, 113.3, and 115.7 years old.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #globulin #gammagap #mortality #aging
+-   Marker: GOT (AST)
+    -   Change: Average 29 U/L over three measurements.
+    -   Context:  Placed in the highest quartile for all-cause mortality risk.
+    -   Timeframe: Measured at 111.5, 113.3, and 115.7 years old.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #got #ast #liverfunction #mortality
+-   Marker: GPT (ALT)
+    -   Change: Average 14.7 U/L over three measurements.
+    -   Context: Within the reference range but higher ranges (18-22 U/L) were associated with reduced mortality risk.
+    -   Timeframe: Measured at 111.5, 113.3, and 115.7 years old.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #gpt #alt #liverfunction #mortality
+-   Marker: AST/ALT Ratio
+    -   Change: Average 2.0 over three measurements.
+    -   Context: Similar to the high-risk group (average 1.83) in a study, associated with increased all-cause mortality.
+    -   Timeframe: Calculated from data measured at 111.5, 113.3, and 115.7 years old.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #ast #alt #ratio #liverfunction #mortality
+-   Marker: GGT
+    -   Change: Average 41 U/L over three measurements.
+    -   Context:  Between the third and fourth quartiles, both associated with increased all-cause mortality risk.
+    -   Timeframe: Measured at 111.5, 113.3, and 115.7 years old.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #ggt #liverfunction #mortality
+-   Marker: Cholinesterase
+    -   Change: Average 199 IU/L over three measurements.
+    -   Context: Consistent with his chronological age but associated with increased all-cause mortality risk due to low levels.
+    -   Timeframe: Measured at 111.5, 113.3, and 115.7 years old.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #cholinesterase #liverfunction #aging #mortality
+-   Marker: Hemoglobin
+    -   Change: Average 12.1 g/dL over three measurements.
+    -   Context: Significantly increased all-cause mortality risk compared to the reference range (14-14.9 g/dL).
+    -   Timeframe: Measured at 111.5, 113.3, and 115.7 years old.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #hemoglobin #mortality
+-   Marker: Hematocrit
+    -   Change: Average 37.7% over three measurements.
+    -   Context: Suboptimal compared to the lowest risk level (43.5%).
+    -   Timeframe: Measured at 111.5, 113.3, and 115.7 years old.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #hematocrit #mortality
+-   Marker: Platelets
+    -   Change: Average 173.7k/µL over three measurements.
+    -   Context: Aged and associated with increased all-cause mortality risk compared to the reference range (200-300k/µL).
+    -   Timeframe: Measured at 111.5, 113.3, and 115.7 years old.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #platelets #aging #mortality
+-   Marker: Total Cholesterol
+    -   Change: Average 153 mg/dL over three measurements.
+    -   Context:  Associated with significantly increased all-cause mortality risk in the 75-99 age group compared to higher levels (200-229 mg/dL). Combined with low albumin, it indicates higher risk rather than youthfulness.
+    -   Timeframe: Measured at 111.5, 113.3, and 115.7 years old.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #totalcholesterol #mortality #elderly #albumin
+-   Marker: Dunedin Pace of Aging (PoAm)
+    -   Change: Sequential reduction over multiple tests.
+    -   Context: Potentially correlated with a decrease in body fat percentage.
+    -   Timeframe: Observed over recent tests.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #dunedinPoAm #epigenetics #aging #bodyfat #paceofaging
+-   Marker: Horvath DNAge
+    -   Change: Current age close to chronological age, but has been as high as 56.
+    -   Context: Tracked alongside other epigenetic clocks.
+    -   Timeframe: Measured over several tests.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #Horvath #DNAge #epigenetics #aging
+-   Marker: DHEA-sulfate
+    -   Change: Currently low compared to youthful levels observed 15 years ago.
+    -   Context: Recognized as a marker of aging; a target for optimization.
+    -   Timeframe: Decline observed over a long period.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #DHEAsulfate #hormone #aging #adrenal
+-   Marker: Deep Sleep
+    -   Change: Increased from 5% to 20-25% of total sleep time.
+    -   Context: Improved through sleep hygiene practices and potentially eTRF.
+    -   Timeframe: Improvement observed since implementing sleep optimization strategies.
+    -   Confidence: 3 ⭐⭐⭐ | Tags: #deepsleep #sleep #sleepquality
+-   Marker: NAD+ (intracellular)
+    -   Change: Decreased from 29.6 µM to 19 µM after doubling clover sprout intake from 12.1g/day to 27.1g/day.
+    -   Context: The individual was testing the impact of trigonelline-rich foods on NAD+ levels.
+    -   Timeframe: 11 days of increased clover sprout intake. Baseline NAD+ ranged between 18.5-26.6 µM across 7 tests without supplementation. The initial increase to 29.6 µM was observed after 9 days of 12.1g/day clover sprout intake.
+    -   Confidence: 2 ⭐⭐ | Tags: #health\_markers #NAD+ #intracellular #trigonelline #clover\_sprouts
 
 ## Sources
 
