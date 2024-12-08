@@ -4,6 +4,7 @@ import google.generativeai as genai
 from pathlib import Path
 import yaml
 import logging
+import time
 
 class GeminiClient:
     def __init__(self):
@@ -46,8 +47,10 @@ class GeminiClient:
         raise Exception("All models failed to provide a valid response")
         
     def _try_model(self, model_name: str, prompt: str, max_retries: int) -> Optional[str]:
-        """Try to get completion from a specific model with retries."""
+        """Try to get completion from a specific model with exponential backoff retries."""
         self.logger.info(f"Trying model: {model_name}")
+        
+        base_delay = 1  # Start with 1 second delay
         
         for attempt in range(max_retries):
             try:
@@ -57,7 +60,12 @@ class GeminiClient:
                     self.logger.info(f"Success with {model_name}")
                     return response.text.strip()
             except Exception as e:
+                delay = base_delay * (2 ** attempt)  # Exponential backoff: 1s, 2s, 4s
                 self.logger.warning(f"Attempt {attempt + 1} failed for {model_name}: {str(e)}")
+                self.logger.info(f"Waiting {delay} seconds before retry...")
+                
+                time.sleep(delay)
+                
                 if attempt == max_retries - 1:
                     self.logger.error(f"All attempts failed for {model_name}")
                     return None
