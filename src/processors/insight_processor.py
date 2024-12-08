@@ -6,6 +6,9 @@ from sentence_transformers import SentenceTransformer
 import numpy as np
 from sklearn.cluster import DBSCAN
 from datetime import datetime
+import json
+import logging
+from ..models.gemini_client import GeminiClient
 
 @dataclass
 class Insight:
@@ -116,21 +119,86 @@ class SimilarityDetector:
         return list(clusters.values())
 
 class InsightMerger:
+    def __init__(self, gemini_client: GeminiClient):
+        self.gemini_client = gemini_client
+        self.merge_prompt = """
+Given these similar insights, merge them into a single comprehensive insight that preserves ALL information while avoiding redundancy.
+Combine semantically identical information but ensure no unique details are lost.
+
+Input Insights:
+{insights_json}
+
+Output a single merged insight in this exact JSON format:
+{{
+    "type": "string",
+    "content": "string",
+    "metadata": {{
+        "Context": "string",
+        "Effects": "string",
+        "Limitations": "string",
+        "Confidence": "string",
+        "Tags": "string"
+        // preserve any other metadata fields
+    }},
+    "confidence": number,
+    "sources": ["string"],
+    "section": "string",
+    "tags": ["string"]
+}}
+"""
+
     def merge_cluster(self, similar_insights: List[Insight]) -> Insight:
         if len(similar_insights) == 1:
             return similar_insights[0]
-            
-        # Take the insight with highest confidence as base
-        base_insight = max(similar_insights, key=lambda x: x.confidence)
+
+        # Convert insights to JSON-friendly format for the prompt
+        insights_json = []
+        for insight in similar_insights:
+            insights_json.append({
+                "type": insight.type,
+                "content": insight.content,
+                "metadata": insight.metadata,
+                "confidence": insight.confidence,
+                "sources": insight.sources,
+                "section": insight.section,
+                "tags": insight.tags
+            })
         
-        # Combine all sources and tags
+        # Generate prompt with insights
+        prompt = self.merge_prompt.format(
+            insights_json=json.dumps(insights_json, indent=2)
+        )
+
+        try:
+            # Get merged insight from LLM
+            merged_json_str, _ = self.gemini_client.get_completion(prompt)
+            merged_data = json.loads(merged_json_str.replace("```json", "").replace("```", ""))
+            print(merged_data)
+
+            # Convert back to Insight object
+            return Insight(
+                type=merged_data["type"],
+                content=merged_data["content"],
+                metadata=merged_data["metadata"],
+                confidence=merged_data["confidence"],
+                sources=merged_data["sources"],
+                section=merged_data["section"],
+                tags=merged_data["tags"]
+            )
+        except Exception as e:
+            logging.error(f"LLM merging failed: {str(e)}")
+            # Fallback to original merging logic if LLM fails
+            return self._fallback_merge(similar_insights)
+
+    def _fallback_merge(self, similar_insights: List[Insight]) -> Insight:
+        # Original merging logic as fallback
+        base_insight = max(similar_insights, key=lambda x: x.confidence)
         all_sources = set()
         all_tags = set()
         for insight in similar_insights:
             all_sources.update(insight.sources)
             all_tags.update(insight.tags)
             
-        # Merge metadata
         merged_metadata = {}
         for key in base_insight.metadata.keys():
             values = []
@@ -150,10 +218,10 @@ class InsightMerger:
         )
 
 class ReportProcessor:
-    def __init__(self):
+    def __init__(self, gemini_client: GeminiClient):
         self.parser = InsightParser()
         self.detector = SimilarityDetector()
-        self.merger = InsightMerger()
+        self.merger = InsightMerger(gemini_client)
         
     def process_report(self, input_path: str, output_path: str):
         # Parse insights

@@ -1,8 +1,12 @@
+from src.models.gemini_client import GeminiClient
 from src.processors.insight_processor import ReportProcessor
 
 def main():
-    # Initialize the report processor
-    processor = ReportProcessor()
+    # Initialize GeminiClient first
+    gemini_client = GeminiClient()
+    
+    # Pass gemini_client to ReportProcessor
+    processor = ReportProcessor(gemini_client)
     
     # Process the report
     input_path = "output/insights_report.md"

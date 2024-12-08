@@ -50,9 +50,31 @@ class GeminiClient:
         """Try to get completion from a specific model with exponential backoff retries."""
         self.logger.info(f"Trying model: {model_name}")
         
-        base_delay = 1  # Start with 1 second delay
+        # Try with primary and fallback API keys
+        api_keys = [
+            os.getenv("GOOGLE_API_KEY"),
+            os.getenv("GOOGLE_API_KEY_2"),
+            os.getenv("GOOGLE_API_KEY_3")
+        ]
         
-        for attempt in range(max_retries):
+        for api_key in api_keys:
+            if not api_key:
+                continue
+                
+            response = self._try_with_api_key(model_name, prompt, api_key)
+            if response:
+                return response
+                
+        return None
+        
+    def _try_with_api_key(self, model_name: str, prompt: str, api_key: str) -> Optional[str]:
+        """Attempt to get completion with a specific API key."""
+        base_delay = 2  # Increased from 1 to 2 seconds
+        max_attempts = 3  # Fixed number of attempts per API key
+        
+        genai.configure(api_key=api_key)
+        
+        for attempt in range(max_attempts):
             try:
                 model = genai.GenerativeModel(model_name)
                 response = model.generate_content(prompt)
@@ -60,14 +82,13 @@ class GeminiClient:
                     self.logger.info(f"Success with {model_name}")
                     return response.text.strip()
             except Exception as e:
-                delay = base_delay * (2 ** attempt)  # Exponential backoff: 1s, 2s, 4s
+                delay = base_delay * (2 ** attempt)  # Exponential backoff: 2s, 4s, 8s
                 self.logger.warning(f"Attempt {attempt + 1} failed for {model_name}: {str(e)}")
                 self.logger.info(f"Waiting {delay} seconds before retry...")
                 
                 time.sleep(delay)
                 
-                if attempt == max_retries - 1:
-                    self.logger.error(f"All attempts failed for {model_name}")
-                    return None
+                if attempt == max_attempts - 1:
+                    self.logger.error(f"All attempts failed for {model_name} with current API key")
                     
         return None 
