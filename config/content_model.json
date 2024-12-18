@@ -1,0 +1,81 @@
+{
+  "title": "Health and Longevity Insights Report",
+  "description": "Analysis of health and longevity content from video transcripts",
+  "formatting": {
+    "confidence_scale": {
+      "type": "stars",
+      "min": 1,
+      "max": 5,
+      "description": "⭐ to ⭐⭐⭐⭐⭐ based on study quality, sample size, and replication"
+    },
+    "metadata_fields": [
+      "Study Type",
+      "Population",
+      "Timeframe",
+      "Limitations",
+      "Tags",
+      "Confidence"
+    ]
+  },
+  "sections": {
+    "Executive Summary": {
+      "description": "Key findings and patterns across all sections",
+      "format": "paragraph"
+    },
+    "Quick Reference": {
+      "description": "Most actionable insights in bullet points",
+      "format": "bullets"
+    },
+    "Diet Insights": {
+      "description": "Specific dietary recommendations and protocols",
+      "attributes": {
+        "recommendation": {
+          "description": "Specific dietary recommendation with exact measurements",
+          "required_fields": ["measurement", "frequency", "duration"]
+        },
+        "mechanism": {
+          "description": "How the dietary intervention works",
+          "required_fields": ["pathway", "effect"]
+        },
+        "evidence": {
+          "description": "Scientific evidence supporting the recommendation",
+          "required_fields": ["study_type", "population", "outcome"]
+        }
+      }
+    },
+    "Supplements": {
+      "description": "Supplement protocols and dosages",
+      "attributes": {
+        "protocol": {
+          "description": "Supplement name, dosage, and timing",
+          "required_fields": ["name", "dosage", "timing"]
+        },
+        "effects": {
+          "description": "Observed outcomes and benefits",
+          "required_fields": ["primary_outcome", "secondary_outcomes"]
+        },
+        "interactions": {
+          "description": "Known interactions with other supplements or medications",
+          "required_fields": ["synergies", "contraindications"]
+        }
+      }
+    },
+    "Health Markers": {
+      "description": "Measurable health indicators and their changes",
+      "attributes": {
+        "marker": {
+          "description": "Name and type of health marker",
+          "required_fields": ["name", "type", "normal_range"]
+        },
+        "intervention": {
+          "description": "Methods to influence the marker",
+          "required_fields": ["method", "expected_change", "timeframe"]
+        },
+        "measurement": {
+          "description": "How to measure and track the marker",
+          "required_fields": ["method", "frequency", "interpretation"]
+        }
+      }
+    }
+  }
+}

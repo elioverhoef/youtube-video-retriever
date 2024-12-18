@@ -1,6 +1,7 @@
 from pathlib import Path
 import yaml
 import logging
+import json
 from typing import List, Dict
 from datetime import datetime
 import re
@@ -9,13 +10,19 @@ from difflib import SequenceMatcher
 
 class ReportBuilder:
     def __init__(self):
-        # Load config
+        # Load configs
         config_path = Path("config/config.yaml")
+        content_model_path = Path("config/content_model.json")
+        
         with open(config_path) as f:
             self.config = yaml.safe_load(f)
+        with open(content_model_path) as f:
+            self.content_model = json.load(f)
 
+        # Configure logging
+        logging.basicConfig(level=self.config["logging"]["level"])
         self.logger = logging.getLogger(__name__)
-        self.similarity_threshold = 0.8  # Configurable similarity threshold
+        self.similarity_threshold = 0.8
 
     def _calculate_similarity(self, text1: str, text2: str) -> float:
         """Calculate similarity between two text strings."""
@@ -125,13 +132,13 @@ class ReportBuilder:
 
         # Start with report header
         report = [
-            "# Health and Longevity Insights Report",
+            f"# {self.content_model['title']}",
             f"Generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
             "\n## Table of Contents\n",
         ]
 
         # Add table of contents
-        sections = self.config["output"]["report_sections"]
+        sections = self.content_model["sections"].keys()
         for section in sections:
             report.append(f"- [{section}](#{section.lower().replace(' ', '-')})")
 

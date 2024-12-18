@@ -5,6 +5,7 @@ from pathlib import Path
 import yaml
 import logging
 import re
+import random
 
 
 class GeminiClient:
@@ -80,19 +81,20 @@ class GeminiClient:
         """Try to get completion from a specific model."""
         self.logger.info(f"Trying model: {model_name}")
 
-        # Try with all API keys
+        # Dynamically get all GOOGLE_API_KEY* environment variables
         api_keys = [
-            os.getenv("GOOGLE_API_KEY"),
-            os.getenv("GOOGLE_API_KEY_2"),
-            os.getenv("GOOGLE_API_KEY_3"),
-            os.getenv("GOOGLE_API_KEY_4"),
-            os.getenv("GOOGLE_API_KEY_5"),
+            value for key, value in os.environ.items()
+            if key.startswith("GOOGLE_API_KEY") and value
         ]
 
-        for api_key in api_keys:
-            if not api_key:
-                continue
+        if not api_keys:
+            self.logger.warning("No valid Google API keys found in environment variables")
+            return None
 
+        # Randomize the order of API keys
+        random.shuffle(api_keys)
+
+        for api_key in api_keys:
             response = self._try_with_api_key(model_name, prompt, api_key)
             if response:
                 return response

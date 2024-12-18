@@ -16,13 +16,6 @@ processing:
   chunk_size: 30000  # For fallback models
 
 output:
-  report_sections:
-    - "Executive Summary"
-    - "Quick Reference"
-    - "Diet Insights"
-    - "Supplements"
-    - "Scientific Methods"
-    - "Health Markers"
   confidence_display:
     1: "⭐"
     2: "⭐⭐"

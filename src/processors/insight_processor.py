@@ -4,6 +4,8 @@ import re
 from sentence_transformers import SentenceTransformer
 from sklearn.cluster import DBSCAN
 import json
+from pathlib import Path
+import json
 import logging
 from ..models.gemini_client import GeminiClient
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -23,8 +25,20 @@ class Insight:
 
 class InsightParser:
     def __init__(self):
-        # Capture both type and content
-        self.insight_pattern = r"(?:^|\n)\s*-\s*\*\*(Finding|Protocol|Marker|Study|Study Type)\*\*:\s*(.*?)(?=\n\s*-\s*\*\*(?:Finding|Protocol|Marker|Study|Study Type)\*\*:|\Z)"
+        # Load content model
+        content_model_path = Path("config/content_model.json")
+        with open(content_model_path) as f:
+            self.content_model = json.load(f)
+
+        # Build dynamic pattern from content model
+        attribute_types = []
+        for section in self.content_model['sections'].values():
+            if 'attributes' in section:
+                attribute_types.extend(section['attributes'].keys())
+        
+        # Create regex pattern from attribute types
+        types_pattern = '|'.join(attribute_types)
+        self.insight_pattern = f'(?:^|\\n)\\s*-\\s*\\*\\*({types_pattern})\\*\\*:\\s*(.*?)(?=\\n\\s*-\\s*\\*\\*(?:{types_pattern})\\*\\*:|\\Z)'
 
     def parse_report(self, report_path: str) -> List[Insight]:
         with open(report_path, "r", encoding="utf-8") as f:
