@@ -25,7 +25,7 @@ class TranscriptProcessor:
 
         # Generate dynamic system prompt
         self.system_prompt = self._generate_system_prompt()
-        
+
         # Initialize user prompt
         self.user_prompt = f"""Analyze this transcript and extract insights for {self.content_model['title']}.
 Focus on practical, actionable information that matches the requested attributes.
@@ -39,36 +39,46 @@ Transcript:
         prompt = [
             f"You are an expert analyst extracting insights for a {model['title']}.",
             f"{model['description']}\n",
-            "Focus on extracting the following attributes for each section:\n"
+            "Focus on extracting the following attributes for each section:\n",
         ]
 
         # Add formatting instructions
-        format_fields = model['formatting']['metadata_fields']
+        format_fields = model["formatting"]["metadata_fields"]
         prompt.append("For each insight, include:")
         for field in format_fields:
             prompt.append(f"- {field}")
         prompt.append("")
 
         # Add confidence scale explanation
-        conf = model['formatting']['confidence_scale']
-        prompt.append(f"Confidence: [{conf['min']} to {conf['max']} {conf['type']}] ({conf['description']})\n")
+        conf = model["formatting"]["confidence_scale"]
+        prompt.append(
+            f"Confidence: [{conf['min']} to {conf['max']} {conf['type']}] ({conf['description']})\n"
+        )
 
         # Add section-specific instructions
-        prompt.append("Format your response with consistent indentation in clear markdown sections:\n")
-        
-        for section_name, section in model['sections'].items():
+        prompt.append(
+            "Format your response with consistent indentation in clear markdown sections:\n"
+        )
+
+        for section_name, section in model["sections"].items():
             prompt.append(f"## {section_name}")
             prompt.append(f"{section['description']}")
-            
-            if 'attributes' in section:
-                for attr_name, attr in section['attributes'].items():
-                    prompt.append(f"- **{attr_name}**: [{', '.join(attr['required_fields'])}]")
+
+            if "attributes" in section:
+                for attr_name, attr in section["attributes"].items():
+                    prompt.append(
+                        f"- **{attr_name}**: [{', '.join(attr['required_fields'])}]"
+                    )
                     prompt.append(f"    {attr['description']}")
             prompt.append("")
 
         # Add general formatting instructions
-        prompt.append("Be precise and quantitative. Include all relevant measurements and details.")
-        prompt.append("Focus on extracting actionable information that matches the requested attributes.")
+        prompt.append(
+            "Be precise and quantitative. Include all relevant measurements and details."
+        )
+        prompt.append(
+            "Focus on extracting actionable information that matches the requested attributes."
+        )
 
         return "\n".join(prompt)
 

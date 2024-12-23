@@ -13,7 +13,7 @@ class ReportBuilder:
         # Load configs
         config_path = Path("config/config.yaml")
         content_model_path = Path("config/content_model.json")
-        
+
         with open(config_path) as f:
             self.config = yaml.safe_load(f)
         with open(content_model_path) as f:

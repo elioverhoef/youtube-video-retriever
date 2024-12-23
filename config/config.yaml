@@ -13,7 +13,7 @@ models:
 
 processing:
   num_threads: 2
-  chunk_size: 30000  # For fallback models
+  chunk_size: 30000 # For fallback models
 
 output:
   confidence_display:
@@ -22,6 +22,6 @@ output:
     3: "⭐⭐⭐"
     4: "⭐⭐⭐⭐"
     5: "⭐⭐⭐⭐⭐"
-    
+
 logging:
-  level: "INFO" 
+  level: "INFO"

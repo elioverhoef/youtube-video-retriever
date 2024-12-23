@@ -13,11 +13,13 @@ A powerful system for extracting health, diet, and longevity insights from trans
 ## Setup
 
 1. Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
 
 2. Create a `.env` file with your API keys:
+
 ```
 GOOGLE_API_KEY=your_google_api_key_here
 ```
@@ -27,11 +29,13 @@ GOOGLE_API_KEY=your_google_api_key_here
 ## Usage
 
 Run the analysis:
+
 ```bash
 python main.py
 ```
 
 The system will:
+
 1. Process all transcripts in parallel
 2. Extract relevant health and longevity insights
 3. Generate a comprehensive markdown report in `output/insights_report.md`
@@ -39,6 +43,7 @@ The system will:
 ## Configuration
 
 Edit `config/config.yaml` to customize:
+
 - Model settings and fallback behavior
 - Number of parallel processing threads
 - Report sections and format
@@ -47,9 +52,10 @@ Edit `config/config.yaml` to customize:
 ## Output
 
 The generated report includes sections for:
+
 - Diet Insights
 - Supplements
 - Scientific Methods
 - Health Markers
 
-Each insight is linked to its source transcript and includes the model used for processing. 
+Each insight is linked to its source transcript and includes the model used for processing.

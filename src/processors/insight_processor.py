@@ -5,7 +5,6 @@ from sentence_transformers import SentenceTransformer
 from sklearn.cluster import DBSCAN
 import json
 from pathlib import Path
-import json
 import logging
 from ..models.gemini_client import GeminiClient
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -32,13 +31,13 @@ class InsightParser:
 
         # Build dynamic pattern from content model
         attribute_types = []
-        for section in self.content_model['sections'].values():
-            if 'attributes' in section:
-                attribute_types.extend(section['attributes'].keys())
-        
+        for section in self.content_model["sections"].values():
+            if "attributes" in section:
+                attribute_types.extend(section["attributes"].keys())
+
         # Create regex pattern from attribute types
-        types_pattern = '|'.join(attribute_types)
-        self.insight_pattern = f'(?:^|\\n)\\s*-\\s*\\*\\*({types_pattern})\\*\\*:\\s*(.*?)(?=\\n\\s*-\\s*\\*\\*(?:{types_pattern})\\*\\*:|\\Z)'
+        types_pattern = "|".join(attribute_types)
+        self.insight_pattern = f"(?:^|\\n)\\s*-\\s*\\*\\*({types_pattern})\\*\\*:\\s*(.*?)(?=\\n\\s*-\\s*\\*\\*(?:{types_pattern})\\*\\*:|\\Z)"
 
     def parse_report(self, report_path: str) -> List[Insight]:
         with open(report_path, "r", encoding="utf-8") as f:
@@ -134,7 +133,9 @@ class SimilarityDetector:
                     clusters[label] = []
                 clusters[label].append(insight)
         # Print number of clusters found
-        print(f"Found {len(clusters)} clusters containing {sum(len(cluster) for cluster in clusters.values())} insights")
+        print(
+            f"Found {len(clusters)} clusters containing {sum(len(cluster) for cluster in clusters.values())} insights"
+        )
         return list(clusters.values())
 
 
@@ -279,7 +280,9 @@ class ReportProcessor:
             processed_insights.extend(non_clustered)
 
             # Collect results from futures with progress bar
-            for future in tqdm(as_completed(futures), total=len(futures), desc="Merging insights"):
+            for future in tqdm(
+                as_completed(futures), total=len(futures), desc="Merging insights"
+            ):
                 try:
                     merged_insight = future.result()
                     processed_insights.append(merged_insight)

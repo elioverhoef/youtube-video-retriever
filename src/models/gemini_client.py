@@ -83,12 +83,15 @@ class GeminiClient:
 
         # Dynamically get all GOOGLE_API_KEY* environment variables
         api_keys = [
-            value for key, value in os.environ.items()
+            value
+            for key, value in os.environ.items()
             if key.startswith("GOOGLE_API_KEY") and value
         ]
 
         if not api_keys:
-            self.logger.warning("No valid Google API keys found in environment variables")
+            self.logger.warning(
+                "No valid Google API keys found in environment variables"
+            )
             return None
 
         # Randomize the order of API keys
